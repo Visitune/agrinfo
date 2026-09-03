@@ -1,11 +1,12 @@
 import os
 import json
 import re
-import sys
 import hashlib
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+
+import database
 
 URL = os.environ.get("AGRINFO_URL", "https://agrinfo.eu")
 DATA_DIR = os.environ.get("AGRINFO_DATA_DIR", "data/articles")
@@ -147,21 +148,21 @@ def extract_publications_from_html(html, base_url):
 
 
 def save_article(article):
-    file_path = os.path.join(DATA_DIR, f"{article['id']}.json")
-    if not os.path.exists(file_path):
-        with open(file_path, "w", encoding="utf-8") as f:
+    json_path = os.path.join(DATA_DIR, f"{article['id']}.json")
+    if not os.path.exists(json_path):
+        with open(json_path, "w", encoding="utf-8") as f:
             json.dump(article, f, ensure_ascii=False, indent=2)
-        return True
-    return False
+
+    database.upsert_article(article)
 
 
 def save_publication(pub):
-    file_path = os.path.join(DATA_DIR, f"{pub['id']}.json")
-    if not os.path.exists(file_path):
-        with open(file_path, "w", encoding="utf-8") as f:
+    json_path = os.path.join(DATA_DIR, f"{pub['id']}.json")
+    if not os.path.exists(json_path):
+        with open(json_path, "w", encoding="utf-8") as f:
             json.dump(pub, f, ensure_ascii=False, indent=2)
-        return True
-    return False
+
+    database.upsert_publication(pub)
 
 
 def get_index(base_url, page=1):
@@ -171,10 +172,12 @@ def get_index(base_url, page=1):
 
 
 def main():
+    database.init_db()
     base_url = URL
     articles = []
     publications = []
-    new_count = 0
+    new_json = 0
+    new_db = 0
 
     for page in range(1, MAX_PAGES + 1):
         url = get_index(base_url, page)
@@ -203,21 +206,29 @@ def main():
 
     all_items = articles + publications
     for item in all_items:
-        if save_article(item) if "regulation" in item or "tags" in item else save_publication(item):
-            new_count += 1
-            print(f"  🆕 New: {item['title'][:60]}")
+        if item.get("tags") or item.get("regulation"):
+            save_article(item)
+            new_json += 1
+            print(f"  🆕 Article: {item['title'][:60]}")
+        else:
+            save_publication(item)
+            new_json += 1
+            print(f"  🆕 Publication: {item['title'][:60]}")
 
     index_path = os.path.join(DATA_DIR, "_index.json")
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump({
             "total": len(all_items),
-            "new_this_run": new_count,
             "articles": [a["id"] for a in articles],
             "publications": [p["id"] for p in publications],
             "fetched_at": datetime.now(timezone.utc).isoformat(),
         }, f, ensure_ascii=False, indent=2)
 
-    print(f"\n[+] Done. {new_count} new items saved out of {len(all_items)} total.")
+    db_stats = database.stats()
+    print(f"\n[+] Done. {len(all_items)} items processed.")
+    print(f"    SQLite: {db_stats['total_articles']} articles, {db_stats['total_publications']} publications")
+    print(f"    Tags: {db_stats['total_tags']} unique")
+    print(f"    Regulations: {db_stats['unique_regulations']} unique")
 
 
 if __name__ == "__main__":

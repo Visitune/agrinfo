@@ -10,3 +10,5 @@ build/
 *.swp
 *.swo
 *.bak
+*.db-shm
+*.db-wal
