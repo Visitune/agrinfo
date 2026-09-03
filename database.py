@@ -121,7 +121,7 @@ def upsert_publication(data):
 
 def query_articles(filters=None, limit=50, offset=0):
     conn = get_db()
-    query = "SELECT * FROM articles WHERE 1=1"
+    query = "SELECT * FROM articles a WHERE 1=1"
     params = []
     if filters:
         if filters.get("tag"):
