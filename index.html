@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AGRINFO — Latest EU AGRI-Food Policy Updates</title>
+<style>
+  :root {
+    --green-light: #d1fae5;
+    --green-dark: #065f46;
+    --blue-deep: #1e3a5f;
+    --yellow: #fbbf24;
+    --gray-50: #f9fafb;
+    --gray-100: #f3f4f6;
+    --gray-200: #e5e7eb;
+    --gray-400: #9ca3af;
+    --gray-600: #4b5563;
+    --gray-800: #1f2937;
+    --radius: 0.5rem;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: var(--gray-50); color: var(--gray-800); line-height: 1.6; }
+  header { background: white; box-shadow: 0 1px 3px rgba(0,0,0,.1); position: sticky; top: 0; z-index: 50; }
+  header nav { max-width: 80rem; margin: 0 auto; padding: 1rem; display: flex; justify-content: space-between; align-items: center; }
+  header nav a { color: var(--gray-600); text-decoration: none; font-weight: 600; font-size: .95rem; padding: .5rem 1rem; }
+  header nav a:hover { color: var(--green-dark); }
+  .hero { background: linear-gradient(135deg, var(--green-dark), var(--blue-deep)); color: white; padding: 4rem 2rem; text-align: center; }
+  .hero h1 { font-size: 2.5rem; margin-bottom: 1rem; }
+  .hero p { font-size: 1.25rem; opacity: .9; }
+  .container { max-width: 80rem; margin: 0 auto; padding: 2rem 1rem; }
+  .filters { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 2rem; }
+  .filters button { padding: .5rem 1.25rem; border: 2px solid var(--gray-200); background: white; border-radius: 999px; cursor: pointer; font-size: .9rem; font-weight: 600; transition: all .2s; }
+  .filters button:hover, .filters button.active { background: var(--green-dark); color: white; border-color: var(--green-dark); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
+  .card { background: white; border-radius: var(--radius); box-shadow: 0 1px 3px rgba(0,0,0,.1); overflow: hidden; transition: transform .2s, box-shadow .2s; }
+  .card:hover { transform: translateY(-4px); box-shadow: 0 12px 24px rgba(0,0,0,.1); }
+  .card-header { padding: 1rem 1.5rem; border-bottom: 1px solid var(--gray-100); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: .5rem; }
+  .card-body { padding: 1.5rem; }
+  .card-body h3 { font-size: 1.15rem; line-height: 1.4; margin-bottom: .75rem; }
+  .card-body h3 a { color: var(--green-dark); text-decoration: none; }
+  .card-body h3 a:hover { text-decoration: underline; }
+  .summary { color: var(--gray-600); font-size: .9rem; margin-bottom: 1rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .meta { font-size: .8rem; color: var(--gray-400); display: flex; gap: 1rem; flex-wrap: wrap; }
+  .tag { display: inline-block; background: var(--gray-100); color: var(--gray-600); font-size: .75rem; padding: .2rem .6rem; border-radius: 999px; margin-right: .3rem; margin-top: .3rem; }
+  .regulation { background: var(--green-light); color: var(--green-dark); font-size: .75rem; font-weight: 700; padding: .2rem .6rem; border-radius: 999px; }
+  .category { background: #dbeafe; color: #1e40af; font-size: .75rem; font-weight: 700; padding: .2rem .6rem; border-radius: 999px; }
+  footer { background: white; border-top: 1px solid var(--gray-200); text-align: center; padding: 2rem; color: var(--gray-400); font-size: .85rem; margin-top: 3rem; }
+  .empty-state { text-align: center; padding: 4rem 2rem; color: var(--gray-400); }
+  .stat-bar { display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem; }
+  .stat { text-align: center; }
+  .stat .num { font-size: 2rem; font-weight: 700; color: var(--green-dark); }
+  .stat .label { font-size: .85rem; color: var(--gray-400); }
+  @media (max-width: 640px) { .grid { grid-template-columns: 1fr; } .hero h1 { font-size: 1.75rem; } }
+</style>
+</head>
+<body>
+<header>
+  <nav>
+    <a href="/">AGRINFO</a>
+    <div>
+      <a href="https://agrinfo.eu/" target="_blank">Site original →</a>
+    </div>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>🇪🇺 Latest on EU AGRI-Food Policies</h1>
+  <p>Impacting low- and middle-income countries</p>
+  <div class="stat-bar">
+    <div class="stat"><div class="num" id="totalArticles">0</div><div class="label">Articles</div></div>
+    <div class="stat"><div class="num" id="totalPubs">0</div><div class="label">Publications</div></div>
+    <div class="stat"><div class="num" id="latestDate">—</div><div class="label">Most Recent</div></div>
+  </div>
+</section>
+
+<main class="container">
+  <div class="filters">
+    <button class="active" data-filter="all">All</button>
+    <button data-filter="article">Articles</button>
+    <button data-filter="publication">Publications</button>
+    <button data-filter="regulation">With Regulation</button>
+  </div>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="empty" style="display:none;">No articles found yet. Run the scraper first.</div>
+</main>
+
+<footer>
+  <p>AGRINFO is funded by the European Union and implemented by COLEAD.</p>
+  <p>Data fetched automatically from <a href="https://agrinfo.eu">agrinfo.eu</a></p>
+</footer>
+
+<script>
+const DATA_URL = 'data/articles/_index.json';
+const API_BASE = 'data/articles/';
+
+async function loadData() {
+  try {
+    const idx = await fetch(DATA_URL).then(r => r.json());
+    const ids = [...idx.articles, ...idx.publications];
+    const items = [];
+    for (const id of ids) {
+      try {
+        const res = await fetch(API_BASE + id + '.json');
+        if (res.ok) items.push(await res.json());
+      } catch(e) {}
+    }
+    render(items);
+  } catch(e) {
+    document.getElementById('empty').style.display = 'block';
+  }
+}
+
+function render(items) {
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  
+  if (!items.length) { empty.style.display = 'block'; grid.innerHTML = ''; return; }
+  empty.style.display = 'none';
+
+  const articles = items.filter(i => i.tags || i.category);
+  const pubs = items.filter(i => i.category && !i.tags);
+  
+  document.getElementById('totalArticles').textContent = articles.length;
+  document.getElementById('totalPubs').textContent = pubs.length;
+  
+  const latest = items.sort((a,b) => (b.pub_date||'').localeCompare(a.pub_date||''))[0];
+  if (latest) document.getElementById('latestDate').textContent = latest.pub_date || '—';
+
+  let activeFilter = 'all';
+  
+  function buildCards(list) {
+    grid.innerHTML = list.map(item => {
+      const isPub = item.category && !item.tags;
+      return `
+        <article class="card">
+          <div class="card-header">
+            <span class="${isPub ? 'category' : 'regulation'}">${isPub ? item.category : (item.regulation || 'Report')}</span>
+            <span class="meta"><time>${item.pub_date || '—'}</span></span>
+          </div>
+          <div class="card-body">
+            <h3><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></h3>
+            ${item.summary ? `<p class="summary">${item.summary}</p>` : (item.description ? `<p class="summary">${item.description}</p>` : '')}
+            <div class="meta">
+              ${item.tags ? item.tags.map(t => `<span class="tag">${t}</span>`).join('') : ''}
+            </div>
+          </div>
+        </article>`;
+    }).join('');
+  }
+  
+  buildCards(items);
+
+  document.querySelectorAll('.filters button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.filters button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeFilter = btn.dataset.filter;
+      let filtered = items;
+      if (activeFilter === 'article') filtered = items.filter(i => i.tags);
+      else if (activeFilter === 'publication') filtered = items.filter(i => i.category && !i.tags);
+      else if (activeFilter === 'regulation') filtered = items.filter(i => i.regulation);
+      buildCards(filtered);
+    });
+  });
+}
+
+loadData();
+</script>
+</body>
+</html>
