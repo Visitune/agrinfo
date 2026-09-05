@@ -1,0 +1,28 @@
+{
+  "id": "maximum-residue-levels-for-pinoxaden",
+  "title": "Maximum residue levels for pinoxaden",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-pinoxaden/",
+  "pub_date": "2026-06-24",
+  "revised_date": "July 31, 2026",
+  "regulation": "",
+  "summary": "EU proposes to increase MRL for pinoxaden on barley, rye, and wheat",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.250529+00:00",
+  "update": "The European Union (EU) proposes to increase the maximum residue level (MRL) for pinoxaden on barley, rye, and wheat from 0.7 to 0.8 mg/kg.",
+  "impacted_products": "Barley, rye, wheat",
+  "what_changing": "The EU proposes to increase the MRL for pinoxaden on barley, rye, and wheat from 0.7 to 0.8 mg/kg.",
+  "why": "Following an application for a change of MRL by the producer of pinoxaden, the European Food Safety Authority evaluated the requested change and concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2025 ).",
+  "timeline": "The Regulation is expected to be published in October 2026, and will apply 6 months after publication.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
+  "resources": "EFSA (2025) Modification of the existing maximum residue levels in barley, wheat and rye, and evaluation of Art.12 confirmatory for pinoxaden . EFSA Journal, 23(11): e9742.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-09-05T12:57:53.265605+00:00"
+}

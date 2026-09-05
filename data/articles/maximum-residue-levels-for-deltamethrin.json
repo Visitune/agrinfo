@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-deltamethrin",
+  "title": "Maximum residue levels for deltamethrin",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-deltamethrin/",
+  "pub_date": "2023-11-30",
+  "revised_date": "Aug. 3, 2026",
+  "regulation": "2024/1342, 2025/1164, 2026/876",
+  "summary": "EU proposes to increase MRLs for deltamethrin on kiwi fruits, melons, and watermelons",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs",
+    "Pesticides"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.222921+00:00",
+  "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for deltamethrin on kiwi fruits, melons, and watermelons. In May 2026 the MRL was increased on cherries.",
+  "impacted_products": "Kiwi fruits, melons, watermelons",
+  "what_changing": "The EU is proposing to change the MRLs for deltamethrin as listed in Table 1.",
+  "why": "The European Food Safety Authority analysed an application by the producer of deltamethrin to increase the MRLs on kiwis, melons, and watermelons, and concluded that this change poses no risks to consumers ( EFSA 2026 ).",
+  "timeline": "For kiwis, melons, and watermelons, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL for cherries applies from 12 May 2026 .",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe increased MRL for cherries in May 2026 followed an evaluation by EFSA (2025 ). In June 2025, the EU raised the MRL for deltamethrin on papayas from 0.1 to 0.2 mg/kg in line with the Codex MRL (CXL) adopted in 2024.",
+  "resources": "Commission Regulation (EU) 2025/1164 as regards maximum residue levels for cyantraniliprole, cyflumetofen, deltamethrin, mefentrifluconazole, mepiquat and oxathiapiprolin in or on certain products EFSA (2025) Modification of the existing maximum residue level for deltamethrin in cherries . EFSA Journal, 23(3): e9314. EFSA (2026) Modification of the existing maximum residue levels for deltamethrin in kiwi, melons and watermelons . EFSA Journal, 24(1): e9818.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1164&qid=1759228094951"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
+  "detail_fetched_at": "2026-09-05T12:57:51.771450+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "revision-of-plant-pest-temporary-prohibition-lists",
+  "title": "Revision of plant pest temporary prohibition lists",
+  "url": "https://agrinfo.eu/book-of-reports/revision-of-plant-pest-temporary-prohibition-lists/",
+  "pub_date": "2024-07-22",
+  "revised_date": "July 30, 2026",
+  "regulation": "2024/1957",
+  "summary": "EU adds Mexican cabbage head caterpillar and darkling beetle to list of prohibited pests, and extends listing …",
+  "tags": [
+    "Plant health",
+    "Priority pests"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.284470+00:00",
+  "update": "The European Union (EU) has added Mexican cabbage head caterpillar ( Copitarsia decolora ) and darkling beetle ( Lagria villosa ) to its list of prohibited pests, and has extended the listing of three further prohibited pests.\n\nIn total, there are now six pests on the EU list of temporarily prohibited plant pests.",
+  "impacted_products": "Alfalfa, apple, asparagus, aubergine (eggplant), banana/plantain, broccoli, cabbage, cauliflower, chickpea, citrus, coffee, common bean, cucumber, garlic, grapevine, lettuce, maize, onion, peach, peanut, pear, persimmon, pineapple, potato, rice, sorghum, soyabean, stone fruit, strawberry, sunflower, sweet cherry, tanbark, tea, tobacco, tomato, wheat",
+  "what_changing": "The EU regularly updates the list of pests that are temporarily prohibited from introduction into the EU on the basis of available scientific evidence. The list is published in the Annex of Regulation 2022/1941 .",
+  "why": "Mexican cabbage head caterpillar ( C. decolora ) and darkling beetle ( L. villosa ) have been repeatedly intercepted in consignments of plants and plant products imported into the EU from non-EU countries. They are not known to occur in the EU, and preliminary risk assessments conducted by Spain and the Netherlands ( NVWA 2025 ) concluded that they present a high phytosanitary risk and may meet the criteria for Union quarantine pests. The temporary prohibition will remain in place while complete pest risk assessments are conducted.\n\nThe removal of L. pseudorbonalis from the list in 2025 followed evaluations by the European Food Safety Authority ( EFSA 2024a , 2024b ).\n\nThe list of regulated pests is updated on an ongoing basis according to the most recent scientific evaluations.",
+  "timeline": "The revised list of prohibited pests applies from 30 July 2026 .",
+  "actions": "",
+  "background": "Regulation 2022/1941 prohibits the introduction, movement, holding, multiplication, or release of certain pests within the EU territory.\n\nWhen EU Member States notify the European Commission of the presence in consignments of new pests that are not listed as Union quarantine pests, but pose a significant risk, these pests are temporarily included in the list pending further assessment and potential addition to Annex II of Regulation 2019/2072 .",
+  "resources": "CABI (2020) Homona magnanima (oriental tea tortrix) . PlantwisePlus Knowledge Bank. EFSA (2024a) Pest risk assessment of Leucinodes orbonalis for the European Union . EFSA Journal, 22(3): e8498. EFSA (2024b) Pest risk assessment of African Leucinodes species for the European Union . EFSA Journal, 22(4): e8739. JKI (2024) Express PRA for Homona magnanima – Interception . Julius Kühn-Institut, 6 June. NVWA (2025) Quick scan for Lagria villosa (Fabricius, 1781) [download]. Netherlands Food and Consumer Product Safety Authority [Nederlandse Voedsel-en Warenautoriteit], 27 June. Regulation (EU) 2024/1957 as regards the prohibition of introduction, movement, holding, multiplication or release of certain pests Regulation (EU) 2022/1941 on the prohibition of introduction, movement, holding, multiplication or release of certain pests Commission Implementing Regulation (EU) 2019/2072 as regards protective measures against pests of plants",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601553",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500356",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=OJ:L_202401957",
+    "https://eur-lex.europa.eu/eli/reg_impl/2022/1941/oj",
+    "https://eur-lex.europa.eu/eli/reg_impl/2019/2072/oj"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601553",
+  "detail_fetched_at": "2026-09-05T12:57:55.634666+00:00"
+}

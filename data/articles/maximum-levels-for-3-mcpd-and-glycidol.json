@@ -1,0 +1,31 @@
+{
+  "id": "maximum-levels-for-3-mcpd-and-glycidol",
+  "title": "Maximum levels for 3-MCPD and glycidol",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-levels-for-3-mcpd-and-glycidol/",
+  "pub_date": "2024-01-10",
+  "revised_date": "Aug. 17, 2026",
+  "regulation": "2024/1003, 2026/1825",
+  "summary": "EU sets new maximum levels for 3-MCPD and glycidol in baby foods and compound foods",
+  "tags": [
+    "Contaminants",
+    "Food safety"
+  ],
+  "fetched_at": "2026-09-05T12:57:26.154626+00:00",
+  "update": "The European Union (EU) has revised the maximum levels for 3-monochloropropanediol ( 3-MCPD ) (the sum of 3-MCPD and 3-MCPD fatty acid esters), and for glycidyl fatty acid esters (expressed as glycidol ), in certain processed cereal-based foods for babies, infants, and young children. It has also set maximum levels of those contaminants in some compound foods.\n\nThe EU has also reduced the maximum levels of 3-MCPD and glycidol in fats and oils destined to produce these foods, to ensure that the new maximum levels are not exceeded.",
+  "impacted_products": "Baby food; processed cereal-based food for infants and young children; compound foods (with more than 5% added fats/oils derived from vegetables, fish, and/or other marine organisms); vegetable oils and fats and/or oils from fish and/or other marine organisms to be used in the production of baby food and foods for infants and young children.",
+  "what_changing": "The European Commission has set new maximum levels for 3-MCPD and glycidol in:\n\nbaby food and processed cereal-based food for infants and young children compound foods that contain more than 5% added fats/oils derived from vegetables, fish, and/or other marine organisms.\n\nIt has also reduced maximum levels of these contaminants in oils and fats that are derived from vegetables, fish, and/or other marine organisms when these are to be used in the production of baby food and processed cereal-based food for infants and young children.\n\nThe changes are summarised in Table 1.\n\nThe new Regulation clarifies that refined olive oil must comply with the same maximum levels of 3-MCPD and glycidol as other vegetable oils and fats, and oils from fish and other marine organisms.",
+  "why": "The European Food Safety Authority (EFSA) has expressed health concerns about the presence of these substances in foods, especially in foods for infants and young children (EFSA 2016 , 2018) .",
+  "timeline": "The new maximum levels apply from 1 January 2027 .\n\nFoods that were lawfully placed on the EU market before 1 January 2027 are allowed to remain on the market until their date of minimum durability or use-by date, even if they do not comply with the new maximum levels.",
+  "actions": "Non-EU suppliers of these products for infants, or suppliers of foods containing more than 5% fat and added vegetable oils, fats, or fish oils, should evaluate current levels of 3-MCPD and glycidol in these foods to check compliance, or consider strategies for reducing the presence of these contaminants.",
+  "background": "3-MCPD and glycidyl esters are contaminants of processed vegetable oils; free MCPDs are formed in some processed foods, particularly when high temperatures are applied to fats and oils.\n\nMaximum levels for 3-MCPD and glycidol were established in Regulation 2023/915 for:\n\nvegetable oils and fats fish oils and oils from other marine organisms infant formulae and follow-on formulae food for special medical purposes intended for infants and young children, and young child formulae.\n\nThe original maximum levels for 3-MCPD and its esters in specific food products for infants and young children were established by Regulation 2020/1322 .\n\nIn January 2025, the EU reduced the maximum levels of the sum of 3-MCPD and its esters in certain specific food products for infants and young children (Regulation 2024/1003 ). These changes are shown in Table 2.\n\nThe EU aims to set maximum levels that are as low as reasonably achievable when applying good practices, based on scientific advice provided by EFSA. See EU legislation on contaminants – maximum levels explained .",
+  "resources": "EFSA (2016) Risks for human health related to the presence of 3- and 2-monochloropropanediol (MCPD), and their fatty acid esters, and glycidyl fatty acid esters in food . EFSA Journal, 14(5): e04426. EFSA (2018) Update of the risk assessment on 3-monochloropropane diol and its fatty acid esters . EFSA Journal, 16(1): e05083. European Commission (2008) Factsheet: Food contaminants . Regulation (EU) 2024/1003 as regards maximum levels for the sum of 3-monochlorpropanediol (3-MCPD) and 3-MCPD fatty acid esters in infant formulae, follow-on formulae and food for special medical purposes intended for infants and young children and young child formulae Regulation (EU) 2023/915 on maximum levels for certain contaminants in food Regulation (EU) 2020/1322 as regards maximum levels of 3‐monochloropropanediol (3-MCPD), 3-MCPD fatty acid esters and glycidyl fatty acid esters in certain foods Regulation (EEC) No 315/93 laying down Community procedures for contaminants in food",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0915&qid=1699615275327",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020R1322",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R1003&lang1=EN&from=FR&lang3=choose&lang2=choose&_csrf=34431673-e45f-40f2-a06c-5291f8533f5c",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A31993R0315"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0915&qid=1699615275327",
+  "detail_fetched_at": "2026-09-05T12:57:44.051174+00:00"
+}

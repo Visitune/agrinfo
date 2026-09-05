@@ -1,0 +1,29 @@
+{
+  "id": "veterinary-medicinal-products-for-horse-species",
+  "title": "Veterinary medicinal products for horse species",
+  "url": "https://agrinfo.eu/book-of-reports/veterinary-medicinal-products-for-horse-species/",
+  "pub_date": "2026-08-18",
+  "revised_date": "",
+  "regulation": "2026/1810",
+  "summary": "EU amends list of veterinary medicinal products essential for treatment of horses",
+  "tags": [
+    "Animal health",
+    "Animal welfare",
+    "Veterinary residues"
+  ],
+  "fetched_at": "2026-09-05T12:57:25.337861+00:00",
+  "update": "The European Union (EU) amends the list of substances that are essential for the treatment of horse species.\n\nThis Regulation adds ketoconazole (topical use only), midazolam, and sevoflurane to the list of substances. It also discontinues the use of digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), phenytoin, and ticarcillin.",
+  "impacted_products": "Horse species",
+  "what_changing": "Regulation 2025/901 establishes a list of substances that are essential for the treatment of horses, or which are clinically better than comparative treatments.\n\nThe new Regulation 2026/1810 adds the following substances to the list in the Annex to Regulation 2025/901):\n\nketoconazole (only topical use), only as an antifungal for topical treatment of guttural pouch mycosis midazolam as a short-term anti-convulsant for treatment of seizures in nervous system disorders sevoflurane as an anaesthetic by inhalation.\n\nThe new Regulation also removes the following substances from the Annex to an earlier Regulation ( 1950/2006 ): digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), phenytoin, and ticarcillin.\n\nThe remaining substances listed in Regulation 1950/2006 can still be used until 21 May 2027 , to allow authorities, veterinarians and animal keepers time to adjust their practices. After that date, the list in Regulation 2025/901 replaces the list in Regulation 1950/2006).",
+  "why": "Guidance from the European Medicines Agency ( EMA 2026 ) concluded that the substances griseofulvin, ketoconazole, midazolam, and sevoflurane are essential or bring added clinical benefit compared to other treatment options available for horse species. However, EMA also assessed whether any residues of these substances would remain after a withdrawal period of 6 months, and could not exclude risks associated with griseofulvin and ketoconazole (oral administration).\n\nFor topical use, ketoconazole is considered better than enilconazole in the treatment of guttural pouch mycosis because it is less of an irritant, and after 6 months no residues are expected. However, oral administration of ketoconazole to food-producing horses poses an unacceptable risk to consumers because its main metabolite is very toxic. Midazolam is a short-term anti-convulsant for treatment of seizures in nervous system disorders for which no suitable alternatives have been identified. Sevoflurane is considered better than isoflurane for anaesthesia by inhalation via face mask in foals because it is less pungent.\n\nDigoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), and phenytoin have been removed from the list as they are considered to pose an unacceptable risk to consumers when used in food-producing horses. Ticarcillin has been removed because it is reserved for the treatment of certain infections in humans, and is not allowed for use in animals in the EU ( EMA 2024 ; EMA 2026 ).",
+  "timeline": "The amended lists of substances (newly authorised and discontinued) apply from 28 July 2026 .",
+  "actions": "Countries exporting horses and horsemeat to the EU for human consumption must ensure that digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (via oral administration), phenytoin, and ticarcillin are no longer administered to these horses. These substances should be monitored and included in annual residue control plans.",
+  "background": "Regulation 2025/901 established an updated list of substances that are essential for the treatment of horse species, or that bring added clinical benefit compared to other treatment options. Experience and evidence on the substances available for treating horses meant that the previous list (Regulation 1950/2006 ), last updated in 2013, needed revision.\n\nA substance qualifies as “essential” only when no satisfactory alternative is available and when the condition would create unnecessary suffering for the animal if left untreated. A substance qualifies as “bringing added clinical benefit” only when its advantage is clinically relevant, based on improved efficacy or safety, or a major contribution to treatment or diagnosis.",
+  "resources": "EMA (2024) Scientific advice under Article 115(5) of Regulation (EU) 2019/6 on veterinary medicinal products, regarding the list of substances which are essential for the treatment of equine species and for which the withdrawal period for equine species shall be six months. EMA (2026) Guidance under Article 141(1)(f) of Regulation (EU) 2019/6 on veterinary medicinal products with regards five substances not included in Commission Implementing Regulation (EU) 2025/901. Commission Implementing Regulation (EU) 2025/901 establishing a list of substances which are essential for the treatment of equine species, or which bring added clinical benefit compared to other treatment options available for equine species and for which the withdrawal period for equine species shall be six months. Commission Regulation (EC) No 1950/2006 establishing a list of substances essential for the treatment of equidae and of substances bringing added clinical benefit",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg_impl/2025/901/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2025/901/oj/eng",
+  "detail_fetched_at": "2026-09-05T12:57:38.211533+00:00"
+}

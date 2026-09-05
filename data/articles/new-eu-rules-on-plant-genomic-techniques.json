@@ -1,0 +1,31 @@
+{
+  "id": "new-eu-rules-on-plant-genomic-techniques",
+  "title": "New EU rules on plant genomic techniques",
+  "url": "https://agrinfo.eu/book-of-reports/new-eu-rules-on-plant-genomic-techniques/",
+  "pub_date": "2023-07-27",
+  "revised_date": "July 24, 2026",
+  "regulation": "",
+  "summary": "EU publishes new rules on plant genomic techniques",
+  "tags": [
+    "Food safety",
+    "Biotechnologies"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.331082+00:00",
+  "update": "The European Union (EU) has published new rules on the marketing of crops produced using certain new genomic techniques (NGTs) that change genetic material in plants. The new rules classify NGTs in two categories as follows.\n\nCategory 1 NGT plants – that could occur naturally or by conventional breeding – will not be considered as genetically modified organisms (GMOs) and therefore do not have to comply with EU GMO rules. They will have to undergo a verification procedure prior to being put on the EU market, but will not need to be risk-assessed and authorised. Category 2 NGT plants – where changes to the plant could not occur naturally or through conventional breeding – will have to comply with the GMO rules, including risk assessment and authorisation.",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "The EU's rules on GMOs were adopted in 2001 (Directive 2001/18/EC ). Since then, a variety of NGTs have been developed. A 2021 review of GMO legislation concluded that the current rules did not reflect scientific and technological progress, and prevented the development and marketing of NGT products that could be beneficial to farmers, consumers, and the environment ( European Commission 2021 ).",
+  "timeline": "Provisions regulating the sale of NGT plants and products on the EU market will apply from 17 July 2028 . Until then, these products remain subject to the existing EU legislation on GMOs.",
+  "actions": "",
+  "background": "The Regulation distinguishes between “conventional” genetic engineering and “new” genomic techniques. In conventional genetic engineering, certain traits related to one organism can be transferred into a second organism by inserting entire genes into the genome of another (third) organism. These genes are not targeted, but inserted randomly into the genome.\n\nBy contrast, certain NGTs involve targeting individual parts of the DNA (nucleotides) to obtain certain effects, similarly to natural mutations that occur in living cells. NGTs include:\n\nmutagenesis: modification of the DNA sequence at precise locations in the genome of an organism cisgenesis: insertion in the genome of genetic material already present in the breeder’s gene pool.\n\nEFSA (2021) concluded that the mutations induced by NGTs can sometimes be comparable to those that occur in conventional plant breeding. This allows the Regulation to distinguish two categories of plants: those where the effects of NGTs could occur in conventional breeding, and those where they could not.",
+  "resources": "EFSA (2021) Overview of EFSA and European national authorities’ scientific opinions on the risk assessment of plants developed through New Genomic Techniques . EFSA Journal, 19(4): 6314. European Commission (2021) Study on the status of new genomic techniques under Union law and in light of the Court of Justice ruling in Case C-528/16 . European Parliament (2025) New genomic techniques: deal to support the green transition in farming . Press release, 4 December. Online resources from the European Commission: Frequently Asked Questions: Proposal on New Genomic Techniques Executive Summary of the Impact Assessment Report Impact Assessment Report Directive 2001/18/EC on the deliberate release into the environment of genetically modified organisms Regulation (EC) No 1830/2003 concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32001L0018",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32003R1830&qid=1690379297171",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=SWD:2023:412:FIN"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
+  "detail_fetched_at": "2026-09-05T12:57:58.648469+00:00"
+}

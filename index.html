@@ -60,14 +60,15 @@
   <nav>
     <a href="/">AGRINFO</a>
     <div>
+      <button id="langToggle" style="padding:.5rem 1rem;border:2px solid var(--gray-200);background:white;border-radius:999px;cursor:pointer;font-weight:700;">FR 🇫🇷</button>
       <a href="https://agrinfo.eu/" target="_blank">Site original →</a>
     </div>
   </nav>
 </header>
 
 <section class="hero">
-  <h1>🇪🇺 Latest on EU AGRI-Food Policies</h1>
-  <p>Impacting low- and middle-income countries</p>
+  <h1 id="heroTitle">🇪🇺 Latest on EU AGRI-Food Policies</h1>
+  <p id="heroSub">Impacting low- and middle-income countries</p>
   <div class="stat-bar">
     <div class="stat"><div class="num" id="totalArticles">—</div><div class="label">Articles</div></div>
     <div class="stat"><div class="num" id="totalPubs">—</div><div class="label">Publications</div></div>
@@ -82,6 +83,14 @@
     <button data-filter="article">Articles</button>
     <button data-filter="publication">Publications</button>
     <button data-filter="regulation">With Regulation</button>
+    <button data-filter="detail">With Detail ★</button>
+    <button data-filter="consultations">⏰ Consultations</button>
+    <button data-filter="fresh">🆕 Fresh 30j</button>
+    <button data-filter="calendar">📅 Calendar</button>
+    <a href="/rss" style="padding:.5rem 1.25rem;border:2px solid var(--gray-200);background:white;border-radius:999px;font-size:.9rem;font-weight:600;text-decoration:none;color:var(--gray-600);">RSS</a>
+  </div>
+  <div style="margin-bottom:1.5rem;display:flex;gap:.5rem;">
+    <input id="search" type="search" placeholder="Rechercher (titre, produits, timeline, actions…) — ex: poultry, MRL, packaging" style="flex:1;padding:.6rem 1rem;border:2px solid var(--gray-200);border-radius:999px;font-size:.9rem;">
   </div>
   <div class="grid" id="grid"></div>
   <div class="empty-state" id="empty" style="display:none;">No articles found yet. Run <code>python scraper.py</code> first.</div>
@@ -95,8 +104,33 @@
 </footer>
 
 <script>
-const API = 'http://localhost:8080/api';
+const API = window.location.host ? `${window.location.protocol}//${window.location.host}/api` : 'http://localhost:8080/api';
+// Fallback local dev : si servi via file:// ou port différent, utilise 8080
 let activeFilter = 'all';
+let lang = localStorage.getItem('agrinfo-lang') || 'fr'; // FR par défaut : cible Afrique francophone
+let lastItems = [];
+
+const STR = {
+  en: { heroT: '🇪🇺 Latest on EU AGRI-Food Policies', heroS: 'Impacting low- and middle-income countries',
+        search: 'Search (title, products, timeline, actions…) — e.g. poultry, MRL, packaging',
+        detailBtn: '+ Detail sheet', products: 'Products', timeline: 'Timeline', changing: 'What changes', actions: 'Actions' },
+  fr: { heroT: '🇪🇺 Politiques UE agro-alimentaires', heroS: 'Impacts pour les pays à revenu faible et intermédiaire',
+        search: 'Rechercher (titre, produits, calendrier, actions…) — ex : volaille, LMR, emballage',
+        detailBtn: '+ Fiche détaillée', products: 'Produits', timeline: 'Calendrier', changing: 'Ce qui change', actions: 'Actions' }
+};
+function applyLang() {
+  document.getElementById('heroTitle').textContent = STR[lang].heroT;
+  document.getElementById('heroSub').textContent = STR[lang].heroS;
+  document.getElementById('search').placeholder = STR[lang].search;
+  document.getElementById('langToggle').textContent = lang === 'fr' ? 'EN 🇬🇧' : 'FR 🇫🇷';
+  document.documentElement.lang = lang;
+  localStorage.setItem('agrinfo-lang', lang);
+  if (lastItems.length) render(lastItems);
+}
+function pick(item, frKey, enKey) {
+  if (lang === 'fr' && item[frKey]) return { text: item[frKey], auto: true };
+  return { text: item[enKey] || '', auto: false };
+}
 
 async function fetchJSON(url) {
   const res = await fetch(url);
@@ -104,9 +138,42 @@ async function fetchJSON(url) {
   return res.json();
 }
 
+// Repli statique GitHub Pages (pas d'API serveur) : data/export.json
+let STATIC = null;
+async function apiGet(path) {
+  try {
+    return await fetchJSON(`${API}${path}`);
+  } catch (e) {
+    if (!STATIC) STATIC = await fetchJSON('data/export.json');
+    if (path.startsWith('/articles')) {
+      const q = new URLSearchParams(path.split('?')[1] || '');
+      let items = STATIC.articles || [];
+      const s = (q.get('search') || '').toLowerCase();
+      if (s) items = items.filter(a => [a.title, a.title_fr, a.summary, a.summary_fr, a.regulation, a.impacted_products, a.timeline, a.actions].filter(Boolean).some(f => f.toLowerCase().includes(s)));
+      return items.slice(0, parseInt(q.get('limit') || '100', 10));
+    }
+    if (path === '/consultations') return STATIC.consultations || [];
+    if (path === '/calendar') return STATIC.calendar || [];
+    if (path.startsWith('/fresh')) {
+      const days = parseInt((new URLSearchParams(path.split('?')[1] || '').get('days') || '30'), 10);
+      const cutoff = new Date(Date.now() - days * 864e5).toISOString().slice(0, 10);
+      return (STATIC.articles || []).filter(a => (a.pub_date || '') >= cutoff);
+    }
+    if (path === '/stats') {
+      const arts = STATIC.articles || [];
+      return { total_articles: arts.length, total_publications: (STATIC.publications || []).length,
+               total_tags: (STATIC.tags || []).length,
+               unique_regulations: new Set(arts.map(a => a.regulation).filter(Boolean)).size,
+               open_consultations: (STATIC.consultations || []).filter(c => c.open).length };
+    }
+    if (path === '/tags') return { tags: STATIC.tags || [] };
+    throw e;
+  }
+}
+
 async function loadStats() {
   try {
-    const s = await fetchJSON(`${API}/stats`);
+    const s = await apiGet(`/stats`);
     document.getElementById('totalArticles').textContent = s.total_articles || 0;
     document.getElementById('totalPubs').textContent = s.total_publications || 0;
     document.getElementById('totalTags').textContent = s.total_tags || 0;
@@ -116,14 +183,72 @@ async function loadStats() {
 
 async function loadArticles() {
   try {
-    const items = await fetchJSON(`${API}/articles`);
+    const q = document.getElementById('search').value.trim();
+    if (activeFilter === 'consultations') {
+      const items = await apiGet(`/consultations`);
+      renderConsultations(items);
+      return;
+    }
+    if (activeFilter === 'fresh') {
+      const items = await apiGet(`/fresh?days=30`);
+      render(items);
+      return;
+    }
+    if (activeFilter === 'calendar') {
+      const items = await apiGet(`/calendar`);
+      renderCalendar(items);
+      return;
+    }
+    const items = await apiGet(`/articles?limit=100${q ? '&search=' + encodeURIComponent(q) : ''}`);
     render(items);
   } catch(e) {
     document.getElementById('empty').style.display = 'block';
   }
 }
 
+function renderConsultations(items) {
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  if (!items || !items.length) { empty.style.display = 'block'; grid.innerHTML = ''; return; }
+  empty.style.display = 'none';
+  grid.innerHTML = items.map(c => `
+    <article class="card">
+      <div class="card-header">
+        <span class="${c.open ? 'regulation' : 'category'}">${c.open ? '⏰ OPEN' : 'Closed'}</span>
+        <span class="meta"><time>${c.deadline || 'sans date'}</time></span>
+      </div>
+      <div class="card-body">
+        <h3><a href="${c.url}" target="_blank" rel="noopener">${escHtml(c.title)}</a></h3>
+        ${c.impacted_products ? `<p style="font-size:.8rem"><b>Produits:</b> ${escHtml(c.impacted_products.slice(0,160))}</p>` : ''}
+        <p style="font-size:.8rem;margin-top:.4rem"><a href="https://ec.europa.eu/info/law/better-regulation/have-your-say_en" target="_blank">Have Your Say →</a></p>
+      </div>
+    </article>`).join('');
+}
+
+function renderCalendar(items) {
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+  if (!items || !items.length) { empty.style.display = 'block'; grid.innerHTML = ''; return; }
+  empty.style.display = 'none';
+  grid.innerHTML = items.map(c => `
+    <article class="card">
+      <div class="card-header">
+        <span class="regulation">📅 ${escHtml(c.timeline_date || '')}</span>
+        <span class="meta">${escHtml(c.regulation || '')}</span>
+      </div>
+      <div class="card-body">
+        <h3><a href="${c.url}" target="_blank" rel="noopener">${escHtml(c.title)}</a></h3>
+        <p class="summary">${escHtml((c.timeline || '').slice(0,250))}</p>
+        ${c.impacted_products ? `<p style="font-size:.8rem"><b>Produits:</b> ${escHtml(c.impacted_products)}</p>` : ''}
+      </div>
+    </article>`).join('');
+}
+
+let allItems = [];
+async function loadAll() { try { allItems = await apiGet(`/articles?limit=100`); } catch(e) {} }
+
 function render(items) {
+  lastItems = items;
   const grid = document.getElementById('grid');
   const empty = document.getElementById('empty');
 
@@ -134,24 +259,44 @@ function render(items) {
   if (activeFilter === 'article') filtered = items.filter(i => i.tags && i.tags.length);
   else if (activeFilter === 'publication') filtered = items.filter(i => i.category && !(i.tags && i.tags.length));
   else if (activeFilter === 'regulation') filtered = items.filter(i => i.regulation);
+  else if (activeFilter === 'detail') filtered = items.filter(i => i.timeline || i.impacted_products);
 
-  grid.innerHTML = filtered.map(item => {
+  grid.innerHTML = filtered.map((item, idx) => {
     const isPub = item.category && !(item.tags && item.tags.length);
+    const hasDetail = item.impacted_products || item.timeline || item.actions;
+    const T = pick(item, 'title_fr', 'title');
+    const S = pick(item, 'summary_fr', 'summary');
+    const P = pick(item, 'impacted_products_fr', 'impacted_products');
+    const TL = pick(item, 'timeline_fr', 'timeline');
+    const frBadge = (lang === 'fr' && T.auto) ? ' <span class="tag">FR auto</span>' : '';
     return `
       <article class="card">
         <div class="card-header">
           <span class="${isPub ? 'category' : 'regulation'}">${item.regulation || item.category || 'Report'}</span>
-          <span class="meta"><time>${item.pub_date || '—'}</time></span>
+          <span class="meta"><time>${item.pub_date || '—'}</time>${hasDetail ? ' <span title="Fiche détaillée">★</span>' : ''}</span>
         </div>
         <div class="card-body">
-          <h3><a href="${item.url}" target="_blank" rel="noopener">${escHtml(item.title)}</a></h3>
-          ${item.summary ? `<p class="summary">${escHtml(item.summary)}</p>` : (item.description ? `<p class="summary">${escHtml(item.description)}</p>` : '')}
+          <h3><a href="${item.url}" target="_blank" rel="noopener">${escHtml(T.text)}</a>${frBadge}</h3>
+          ${S.text ? `<p class="summary">${escHtml(S.text)}</p>` : (item.description ? `<p class="summary">${escHtml(item.description)}</p>` : '')}
+          ${P.text ? `<p style="font-size:.8rem;margin:.4rem 0"><b>${STR[lang].products}:</b> ${escHtml(P.text.slice(0,180))}</p>` : ''}
+          ${TL.text ? `<p style="font-size:.8rem;margin:.4rem 0"><b>${STR[lang].timeline}:</b> ${escHtml(TL.text.slice(0,180))}</p>` : ''}
+          ${hasDetail ? `<button onclick="toggleDetail(${idx})" style="margin:.4rem 0;padding:.3rem .9rem;border:2px solid var(--gray-200);background:white;border-radius:999px;cursor:pointer;font-size:.8rem;font-weight:600;">${STR[lang].detailBtn}</button>
+          <div id="detail-${idx}" style="display:none;font-size:.82rem;color:var(--gray-600);margin-top:.5rem;">
+            ${item.what_changing ? `<p><b>${STR[lang].changing}:</b> ${escHtml(item.what_changing.slice(0,400))}</p>` : ''}
+            ${item.actions ? `<p style="margin-top:.4rem"><b>${STR[lang].actions}:</b> ${escHtml(item.actions.slice(0,400))}</p>` : ''}
+            ${item.eurlex_url ? `<p style="margin-top:.4rem"><a href="${item.eurlex_url}" target="_blank">Texte EUR-Lex →</a></p>` : ''}
+          </div>` : ''}
           <div class="meta">
             ${item.tags ? item.tags.map(t => `<span class="tag">${escHtml(t)}</span>`).join('') : ''}
           </div>
         </div>
       </article>`;
   }).join('');
+}
+
+function toggleDetail(i) {
+  const el = document.getElementById('detail-' + i);
+  if (el) el.style.display = el.style.display === 'none' ? 'block' : 'none';
 }
 
 function escHtml(s) {
@@ -169,6 +314,19 @@ document.querySelectorAll('.filters button').forEach(btn => {
   });
 });
 
+document.getElementById('langToggle').addEventListener('click', () => {
+  lang = lang === 'fr' ? 'en' : 'fr';
+  applyLang();
+  loadArticles();
+});
+
+let searchTimer;
+document.getElementById('search').addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(loadArticles, 300);
+});
+
+applyLang();
 loadStats();
 loadArticles();
 </script>

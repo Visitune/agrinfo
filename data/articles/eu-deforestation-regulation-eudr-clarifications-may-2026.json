@@ -1,0 +1,28 @@
+{
+  "id": "eu-deforestation-regulation-eudr-clarifications-may-2026",
+  "title": "EU Deforestation Regulation (EUDR): Clarifications May 2026",
+  "url": "https://agrinfo.eu/book-of-reports/eu-deforestation-regulation-eudr-clarifications-may-2026/",
+  "pub_date": "2026-05-13",
+  "revised_date": "Aug. 12, 2026",
+  "regulation": "",
+  "summary": "EU clarifies which products must meet EUDR requirements",
+  "tags": [
+    "Deforestation",
+    "Sustainability/Due diligence"
+  ],
+  "fetched_at": "2026-09-05T12:57:26.225166+00:00",
+  "update": "In July 2026, the European Commission adopted a Regulation that clarifies which products must meet the requirements of the EU Deforestation Regulation (EUDR, Regulation 2023/1115 ).\n\nIn the case of agri-food, these are products derived from cattle, cocoa, coffee, palm oil, and soyabeans. The Commission has added some products, including soluble coffee and frozen cattle tongues, to the existing list of products set out in Regulation 2023/1115 (Annex I). The EUDR requirements will only apply to these additional products from 30 December 2027 .\n\nThe new Regulation also clarifies that where products can potentially be derived from palm oil or other similar commodities, only those produced from palm oil have to meet EUDR requirements. The Regulation also explicitly excludes certain products from the scope of the EUDR: soyabeans used for sowing; packaging derived from wood that is used to protect agri-food products in transport; marketing materials and correspondence accompanying consignments; and product samples exported to the EU for quality testing.\n\nIn May 2026, the Commission has also published updated Guidance and revised Frequently Asked Questions providing further explanations, in particular on the EUDR simplifications adopted in 2025 (see Review of EU Deforestation Regulation: simplification ).",
+  "impacted_products": "Cattle, cocoa, coffee, palm oil, soya and derived products",
+  "what_changing": "",
+  "why": "Following responses to consultations, this new Regulation clarifies which products are included within the scope of the EUDR, particularly regarding derived products. Because the quantity of soyabeans for sowing imported into the EU is negligible, and they are subject to their own certification and traceability systems, they are excluded from the scope of the EUDR. Samples of products exported to the EU for analysis or testing are also extremely low volume, and are generally destroyed during testing processes, so they are also excluded from the EUDR requirements.",
+  "timeline": "For large EU operators, the EUDR due diligence obligations will apply from 30 December 2026. For EU operators that are micro- and small enterprises, the due diligence obligations will apply from 30 June 2027.\n\nFor the new categories of products now included in Annex I of the EUDR, EUDR requirements apply from 30 December 2027 . The Regulation setting out these changes is due to be published in September 2026.",
+  "actions": "The new Regulation clarifies which products fall under the scope of the EUDR rules, but does not change the basic requirements of that Regulation. Suppliers must provide importers with geolocation data for the plots of land where commodities are produced, and information demonstrating that commodities were produced in line with relevant national laws. They must also ensure that this data and information can be passed through the supply chain.",
+  "background": "The EUDR sets out obligations regarding products related to cattle, cocoa, coffee, palm oil, rubber, soya, and wood. It requires EU importers to ensure there is no risk (or negligible risk) that the production of these commodities has contributed to deforestation, or that products were illegally produced according to national law. For a summary of these requirements and implications for suppliers, see the AGRINFO Guidance The EU Deforestation Regulation: Requirements for Stakeholders outside the European Union .\n\nThe EUDR was originally intended to apply from 30 December 2024, but was postponed first to 30 December 2025, and subsequently to 30 December 2026 (see Review of EU Deforestation Regulation: simplification ).",
+  "resources": "European Commission (2026) Staff Working Document accompanying the document Commission Delegated Regulation XXX amending Regulation (EU) 2023/1115 the European Parliament and of the Council as regards the list of relevant commodities and relevant products [download] FAO (2025) Whisp: What's in that plot? Rome: Food and Agriculture Organization. GFW (2025) Global Forest Watch Pro . Washington, DC: World Resources Institute. JRC (2025) Geospatial analysis tools supporting the risk assessment of the Regulation on deforestation-free supply chains: A guide to visualize and interact with GFC2020 using the JRC IMPACT: toolbox and other applications",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
+  "detail_fetched_at": "2026-09-05T12:57:47.404106+00:00"
+}

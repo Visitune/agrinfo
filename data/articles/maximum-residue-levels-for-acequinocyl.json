@@ -1,0 +1,29 @@
+{
+  "id": "maximum-residue-levels-for-acequinocyl",
+  "title": "Maximum residue levels for acequinocyl",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-acequinocyl/",
+  "pub_date": "2026-02-04",
+  "revised_date": "Aug. 3, 2026",
+  "regulation": "2026/140",
+  "summary": "EU proposes to increase MRLs for acequinocyl on blueberries, cranberries, currants, and gooseberries",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-09-05T12:57:26.267088+00:00",
+  "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for acequinocyl on blueberries, cranberries, currants, and gooseberries. This follows an increase in the MRL for strawberries in February 2026.",
+  "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries",
+  "what_changing": "The EU proposes to increase the MRLs for acequinocyl on blueberries, cranberries, currants (black, red, and white), and gooseberries (green, red, and yellow) from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nIn February 2026, the EU increased the MRL for acequinocyl on strawberries from 0.01 to 0.3 mg/kg.",
+  "why": "Following an application for a change of MRLs by the producer of acequinocyl, the European Food Safety Authority evaluated the requested changes and concluded that they do not pose a risk for consumers ( EFSA 2025b ).",
+  "timeline": "For blueberries, cranberries, currants, and gooseberries, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL on strawberries applies from 11 February 2026 .",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .\n\nThe change to the MRL on strawberries in February 2026 followed a review by EFSA (2025a ).",
+  "resources": "EFSA (2025a) Modification of the existing maximum residue level for acequinocyl in strawberries . EFSA Journal, 23(1): e9207. EFSA (2025b) Modification of the existing maximum residue level for acequinocyl in various crops . EFSA Journal, 23(12): e9810.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2026/140/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/140/oj/eng",
+  "detail_fetched_at": "2026-09-05T12:57:50.472345+00:00"
+}

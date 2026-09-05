@@ -1,0 +1,34 @@
+{
+  "id": "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
+  "title": "HPAI: EU restrictions on imports of poultry from Moldova",
+  "url": "https://agrinfo.eu/book-of-reports/hpai-eu-restrictions-on-imports-of-poultry-from-moldova/",
+  "pub_date": "2026-02-17",
+  "revised_date": "Aug. 21, 2026",
+  "regulation": "2026/278",
+  "summary": "EU lifts restrictions on imports of poultry products from Moldova",
+  "tags": [
+    "Animal diseases",
+    "Animal health",
+    "Animal health certification",
+    "Third country lists"
+  ],
+  "fetched_at": "2026-09-05T12:57:25.295054+00:00",
+  "update": "The European Union (EU) has lifted its import restrictions on poultry and game bird meat and products from Moldova related to highly pathogenic avian influenza (HPAI). The restrictions were introduced in September 2025. Moldova has now demonstrated that these products no longer represent a threat to animal health in the EU.",
+  "impacted_products": "Poultry and game bird meat and products",
+  "what_changing": "Due to an outbreak of HPAI in Moldova, in September 2025, the EU introduced restrictions on imports of of Moldovan poultry and game bird meat and poultry products. This Regulation lifts those restrictions.\n\nMoldova’s regionalisation (allowing measures to be limited to the affected regions within the country) has now been lifted: Moldova can now export from its whole territory. No risk-mitigating treatment is now required for poultry products.",
+  "why": "In October 2025, Moldova provided information demonstrating that there was no longer any risk associated with HPAI. The European Commission has concluded that Moldova can be relisted for the products concerned as they do not represent a risk to animal health.",
+  "timeline": "The Regulation applies from 1 March 2026 .",
+  "actions": "Monitoring and preventing the spread of diseases is key for exports. Exporters should follow the Terrestrial Animal Health Code of the World Organisation for Animal Health (WOAH), which gives the rules on prevention, monitoring, and control for each disease.\n\nIt is important that competent authorities and operators work together to monitor animal health and keep diseases under control. The EU regularly audits its partner countries as well as the EU Member States, and publishes Health and Food Audits and Analysis – for more information, see 2026 food audit programme: non-EU countries targeted for controls .",
+  "background": "The EU Animal Health Law (Regulation 2016/429 ) establishes principles and rules for the prevention and control of certain diseases in animals kept by humans (including farm animals, fish, and aquaculture), wild animals, and animal products.\n\nRegulation 2020/692 supplements the Animal Health Law regarding animal health requirements for exports to the EU. Non-EU countries (or part of their territories) wishing to export animal products to the EU must comply with the EU animal health requirements.\n\nThese countries or regions must be listed in Regulation 2021/404 for each commodity to be exported to the EU . The list is regularly updated, for example in the event of an outbreak of a notifiable disease, or if there is an improvement in the animal health situation in a country. (See Lists of non-EU countries for public health and animal health – explained .)",
+  "resources": "Online resources from the European Commission: EU entry conditions Non-EU countries authorised establishments World Organisation for Animal Health: Terrestrial Animal Health Code The procedure for non-EU countries to apply for listing is described at the end of the following factsheets: European Union import conditions for poultry and poultry products EU import conditions for fresh meat and meat products Commission Implementing Regulation (EU) 2021/404 laying down the lists of third countries, territories or zones thereof from which the entry into the Union of animals, germinal products and products of animal origin is permitted Commission Delegated Regulation (EU) 2020/692 as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600278",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0429-20210421&qid=1660823654919",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020R0692",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02021R0404-20220713",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0404"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600278",
+  "detail_fetched_at": "2026-09-05T12:57:29.609308+00:00"
+}

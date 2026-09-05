@@ -1,0 +1,28 @@
+{
+  "id": "maximum-residue-levels-for-maleic-hydrazide",
+  "title": "Maximum residue levels for maleic hydrazide",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-maleic-hydrazide/",
+  "pub_date": "2026-06-24",
+  "revised_date": "July 31, 2026",
+  "regulation": "",
+  "summary": "EU proposes to increase MRLs for maleic hydrazide on animal products",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.276450+00:00",
+  "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for maleic hydrazide on a wide range of animal products.",
+  "impacted_products": "Products of animal origin (swine, cattle, sheep, goat, horse, and poultry), milk, birds’ eggs",
+  "what_changing": "The EU proposes to increase the MRLs for maleic hydrazide on most animal products (see Table 1).",
+  "why": "Following an application for a change of MRLs by the producer of maleic hydrazide, the European Food Safety Authority evaluated the requested change and concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2025 ).",
+  "timeline": "The Regulation is expected to be published in October 2026, and will apply 6 months after publication.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
+  "resources": "EFSA (2025) Peer review of the pesticide risk assessment of the active substance maleic hydrazide . EFSA Journal, 23(7): e9522.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-09-05T12:57:54.979559+00:00"
+}

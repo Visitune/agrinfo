@@ -1,0 +1,32 @@
+{
+  "id": "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
+  "title": "Voluntary use by non-EU countries of the Electronic system for Agricultural Non-customs formalities (ELAN)",
+  "url": "https://agrinfo.eu/book-of-reports/voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan/",
+  "pub_date": "2026-08-03",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "Documents submitted to ELAN on a voluntary basis to have legal value during the transitional period",
+  "tags": [
+    "Tariffs & quotas",
+    "Trade"
+  ],
+  "fetched_at": "2026-09-05T12:57:27.206154+00:00",
+  "update": "The European Commission’s new Electronic system for Agricultural Non-customs formalities (ELAN) was established in 2025. ELAN will allow authorities in European Union (EU) and non-EU countries to process and store documents relating to agri-food trade. These include documents issued by non-EU authorities to secure tariff rate quota licences. Use of ELAN for issuing these documents will be mandatory from 17 January 2028 .\n\nSince July 2025, non-EU authorities have been able to test the ELAN system, but the documents it produced during this transition period have had no legal value for the purpose of clearing goods through customs. This proposed Regulation will now allow authorities to issue documents with legal value in ELAN.\n\nThe Regulation also revises the template to be used by non-EU authorities when issuing documents.\n\nStakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 20 August 2026 .",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "As a number of non-EU countries have been successfully using ELAN on a voluntary basis, giving legal value to the documents generated will improve the efficiency of completing customs procedures.\n\nThe EU is moving towards an electronic information exchange system linking all customs authorities and other relevant bodies within and outside the EU. The new ELAN system will be connected with the EU Single Window Environment for Customs. See ELAN: Electronic system for Agricultural Non-customs formalities .",
+  "timeline": "The Regulation is expected to be published in September 2026.",
+  "actions": "The consultation via the European Commission’s Have your say platform closed on 20 August 2026.",
+  "background": "For further information see ELAN: Electronic system for Agricultural Non-customs formalities and the European Commission’s ELAN webpage .",
+  "resources": "European Commission (2025) Notice on the instructions on completing the ELAN1L-AGRIM and ELAN1L-AGREX data models . Regulation (EU) 1308/2013 establishing a common organisation of the markets in agricultural products Regulation (EU) 2025/1271 amending Implementing Regulations (EU) 2016/1239, (EU) 2020/761, (EU) 2020/1988 and (EU) 2023/2834 as a consequence of the establishment of the ELAN, and amending Implementing Regulation (EU) 2020/1988 as regards two new tariff quota numbers for imports of rice from Bangladesh Regulation (EU) 2025/1272 with regard to the electronic system for agricultural non-customs formalities (ELAN) Regulation (EU) 2016/1239 with regard to the system of import and export licences Regulation (EU) 2020/761 as regards the management system of tariff quotas with licences Regulation (EU) 2020/1988 as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
+    "https://eur-lex.europa.eu/eli/reg_impl/2020/1988/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2834&qid=1754641386043",
+    "https://eur-lex.europa.eu/eli/C/2025/2819/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R1308&qid=1739781384474"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
+  "detail_fetched_at": "2026-09-05T12:57:51.056245+00:00"
+}
