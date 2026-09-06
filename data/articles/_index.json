@@ -2,35 +2,35 @@
   "total": 57,
   "articles": [
     "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
-    "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
     "packaging-and-packaging-waste-consultation-eu-national-registers-of-producers",
+    "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
+    "eu-livestock-strategy",
     "eu-protein-system-action-plan",
     "packaging-and-packaging-waste-consultation-minimum-recycled-plastic-content",
-    "eu-livestock-strategy",
     "organic-production-non-organic-protein-feed-for-piglets-and-young-poultry",
     "veterinary-medicinal-products-for-horse-species",
-    "rasff-notifications-in-june-2026",
-    "list-of-control-bodies-and-authorities-in-non-eu-countries-with-equivalent-organic-systems",
     "hpai-eu-restrictions-on-imports-of-poultry-from-argentina",
     "maximum-levels-for-3-mcpd-and-glycidol",
-    "maximum-residue-levels-for-cyflumetofen",
+    "hpai-eu-restrictions-on-imports-of-poultry-from-argentina",
+    "list-of-control-bodies-and-authorities-in-non-eu-countries-with-equivalent-organic-systems",
     "animal-health-rules-for-non-eu-countries-2026-update",
-    "maximum-levels-of-delta-9-tetrahydrocannabinol-_ce_b49-thc-in-hemp-seeds",
+    "maximum-residue-levels-for-cyflumetofen",
     "eu-deforestation-regulation-eudr-clarifications-may-2026",
+    "maximum-levels-of-delta-9-tetrahydrocannabinol-_ce_b49-thc-in-hemp-seeds",
     "maximum-levels-for-furan-in-baby-and-infant-cereal-based-foods",
     "criteria-defining-when-waste-legislation-stops-applying-to-plastic-waste",
     "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
     "maximum-residue-levels-for-acequinocyl",
-    "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
-    "maximum-residue-levels-for-deltamethrin",
+    "maximum-residue-levels-for-dodine",
+    "maximum-residue-levels-for-acequinocyl",
     "2026-food-audit-programme-non-eu-countries-targeted-for-controls",
-    "maximum-residue-levels-for-pinoxaden",
-    "maximum-residue-levels-for-prothioconazole",
     "maximum-residue-levels-for-maleic-hydrazide",
+    "maximum-residue-levels-for-prothioconazole",
+    "maximum-residue-levels-for-pinoxaden",
     "revision-of-plant-pest-temporary-prohibition-lists",
     "eu-list-of-high-risk-organic-and-in-conversion-products-from-non-eu-countries",
     "reports-on-non-compliance-with-eu-food-law-and-agri-food-fraud-june-2026",
-    "new-eu-rules-on-plant-genomic-techniques"
+    "calculation-of-recycled-plastic-content-in-pet-bottles"
   ],
   "publications": [
     "eu_trade_policy_apr-jun-2026_pdf",
@@ -61,5 +61,5 @@
     "impacts_regulatory_change_europe_middle_east_2024_pdf",
     "impacts_regulatory_change_asia_2024_pdf"
   ],
-  "fetched_at": "2026-09-05T12:58:03.601519+00:00"
+  "fetched_at": "2026-09-06T10:14:41.198497+00:00"
 }

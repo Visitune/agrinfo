@@ -13,7 +13,7 @@
     "Food safety controls",
     "Official controls"
   ],
-  "fetched_at": "2026-09-05T12:57:27.311084+00:00",
+  "fetched_at": "2026-09-06T10:13:02.301309+00:00",
   "update": "The European Commission publishes monthly overviews of foods that are not compliant with European Union (EU) food law. The June 2026 report includes notifications concerning the following 21 AGRINFO partner countries : Cameroon, China, Ecuador, Egypt, Ghana, Guatemala, Honduras, India, Jordan, Lebanon, Malaysia, Nigeria, Pakistan, Paraguay, Peru, Sri Lanka, Syria, Thailand, Türkiye, Ukraine, Viet Nam.\n\nThese monthly overviews highlight ongoing and emerging risks of non-compliance that help agri-food exporters and competent authorities in non-EU countries to identify, monitor, and address risks that may affect trade. These non-compliances are not confirmed fraud cases, but they contribute to alerting and triggering investigations by competent authorities of EU Member States.",
   "impacted_products": "Almonds (sugar coated), baby food, biscuits, black pepper, Boswellia serrata extract powder, cane sugar, canned peaches, cheesecakes, chocolate, chocolate candies, dates, dried fruits, dressing (lemon), dumplings, fish crumbs, fish gelatin, food supplements, garlic pickled in oil, herbal honey paste, herbal infusions, honey, jaggery palm (Caryota urens), kitchenware, matcha powder, noodles, palm oil, pangasius fillets (Pangasianodon hypophthalmus), pasta, protein bars, rice (organic, basmati), Saponaria officinalis root extract, sauces, shrimps (Penaeus vannamei), spreadable fat, surimi preparation, sweets, tea, turmeric powder",
   "what_changing": "",
@@ -25,5 +25,9 @@
   "detail_summary": "",
   "eurlex_urls": [],
   "eurlex_url": "",
-  "detail_fetched_at": "2026-09-05T12:57:57.825759+00:00"
+  "detail_fetched_at": "2026-09-06T10:14:35.514621+00:00",
+  "title_fr": "Rapports sur le non-respect de la législation alimentaire de l'UE et la fraude agroalimentaire : juin 2026",
+  "summary_fr": "Dernier aperçu de l'UE des aliments jugés non conformes à la législation de l'UE",
+  "impacted_products_fr": "Amandes (enrobées de sucre), aliments pour bébés, biscuits, poivre noir, poudre d'extrait de Boswellia serrata, sucre de canne, pêches en conserve, gâteaux au fromage, chocolat, bonbons au chocolat, dattes, fruits secs, vinaigrette (citron",
+  "translated_at": "2026-09-06T10:14:38.581113+00:00"
 }

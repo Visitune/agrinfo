@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-05T12:57:27.276450+00:00",
+  "fetched_at": "2026-09-06T10:13:02.298380+00:00",
   "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for maleic hydrazide on a wide range of animal products.",
   "impacted_products": "Products of animal origin (swine, cattle, sheep, goat, horse, and poultry), milk, birds’ eggs",
   "what_changing": "The EU proposes to increase the MRLs for maleic hydrazide on most animal products (see Table 1).",
@@ -24,5 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-05T12:57:54.979559+00:00"
+  "detail_fetched_at": "2026-09-06T10:14:18.828011+00:00",
+  "title_fr": "Teneurs maximales en résidus de l'hydrazide maléique",
+  "summary_fr": "L'UE propose d'augmenter les LMR pour l'hydrazide maléique sur les produits d'origine animale",
+  "impacted_products_fr": "Produits d'origine animale (porcins, bovins, ovins, caprins, équins et avicoles), lait, œufs d'oiseaux",
+  "translated_at": "2026-09-06T10:14:21.532435+00:00"
 }

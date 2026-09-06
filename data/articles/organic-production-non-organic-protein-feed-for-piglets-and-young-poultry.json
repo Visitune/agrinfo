@@ -9,7 +9,7 @@
   "tags": [
     "Organic production"
   ],
-  "fetched_at": "2026-09-05T12:57:25.332021+00:00",
+  "fetched_at": "2026-09-06T10:13:00.496949+00:00",
   "update": "The European Commission has informed the Word Trade Organization Technical Barriers to Trade (WTO TBT) Committee that it intends to extend the authorisation of limited use of non-organic protein feed (maximum 5% per 12-month period) in raising piglets and poultry under organic production. It proposes to extend the authorisation until 31 December 2036 . This 10-year extension is due to severe shortages of organic protein feed on the market( G/TBT/N/EU/1230 ).",
   "impacted_products": "Organic pork and poultry products",
   "what_changing": "Due to a shortage of organic protein feed, the European Union (EU) currently authorises a maximum of 5% of non-organic protein feed per 12-month period to be fed to piglets up to 35 kg and young poultry under organic production.\n\nThe EU proposes to extend this authorisation, currently permitted until 31 December 2026, until 31 December 2036 (amending the date in Regulation 2018/848 , Annex II, Part II, 1.9.3.1(c) and 1.9.4.2(c)).\n\nThis authorisation also applies to livestock producers in non-EU countries.",
@@ -23,5 +23,9 @@
     "https://eur-lex.europa.eu/eli/reg/2007/834/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2007/834/oj/eng",
-  "detail_fetched_at": "2026-09-05T12:57:37.061692+00:00"
+  "detail_fetched_at": "2026-09-06T10:13:23.703064+00:00",
+  "title_fr": "Production biologique : Aliments protéinés non biologiques pour porcelets et jeunes volailles",
+  "summary_fr": "L'UE étend l'utilisation autorisée d'aliments protéinés non biologiques pour les porcelets et les jeunes volailles élevés en agriculture biologique …",
+  "impacted_products_fr": "Produits biologiques à base de porc et de volaille",
+  "translated_at": "2026-09-06T10:13:26.659893+00:00"
 }

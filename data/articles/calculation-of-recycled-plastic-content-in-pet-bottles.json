@@ -1,0 +1,36 @@
+{
+  "id": "calculation-of-recycled-plastic-content-in-pet-bottles",
+  "title": "Calculation of recycled plastic content in PET bottles",
+  "url": "https://agrinfo.eu/book-of-reports/calculation-of-recycled-plastic-content-in-pet-bottles/",
+  "pub_date": "2025-07-14",
+  "revised_date": "July 24, 2026",
+  "regulation": "",
+  "summary": "EU extends authorisation of plastic recycling methods to include use in chemical recycling technologies, and introduces new …",
+  "tags": [
+    "Plastics",
+    "Food contact materials",
+    "Packaging"
+  ],
+  "fetched_at": "2026-09-06T10:13:02.301897+00:00",
+  "update": "The European Union (EU) sets targets for EU Member States for the amount of recycled plastic content in polyethylene terephthalate (PET) bottles placed on the EU market. The targets are 25% recycled content from 2025, and 30% from 2030. The European Commission has now extended the methods authorised for use in plastic recycling to include chemical recycling technologies. The new Commission Decision also updates how Member States should calculate the recycled plastic content in PET bottles.",
+  "impacted_products": "",
+  "what_changing": "The Single-Use Plastics Directive 2019/904 sets targets for EU Member States for the amount of recycled plastic content in PET bottles placed on the EU market.",
+  "why": "The Single-Use Plastics Directive 2019/904 requires each EU Member State to ensure that PET bottles of less than 3 litres are made with the following minimum recycled plastic content:\n\n25% from 2025 30% from 2030.\n\nThese targets are calculated as an average for all PET bottles placed on the market in each Member State.\n\nThey apply to PET bottles, including their caps and lids, but not to glass or metal beverage bottles with plastic caps and lids, or bottles used for medical purposes.\n\nThe European Commission is gradually setting rules to achieve these targets, including the methodologies to be used for calculation, verification, and reporting. By authorising chemically recycled content in new PET bottles (in addition to the currently authorised mechanical recycling), the EU expects to boost chemical recycling and thus help operators meet the targets for recycled content set by the Single-Use Plastics Directive.",
+  "timeline": "The new rules apply from 23 July 2026 .",
+  "actions": "Non-EU countries should start to align with EU standards for human health and environmental protection, especially the requirements set by the Waste Framework Directive 2008/98/EC and the Packaging and Packaging Waste Regulation 2025/40 .\n\nNon-EU operators must:\n\nprovide a declaration stating the recycled plastic content of PET bottles with each batch of material exported to EU customers, using the template in Annex V of Decision 2026/1425 keep declarations concerning recycled plastic content for at least 5 years pass the declarations received from their suppliers along the supply chain to their customers in the EU (see Plastic food contact materials: good manufacturing practice ).\n\nIf PET bottles (including final products) sold in the EU have been manufactured outside the EU, EU importers and EU Member State competent authorities should verify the accuracy of the information that accompanies the material.\n\nFrom 21 May 2029 onwards, non-OECD countries will be able to submit a request to receive plastic waste from the EU for recycling.",
+  "background": "The objectives to reduce plastic waste generation and encourage reuse align with the European Chemicals Industry Action Plan ( European Commission 2025a ) which aims to strengthen the competitiveness and modernisation of the EU chemical sector. The European Commission ( 2025b ) also proposes to simplify existing rules to reduce compliance costs and administrative burdens for the chemical industry.\n\nWhile mechanical plastic recycling is usually preferred, the high food safety standards required by food (and beverage) plastic packaging can be better achieved through chemical recycling, despite the higher energy requirement.\n\nThis calculation methodology will serve as a model for future rules on recycled content in other sectors (see Review of packaging and packaging waste rules ).",
+  "resources": "European Commission (2025a) A European Chemicals Industry Action Plan European Commission (2025b) Proposal for a Regulation amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products Decision 2023/2683 laying down rules for the application of Directive 2019/904 as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles Directive 2019/904 on the reduction of the impact of certain plastic products on the environment (Single-Use Plastics Directive) OECD (2025) Decision of the Council on the Control of Transboundary Movements of Wastes Destined for Recovery Operations, OECD/LEGAL/0266 . Organisation for Economic Co-operation and Development.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601425",
+    "https://eur-lex.europa.eu/eli/dir/2019/904/oj",
+    "https://eur-lex.europa.eu/eli/dec_impl/2023/2683/oj/eng",
+    "https://eur-lex.europa.eu/eli/dir/2008/98/oj/eng",
+    "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601425",
+  "detail_fetched_at": "2026-09-06T10:14:39.217431+00:00",
+  "title_fr": "Calcul de la teneur en plastique recyclé dans les bouteilles en PET",
+  "summary_fr": "L'UE étend l'autorisation des méthodes de recyclage du plastique pour inclure l'utilisation dans les technologies de recyclage chimique et introduit de nouvelles …",
+  "translated_at": "2026-09-06T10:14:41.142802+00:00"
+}

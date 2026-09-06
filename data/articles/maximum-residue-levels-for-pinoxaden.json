@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-05T12:57:27.250529+00:00",
+  "fetched_at": "2026-09-06T10:13:02.299557+00:00",
   "update": "The European Union (EU) proposes to increase the maximum residue level (MRL) for pinoxaden on barley, rye, and wheat from 0.7 to 0.8 mg/kg.",
   "impacted_products": "Barley, rye, wheat",
   "what_changing": "The EU proposes to increase the MRL for pinoxaden on barley, rye, and wheat from 0.7 to 0.8 mg/kg.",
@@ -24,5 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-05T12:57:53.265605+00:00"
+  "detail_fetched_at": "2026-09-06T10:14:25.542020+00:00",
+  "title_fr": "Teneurs maximales en résidus de pinoxaden",
+  "summary_fr": "L'UE propose d'augmenter la LMR pour le pinoxaden sur l'orge, le seigle et le blé",
+  "impacted_products_fr": "Orge, seigle, blé",
+  "translated_at": "2026-09-06T10:14:27.907576+00:00"
 }

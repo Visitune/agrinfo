@@ -10,7 +10,7 @@
     "Plant health",
     "Priority pests"
   ],
-  "fetched_at": "2026-09-05T12:57:27.284470+00:00",
+  "fetched_at": "2026-09-06T10:13:02.300154+00:00",
   "update": "The European Union (EU) has added Mexican cabbage head caterpillar ( Copitarsia decolora ) and darkling beetle ( Lagria villosa ) to its list of prohibited pests, and has extended the listing of three further prohibited pests.\n\nIn total, there are now six pests on the EU list of temporarily prohibited plant pests.",
   "impacted_products": "Alfalfa, apple, asparagus, aubergine (eggplant), banana/plantain, broccoli, cabbage, cauliflower, chickpea, citrus, coffee, common bean, cucumber, garlic, grapevine, lettuce, maize, onion, peach, peanut, pear, persimmon, pineapple, potato, rice, sorghum, soyabean, stone fruit, strawberry, sunflower, sweet cherry, tanbark, tea, tobacco, tomato, wheat",
   "what_changing": "The EU regularly updates the list of pests that are temporarily prohibited from introduction into the EU on the basis of available scientific evidence. The list is published in the Annex of Regulation 2022/1941 .",
@@ -28,5 +28,9 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2019/2072/oj"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601553",
-  "detail_fetched_at": "2026-09-05T12:57:55.634666+00:00"
+  "detail_fetched_at": "2026-09-06T10:14:28.557023+00:00",
+  "title_fr": "Révision des listes d'interdiction temporaire des phytoravageurs",
+  "summary_fr": "L'UE ajoute la chenille à tête de chou mexicaine et le scarabée noir à la liste des ravageurs interdits et étend l'inscription ...",
+  "impacted_products_fr": "Luzerne, pomme, asperge, aubergine, banane/plantain, brocoli, chou, chou-fleur, pois chiche, agrumes, café, haricot commun, concombre, ail, vigne, laitue, maïs, oignon, pêche, cacahuète",
+  "translated_at": "2026-09-06T10:14:31.278263+00:00"
 }
