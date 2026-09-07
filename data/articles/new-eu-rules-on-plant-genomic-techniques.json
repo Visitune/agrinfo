@@ -10,7 +10,7 @@
     "Food safety",
     "Biotechnologies"
   ],
-  "fetched_at": "2026-09-05T12:57:27.331082+00:00",
+  "fetched_at": "2026-09-07T11:29:54.945712+00:00",
   "update": "The European Union (EU) has published new rules on the marketing of crops produced using certain new genomic techniques (NGTs) that change genetic material in plants. The new rules classify NGTs in two categories as follows.\n\nCategory 1 NGT plants – that could occur naturally or by conventional breeding – will not be considered as genetically modified organisms (GMOs) and therefore do not have to comply with EU GMO rules. They will have to undergo a verification procedure prior to being put on the EU market, but will not need to be risk-assessed and authorised. Category 2 NGT plants – where changes to the plant could not occur naturally or through conventional breeding – will have to comply with the GMO rules, including risk assessment and authorisation.",
   "impacted_products": "",
   "what_changing": "",
@@ -27,5 +27,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=SWD:2023:412:FIN"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
-  "detail_fetched_at": "2026-09-05T12:57:58.648469+00:00"
+  "detail_fetched_at": "2026-09-07T11:31:21.225000+00:00",
+  "title_fr": "Nouvelles règles de l'UE sur les techniques génomiques végétales",
+  "summary_fr": "L'UE publie de nouvelles règles sur les techniques génomiques des plantes",
+  "translated_at": "2026-09-07T11:31:22.765913+00:00"
 }

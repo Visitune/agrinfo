@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-06T10:13:02.298975+00:00",
+  "fetched_at": "2026-09-07T11:29:54.943917+00:00",
   "update": "The European Union (EU) is proposing to increase the maximum residue levels (MRLs) for prothioconazole on certain fruits and vegetables, rapeseeds, and rice.",
   "impacted_products": "Apples, pears, quinces, medlars, loquats/Japanese medlars, apricots, cherries (sweet), plums, celeriac/turnip rooted celeries, garlic, cucumbers, gherkins, courgettes, other curcurbits (edible peel), melons, pumpkins, watermelons, other curcurbits (inedible peel), rapeseeds/canola seeds, rice",
   "what_changing": "The EU is proposing to increase the MRLs for prothioconazole as shown in Table 1.",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-06T10:14:22.177573+00:00",
+  "detail_fetched_at": "2026-09-07T11:31:09.665815+00:00",
   "title_fr": "Limites maximales de résidus pour le prothioconazole",
   "summary_fr": "L'UE propose d'augmenter les LMR pour le prothioconazole sur certains fruits et légumes, les graines de colza et le riz",
   "impacted_products_fr": "Pommes, poires, coings, medlars, loquats/medlars japonais, abricots, cerises (douces), prunes, céleris-raves/navets, ail, concombres, cornichons, courgettes, autres courgettes (écorces comestibles),",
-  "translated_at": "2026-09-06T10:14:24.963035+00:00"
+  "translated_at": "2026-09-07T11:31:12.042305+00:00"
 }

@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-06T10:13:01.336556+00:00",
+  "fetched_at": "2026-09-07T11:29:54.118128+00:00",
   "update": "The European Union (EU) is discussing an increase in the existing maximum residue level (MRL) for cyflumetofen on sweet peppers/bell peppers.",
   "impacted_products": "Sweet peppers/bell peppers",
   "what_changing": "The EU is discussing an increase in the MRL for cyflumetofen on sweet peppers/bell peppers from the limit of determination (LOD) of 0.01 to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1164&qid=1759228094951"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-06T10:13:47.606055+00:00",
+  "detail_fetched_at": "2026-09-07T11:30:35.211007+00:00",
   "title_fr": "Concentrations maximales de résidus de cyflumétofène",
   "summary_fr": "L'UE discute de l'augmentation de la LMR de cyflumétofène sur les poivrons doux/poivrons",
   "impacted_products_fr": "Poivrons doux/poivrons",
-  "translated_at": "2026-09-06T10:13:50.189116+00:00"
+  "translated_at": "2026-09-07T11:30:37.434205+00:00"
 }
