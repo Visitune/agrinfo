@@ -9,7 +9,7 @@
   "tags": [
     "Animal health"
   ],
-  "fetched_at": "2026-09-07T11:29:54.117616+00:00",
+  "fetched_at": "2026-09-08T10:31:38.881059+00:00",
   "update": "The European Union (EU) has updated the animal health requirements for non-EU countries exporting animals and animal products to the EU. The changes include:\n\nremoval of gelatine, collagen, and highly refined products from the scope of animal health requirements – animal health rules will no longer apply to these products updated identification methods for certain animals extended application of specific requirements in relation to horse diseases stricter rules on raw meat from countries with foot and mouth disease update of risk-mitigating treatments for dairy and eggs clarification of risk-mitigating treatments for dairy and egg ingredients in composite products review of information in vaccination programmes against highly pathogenic avian influenza (HPAI) updated list of individual EU Member State measures on aquatic species susceptible to diseases identification of vector species for the protozoan parasite Mikrocytos mackini .",
   "impacted_products": "Dairy, shelf-stable products, milk, eggs and egg products, aquatic species",
   "what_changing": "Regulation 2020/692 sets out the specific health conditions that apply to animals and animal products exported from non-EU countries to the EU. The new Regulation 2026/1052 amends the following Articles in Regulation 2020/692.",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020R0692&qid=1663576929572"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2026/1052/oj/eng",
-  "detail_fetched_at": "2026-09-07T11:30:31.794419+00:00",
+  "detail_fetched_at": "2026-09-08T10:32:45.712584+00:00",
   "title_fr": "Règles de santé animale pour les pays non membres de l'UE : mise à jour 2026",
   "summary_fr": "L'UE met à jour les règles de santé animale pour les pays tiers",
   "impacted_products_fr": "Produits laitiers, produits de longue conservation, lait, œufs et ovoproduits, espèces aquatiques",
-  "translated_at": "2026-09-07T11:30:34.614165+00:00"
+  "translated_at": "2026-09-08T10:32:48.428528+00:00"
 }

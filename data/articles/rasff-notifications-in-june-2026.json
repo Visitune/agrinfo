@@ -9,7 +9,7 @@
   "tags": [
     "Official controls"
   ],
-  "fetched_at": "2026-09-05T12:57:25.342953+00:00",
+  "fetched_at": "2026-09-08T10:31:38.880125+00:00",
   "update": "This report summarises Rapid Alert System for Food and Feed (RASFF) notifications of products entering the European Union (EU) from low- and middle-income countries that occurred in June 2026:\n\n219 notifications on food products 4 notifications on feed 2 notifications on food contact materials\n\noriginating from 45 AGRINFO partner countries .",
   "impacted_products": "",
   "what_changing": "",
@@ -23,5 +23,8 @@
     "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-  "detail_fetched_at": "2026-09-05T12:57:40.995237+00:00"
+  "detail_fetched_at": "2026-09-08T10:32:39.887264+00:00",
+  "title_fr": "Notifications RASFF en juin 2026",
+  "summary_fr": "45 pays partenaires d'AGRINFO ont reçu des notifications RASFF en juin 2026",
+  "translated_at": "2026-09-08T10:32:41.552573+00:00"
 }

@@ -1,0 +1,33 @@
+{
+  "id": "maximum-residue-level-for-recombinant-equine-chorionic-gonadotropin-recg",
+  "title": "Maximum residue level for recombinant equine chorionic gonadotropin (reCG)",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-level-for-recombinant-equine-chorionic-gonadotropin-recg/",
+  "pub_date": "2026-08-31",
+  "revised_date": "",
+  "regulation": "2026/1806",
+  "summary": "EU decides no MRL is required for recombinant equine chorionic gonadotropin (reCG)",
+  "tags": [
+    "Veterinary residues"
+  ],
+  "fetched_at": "2026-09-08T10:31:38.100790+00:00",
+  "update": "The European Union (EU) has decided that recombinant equine chorionic gonadotropin (reCG), a biological substance primarily used in veterinary medicines for treating horses, does not require a maximum residue level (MRL). This applies to its use in all food-producing species.",
+  "impacted_products": "Foods of animal origin",
+  "what_changing": "The EU has decided that reCG, an active substance primarily used in veterinary medicines for the treatment of horses, does not require an MRL. It is therefore classified as “No MRL required” in the list of pharmacologically active substances (Regulation 37/2010 , Annex, Table 1). This classification applies to all food-producing species.",
+  "why": "The European Medicines Agency (EMA) evaluates biological substances under the EU’s residue control framework. Following a 2025 application for evaluation from Syn Vet-Pharma Ireland Limited, the EMA’s Committee for Veterinary Medicinal Products (CVMP) concluded that no further MRL assessment was necessary because reCG is similar to naturally occurring substances and is expected to follow the same degradation process in the human digestive tract ( CVMP 2026 ).",
+  "timeline": "The Regulation applies from 13 August 2026 .",
+  "actions": "",
+  "background": "A list of pharmacologically active substances that can be used in veterinary medicines for food-producing animals is set out in Regulation 37/2010 . This list includes a classification regarding MRLs. Substances are assessed according to the risk principles set out in Regulation 2018/782 .",
+  "resources": "CVMP (2026) Recombinant equine Chorionic Gonadotropin (reCG): Summary of assessment , 16 April. Commission Regulation (EU) 2018/782 establishing the methodological principles for the risk assessment and risk management recommendations referred to in Regulation (EC) No 470/2009 Commission Regulation (EU) No 37/2010 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg_impl/2026/1806/oj/eng?ct=1787211112246",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02010R0037-20260816&qid=1787212590905",
+    "https://eur-lex.europa.eu/eli/reg/2018/782/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1806/oj/eng?ct=1787211112246",
+  "detail_fetched_at": "2026-09-08T10:31:51.985342+00:00",
+  "title_fr": "Niveau maximal de résidus pour la gonadotrophine chorionique équine recombinante (reCG)",
+  "summary_fr": "L'UE décide qu'aucune LMR n'est requise pour la gonadotrophine chorionique équine recombinante (reCG)",
+  "impacted_products_fr": "Aliments d'origine animale",
+  "translated_at": "2026-09-08T10:31:55.160482+00:00"
+}

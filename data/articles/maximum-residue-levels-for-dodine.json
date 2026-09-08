@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-07T11:29:54.941473+00:00",
+  "fetched_at": "2026-09-08T10:31:39.781062+00:00",
   "update": "The European Union (EU) is proposing to increase the maximum residue level (MRL) for dodine on grapes from 0.01 to 2 mg/kg.",
   "impacted_products": "Wine grapes, table grapes",
   "what_changing": "The EU is proposing to increase the MRL for dodine on table grapes and wine grapes from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-07T11:30:55.231658+00:00",
+  "detail_fetched_at": "2026-09-08T10:33:13.604597+00:00",
   "title_fr": "Teneurs maximales en résidus pour la dodine",
   "summary_fr": "L'UE propose une augmentation de la LMR pour la dodine sur les raisins",
   "impacted_products_fr": "En ce qui concerne les variétés à raisins de cuve et à raisins de table",
-  "translated_at": "2026-09-07T11:30:58.007992+00:00"
+  "translated_at": "2026-09-08T10:33:15.879717+00:00"
 }
