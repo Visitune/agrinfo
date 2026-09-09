@@ -11,7 +11,7 @@
     "Pesticide MRLs",
     "Pesticides"
   ],
-  "fetched_at": "2026-09-08T10:31:39.779727+00:00",
+  "fetched_at": "2026-09-09T10:42:49.146044+00:00",
   "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for deltamethrin on kiwi fruits, melons, and watermelons. In May 2026 the MRL was increased on cherries.",
   "impacted_products": "Kiwi fruits, melons, watermelons",
   "what_changing": "The EU is proposing to change the MRLs for deltamethrin as listed in Table 1.",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1164&qid=1759228094951"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
-  "detail_fetched_at": "2026-09-08T10:33:04.783495+00:00",
+  "detail_fetched_at": "2026-09-09T10:45:24.334489+00:00",
   "title_fr": "Teneurs maximales en résidus de deltaméthrine",
   "summary_fr": "L'UE propose d'augmenter les LMR pour la deltaméthrine sur les kiwis, les melons et les pastèques",
   "impacted_products_fr": "Kiwis, melons, pastèques",
-  "translated_at": "2026-09-08T10:33:07.218048+00:00"
+  "translated_at": "2026-09-09T10:45:26.766035+00:00"
 }

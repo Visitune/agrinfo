@@ -10,7 +10,7 @@
     "Animal health",
     "Third country lists"
   ],
-  "fetched_at": "2026-09-08T10:31:38.879257+00:00",
+  "fetched_at": "2026-09-09T10:42:48.542967+00:00",
   "update": "The EU has lifted its restrictions on imports of Argentinian fresh meat of poultry and game birds, and poultry products. The restrictions were introduced in March 2026 following an outbreak of highly pathogenic aviation influenza (HPAI).",
   "impacted_products": "Fresh poultry meat and game birds, and their products",
   "what_changing": "Following an outbreak of HPAI in the Buenos Aires region of Argentina, in March 2026 Argentinian imports of fresh poultry and game bird meat to the EU were suspended (Regulation 2026/520 ).\n\nIn addition, poultry products could only be imported into the EU if they had undergone a stricter risk-mitigating treatment (treatment D in Annex XXVI of Regulation 2020/692 ).\n\nThis Regulation lifts those restrictions: Argentina can now export fresh meat of poultry and game birds to the EU, and there are no restrictions on imports of poultry products.",
@@ -28,9 +28,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02021R0404-20220713"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1813/oj",
-  "detail_fetched_at": "2026-09-08T10:32:31.700308+00:00",
+  "detail_fetched_at": "2026-09-09T10:44:30.444446+00:00",
   "title_fr": "IAHP : Restrictions de l'UE sur les importations de volaille en provenance d'Argentine",
   "summary_fr": "L'UE réautorise les importations de volaille en provenance d'Argentine",
   "impacted_products_fr": "Viande fraîche de volaille et de gibier à plumes, et leurs produits",
-  "translated_at": "2026-09-08T10:32:34.274747+00:00"
+  "translated_at": "2026-09-09T10:44:35.633894+00:00"
 }

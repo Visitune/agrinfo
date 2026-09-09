@@ -1,6 +1,69 @@
 {
  "articles": [
   {
+   "id": "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
+   "title": "Maximum levels of cereulide toxin in foods for infants",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-levels-of-cereulide-toxin-in-foods-for-infants/",
+   "pub_date": "Sept. 3, 2026",
+   "revised_date": "",
+   "regulation": "",
+   "summary": "EU to set maximum levels for cereulide toxin in infant formulae, follow-on formulae, and foods for special …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-09-09T10:42:47.866417+00:00",
+   "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
+   "what_changing": "The European Commission proposes to set maximum levels for cereulide – a toxin produced by strains of Bacillus cereus – in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants. The proposed limit for infant formulae, follow-on formulae and foods for special medical purposes intended for infants is set at 0.1 µg/kg. This relates to products placed on the market during their shelf-life.\n\nThese limits will be included in Regulation 2073/2005 , which sets microbiological criteria for foodstuffs. Information on sampling is included in Annex I.",
+   "why": "Between December 2025 and May 2026, multiple manufacturers detected cereulide toxin in infant foods. Several EU Member States reported cases of infants experiencing severe gastrointestinal symptoms after consuming products that were later recalled from the market. Following a rapid risk assessment in February 2026, the European Food Safety Authority established an acute reference dose (ARfD) and acceptable cereulide concentrations in foods intended for infants ( EFSA 2026 ).",
+   "timeline": "Stakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 .",
+   "actions": "Producers of foods intended for infants should review their current practices. Cereulide contamination can be fully prevented through rigorous manufacturing practices and hygiene controls.\n\nAll interested stakeholders are invited to give feedback via the European Commission’s Have your say platform until 29 September 2026 . Stakeholders wishing to respond must be registered. Those who are not will first need to create an EU login account , then register their organisation on the EU Transparency register .",
+   "background": "Cereulide is an emetic toxin produced by certain strains of Bacillus cereus . Infants are particularly vulnerable to the effects of cereulide due to their low body weight and limited ability to metabolise and eliminate toxins. Their exposure to even low levels of this toxin can lead to severe illness, including persistent vomiting, dehydration, and electrolyte imbalances. In some cases, it may be fatal.\n\nRegulation 2073/2005 sets microbiological criteria (food safety and process hygiene) for foodstuffs, as well as rules for sampling and preparing test samples.",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng",
+   "detail_fetched_at": "2026-09-09T10:43:04.338344+00:00",
+   "title_fr": "Teneurs maximales en toxine céréulide dans les aliments pour nourrissons",
+   "summary_fr": "L'UE fixera des teneurs maximales en toxine céréulide dans les préparations pour nourrissons, les préparations de suite et les aliments pour …",
+   "impacted_products_fr": "Préparations pour nourrissons, préparations de suite et aliments à usage médical spécial destinés aux nourrissons",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "2026-09-09T10:43:08.853164+00:00",
+   "tags": [
+    "Food safety"
+   ]
+  },
+  {
+   "id": "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
+   "title": "EU import requirements for certain dairy products and fishery products",
+   "url": "https://agrinfo.eu/book-of-reports/eu-import-requirements-for-certain-dairy-products-and-fishery-products/",
+   "pub_date": "Sept. 3, 2026",
+   "revised_date": "",
+   "regulation": "2026/1304",
+   "summary": "EU clarifies requirements for farmed bivalve molluscs, echinoderms, tunicates and marine gastropods, and food preparations based on …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-09-09T10:42:47.867063+00:00",
+   "impacted_products": "Food preparations based on dairy products and fishery products; live, chilled, frozen and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods",
+   "what_changing": "",
+   "why": "",
+   "timeline": "The new rules apply from 13 September 2026 .",
+   "actions": "Competent authorities in exporting countries may need to update certification procedures for animal products in the newly added CN categories.",
+   "background": "Regulation 2017/625 lays down rules for official controls to verify that animals and goods entering the EU comply with EU food and food safety requirements.\n\nRegulation 2022/2292 supplements those rules for the entry into the EU of food-producing animals and certain goods intended for human consumption. It sets out the obligations for exporting countries to be listed in the Annexes to Regulation 2021/405 and to approve the operators exporting to the EU, and to lay down a control plan for pesticides, contaminants, and pharmacological substances. It also identifies the relevant products by CN or HS codes.\n\nRegulation 853/2004 lays down specific hygiene rules for products of animal origin. It requires food business operators importing products of animal origin from non-EU countries to ensure that the country is listed for the product concerned, and that the establishment from which the product was dispatched, obtained, or prepared is also listed.\n\nIn September 2023, Regulation 2023/2652 amended and corrected Regulation 2022/2292 for honey, meat products, highly refined products, gelatine capsules, fishery products, and private attestations.\n\nIn January 2025, Regulation 2025/637 added certain dairy products, food additives derived from animals, and collagen casings with CN/HS customs codes 1301, 1806, 3203, 3204, 3823, 3824, 2202 99, and 3917 10 10 to the list of products that can only be imported from authorised non-EU countries. It introduced certain dairy products and collagen casings with customs codes 1806, 2202 99, and 3917 10 10 in the list of products that can only be exported from listed establishments.",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj/eng",
+   "detail_fetched_at": "2026-09-09T10:43:09.361972+00:00",
+   "title_fr": "Exigences d'importation de l'UE pour certains produits laitiers et produits de la pêche",
+   "summary_fr": "L'UE clarifie les exigences pour les mollusques bivalves d'élevage, les échinodermes, les tuniciers et les gastéropodes marins, et les préparations alimentaires basées sur …",
+   "impacted_products_fr": "Préparations alimentaires à base de produits laitiers et de produits de la pêche ; mollusques bivalves, échinodermes, tuniciers et gastéropodes marins vivants, réfrigérés, congelés et transformés",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "2026-09-09T10:43:13.867458+00:00",
+   "tags": [
+    "Fish",
+    "Food safety",
+    "Food safety controls",
+    "Hygiene",
+    "Third country lists",
+    "Veterinary residues"
+   ]
+  },
+  {
    "id": "rasff-notifications-in-july-2026",
    "title": "RASFF notifications in July 2026",
    "url": "https://agrinfo.eu/book-of-reports/rasff-notifications-in-july-2026/",
@@ -9,7 +72,7 @@
    "regulation": "",
    "summary": "36 AGRINFO partner countries received RASFF notifications in July 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.099840+00:00",
+   "fetched_at": "2026-09-09T10:42:47.867561+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -18,13 +81,13 @@
    "background": "The Rapid Alert System for Food and Feed ( RASFF ) was set up to allow EU food safety authorities to rapidly exchange information on health risks from food or feed, enabling them to take immediate action to avert the risk. RASFF provides a round-the-clock service to ensure that urgent notifications are sent, received, and responded to collectively and efficiently. Information exchanged through RASFF can lead to products being recalled from the EU market, averting risks before they can cause harm, from farm to fork.\n\nThe European Commission must inform non-EU countries if an exported product is subject to a notification, so that the country’s authorities and exporters can take corrective measures.\n\nThe legal basis for RASFF is set out in Art. 50 of the EU General Food Law (Regulation 178/2002 ).\n\nFor further information see Official Controls Regulation – explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-   "detail_fetched_at": "2026-09-08T10:31:45.194057+00:00",
+   "detail_fetched_at": "2026-09-09T10:43:14.955438+00:00",
    "title_fr": "Notifications RASFF en juillet 2026",
    "summary_fr": "36 pays partenaires d'AGRINFO ont reçu des notifications RASFF en juillet 2026",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:31:47.206966+00:00",
+   "translated_at": "2026-09-09T10:43:20.546781+00:00",
    "tags": [
     "Official controls"
    ]
@@ -38,7 +101,7 @@
    "regulation": "",
    "summary": "Latest EU overview of food found not to comply with EU law",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.100305+00:00",
+   "fetched_at": "2026-09-09T10:42:47.868145+00:00",
    "impacted_products": "Apricots, apple-pomegranate, bakery products, banana leaf extract, bananas, buckwheat, cake mix, cardamom (organic), catfish (Arius proops), chocolate, duck eggs, food supplements, frog legs, ginger, honey, miso paste, muscimol powder, noodles, olive oil, palm cream, palm oil, passion fruit pulp, dragon fruit pulp, prekese (Tetrapleura tetraptera), rice flour, S-adenosyl-L-methionine disulfate tosylate, sauces (adobo and chilli), sheep casings, shrimps (Litopenaeus vannamei), soyabean hull pellets, spice mix, sweets, tea, green tea, tilapia (Oreochromis niloticus)",
    "what_changing": "",
    "why": "",
@@ -47,19 +110,48 @@
    "background": "These monthly reports compile information notified to the EU’s Rapid Alert System for Food and Feed Network ( RASFF ), Administrative Assistance and Cooperation Network ( AAC ), and Agri-Food Fraud Network ( FFN ). The reports also include non-compliances with EU rules that do not present a risk but have triggered investigations by the competent authorities of individual importing EU Member States.",
    "detail_summary": "",
    "eurlex_url": "",
-   "detail_fetched_at": "2026-09-08T10:31:48.007394+00:00",
+   "detail_fetched_at": "2026-09-09T10:43:21.393864+00:00",
    "title_fr": "Rapports sur le non-respect de la législation alimentaire de l'UE et la fraude agroalimentaire : juillet 2026",
    "summary_fr": "Dernier aperçu de l'UE des aliments jugés non conformes à la législation de l'UE",
    "impacted_products_fr": "Abricots, pomme-grenade, produits de boulangerie, extrait de feuille de banane, bananes, sarrasin, mélange à gâteau, cardamome (biologique), poisson-chat (Arius proops), chocolat, œufs de canard, compléments alimentaires, cuisses de grenouille, gingembre,",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:31:51.278624+00:00",
+   "translated_at": "2026-09-09T10:43:27.993431+00:00",
    "tags": [
     "Feed safety",
     "Food safety",
     "Food safety controls",
     "Labelling",
     "Official controls"
+   ]
+  },
+  {
+   "id": "new-genomic-techniques-information-needed-for-verification-and-authorisation",
+   "title": "New genomic techniques: information needed for verification and authorisation",
+   "url": "https://agrinfo.eu/book-of-reports/new-genomic-techniques-information-needed-for-verification-and-authorisation/",
+   "pub_date": "Sept. 2, 2026",
+   "revised_date": "",
+   "regulation": "",
+   "summary": "Two opportunities to comment on future EU rules setting information requirements for the verification and authorisation of …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-09-09T10:42:47.868655+00:00",
+   "impacted_products": "NGT plants and products",
+   "what_changing": "New EU rules on the marketing of crops produced using certain NGTs that change genetic material in plants – without inserting genes from other plants – will apply from 17 July 2028 (see New EU rules on plant genomic techniques ). The new rules classify NGTs in two categories:\n\nCategory 1 NGT plants – that could occur naturally or by conventional breeding – will not be considered as genetically modified organisms and therefore do not have to comply with EU rules on GMOs. They will have to undergo a verification procedure prior to being put on the EU market, but will not need to be risk assessed and authorised. Category 2 NGT plants – where changes to the plant could not occur naturally or through conventional breeding – will have to comply with EU GMO rules, including risk assessment and authorisation; however, as NGTs have specific characteristics, special rules apply.\n\nThe EU will publish a Regulation on the information that operators will need to submit to allow the EU to verify Category 1 NGT plants and products, and to authorise Category 2 ones. This information will include:\n\nFor Category 1 NGT plants and products – the information needed to demonstrate that a plant or product has Category 1 status, information on patents (published or applications), and the willingness of the patent holder to license their patents. For Category 2 NGT plants and products – the methodology and information needed to carry out relevant food and feed safety, and environmental risk assessments the requirements for preparing and submitting notifications and applications for NGT plants and products, and the conditions in which post-market environmental monitoring is not required performance requirements for analytical methods.",
+   "why": "The new NGT rules aim to incentivise and facilitate the development and marketing of safe plants and products obtained using NGTs by lowering market access costs, providing legal clarity, and simplifying rules, with the overall objective of benefiting farmers, consumers, and the environment.\n\nThe EU will set harmonised requirements and procedures to ensure a consistent verification process for Category 1 NGT plants, as verifications will initially be carried out by individual EU Member States.\n\nSince the risk assessment required for Category 2 NGT plants provides flexibility according to the characteristics of the product, clear information requirements will help EU Member States to assess applications consistently and reduce the risk of delays in authorisation.",
+   "timeline": "Provisions regulating the sale of NGT plants and products on the EU market will apply from 17 July 2028 .",
+   "actions": "All interested stakeholders are invited to give feedback via the relevant European Commission Have Your Say platform until 28 September 2026 :\n\nPlants obtained by new genomic techniques: information requirements and verification of category 1 status Plants obtained by new genomic techniques: applications for category 2 plants and their products\n\nStakeholders wishing to respond must be registered. Those who are not will first need to create an EU login account , then register their organisation on the EU Transparency register .\n\nThe Commission specifically invites scientific researchers, academic organisations, and scientific associations with expertise in the area of NGT plants to submit relevant published and pre-print scientific research, analyses, and data.",
+   "background": "The EU’s rules on GMOs were adopted in 2001 (Directive 2001/18/EC ). Since then, a variety of NGTs have been developed. A 2021 review of GMO legislation concluded that the current rules did not reflect scientific and technological progress, and prevented the development and marketing of NGT products that could be beneficial to farmers, consumers, and the environment ( European Commission 2021 ).\n\nIn conventional genetic engineering, certain traits related to one organism can be transferred into a second organism by inserting entire genes into the genome of another (third) organism. These genes are not targeted, but are inserted randomly into the genome.\n\nBy contrast, certain NGTs involve targeting individual parts of the DNA (nucleotides) to obtain certain effects, similar to natural mutations that occur in living cells. New genomic techniques include:\n\nmutagenesis: modification of the DNA sequence at precise locations in the genome of an organism cisgenesis: insertion in the genome of genetic material already present in the breeder’s gene pool.",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
+   "detail_fetched_at": "2026-09-09T10:43:28.448975+00:00",
+   "title_fr": "Nouvelles techniques génomiques : informations nécessaires à la vérification et à l'autorisation",
+   "summary_fr": "Deux occasions de commenter les futures règles de l'UE fixant les exigences en matière d'information pour la vérification et l'autorisation de …",
+   "impacted_products_fr": "Usines et produits NGT",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "2026-09-09T10:43:31.234294+00:00",
+   "tags": [
+    "Biotechnologies"
    ]
   },
   {
@@ -71,7 +163,7 @@
    "regulation": "2026/2029",
    "summary": "EU raises husked rice import tariff to €42.50 per tonne",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.099306+00:00",
+   "fetched_at": "2026-09-09T10:42:47.865855+00:00",
    "impacted_products": "Husked (brown) non-basmati rice",
    "what_changing": "The European Union (EU) has raised the import tariff for husked rice (CN code 1006 20) from €30.00 to €42.50 per tonne. This does not apply to husked basmati rice – for specific eligible varieties of basmati – for which the import tariff is always zero.",
    "why": "The import tariff for husked rice (excluding basmati rice) is set in September based on imports in the previous marketing year (September–August).",
@@ -80,13 +172,13 @@
    "background": "The procedure for establishing import tariffs for husked rice other than basmati rice – the result of negotiations with the USA – is set out in Council Decision 2005/476/EC . Zero duty applies to certain varieties of basmati rice that are listed in Regulation 2023/2835 .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2029/oj",
-   "detail_fetched_at": "2026-09-08T10:31:41.341361+00:00",
+   "detail_fetched_at": "2026-09-09T10:42:50.197821+00:00",
    "title_fr": "Tarifs d'importation du riz décortiqué",
    "summary_fr": "L'UE augmente les droits d'importation du riz décortiqué à 42,50 € la tonne",
    "impacted_products_fr": "Riz décortiqué (brun) non basmati",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:31:44.105501+00:00",
+   "translated_at": "2026-09-09T10:43:03.801354+00:00",
    "tags": [
     "Tariffs & quotas",
     "Trade"
@@ -101,7 +193,7 @@
    "regulation": "2026/1806",
    "summary": "EU decides no MRL is required for recombinant equine chorionic gonadotropin (reCG)",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.100790+00:00",
+   "fetched_at": "2026-09-09T10:42:47.869214+00:00",
    "impacted_products": "Foods of animal origin",
    "what_changing": "The EU has decided that reCG, an active substance primarily used in veterinary medicines for the treatment of horses, does not require an MRL. It is therefore classified as “No MRL required” in the list of pharmacologically active substances (Regulation 37/2010 , Annex, Table 1). This classification applies to all food-producing species.",
    "why": "The European Medicines Agency (EMA) evaluates biological substances under the EU’s residue control framework. Following a 2025 application for evaluation from Syn Vet-Pharma Ireland Limited, the EMA’s Committee for Veterinary Medicinal Products (CVMP) concluded that no further MRL assessment was necessary because reCG is similar to naturally occurring substances and is expected to follow the same degradation process in the human digestive tract ( CVMP 2026 ).",
@@ -110,13 +202,13 @@
    "background": "A list of pharmacologically active substances that can be used in veterinary medicines for food-producing animals is set out in Regulation 37/2010 . This list includes a classification regarding MRLs. Substances are assessed according to the risk principles set out in Regulation 2018/782 .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1806/oj/eng?ct=1787211112246",
-   "detail_fetched_at": "2026-09-08T10:31:51.985342+00:00",
+   "detail_fetched_at": "2026-09-09T10:43:31.625026+00:00",
    "title_fr": "Niveau maximal de résidus pour la gonadotrophine chorionique équine recombinante (reCG)",
    "summary_fr": "L'UE décide qu'aucune LMR n'est requise pour la gonadotrophine chorionique équine recombinante (reCG)",
    "impacted_products_fr": "Aliments d'origine animale",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:31:55.160482+00:00",
+   "translated_at": "2026-09-09T10:43:33.845629+00:00",
    "tags": [
     "Veterinary residues"
    ]
@@ -159,7 +251,7 @@
    "regulation": "",
    "summary": "European Commission publishes economic impact study on lowering import tolerance MRLs on hazardous pesticides",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.102589+00:00",
+   "fetched_at": "2026-09-09T10:42:48.539664+00:00",
    "impacted_products": "",
    "what_changing": "In December 2025, the European Commission proposed to align the rules on pesticide MRLs that apply to imported products with those that apply to EU production. The proposed changes create the possibility to reduce existing MRLs to 0.01 mg/kg (the limit of quantification, LOQ) on pesticides not approved in the EU where they are categorised as hazardous for public health or the environment (see Simplification of rules on pesticide MRLs and approvals ).\n\nThis study by the Commission’s Joint Research Centre (JRC) analyses the potential economic impacts of this proposal. The study only looks at the economic implications of the proposal (not the environmental or social implications), and sets out a range of possible outcomes. Importantly, it notes that that insufficient evidence is available to predict the implications with confidence and that further assessment is needed.\n\nThe study identifies the most relevant pesticides, focusing on substances that are:\n\nnot approved in the EU identified as “highly hazardous” (see Background) authorised for use in non-EU countries detected during residue monitoring.\n\nEighteen substances are identified as particularly significant in terms of economic impact (see Table 1). The study combines this information with data on trade flows, modelling 235 commodities from 86 exporting countries.\n\nThe study predicts that lowering MRLs will lead to a decline in imports of food products, an increase in EU production, and a rise in consumer prices. It models future impacts – if non-EU countries can adapt their production methods to continue complying with EU rules and exporting to the EU, the projected decline in imports is just 0.4%; however, this rises to 41% if countries are not able to adapt. The study also includes an in-depth analysis of cyproconazole, which finds that using alternatives to this substance could raise production costs by 20–40%.",
    "why": "The JRC was requested to undertake a preliminary study to scope the potential impacts of the European Commission’s proposed policy changes. This is the first step in an impact assessment that was launched by the Commission in November 2025. The full impact assessment aims to “assess notably potential impacts on trade flows for the EU, the competitiveness of European producers and the potential impact on consumers” ( European Commission 2025 ).",
@@ -168,13 +260,13 @@
    "background": "In December 2025, the European Commission proposed to align rules for EU production and imports by setting MRLs for hazardous pesticides not approved in the EU at the default level of 0.01 mg/kg. This level is the limit of quantification (LOQ), the lowest concentration of a substance that can be measured with certainty using standard tests. Such MRLs are either specific import tolerances requested by pesticide manufacturers, or MRLs based on Codex Alimentarius international standards. See Pesticide residue import tolerance MRLs explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32009R1107&qid=1766151889409",
-   "detail_fetched_at": "2026-09-08T10:32:07.192683+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:00.406532+00:00",
    "title_fr": "Étude d'impact économique de la Commission européenne sur les modifications proposées aux règles de l'UE en matière de LMR pour les pesticides",
    "summary_fr": "La Commission européenne publie une étude d'impact économique sur l'abaissement des LMR de tolérance à l'importation sur les pesticides dangereux",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:09.142153+00:00",
+   "translated_at": "2026-09-09T10:44:08.701955+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -189,7 +281,7 @@
    "regulation": "",
    "summary": "European Commission publishes action plan to strengthen protein supply and reduce import dependence",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.877946+00:00",
+   "fetched_at": "2026-09-09T10:42:48.540167+00:00",
    "impacted_products": "Protein crops, oilseeds, soyabeans, soya meal, dry pulses, cereals, grass and forage, animal feed, plant-based protein products, legumes",
    "what_changing": "The European Commission has published a plan of coordinated action across the protein supply chain to increase EU production and strategic autonomy, improve the resilience and competitiveness of the feed and livestock system, and strengthen protein value chains.\n\nThe plan seeks greater diversification of protein imports, which nowadays come mostly from the USA and Brazil. Ukraine could potentially become a more significant supplier of plant-based protein. Specifically, the Action Plan proposes the following.",
    "why": "The EU currently produces around 67.2 million tonnes of plant protein, but most of this comes from roughage and cereals. Protein-rich crops such as oilseeds and pulses account for a much smaller share of EU protein production. At the same time, the EU remains highly dependent on imports of high-protein feed, particularly soyabeans. In 2024–2025, about 13.4 million tonnes of protein were imported mainly as soyabean and soya meal, while 74% of high-protein oilseed and protein-crop feed used in the EU was imported, and 94% of soya protein was imported.\n\nThe EU identifies this dependence as a vulnerability affecting food security, competitiveness, and resilience, together with underdeveloped EU protein value chains, limited profitability of protein crops, infrastructure and investment gaps, imported feed additives, and barriers to consumer uptake of alternative proteins.",
@@ -198,13 +290,13 @@
    "background": "The EU protein system is heavily reliant on imported high-protein feed. This is due to interconnected challenges including underdeveloped protein crop value chains, imported vitamins and amino acids, insufficient competitiveness, limited land availability, environmental pressures, the dependence of certain livestock systems on imported feed, consumption patterns, and barriers to the uptake of alternative proteins. The EU’s Action Plan follows the European Commission’s Vision for Agriculture and Food , and responds to the Versailles Declaration and the European Parliament’s 2023 resolution on a European protein strategy.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2026%3A355%3AFIN&qid=1783486277271",
-   "detail_fetched_at": "2026-09-08T10:32:21.201666+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:09.111804+00:00",
    "title_fr": "Plan d'action du système protéique de l'UE",
    "summary_fr": "La Commission européenne publie un plan d'action pour renforcer l'approvisionnement en protéines et réduire la dépendance aux importations",
    "impacted_products_fr": "Protéagineux, oléagineux, soja, tourteau de soja, légumineuses sèches, céréales, herbe et fourrage, aliments pour animaux, produits à base de protéines végétales, légumineuses",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:24.326670+00:00",
+   "translated_at": "2026-09-09T10:44:11.641544+00:00",
    "tags": [
     "Common Agricultural Policy"
    ]
@@ -218,7 +310,7 @@
    "regulation": "",
    "summary": "Three opportunities to comment on future EU rules on minimum recycled content for plastic packaging",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-07T11:29:53.426947+00:00",
+   "fetched_at": "2026-09-09T10:42:48.540708+00:00",
    "impacted_products": "Packaged products",
    "what_changing": "Under the PPWR (Regulation 2025/40 , Art. 7), plastic packaging, including imported packaged food products, put on the EU market from 2030 will have to meet minimum recycled-content targets.\n\nThe European Commission has launched three consultations to collect technical and practical evidence from stakeholders, including those based outside the EU, to help prepare the detailed rules that will support the implementation of these targets.\n\nInterested stakeholders can provide feedback and evidence on the following.",
    "why": "To implement the recycled plastic content targets, the European Commission wants to develop rules that are workable, verifiable, and enforceable by collecting insights from operators.",
@@ -227,13 +319,13 @@
    "background": "The PPWR requires plastic packaging to contain at least a minimum percentage of recycled plastic per unit of packaging by 2030, with more ambitious targets set for 2040. By 31 December 2026, the European Commission will indicate a methodology to calculate the amount of recycled content. For more details see New EU packaging rules explained .\n\nPackaging is one of the main users of virgin materials and is a significant contributor to waste. In the EU, the share of recycled packaging has been growing slowly between 2014 and 2023 ( European Commission 2025 ) – but much recyclable packaging is still not recycled. This is because there are not enough suitable and economically viable collection and recycling processes.\n\nThe PPWR is part of the EU’s circular economy action plan ( European Commission 2020 ) which commits to making all packaging reusable or recyclable by 2030, and to reducing (over) packaging and packaging waste. To achieve this objective, the PPWR introduces minimum recycled-content targets for plastic packaging to reduce the use of primary raw materials and create demand for recycled plastics.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500040",
-   "detail_fetched_at": "2026-09-07T11:30:10.867907+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:12.134047+00:00",
    "title_fr": "Consultation sur les emballages et les déchets d'emballages : teneur minimale en plastique recyclé",
    "summary_fr": "Trois occasions de commenter les futures règles de l'UE sur la teneur minimale en matières recyclées pour les emballages en plastique",
    "impacted_products_fr": "Produits CONDITIONNÉS",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-07T11:30:13.423960+00:00",
+   "translated_at": "2026-09-09T10:44:19.515527+00:00",
    "tags": [
     "Food contact materials",
     "Packaging",
@@ -249,7 +341,7 @@
    "regulation": "",
    "summary": "EU publishes its long-term livestock strategy",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.103098+00:00",
+   "fetched_at": "2026-09-09T10:42:48.541341+00:00",
    "impacted_products": "Animals and animal products",
    "what_changing": "The European Commission has published its strategy to advance more sustainable production environmentally, economically, and socially in the EU livestock sector.\n\nThe new strategy reinforces strict requirements on food safety, animal welfare, and prevention of animal diseases, and encourages environmentally friendly production.\n\nThe most significant initiatives for operators in non-EU countries are in the following areas.\n\nPublic health : reinforced official controls, in particular for antimicrobials and hormones. Animal health : strengthened disease prevention and response, with more robust disease monitoring systems, biosecurity measures, and disease management, including broader and science-based use of preventive vaccination , and a review of current disease categorisation . Animal welfare : stricter requirements that will also apply to imported products, in particular: phasing-out of cages for laying hens and broilers (proposal by the end of 2026); and transition from crates to pen systems for pigs (proposal by the second quarter of 2027) ending the systematic killing of male chicks evaluating egg marketing rules with the aim of better informing consumers about improvements made by farmers. Labelling : review of labelling rules to improve communication on environmentally friendly, locally sourced, and high-welfare livestock production systems. Feed : reduced EU dependency on imported feed by sourcing locally, exploring alternative feed sources, and improving feeding strategies.\n\nThe new strategy also includes actions to address the following issues.\n\nInnovations for climate change adaptation : support innovations that reduce greenhouse gas emissions, enhance nutrient management, and improve the use of biomass and animal by-products (integrated in the work of the EU agri-food chain Observatory ) harmonise methodologies for measuring livestock greenhouse gas emissions at farm level, and exchange with global partners on measurement and mitigation practices in accordance with the Global Methane Pledge ( European Commission 2021 ) consider extending the EU’s RENURE rules to include some types of manure-based liquid digestates (RENURE rules are amendments to the EU Nitrates Directive 91/676/EEC to allow the use of processed livestock manure products as substitutes for chemical fertilisers; European Commission 2026a ). establish an online livestock platform by 2027 hosting proven solutions for climate, environment, and animal welfare, complementing existing expert groups , implementation dialogues, and food dialogues . Promotion of regionalisation : continue to encourage non-EU countries to recognise regionalisation – identifying specific disease risk zones within countries to prevent trade disruption between entire countries develop guidance on the application of vaccination in support of regionalisation.",
    "why": "The EU livestock strategy is based on feedback collected via a call for evidence and other consultations, for example through expert groups . It responds to recognised challenges for the sector to ensure it can remain sustainable while both managing the impacts of climate change and competing on the world market. The strategy highlights the need to maintain high standards in the EU and build on them to make the EU livestock sector more profitable.\n\nThe strategy also seeks to align practices in non-EU countries with EU requirements to advance sustainability and maintain fair competition for EU producers.",
@@ -258,13 +350,13 @@
    "background": "The livestock strategy complements the EU’s Vision for Agriculture and Food and other EU initiatives including the generational renewal strategy , bioeconomy strategy , water resilience strategy , digital strategy for agriculture , rural action plan , and the animal health law evaluation. It has been delivered together with a new protein action plan (see EU protein system action plan ).\n\nThe European Commission has collected feedback through different channels including the EU Livestock Workstream , expert groups , and a call for evidence (closed on 10 April 2026). For further background on the information collected and the reasoning behind the ’see European Commission (2026b) .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026DC0576&qid=1783500847952",
-   "detail_fetched_at": "2026-09-08T10:32:09.861638+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:20.039358+00:00",
    "title_fr": "Stratégie de l'UE en matière d'",
    "summary_fr": "L'UE publie sa stratégie à long terme en matière d'élevage",
    "impacted_products_fr": "Animaux et produits d’origine animale",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:17.269703+00:00",
+   "translated_at": "2026-09-09T10:44:22.179620+00:00",
    "tags": [
     "Animal health",
     "Biodiversity",
@@ -288,7 +380,7 @@
    "regulation": "",
    "summary": "EU to extend authorised use of non-organic protein feed for piglets and young poultry raised under organic …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.878357+00:00",
+   "fetched_at": "2026-09-09T10:42:48.542406+00:00",
    "impacted_products": "Organic pork and poultry products",
    "what_changing": "Due to a shortage of organic protein feed, the European Union (EU) currently authorises a maximum of 5% of non-organic protein feed per 12-month period to be fed to piglets up to 35 kg and young poultry under organic production.\n\nThe EU proposes to extend this authorisation, currently permitted until 31 December 2026, until 31 December 2036 (amending the date in Regulation 2018/848 , Annex II, Part II, 1.9.3.1(c) and 1.9.4.2(c)).\n\nThis authorisation also applies to livestock producers in non-EU countries.",
    "why": "There is insufficient organic protein feed available on the EU market. The EU therefore proposes to extent the authorisation of limited use of non-organic feed by 10 years to allow time to increase production and achieve protein feed autonomy.",
@@ -297,13 +389,13 @@
    "background": "Regulation 2018/848 authorises the use of non-organic protein feed produced or prepared without chemical solvents, and providing specific protein compounds, when farmers are unable to obtain protein feed exclusively from organic production because it is not available in sufficient quantity.\n\nIn 2023, 2024, and 2025 there has been a shortage of organic protein feed on the EU market. The impact is most acute for piglets and young poultry, which need certain amino acids contained only in protein feed for their growth and welfare.\n\nDecisions regarding the percentage of non-organic feed permitted to be used in organic production are determined by the availability of non-organic feed in the EU, based on information provided by EU Member States.\n\nLivestock producers in non-EU countries must comply with the production rules in Regulation 2018/848 (Art. 45), unless the producing country:\n\nis recognised to have an equivalent system of production under a trade agreement with the EU (Art. 47), or is recognised as equivalent under Regulation 834/2007 and is imported with a certificate of inspection confirming this compliance (this recognition of equivalence is due to expire on 31 December 2026, but the European Commission has proposed an extension to 31 December 2036; see Simplification of organic rules ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2007/834/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:32:24.892444+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:25.452523+00:00",
    "title_fr": "Production biologique : Aliments protéinés non biologiques pour porcelets et jeunes volailles",
    "summary_fr": "L'UE étend l'utilisation autorisée d'aliments protéinés non biologiques pour les porcelets et les jeunes volailles élevés en agriculture biologique …",
    "impacted_products_fr": "Produits biologiques à base de porc et de volaille",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:27.923983+00:00",
+   "translated_at": "2026-09-09T10:44:29.926676+00:00",
    "tags": [
     "Organic production"
    ]
@@ -317,7 +409,7 @@
    "regulation": "2026/1810",
    "summary": "EU amends list of veterinary medicinal products essential for treatment of horses",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.878814+00:00",
+   "fetched_at": "2026-09-09T10:42:48.541921+00:00",
    "impacted_products": "Horse species",
    "what_changing": "Regulation 2025/901 establishes a list of substances that are essential for the treatment of horses, or which are clinically better than comparative treatments.\n\nThe new Regulation 2026/1810 adds the following substances to the list in the Annex to Regulation 2025/901):\n\nketoconazole (only topical use), only as an antifungal for topical treatment of guttural pouch mycosis midazolam as a short-term anti-convulsant for treatment of seizures in nervous system disorders sevoflurane as an anaesthetic by inhalation.\n\nThe new Regulation also removes the following substances from the Annex to an earlier Regulation ( 1950/2006 ): digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), phenytoin, and ticarcillin.\n\nThe remaining substances listed in Regulation 1950/2006 can still be used until 21 May 2027 , to allow authorities, veterinarians and animal keepers time to adjust their practices. After that date, the list in Regulation 2025/901 replaces the list in Regulation 1950/2006).",
    "why": "Guidance from the European Medicines Agency ( EMA 2026 ) concluded that the substances griseofulvin, ketoconazole, midazolam, and sevoflurane are essential or bring added clinical benefit compared to other treatment options available for horse species. However, EMA also assessed whether any residues of these substances would remain after a withdrawal period of 6 months, and could not exclude risks associated with griseofulvin and ketoconazole (oral administration).\n\nFor topical use, ketoconazole is considered better than enilconazole in the treatment of guttural pouch mycosis because it is less of an irritant, and after 6 months no residues are expected. However, oral administration of ketoconazole to food-producing horses poses an unacceptable risk to consumers because its main metabolite is very toxic. Midazolam is a short-term anti-convulsant for treatment of seizures in nervous system disorders for which no suitable alternatives have been identified. Sevoflurane is considered better than isoflurane for anaesthesia by inhalation via face mask in foals because it is less pungent.\n\nDigoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), and phenytoin have been removed from the list as they are considered to pose an unacceptable risk to consumers when used in food-producing horses. Ticarcillin has been removed because it is reserved for the treatment of certain infections in humans, and is not allowed for use in animals in the EU ( EMA 2024 ; EMA 2026 ).",
@@ -326,13 +418,13 @@
    "background": "Regulation 2025/901 established an updated list of substances that are essential for the treatment of horse species, or that bring added clinical benefit compared to other treatment options. Experience and evidence on the substances available for treating horses meant that the previous list (Regulation 1950/2006 ), last updated in 2013, needed revision.\n\nA substance qualifies as “essential” only when no satisfactory alternative is available and when the condition would create unnecessary suffering for the animal if left untreated. A substance qualifies as “bringing added clinical benefit” only when its advantage is clinically relevant, based on improved efficacy or safety, or a major contribution to treatment or diagnosis.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2025/901/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:32:28.464275+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:22.634848+00:00",
    "title_fr": "Médicaments vétérinaires pour les espèces de chevaux",
    "summary_fr": "L'UE modifie la liste des médicaments vétérinaires essentiels pour le traitement des chevaux",
    "impacted_products_fr": "Espèce chevaline",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:31.135120+00:00",
+   "translated_at": "2026-09-09T10:44:24.813959+00:00",
    "tags": [
     "Animal health",
     "Animal welfare",
@@ -348,7 +440,7 @@
    "regulation": "2026/1813",
    "summary": "EU reauthorises imports of poultry from Argentina",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.879257+00:00",
+   "fetched_at": "2026-09-09T10:42:48.542967+00:00",
    "impacted_products": "Fresh poultry meat and game birds, and their products",
    "what_changing": "Following an outbreak of HPAI in the Buenos Aires region of Argentina, in March 2026 Argentinian imports of fresh poultry and game bird meat to the EU were suspended (Regulation 2026/520 ).\n\nIn addition, poultry products could only be imported into the EU if they had undergone a stricter risk-mitigating treatment (treatment D in Annex XXVI of Regulation 2020/692 ).\n\nThis Regulation lifts those restrictions: Argentina can now export fresh meat of poultry and game birds to the EU, and there are no restrictions on imports of poultry products.",
    "why": "In May 2026, Argentina provided the European Commission with information on measures it has taken to stamp out HPAI, demonstrating improvements in the animal health situation that allow products to be safely exported to the EU.\n\nTo protect animal health in the EU, and in response to emerging animal health risks in exporting countries, the European Commission regularly updates the list of non-EU countries authorised to export animal products to the EU.",
@@ -357,13 +449,13 @@
    "background": "The EU Animal Health Law (Regulation 2016/429 ) establishes principles and rules for the prevention and control of certain diseases in animals kept by humans (including farm animals, fish, and aquaculture), wild animals, and animal products.\n\nRegulation 2020/692 supplements the Animal Health Law regarding animal health requirements for exports to the EU. Non-EU countries (or part of their territories) wishing to export animal products to the EU must comply with the EU animal health requirements.\n\nThese countries or regions must be listed in Regulation 2021/404 for each commodity to be exported to the EU . The list is regularly updated, for example in the event of an outbreak of a notifiable disease, or if there is an improvement in the animal health situation in a country. (See Lists of non-EU countries for public health and animal health – explained .)",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1813/oj",
-   "detail_fetched_at": "2026-09-08T10:32:31.700308+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:30.444446+00:00",
    "title_fr": "IAHP : Restrictions de l'UE sur les importations de volaille en provenance d'Argentine",
    "summary_fr": "L'UE réautorise les importations de volaille en provenance d'Argentine",
    "impacted_products_fr": "Viande fraîche de volaille et de gibier à plumes, et leurs produits",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:34.274747+00:00",
+   "translated_at": "2026-09-09T10:44:35.633894+00:00",
    "tags": [
     "Animal health",
     "Third country lists"
@@ -378,7 +470,7 @@
    "regulation": "2026/1789",
    "summary": "Updated list of competent authorities and control bodies in non-EU countries recognised as having EU-equivalent organic production …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.880569+00:00",
+   "fetched_at": "2026-09-09T10:42:48.544112+00:00",
    "impacted_products": "Organic products",
    "what_changing": "Under Regulation 834/2007 , non-European Union (EU) countries can be recognised as having organic production and control systems equivalent to those in the EU for certain categories of products. Those countries must comply with the rules of the exporting country; they do not need to meet the production, certification, and inspection rules set out in the EU Organic Regulation 2018/848 .\n\nUnder the Organic Regulation, the previous system of equivalence recognition will be replaced by recognition through bilateral international agreements. However, equivalence recognised under Regulation 834/2007 continues to apply until 31 December 2026 (the European Commission has proposed extending this to 31 December 2036, see Simplification of organic rules ).\n\nThis new Regulation 2026/1789 updates the list of competent authorities and control bodies in non-EU countries that are recognised as equivalent.\n\nFor countries covered by the AGRINFO programme , the following changes are made.",
    "why": "The list of competent authorities and control bodies is updated by the European Commission on the basis of new information and requests received from countries recognised as equivalent.",
@@ -387,13 +479,13 @@
    "background": "The Organic Regulation 2018/848 lays down the EU rules on organic production and labelling of organic products. It revises and strengthens the controls system, trade regime, and production rules that had been in place since 2007. It brings in a fundamental change to the regulatory approach, moving from the principle of equivalence to the principle of conformity. See New EU Organic Regulation explained and AGRINFO’s Guidance for organic operators and groups of operators .\n\nRegulation 834/2007 recognised that organic goods could be produced in ways that were different, but equivalent in terms of their outcome and alignment with organic principles. The following countries are recognised as having equivalent organic production systems and controls: Argentina, Australia, Canada, Costa Rica, India, Israel, Japan, Korea, New Zealand, Tunisia, and USA\n\nThree countries – Chile, Switzerland, and the UK – have trade agreements on organic products with the EU, allowing recognition of certain categories of products (see Agreements on trade in organic products ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32007R0834",
-   "detail_fetched_at": "2026-09-08T10:32:42.267014+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:42.640785+00:00",
    "title_fr": "Liste des organismes et autorités de contrôle dans les pays non membres de l'UE avec des systèmes biologiques équivalents",
    "summary_fr": "Mise à jour de la liste des autorités compétentes et des organismes de contrôle dans les pays non membres de l'UE reconnus comme ayant une production biologique équivalente à celle de l'UE…",
    "impacted_products_fr": "La bio La Bio",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:45.163475+00:00",
+   "translated_at": "2026-09-09T10:44:45.119743+00:00",
    "tags": [
     "Organic production"
    ]
@@ -407,7 +499,7 @@
    "regulation": "",
    "summary": "45 AGRINFO partner countries received RASFF notifications in June 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.880125+00:00",
+   "fetched_at": "2026-09-09T10:42:48.544577+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -416,13 +508,13 @@
    "background": "The Rapid Alert System for Food and Feed ( RASFF ) was set up to allow EU food safety authorities to rapidly exchange information on health risks from food or feed, enabling them to take immediate action to avert the risk. RASFF provides a round-the-clock service to ensure that urgent notifications are sent, received, and responded to collectively and efficiently. Information exchanged through RASFF can lead to products being recalled from the EU market, averting risks before they can cause harm.\n\nThe European Commission must inform non-EU countries if an exported product is subject to a notification, so that the country’s authorities and exporters can take corrective measures.\n\nThe legal basis for RASFF is set out in Art. 50 of the EU General Food Law (Regulation 178/2002 ).\n\nFor further information see Official Controls Regulation – explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-   "detail_fetched_at": "2026-09-08T10:32:39.887264+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:46.122364+00:00",
    "title_fr": "Notifications RASFF en juin 2026",
    "summary_fr": "45 pays partenaires d'AGRINFO ont reçu des notifications RASFF en juin 2026",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:41.552573+00:00",
+   "translated_at": "2026-09-09T10:44:47.963037+00:00",
    "tags": [
     "Official controls"
    ]
@@ -436,7 +528,7 @@
    "regulation": "",
    "summary": "Documents submitted to ELAN on a voluntary basis to have legal value during the transitional period",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.780129+00:00",
+   "fetched_at": "2026-09-09T10:42:49.145443+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "As a number of non-EU countries have been successfully using ELAN on a voluntary basis, giving legal value to the documents generated will improve the efficiency of completing customs procedures.\n\nThe EU is moving towards an electronic information exchange system linking all customs authorities and other relevant bodies within and outside the EU. The new ELAN system will be connected with the EU Single Window Environment for Customs. See ELAN: Electronic system for Agricultural Non-customs formalities .",
@@ -445,13 +537,13 @@
    "background": "For further information see ELAN: Electronic system for Agricultural Non-customs formalities and the European Commission’s ELAN webpage .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:33:07.783536+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:20.192619+00:00",
    "title_fr": "Utilisation volontaire par les pays tiers du système électronique pour les formalités agricoles non douanières (ELAN)",
    "summary_fr": "Documents soumis à ELAN sur une base volontaire pour avoir une valeur juridique pendant la période de transition",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:09.808293+00:00",
+   "translated_at": "2026-09-09T10:45:23.741838+00:00",
    "tags": [
     "Tariffs & quotas",
     "Trade"
@@ -466,7 +558,7 @@
    "regulation": "",
    "summary": "EU proposes list of high-risk organic and in-conversion products originating from non-EU countries, and their control rates",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.101251+00:00",
+   "fetched_at": "2026-09-09T10:42:47.869799+00:00",
    "impacted_products": "Organic products, ginger, tea, soyabeans, bananas, avocados, cocoa, sultanas",
    "what_changing": "This proposal establishes an EU list of high-risk organic and in-conversion products imported from non-EU countries, together with the minimum rates of additional controls applicable to each product–country combination.\n\nA product may be classified as high-risk where there have been major, critical, or repeated non-compliances, or suspicions of non-compliance, affecting the integrity of organic production or products.\n\nAdditional controls will take place at two stages:\n\nbefore export to the EU by recognised control authorities or control bodies operating in the exporting country on import into the EU by Member State competent authorities at border control posts or points of release for free circulation.\n\nThe proposed list identifies high-risk products from five countries:\n\nChina: ginger, tea, and soyabeans Ecuador: bananas Peru: avocados, bananas, and cocoa Togo: soyabeans Türkiye: sultanas.\n\nDepending on the product–country combination, between 5 and 20% of consignments would be subject to identity/physical checks and representative sampling in both the exporting country and on import into the EU. See Table 1 for details.\n\nThe European Commission will review the list at least once a year, taking into account new information on established or suspected non-compliances affecting the integrity of organic or in-conversion products. Changes to the list will be based on information from the Organic Farming Information System ( OFIS ), EU Member State official controls, supervisory activities, on-the-spot examinations, and Commission audits of recognised control authorities and control bodies.",
    "why": "The listing and associated control rates are intended to improve fraud detection, verify compliance with EU organic rules, and protect consumer confidence in the integrity of imported organic products.",
@@ -475,13 +567,13 @@
    "background": "Under the new EU organic regime, Regulations 2021/1698 and 2021/2306 set out specific rules on the controls to be applied to consignments of high-risk organic or in-conversion products intended for import into the EU.\n\nAccording to Regulation 2021/1698 (Art. 8), high-risk products originating from non-EU countries are listed so that consignments can be subject to a specified intensity of identity and physical checks, as well as sampling by control authorities and control bodies in exporting countries and by the competent authorities of EU Member States.\n\nRegulation 2024/2975 introduced some amendments to the original rules. Previously, 100% of consignments of high-risk organic products were to be sampled and controlled, and 100% of consignments would also undergo identity and physical checks by EU Member States on import. Experience with controls on imports of organic products from non-EU countries, including notifications of contaminations by EU Member States to OFIS, showed that compliance can be ensured with a frequency of checks that is below 100% of consignments. Recognising this, as well as the potential burden on operators and authorities, the European Commission introduced greater flexibility, allowing the share of consignments tested to be lower than 100%.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2021/1698/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:31:56.042715+00:00",
+   "detail_fetched_at": "2026-09-09T10:43:34.367806+00:00",
    "title_fr": "Liste de l'UE des produits biologiques et en conversion à haut risque en provenance de pays tiers",
    "summary_fr": "L'UE propose une liste des produits biologiques et en conversion à haut risque originaires de pays tiers, ainsi que leurs taux de contrôle",
    "impacted_products_fr": "Produits bio, gingembre, thé, soja, bananes, avocats, cacao, sultanes",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:31:58.918707+00:00",
+   "translated_at": "2026-09-09T10:43:44.389087+00:00",
    "tags": [
     "Organic production"
    ]
@@ -588,7 +680,7 @@
    "regulation": "",
    "summary": "EU proposes increase in MRL for dodine on grapes",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.781062+00:00",
+   "fetched_at": "2026-09-09T10:42:49.147205+00:00",
    "impacted_products": "Wine grapes, table grapes",
    "what_changing": "The EU is proposing to increase the MRL for dodine on table grapes and wine grapes from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRL by the producer of dodine, the European Food Safety Authority evaluated the request and concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2025 ).",
@@ -597,13 +689,13 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-09-08T10:33:13.604597+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:30.116171+00:00",
    "title_fr": "Teneurs maximales en résidus pour la dodine",
    "summary_fr": "L'UE propose une augmentation de la LMR pour la dodine sur les raisins",
    "impacted_products_fr": "En ce qui concerne les variétés à raisins de cuve et à raisins de table",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:15.879717+00:00",
+   "translated_at": "2026-09-09T10:45:35.947852+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -618,7 +710,7 @@
    "regulation": "",
    "summary": "EU clarifies which products must meet EUDR requirements",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-07T11:29:54.119091+00:00",
+   "fetched_at": "2026-09-09T10:42:49.143836+00:00",
    "impacted_products": "Cattle, cocoa, coffee, palm oil, soya and derived products",
    "what_changing": "",
    "why": "Following responses to consultations, this new Regulation clarifies which products are included within the scope of the EUDR, particularly regarding derived products. Because the quantity of soyabeans for sowing imported into the EU is negligible, and they are subject to their own certification and traceability systems, they are excluded from the scope of the EUDR. Samples of products exported to the EU for analysis or testing are also extremely low volume, and are generally destroyed during testing processes, so they are also excluded from the EUDR requirements.",
@@ -627,13 +719,13 @@
    "background": "The EUDR sets out obligations regarding products related to cattle, cocoa, coffee, palm oil, rubber, soya, and wood. It requires EU importers to ensure there is no risk (or negligible risk) that the production of these commodities has contributed to deforestation, or that products were illegally produced according to national law. For a summary of these requirements and implications for suppliers, see the AGRINFO Guidance The EU Deforestation Regulation: Requirements for Stakeholders outside the European Union .\n\nThe EUDR was originally intended to apply from 30 December 2024, but was postponed first to 30 December 2025, and subsequently to 30 December 2026 (see Review of EU Deforestation Regulation: simplification ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
-   "detail_fetched_at": "2026-09-07T11:30:42.094904+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:00.891113+00:00",
    "title_fr": "Règlement sur la déforestation de l'UE (EUDR) : clarifications mai 2026",
    "summary_fr": "L'UE clarifie quels produits doivent répondre aux exigences de l'EUDR",
    "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-07T11:30:44.369486+00:00",
+   "translated_at": "2026-09-09T10:45:11.224299+00:00",
    "tags": [
     "Deforestation",
     "Sustainability/Due diligence"
@@ -648,7 +740,7 @@
    "regulation": "",
    "summary": "EU sets maximum levels for furan, 2-methylfuran, and 3-methylfuran in processed cereal-based foods for infants/young children, and …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.778785+00:00",
+   "fetched_at": "2026-09-09T10:42:49.144380+00:00",
    "impacted_products": "Cereal-based food for infants and young children, baby food",
    "what_changing": "The EU has set maximum levels for the sum of furan, 2-methylfuran, and 3-methylfuran in processed cereal-based food for infants and young children, and baby food.\n\nThe maximum levels are set out in Table 1.",
    "why": "In 2017, the European Food Safety Authority expressed concern that the presence of furan and methylfurans in food could cause long-term liver damage. Babies and young children are particularly at risk due to their exposure to ready-to-eat canned food ( EFSA 2017 ). In 2024, there were several notifications to the Rapid Alert System for Food and Feed (RASFF) on the presence of furan, 2-methylfuran, and 3-methylfuran in baby food, underlining the need for regulatory action.",
@@ -657,13 +749,13 @@
    "background": "Furan can be present in canned and jarred foods as a by-product of the heat treatment (sterilisation) process used to make food safe and shelf-stable.",
    "detail_summary": "",
    "eurlex_url": "",
-   "detail_fetched_at": "2026-09-08T10:32:58.917704+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:11.648546+00:00",
    "title_fr": "Teneurs maximales en furane dans les aliments à base de céréales pour bébés et nourrissons",
    "summary_fr": "L'UE fixe des teneurs maximales pour le furane, le 2-méthylfurane et le 3-méthylfurane dans les aliments transformés à base de céréales pour nourrissons/jeunes enfants, et …",
    "impacted_products_fr": "Aliments à base de céréales pour les nourrissons et les jeunes enfants <g x=1 id=\"3532\">d</g>",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:01.648597+00:00",
+   "translated_at": "2026-09-09T10:45:15.341526+00:00",
    "tags": [
     "Contaminants"
    ]
@@ -677,7 +769,7 @@
    "regulation": "2026/1052",
    "summary": "EU updates animal health rules for non-EU countries",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.881059+00:00",
+   "fetched_at": "2026-09-09T10:42:49.142052+00:00",
    "impacted_products": "Dairy, shelf-stable products, milk, eggs and egg products, aquatic species",
    "what_changing": "Regulation 2020/692 sets out the specific health conditions that apply to animals and animal products exported from non-EU countries to the EU. The new Regulation 2026/1052 amends the following Articles in Regulation 2020/692.",
    "why": "New scientific knowledge and the experience gained in applying Regulation 2022/692 have shown the need to refine several provisions related to the scope, application of specific conditions, animal identification, meat, dairy and egg products, composite products, vaccination programmes against highly pathogenic avian influenza, and aquatic animals.",
@@ -686,13 +778,13 @@
    "background": "Exports of animals and animal products to the EU are subject to animal health requirements to prevent the spread of diseases.\n\nFor non-EU countries, the key requirements are in Delegated Regulation 2020/692 (see Animal health requirements for non-EU countries exporting to the EU – explained ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2026/1052/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:32:45.712584+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:48.614096+00:00",
    "title_fr": "Règles de santé animale pour les pays non membres de l'UE : mise à jour 2026",
    "summary_fr": "L'UE met à jour les règles de santé animale pour les pays tiers",
    "impacted_products_fr": "Produits laitiers, produits de longue conservation, lait, œufs et ovoproduits, espèces aquatiques",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:48.428528+00:00",
+   "translated_at": "2026-09-09T10:44:53.057975+00:00",
    "tags": [
     "Animal health"
    ]
@@ -706,7 +798,7 @@
    "regulation": "2026/278",
    "summary": "EU lifts restrictions on imports of poultry products from Moldova",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.101757+00:00",
+   "fetched_at": "2026-09-09T10:42:47.870407+00:00",
    "impacted_products": "Poultry and game bird meat and products",
    "what_changing": "Due to an outbreak of HPAI in Moldova, in September 2025, the EU introduced restrictions on imports of of Moldovan poultry and game bird meat and poultry products. This Regulation lifts those restrictions.\n\nMoldova’s regionalisation (allowing measures to be limited to the affected regions within the country) has now been lifted: Moldova can now export from its whole territory. No risk-mitigating treatment is now required for poultry products.",
    "why": "In October 2025, Moldova provided information demonstrating that there was no longer any risk associated with HPAI. The European Commission has concluded that Moldova can be relisted for the products concerned as they do not represent a risk to animal health.",
@@ -715,13 +807,13 @@
    "background": "The EU Animal Health Law (Regulation 2016/429 ) establishes principles and rules for the prevention and control of certain diseases in animals kept by humans (including farm animals, fish, and aquaculture), wild animals, and animal products.\n\nRegulation 2020/692 supplements the Animal Health Law regarding animal health requirements for exports to the EU. Non-EU countries (or part of their territories) wishing to export animal products to the EU must comply with the EU animal health requirements.\n\nThese countries or regions must be listed in Regulation 2021/404 for each commodity to be exported to the EU . The list is regularly updated, for example in the event of an outbreak of a notifiable disease, or if there is an improvement in the animal health situation in a country. (See Lists of non-EU countries for public health and animal health – explained .)",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600278",
-   "detail_fetched_at": "2026-09-08T10:31:59.490146+00:00",
+   "detail_fetched_at": "2026-09-09T10:43:44.822881+00:00",
    "title_fr": "IAHP : Restrictions de l'UE sur les importations de volaille en provenance de Moldavie",
    "summary_fr": "L'UE lève les restrictions sur les importations de produits avicoles en provenance de Moldavie",
    "impacted_products_fr": "Viande et produits de volaille et de gibier à plumes",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:02.106114+00:00",
+   "translated_at": "2026-09-09T10:43:49.474015+00:00",
    "tags": [
     "Animal diseases",
     "Animal health",
@@ -738,7 +830,7 @@
    "regulation": "2026/140",
    "summary": "EU proposes to increase MRLs for acequinocyl on blueberries, cranberries, currants, and gooseberries",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.780617+00:00",
+   "fetched_at": "2026-09-09T10:42:49.146646+00:00",
    "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries",
    "what_changing": "The EU proposes to increase the MRLs for acequinocyl on blueberries, cranberries, currants (black, red, and white), and gooseberries (green, red, and yellow) from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nIn February 2026, the EU increased the MRL for acequinocyl on strawberries from 0.01 to 0.3 mg/kg.",
    "why": "Following an application for a change of MRLs by the producer of acequinocyl, the European Food Safety Authority evaluated the requested changes and concluded that they do not pose a risk for consumers ( EFSA 2025b ).",
@@ -747,13 +839,13 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .\n\nThe change to the MRL on strawberries in February 2026 followed a review by EFSA (2025a ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/140/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:33:10.376269+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:27.531375+00:00",
    "title_fr": "Limites maximales de résidus pour l'acétinocyle",
    "summary_fr": "L'UE propose d'augmenter les LMR pour l'acétinocyle sur les bleuets, les canneberges, les groseilles et les groseilles à maquereau",
    "impacted_products_fr": "Myrtilles, canneberges, groseilles, groseilles à maquereau, fraises",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:13.073904+00:00",
+   "translated_at": "2026-09-09T10:45:29.689286+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -768,7 +860,7 @@
    "regulation": "",
    "summary": "Proposed new criteria defining the point when plastic waste used in manufacturing new goods stops being covered …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.779237+00:00",
+   "fetched_at": "2026-09-09T10:42:49.144954+00:00",
    "impacted_products": "",
    "what_changing": "Specific EU legislation applies to plastic waste that is generated in the EU, from both EU and non-EU products. When this waste is recycled and used to manufacture new goods, there is a point when it is no longer covered by the plastic waste legislation.\n\nThe European Commission proposes new criteria (known as the “end-of-waste” criteria) to define when to stop considering plastic waste as waste, and instead to apply the legislation relevant to recycling operations and the manufacture of new goods. These criteria only apply to plastic waste that includes discarded thermoplastic polymers and blends of thermoplastic polymers, regardless of the polymer type or source. Thermoplastics include the most common plastics – polyethylene (PE), polyethylene terephthalate (PET), polypropylene (PP), and polystyrene (PS).\n\nAccording to the proposed end-of-waste criteria, plastic waste can be used as input plastic for recycling operations, provided that it complies with the following requirements.\n\nInput material : the waste is not hazardous waste, does not originate from healthcare waste (except non-hazardous plastic healthcare waste that has been separated at source), and is not used in absorbent hygiene products (e.g. diapers) (Draft Regulation Annex I, Section 1). Recycling operations : the mechanical or solvent-based recycling operations comply with the treatment processes and techniques set out in Annex I, Section 2. Recycled product quality : the output plastic resulting from the recycling operations can be used directly in the production of new plastic products or articles without further treatment operations, and complies with the product quality requirements set out in Annex I, Section 3. Recycled plastic used in the manufacture of food contact materials must be decontaminated according to Regulations 1935/2004 and 2022/1616 . Statement of conformity : the EU importer or producer of plastic waste must issue a statement of conformity (using the model set out in Annex II) for each consignment of output plastic, indicating that it meets the criteria above and can be used as secondary raw material to produce new plastic products or articles. Quality management system : non-EU suppliers of plastic originating from recycling facilities located outside the EU must implement a quality management system that complies with the first three requirements of the end-of-waste criteria (input material, recycling operations, recycled product quality), and that has been verified by an accredited or licensed conformity assessment body or an environmental verifier.\n\nThe objective of these end-of-waste criteria is to ensure the material resulting from this recycled plastic:\n\nis ready for use in the production of new plastic products or articles containing plastic parts complies with existing legislation and standards applicable for the products manufactured from the recycled material does not lead to overall adverse environmental or human health impacts.",
    "why": "By setting new criteria for end-of-waste legislation for plastics, the Commission intends to:\n\nstrengthen the creation of an EU market for recycled plastics and for secondary raw materials ready to be used in the manufacture of new goods reduce administrative burdens and costs for recyclers, notably small and medium-sized enterprises ensure a stable supply of high-quality recycled plastic raw materials in the EU promote a circular economy.",
@@ -777,13 +869,13 @@
    "background": "The Single Use Plastics Directive 2019/904 aims to prevent and reduce the impact of certain plastic products on the marine environment and on human health.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2004/1935/oj/eng",
-   "detail_fetched_at": "2026-09-08T10:33:02.241940+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:15.747241+00:00",
    "title_fr": "Critères définissant quand la législation sur les déchets cesse de s'appliquer aux déchets plastiques",
    "summary_fr": "Proposition de nouveaux critères définissant le moment où les déchets plastiques utilisés dans la fabrication de nouveaux produits cessent d'être couverts …",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:04.219375+00:00",
+   "translated_at": "2026-09-09T10:45:19.787318+00:00",
    "tags": [
     "Food contact materials",
     "Packaging",
@@ -919,7 +1011,7 @@
    "regulation": "2024/1003, 2026/1825",
    "summary": "EU sets new maximum levels for 3-MCPD and glycidol in baby foods and compound foods",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.879743+00:00",
+   "fetched_at": "2026-09-09T10:42:48.543554+00:00",
    "impacted_products": "Baby food; processed cereal-based food for infants and young children; compound foods (with more than 5% added fats/oils derived from vegetables, fish, and/or other marine organisms); vegetable oils and fats and/or oils from fish and/or other marine organisms to be used in the production of baby food and foods for infants and young children.",
    "what_changing": "The European Commission has set new maximum levels for 3-MCPD and glycidol in:\n\nbaby food and processed cereal-based food for infants and young children compound foods that contain more than 5% added fats/oils derived from vegetables, fish, and/or other marine organisms.\n\nIt has also reduced maximum levels of these contaminants in oils and fats that are derived from vegetables, fish, and/or other marine organisms when these are to be used in the production of baby food and processed cereal-based food for infants and young children.\n\nThe changes are summarised in Table 1.\n\nThe new Regulation clarifies that refined olive oil must comply with the same maximum levels of 3-MCPD and glycidol as other vegetable oils and fats, and oils from fish and other marine organisms.",
    "why": "The European Food Safety Authority (EFSA) has expressed health concerns about the presence of these substances in foods, especially in foods for infants and young children (EFSA 2016 , 2018) .",
@@ -928,13 +1020,13 @@
    "background": "3-MCPD and glycidyl esters are contaminants of processed vegetable oils; free MCPDs are formed in some processed foods, particularly when high temperatures are applied to fats and oils.\n\nMaximum levels for 3-MCPD and glycidol were established in Regulation 2023/915 for:\n\nvegetable oils and fats fish oils and oils from other marine organisms infant formulae and follow-on formulae food for special medical purposes intended for infants and young children, and young child formulae.\n\nThe original maximum levels for 3-MCPD and its esters in specific food products for infants and young children were established by Regulation 2020/1322 .\n\nIn January 2025, the EU reduced the maximum levels of the sum of 3-MCPD and its esters in certain specific food products for infants and young children (Regulation 2024/1003 ). These changes are shown in Table 2.\n\nThe EU aims to set maximum levels that are as low as reasonably achievable when applying good practices, based on scientific advice provided by EFSA. See EU legislation on contaminants – maximum levels explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0915&qid=1699615275327",
-   "detail_fetched_at": "2026-09-08T10:32:35.166022+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:36.495351+00:00",
    "title_fr": "Teneurs maximales en 3-MCPD et glycidol",
    "summary_fr": "L'UE fixe de nouvelles teneurs maximales pour le 3-MCPD et le glycidol dans les aliments pour bébés et les aliments composés",
    "impacted_products_fr": "Aliments pour bébés ; aliments transformés à base de céréales pour nourrissons et jeunes enfants ; aliments composés (avec plus de 5 % de graisses/huiles ajoutées dérivées de légumes, de poissons et/ou d'autres organismes marins) ; huiles végétales a",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:38.442729+00:00",
+   "translated_at": "2026-09-09T10:44:41.904438+00:00",
    "tags": [
     "Contaminants",
     "Food safety"
@@ -999,7 +1091,7 @@
    "regulation": "2024/1342, 2025/1164, 2026/876",
    "summary": "EU proposes to increase MRLs for deltamethrin on kiwi fruits, melons, and watermelons",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.779727+00:00",
+   "fetched_at": "2026-09-09T10:42:49.146044+00:00",
    "impacted_products": "Kiwi fruits, melons, watermelons",
    "what_changing": "The EU is proposing to change the MRLs for deltamethrin as listed in Table 1.",
    "why": "The European Food Safety Authority analysed an application by the producer of deltamethrin to increase the MRLs on kiwis, melons, and watermelons, and concluded that this change poses no risks to consumers ( EFSA 2026 ).",
@@ -1008,13 +1100,13 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe increased MRL for cherries in May 2026 followed an evaluation by EFSA (2025 ). In June 2025, the EU raised the MRL for deltamethrin on papayas from 0.1 to 0.2 mg/kg in line with the Codex MRL (CXL) adopted in 2024.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
-   "detail_fetched_at": "2026-09-08T10:33:04.783495+00:00",
+   "detail_fetched_at": "2026-09-09T10:45:24.334489+00:00",
    "title_fr": "Teneurs maximales en résidus de deltaméthrine",
    "summary_fr": "L'UE propose d'augmenter les LMR pour la deltaméthrine sur les kiwis, les melons et les pastèques",
    "impacted_products_fr": "Kiwis, melons, pastèques",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:07.218048+00:00",
+   "translated_at": "2026-09-09T10:45:26.766035+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs",
@@ -1060,7 +1152,7 @@
    "regulation": "2023/173; 2024/342; 2025/1164",
    "summary": "EU discusses increasing cyflumetofen MRL on sweet peppers/bell peppers",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:38.881541+00:00",
+   "fetched_at": "2026-09-09T10:42:49.142667+00:00",
    "impacted_products": "Sweet peppers/bell peppers",
    "what_changing": "The EU is discussing an increase in the MRL for cyflumetofen on sweet peppers/bell peppers from the limit of determination (LOD) of 0.01 to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRLs by the producer of cyflumetofen, the European Food Safety Authority ( EFSA 2026 ) concluded that the proposed increase is unlikely to pose a risk to consumers’ health.",
@@ -1069,13 +1161,13 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-09-08T10:32:49.176869+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:53.487743+00:00",
    "title_fr": "Concentrations maximales de résidus de cyflumétofène",
    "summary_fr": "L'UE discute de l'augmentation de la LMR de cyflumétofène sur les poivrons doux/poivrons",
    "impacted_products_fr": "Poivrons doux/poivrons",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:51.674669+00:00",
+   "translated_at": "2026-09-09T10:44:56.290949+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -1090,7 +1182,7 @@
    "regulation": "2022/1393, 2023/915, 2026/1828",
    "summary": "EU sets maximum levels for ∆9-THC in hemp leaves for infusion and ready-to-drink herbal infusions made from …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.778306+00:00",
+   "fetched_at": "2026-09-09T10:42:49.143261+00:00",
    "impacted_products": "Hemp seeds and derived products, hemp leaves for water infusion, ready-to-drink herbal infusions made from hemp leaves",
    "what_changing": "The maximum levels for the sum of Δ 9 -THC and Δ 9 -THCA, expressed as Δ 9 -THC, in hemp leaves for water infusion and ready-to-drink herbal infusions made from hemp leaves are presented in Table 1.\n\nHemp leaves for water infusion must be labelled with the following statements when sold in the EU:\n\n“Only to be used for water infusion (preparation of a herbal infusion). Shall not be consumed by infants and young children. No fatty ingredients, such as cream or milk, shall be added during steeping.”\n\nIn addition to these maximum levels for Δ9-THC, EU Member States can set more restrictive rules on their markets for selling hemp leaves and ready-to-drink infusions made from hemp leaves.",
    "why": "In 2015, the European Food Safety Authority (EFSA) assessed the risk to human health related to the presence of ∆ 9 -THC in milk and dairy products ( EFSA 2015 ).\n\nEFSA (2020) published a scientific report assessing exposure to ∆ 9 -THC, and found that the reference dose of 1 μg ∆ 9 -THC per kg body weight was exceeded in certain exposure estimates. The European Commission therefore considered that maximum levels should be set for hemp seeds and derived products (see Regulation 2023/915 and Table 2).",
@@ -1099,13 +1191,13 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32023R0915",
-   "detail_fetched_at": "2026-09-08T10:32:55.665052+00:00",
+   "detail_fetched_at": "2026-09-09T10:44:56.713648+00:00",
    "title_fr": "Teneurs maximales en delta-9-tétrahydrocannabinol (Δ9-THC) dans les graines de chanvre",
    "summary_fr": "L'UE fixe des teneurs maximales en ∆9-THC dans les feuilles de chanvre pour perfusion et les infusions à base de plantes prêtes à boire à base de …",
    "impacted_products_fr": "Graines de chanvre et produits dérivés, feuilles de chanvre pour infusion d'eau, infusions à base de plantes prêtes à boire à base de feuilles de chanvre",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:32:58.357331+00:00",
+   "translated_at": "2026-09-09T10:45:00.077504+00:00",
    "tags": [
     "Contaminants"
    ]
@@ -1120,7 +1212,7 @@
    "description": "September 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.845756+00:00"
+   "fetched_at": "2026-09-09T10:42:49.805479+00:00"
   },
   {
    "id": "eu_trade_policy_april-july-2025_pdf",
@@ -1130,7 +1222,7 @@
    "description": "September 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.848987+00:00"
+   "fetched_at": "2026-09-09T10:42:49.809738+00:00"
   },
   {
    "id": "deforestation_products_africa_2024-c_uxpx9og_pdf",
@@ -1140,7 +1232,7 @@
    "description": "September 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.852377+00:00"
+   "fetched_at": "2026-09-09T10:42:49.814124+00:00"
   },
   {
    "id": "exporting_honey_to_eu_2024_pdf",
@@ -1150,7 +1242,7 @@
    "description": "October 2024",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.852099+00:00"
+   "fetched_at": "2026-09-09T10:42:49.813765+00:00"
   },
   {
    "id": "bpa-substances_of_concern_in_food_packaging_pdf",
@@ -1160,7 +1252,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.847238+00:00"
+   "fetched_at": "2026-09-09T10:42:49.807457+00:00"
   },
   {
    "id": "new_eu_rules_ppwr_and_bpa_ghana_pdf",
@@ -1170,7 +1262,7 @@
    "description": "May 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.847538+00:00"
+   "fetched_at": "2026-09-09T10:42:49.807848+00:00"
   },
   {
    "id": "use_of_antimicrobials_in_farmed_animals_in_the_food_supply_chain_en_pdf",
@@ -1180,7 +1272,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.847849+00:00"
+   "fetched_at": "2026-09-09T10:42:49.808214+00:00"
   },
   {
    "id": "guidance_temporary-increase-official-controls_2025_1_pdf",
@@ -1190,7 +1282,7 @@
    "description": "May 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.850111+00:00"
+   "fetched_at": "2026-09-09T10:42:49.811182+00:00"
   },
   {
    "id": "pfas-substances-of-concern-in-food-packaging_pdf",
@@ -1200,7 +1292,7 @@
    "description": "June 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.846956+00:00"
+   "fetched_at": "2026-09-09T10:42:49.807089+00:00"
   },
   {
    "id": "exporting-aquaculture-products-to-the-eu_pdf",
@@ -1210,7 +1302,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.849560+00:00"
+   "fetched_at": "2026-09-09T10:42:49.810448+00:00"
   },
   {
    "id": "agrinfo_-_mineral_oil_hydrocarbons_in_food_2024-cc-2_pdf",
@@ -1220,7 +1312,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.849838+00:00"
+   "fetched_at": "2026-09-09T10:42:49.810824+00:00"
   },
   {
    "id": "eu_trade_policy_apr-jun-2026_pdf",
@@ -1230,7 +1322,7 @@
    "description": "July 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.846072+00:00"
+   "fetched_at": "2026-09-09T10:42:49.805953+00:00"
   },
   {
    "id": "exporting_fishery_products_to_the_european_union_pdf",
@@ -1240,7 +1332,7 @@
    "description": "July 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.846350+00:00"
+   "fetched_at": "2026-09-09T10:42:49.806329+00:00"
   },
   {
    "id": "traditional-foods-implications-authorisation-process_pdf",
@@ -1250,7 +1342,7 @@
    "description": "July 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.846663+00:00"
+   "fetched_at": "2026-09-09T10:42:49.806721+00:00"
   },
   {
    "id": "the-eu-deforestation-regulation_pdf",
@@ -1260,7 +1352,7 @@
    "description": "July 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.849265+00:00"
+   "fetched_at": "2026-09-09T10:42:49.810095+00:00"
   },
   {
    "id": "guidance_for_organic_operators_and_groups_pdf",
@@ -1270,7 +1362,7 @@
    "description": "January 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.848411+00:00"
+   "fetched_at": "2026-09-09T10:42:49.808970+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec-2025_pdf",
@@ -1280,7 +1372,7 @@
    "description": "January 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.848707+00:00"
+   "fetched_at": "2026-09-09T10:42:49.809328+00:00"
   },
   {
    "id": "implications-of-organic-regulation-in-dominican-republic_2024_pdf",
@@ -1290,7 +1382,7 @@
    "description": "January 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.851525+00:00"
+   "fetched_at": "2026-09-09T10:42:49.813029+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec_2024_pdf",
@@ -1300,7 +1392,7 @@
    "description": "January 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.851819+00:00"
+   "fetched_at": "2026-09-09T10:42:49.813386+00:00"
   },
   {
    "id": "exporting_fresh_capsicum_to_eu_2025_pdf",
@@ -1310,7 +1402,7 @@
    "description": "February 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.851230+00:00"
+   "fetched_at": "2026-09-09T10:42:49.812658+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar-2026_pdf",
@@ -1320,7 +1412,7 @@
    "description": "April 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.848134+00:00"
+   "fetched_at": "2026-09-09T10:42:49.808585+00:00"
   },
   {
    "id": "temporary_increases_in_eu_official_controls-q-point-2025_pdf",
@@ -1330,7 +1422,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.850674+00:00"
+   "fetched_at": "2026-09-09T10:42:49.811909+00:00"
   },
   {
    "id": "impacts-reg-2019-1793-quantitative-ptalks-2025_pdf",
@@ -1340,7 +1432,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.850386+00:00"
+   "fetched_at": "2026-09-09T10:42:49.811532+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar_2025_pdf",
@@ -1350,7 +1442,7 @@
    "description": "April 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.850953+00:00"
+   "fetched_at": "2026-09-09T10:42:49.812277+00:00"
   },
   {
    "id": "impacts_regulatory_change_africa_2024_pdf",
@@ -1360,7 +1452,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.853518+00:00"
+   "fetched_at": "2026-09-09T10:42:49.815566+00:00"
   },
   {
    "id": "impacts_regulatory_change_latin_america_caribbean_2024_pdf",
@@ -1370,7 +1462,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.852947+00:00"
+   "fetched_at": "2026-09-09T10:42:49.814855+00:00"
   },
   {
    "id": "impacts_regulatory_change_europe_middle_east_2024_pdf",
@@ -1380,7 +1472,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.852669+00:00"
+   "fetched_at": "2026-09-09T10:42:49.814478+00:00"
   },
   {
    "id": "impacts_regulatory_change_asia_2024_pdf",
@@ -1390,7 +1482,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:40.853226+00:00"
+   "fetched_at": "2026-09-09T10:42:49.815213+00:00"
   }
  ],
  "tags": [
@@ -1408,6 +1500,7 @@
   "Contaminants",
   "Deforestation",
   "Feed safety",
+  "Fish",
   "Food contact materials",
   "Food information",
   "Food safety",
@@ -1415,6 +1508,7 @@
   "Food supplements/dietetic foods",
   "Geographical indications",
   "High-risk plants",
+  "Hygiene",
   "Labelling",
   "Official controls",
   "Organic production",
@@ -1460,6 +1554,24 @@
    "open": true,
    "impacted_products": "Packaged products",
    "timeline": "The rules are expected to be adopted in the fourth quarter of 2026."
+  },
+  {
+   "id": "new-genomic-techniques-information-needed-for-verification-and-authorisation",
+   "title": "New genomic techniques: information needed for verification and authorisation",
+   "url": "https://agrinfo.eu/book-of-reports/new-genomic-techniques-information-needed-for-verification-and-authorisation/",
+   "deadline": "2026-09-28",
+   "open": true,
+   "impacted_products": "NGT plants and products",
+   "timeline": "Provisions regulating the sale of NGT plants and products on the EU market will apply from 17 July 2028 ."
+  },
+  {
+   "id": "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
+   "title": "Maximum levels of cereulide toxin in foods for infants",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-levels-of-cereulide-toxin-in-foods-for-infants/",
+   "deadline": "2026-09-29",
+   "open": true,
+   "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
+   "timeline": "Stakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 ."
   },
   {
    "id": "eu-list-of-high-risk-organic-and-in-conversion-products-from-non-eu-countries",
@@ -1590,6 +1702,24 @@
    "impacted_products": "Husked (brown) non-basmati rice"
   },
   {
+   "id": "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
+   "title": "EU import requirements for certain dairy products and fishery products",
+   "url": "https://agrinfo.eu/book-of-reports/eu-import-requirements-for-certain-dairy-products-and-fishery-products/",
+   "timeline_date": "2026-09-13",
+   "timeline": "The new rules apply from 13 September 2026 .",
+   "regulation": "2026/1304",
+   "impacted_products": "Food preparations based on dairy products and fishery products; live, chilled, frozen and processed bivalve molluscs, echinoderms, tunicates, and mari"
+  },
+  {
+   "id": "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
+   "title": "Maximum levels of cereulide toxin in foods for infants",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-levels-of-cereulide-toxin-in-foods-for-infants/",
+   "timeline_date": "2026-09-29",
+   "timeline": "Stakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 .",
+   "regulation": "",
+   "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants"
+  },
+  {
    "id": "packaging-and-packaging-waste-consultation-eu-national-registers-of-producers",
    "title": "Packaging and packaging waste consultation: EU national registers of producers",
    "url": "https://agrinfo.eu/book-of-reports/packaging-and-packaging-waste-consultation-eu-national-registers-of-producers/",
@@ -1660,7 +1790,16 @@
    "timeline": "Provisions regulating the sale of NGT plants and products on the EU market will apply from 17 July 2028 . Until then, these products remain subject to the existing EU legislation on GMOs.",
    "regulation": "",
    "impacted_products": ""
+  },
+  {
+   "id": "new-genomic-techniques-information-needed-for-verification-and-authorisation",
+   "title": "New genomic techniques: information needed for verification and authorisation",
+   "url": "https://agrinfo.eu/book-of-reports/new-genomic-techniques-information-needed-for-verification-and-authorisation/",
+   "timeline_date": "2028-07-17",
+   "timeline": "Provisions regulating the sale of NGT plants and products on the EU market will apply from 17 July 2028 .",
+   "regulation": "",
+   "impacted_products": "NGT plants and products"
   }
  ],
- "exported_at": "2026-09-08T10:33:25.687215+00:00"
+ "exported_at": "2026-09-09T10:45:36.022142+00:00"
 }

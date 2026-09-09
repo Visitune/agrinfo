@@ -1,0 +1,31 @@
+{
+  "id": "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
+  "title": "Maximum levels of cereulide toxin in foods for infants",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-levels-of-cereulide-toxin-in-foods-for-infants/",
+  "pub_date": "Sept. 3, 2026",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU to set maximum levels for cereulide toxin in infant formulae, follow-on formulae, and foods for special …",
+  "tags": [
+    "Food safety"
+  ],
+  "fetched_at": "2026-09-09T10:42:47.866417+00:00",
+  "update": "Multiple manufacturers have recently detected cereulide toxin in infant foods. European Union (EU) Member States have reported cases of infants experiencing severe gastrointestinal symptoms after consuming such products. The European Commission therefore proposes to set maximum limits for cereulide in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants.\n\nStakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 .",
+  "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
+  "what_changing": "The European Commission proposes to set maximum levels for cereulide – a toxin produced by strains of Bacillus cereus – in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants. The proposed limit for infant formulae, follow-on formulae and foods for special medical purposes intended for infants is set at 0.1 µg/kg. This relates to products placed on the market during their shelf-life.\n\nThese limits will be included in Regulation 2073/2005 , which sets microbiological criteria for foodstuffs. Information on sampling is included in Annex I.",
+  "why": "Between December 2025 and May 2026, multiple manufacturers detected cereulide toxin in infant foods. Several EU Member States reported cases of infants experiencing severe gastrointestinal symptoms after consuming products that were later recalled from the market. Following a rapid risk assessment in February 2026, the European Food Safety Authority established an acute reference dose (ARfD) and acceptable cereulide concentrations in foods intended for infants ( EFSA 2026 ).",
+  "timeline": "Stakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 .",
+  "actions": "Producers of foods intended for infants should review their current practices. Cereulide contamination can be fully prevented through rigorous manufacturing practices and hygiene controls.\n\nAll interested stakeholders are invited to give feedback via the European Commission’s Have your say platform until 29 September 2026 . Stakeholders wishing to respond must be registered. Those who are not will first need to create an EU login account , then register their organisation on the EU Transparency register .",
+  "background": "Cereulide is an emetic toxin produced by certain strains of Bacillus cereus . Infants are particularly vulnerable to the effects of cereulide due to their low body weight and limited ability to metabolise and eliminate toxins. Their exposure to even low levels of this toxin can lead to severe illness, including persistent vomiting, dehydration, and electrolyte imbalances. In some cases, it may be fatal.\n\nRegulation 2073/2005 sets microbiological criteria (food safety and process hygiene) for foodstuffs, as well as rules for sampling and preparing test samples.",
+  "resources": "Commission Regulation (EC) No 2073/2005 on microbiological criteria for foodstuffs EFSA (2026) Rapid risk assessment on acute reference dose (ARfD) of cereulide in infants and information on acute consumption of infant formulae . EFSA Journal, 24(1): e9941.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng",
+  "detail_fetched_at": "2026-09-09T10:43:04.338344+00:00",
+  "title_fr": "Teneurs maximales en toxine céréulide dans les aliments pour nourrissons",
+  "summary_fr": "L'UE fixera des teneurs maximales en toxine céréulide dans les préparations pour nourrissons, les préparations de suite et les aliments pour …",
+  "impacted_products_fr": "Préparations pour nourrissons, préparations de suite et aliments à usage médical spécial destinés aux nourrissons",
+  "translated_at": "2026-09-09T10:43:08.853164+00:00"
+}

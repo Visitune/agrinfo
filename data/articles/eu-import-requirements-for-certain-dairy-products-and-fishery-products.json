@@ -1,0 +1,39 @@
+{
+  "id": "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
+  "title": "EU import requirements for certain dairy products and fishery products",
+  "url": "https://agrinfo.eu/book-of-reports/eu-import-requirements-for-certain-dairy-products-and-fishery-products/",
+  "pub_date": "Sept. 3, 2026",
+  "revised_date": "",
+  "regulation": "2026/1304",
+  "summary": "EU clarifies requirements for farmed bivalve molluscs, echinoderms, tunicates and marine gastropods, and food preparations based on …",
+  "tags": [
+    "Third country lists",
+    "Food safety",
+    "Hygiene",
+    "Third country lists",
+    "Veterinary residues",
+    "Food safety controls",
+    "Fish"
+  ],
+  "fetched_at": "2026-09-09T10:42:47.867063+00:00",
+  "update": "Regulation 2022/2292 establishes which animal products must meet public health requirements (hygiene requirements, residue control plans, approval of establishments and official certificates) to be exported to the European Union (EU).\n\nThe new Regulation 2026/1304 updates this list of products by adding food preparations based on dairy products (included in Combined Nomenclature /Harmonized System (CN/HS) customs code 1901) and fishery products (included in CN/HS 2103).\n\nIt also clarifies that live, chilled, frozen, and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods farmed in the sea do not need to be included in control plans for residues, contaminants, and pesticide residues. This only applies where their production takes place in premises on land.",
+  "impacted_products": "Food preparations based on dairy products and fishery products; live, chilled, frozen and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods",
+  "what_changing": "",
+  "why": "",
+  "timeline": "The new rules apply from 13 September 2026 .",
+  "actions": "Competent authorities in exporting countries may need to update certification procedures for animal products in the newly added CN categories.",
+  "background": "Regulation 2017/625 lays down rules for official controls to verify that animals and goods entering the EU comply with EU food and food safety requirements.\n\nRegulation 2022/2292 supplements those rules for the entry into the EU of food-producing animals and certain goods intended for human consumption. It sets out the obligations for exporting countries to be listed in the Annexes to Regulation 2021/405 and to approve the operators exporting to the EU, and to lay down a control plan for pesticides, contaminants, and pharmacological substances. It also identifies the relevant products by CN or HS codes.\n\nRegulation 853/2004 lays down specific hygiene rules for products of animal origin. It requires food business operators importing products of animal origin from non-EU countries to ensure that the country is listed for the product concerned, and that the establishment from which the product was dispatched, obtained, or prepared is also listed.\n\nIn September 2023, Regulation 2023/2652 amended and corrected Regulation 2022/2292 for honey, meat products, highly refined products, gelatine capsules, fishery products, and private attestations.\n\nIn January 2025, Regulation 2025/637 added certain dairy products, food additives derived from animals, and collagen casings with CN/HS customs codes 1301, 1806, 3203, 3204, 3823, 3824, 2202 99, and 3917 10 10 to the list of products that can only be imported from authorised non-EU countries. It introduced certain dairy products and collagen casings with customs codes 1806, 2202 99, and 3917 10 10 in the list of products that can only be exported from listed establishments.",
+  "resources": "Regulation 2022/2292 with regard to requirements for the entry into the Union of consignments of food-producing animals and certain goods intended for human consumption. Regulation (EU) 2021/405 laying down the lists of third countries or regions thereof authorised for the entry into the Union of certain animals and goods intended for human consumption Regulation 2017/625 on official controls and other official activities performed to ensure the application of food and feed law. Regulation No 853/2004 laying down specific hygiene rules for food of animal origin. Regulation 2023/2652 amending and correcting Delegated Regulation (EU) 2022/2292 with regard to requirements for the entry into the Union of honey, meat, highly refined products, gelatine capsules, fishery products Regulation 2025/637 amending Delegated Regulation (EU) 2022/2292 as regards the requirements for the entry into the Union of certain dairy products, certain food additives derived from animals, collagen casings, minced meat, meat preparations, mechanically separated meat and composite products containing gelatine capsules",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj/eng",
+    "https://eur-lex.europa.eu/eli/reg_impl/2021/405/oj",
+    "https://eur-lex.europa.eu/eli/reg_del/2025/637/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj/eng",
+  "detail_fetched_at": "2026-09-09T10:43:09.361972+00:00",
+  "title_fr": "Exigences d'importation de l'UE pour certains produits laitiers et produits de la pêche",
+  "summary_fr": "L'UE clarifie les exigences pour les mollusques bivalves d'élevage, les échinodermes, les tuniciers et les gastéropodes marins, et les préparations alimentaires basées sur …",
+  "impacted_products_fr": "Préparations alimentaires à base de produits laitiers et de produits de la pêche ; mollusques bivalves, échinodermes, tuniciers et gastéropodes marins vivants, réfrigérés, congelés et transformés",
+  "translated_at": "2026-09-09T10:43:13.867458+00:00"
+}
