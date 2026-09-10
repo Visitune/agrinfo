@@ -9,7 +9,7 @@
   "tags": [
     "Organic production"
   ],
-  "fetched_at": "2026-09-09T10:42:47.869799+00:00",
+  "fetched_at": "2026-09-10T10:32:14.974385+00:00",
   "update": "The European Union (EU) has notified to the World Trade Organization (WTO) a proposed list of high-risk organic and in-conversion products from non-EU countries ( G/TBT/N/EU/1232 ).\n\nProducts are listed as high-risk on the basis of established or suspected cases of major, critical, or repeat non-compliances that affect the integrity of the organic products or production. The list also specifies the percentage of consignments that must be subject to identity/physical checks and representative sampling in both the exporting country and on import into the EU.\n\nThe proposed list for 2027 identifies high-risk products from five countries: ginger, tea, and soyabeans from China ; bananas from Ecuador ; avocados, bananas, and cocoa from Peru ; soyabeans from Togo ; and sultanas from Türkiye .",
   "impacted_products": "Organic products, ginger, tea, soyabeans, bananas, avocados, cocoa, sultanas",
   "what_changing": "This proposal establishes an EU list of high-risk organic and in-conversion products imported from non-EU countries, together with the minimum rates of additional controls applicable to each product–country combination.\n\nA product may be classified as high-risk where there have been major, critical, or repeated non-compliances, or suspicions of non-compliance, affecting the integrity of organic production or products.\n\nAdditional controls will take place at two stages:\n\nbefore export to the EU by recognised control authorities or control bodies operating in the exporting country on import into the EU by Member State competent authorities at border control posts or points of release for free circulation.\n\nThe proposed list identifies high-risk products from five countries:\n\nChina: ginger, tea, and soyabeans Ecuador: bananas Peru: avocados, bananas, and cocoa Togo: soyabeans Türkiye: sultanas.\n\nDepending on the product–country combination, between 5 and 20% of consignments would be subject to identity/physical checks and representative sampling in both the exporting country and on import into the EU. See Table 1 for details.\n\nThe European Commission will review the list at least once a year, taking into account new information on established or suspected non-compliances affecting the integrity of organic or in-conversion products. Changes to the list will be based on information from the Organic Farming Information System ( OFIS ), EU Member State official controls, supervisory activities, on-the-spot examinations, and Commission audits of recognised control authorities and control bodies.",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/eli/reg_del/2024/2975/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2021/1698/oj/eng",
-  "detail_fetched_at": "2026-09-09T10:43:34.367806+00:00",
+  "detail_fetched_at": "2026-09-10T10:32:47.116176+00:00",
   "title_fr": "Liste de l'UE des produits biologiques et en conversion à haut risque en provenance de pays tiers",
   "summary_fr": "L'UE propose une liste des produits biologiques et en conversion à haut risque originaires de pays tiers, ainsi que leurs taux de contrôle",
   "impacted_products_fr": "Produits bio, gingembre, thé, soja, bananes, avocats, cacao, sultanes",
-  "translated_at": "2026-09-09T10:43:44.389087+00:00"
+  "translated_at": "2026-09-10T10:32:50.357055+00:00"
 }

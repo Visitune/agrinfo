@@ -12,7 +12,7 @@
     "Animal health certification",
     "Third country lists"
   ],
-  "fetched_at": "2026-09-09T10:42:47.870407+00:00",
+  "fetched_at": "2026-09-10T10:32:14.975035+00:00",
   "update": "The European Union (EU) has lifted its import restrictions on poultry and game bird meat and products from Moldova related to highly pathogenic avian influenza (HPAI). The restrictions were introduced in September 2025. Moldova has now demonstrated that these products no longer represent a threat to animal health in the EU.",
   "impacted_products": "Poultry and game bird meat and products",
   "what_changing": "Due to an outbreak of HPAI in Moldova, in September 2025, the EU introduced restrictions on imports of of Moldovan poultry and game bird meat and poultry products. This Regulation lifts those restrictions.\n\nMoldova’s regionalisation (allowing measures to be limited to the affected regions within the country) has now been lifted: Moldova can now export from its whole territory. No risk-mitigating treatment is now required for poultry products.",
@@ -30,9 +30,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32021R0404"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600278",
-  "detail_fetched_at": "2026-09-09T10:43:44.822881+00:00",
+  "detail_fetched_at": "2026-09-10T10:32:50.866431+00:00",
   "title_fr": "IAHP : Restrictions de l'UE sur les importations de volaille en provenance de Moldavie",
   "summary_fr": "L'UE lève les restrictions sur les importations de produits avicoles en provenance de Moldavie",
   "impacted_products_fr": "Viande et produits de volaille et de gibier à plumes",
-  "translated_at": "2026-09-09T10:43:49.474015+00:00"
+  "translated_at": "2026-09-10T10:32:53.783120+00:00"
 }

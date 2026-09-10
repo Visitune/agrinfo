@@ -9,7 +9,7 @@
   "tags": [
     "Food safety"
   ],
-  "fetched_at": "2026-09-09T10:42:47.866417+00:00",
+  "fetched_at": "2026-09-10T10:32:14.970928+00:00",
   "update": "Multiple manufacturers have recently detected cereulide toxin in infant foods. European Union (EU) Member States have reported cases of infants experiencing severe gastrointestinal symptoms after consuming such products. The European Commission therefore proposes to set maximum limits for cereulide in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants.\n\nStakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 29 September 2026 .",
   "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
   "what_changing": "The European Commission proposes to set maximum levels for cereulide – a toxin produced by strains of Bacillus cereus – in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants. The proposed limit for infant formulae, follow-on formulae and foods for special medical purposes intended for infants is set at 0.1 µg/kg. This relates to products placed on the market during their shelf-life.\n\nThese limits will be included in Regulation 2073/2005 , which sets microbiological criteria for foodstuffs. Information on sampling is included in Annex I.",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng",
-  "detail_fetched_at": "2026-09-09T10:43:04.338344+00:00",
+  "detail_fetched_at": "2026-09-10T10:32:21.747618+00:00",
   "title_fr": "Teneurs maximales en toxine céréulide dans les aliments pour nourrissons",
   "summary_fr": "L'UE fixera des teneurs maximales en toxine céréulide dans les préparations pour nourrissons, les préparations de suite et les aliments pour …",
   "impacted_products_fr": "Préparations pour nourrissons, préparations de suite et aliments à usage médical spécial destinés aux nourrissons",
-  "translated_at": "2026-09-09T10:43:08.853164+00:00"
+  "translated_at": "2026-09-10T10:32:24.743207+00:00"
 }
