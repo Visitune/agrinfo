@@ -9,7 +9,7 @@
   "tags": [
     "Biotechnologies"
   ],
-  "fetched_at": "2026-09-10T10:32:14.972640+00:00",
+  "fetched_at": "2026-09-11T10:33:02.925496+00:00",
   "update": "From 17 July 2028, plants and products developed through new genomic techniques (NGTs) may be sold in the European Union (EU) (Regulation 2026/1388 ). The new rules establish two categories of NGT plants/products:\n\nCategory 1 NGT plants and products are considered to be equivalent to plants produced by conventional breeding. As they are not considered to be genetically modified organisms (GMOs), they do not have to comply with the general GMO rules. They do not have to be risk assessed, but must be verified before being sold in the EU. Category 2 NGT plants and products are not equivalent to those produced by conventional breeding. They must undergo risk assessment and authorisation under the existing GMO rules.\n\nThe EU will adopt further rules that include the information that operators will need to submit to allow the EU to verify Category 1 NGT plants and products, and to authorise Category 2 ones.\n\nTo help develop these information requirements, the European Commission has launched two consultations to gather technical and practical information from stakeholders.",
   "impacted_products": "NGT plants and products",
   "what_changing": "New EU rules on the marketing of crops produced using certain NGTs that change genetic material in plants – without inserting genes from other plants – will apply from 17 July 2028 (see New EU rules on plant genomic techniques ). The new rules classify NGTs in two categories:\n\nCategory 1 NGT plants – that could occur naturally or by conventional breeding – will not be considered as genetically modified organisms and therefore do not have to comply with EU rules on GMOs. They will have to undergo a verification procedure prior to being put on the EU market, but will not need to be risk assessed and authorised. Category 2 NGT plants – where changes to the plant could not occur naturally or through conventional breeding – will have to comply with EU GMO rules, including risk assessment and authorisation; however, as NGTs have specific characteristics, special rules apply.\n\nThe EU will publish a Regulation on the information that operators will need to submit to allow the EU to verify Category 1 NGT plants and products, and to authorise Category 2 ones. This information will include:\n\nFor Category 1 NGT plants and products – the information needed to demonstrate that a plant or product has Category 1 status, information on patents (published or applications), and the willingness of the patent holder to license their patents. For Category 2 NGT plants and products – the methodology and information needed to carry out relevant food and feed safety, and environmental risk assessments the requirements for preparing and submitting notifications and applications for NGT plants and products, and the conditions in which post-market environmental monitoring is not required performance requirements for analytical methods.",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/eli/reg/2003/1830/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
-  "detail_fetched_at": "2026-09-10T10:32:37.151001+00:00",
+  "detail_fetched_at": "2026-09-11T10:33:29.268626+00:00",
   "title_fr": "Nouvelles techniques génomiques : informations nécessaires à la vérification et à l'autorisation",
   "summary_fr": "Deux occasions de commenter les futures règles de l'UE fixant les exigences en matière d'information pour la vérification et l'autorisation de …",
   "impacted_products_fr": "Usines et produits NGT",
-  "translated_at": "2026-09-10T10:32:39.707906+00:00"
+  "translated_at": "2026-09-11T10:33:34.739878+00:00"
 }

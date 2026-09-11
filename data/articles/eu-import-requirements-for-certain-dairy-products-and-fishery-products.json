@@ -15,7 +15,7 @@
     "Food safety controls",
     "Fish"
   ],
-  "fetched_at": "2026-09-10T10:32:14.971602+00:00",
+  "fetched_at": "2026-09-11T10:33:02.924234+00:00",
   "update": "Regulation 2022/2292 establishes which animal products must meet public health requirements (hygiene requirements, residue control plans, approval of establishments and official certificates) to be exported to the European Union (EU).\n\nThe new Regulation 2026/1304 updates this list of products by adding food preparations based on dairy products (included in Combined Nomenclature /Harmonized System (CN/HS) customs code 1901) and fishery products (included in CN/HS 2103).\n\nIt also clarifies that live, chilled, frozen, and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods farmed in the sea do not need to be included in control plans for residues, contaminants, and pesticide residues. This only applies where their production takes place in premises on land.",
   "impacted_products": "Food preparations based on dairy products and fishery products; live, chilled, frozen and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods",
   "what_changing": "",
@@ -31,9 +31,9 @@
     "https://eur-lex.europa.eu/eli/reg_del/2025/637/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj/eng",
-  "detail_fetched_at": "2026-09-10T10:32:25.249928+00:00",
+  "detail_fetched_at": "2026-09-11T10:33:12.040777+00:00",
   "title_fr": "Exigences d'importation de l'UE pour certains produits laitiers et produits de la pêche",
   "summary_fr": "L'UE clarifie les exigences pour les mollusques bivalves d'élevage, les échinodermes, les tuniciers et les gastéropodes marins, et les préparations alimentaires basées sur …",
   "impacted_products_fr": "Préparations alimentaires à base de produits laitiers et de produits de la pêche ; mollusques bivalves, échinodermes, tuniciers et gastéropodes marins vivants, réfrigérés, congelés et transformés",
-  "translated_at": "2026-09-10T10:32:28.571558+00:00"
+  "translated_at": "2026-09-11T10:33:17.479654+00:00"
 }

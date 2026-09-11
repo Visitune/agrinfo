@@ -2,21 +2,21 @@
   "total": 58,
   "articles": [
     "husked-rice-import-tariffs",
-    "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
     "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
+    "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
     "rasff-notifications-in-july-2026",
     "new-genomic-techniques-information-needed-for-verification-and-authorisation",
     "reports-on-non-compliance-with-eu-food-law-and-agri-food-fraud-july-2026",
     "maximum-residue-level-for-recombinant-equine-chorionic-gonadotropin-recg",
     "eu-list-of-high-risk-organic-and-in-conversion-products-from-non-eu-countries",
     "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
-    "packaging-and-packaging-waste-consultation-eu-national-registers-of-producers",
+    "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
     "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
     "eu-livestock-strategy",
-    "packaging-and-packaging-waste-consultation-minimum-recycled-plastic-content",
     "eu-protein-system-action-plan",
-    "veterinary-medicinal-products-for-horse-species",
+    "packaging-and-packaging-waste-consultation-minimum-recycled-plastic-content",
     "organic-production-non-organic-protein-feed-for-piglets-and-young-poultry",
+    "veterinary-medicinal-products-for-horse-species",
     "hpai-eu-restrictions-on-imports-of-poultry-from-argentina",
     "rasff-notifications-in-june-2026",
     "maximum-levels-for-3-mcpd-and-glycidol",
@@ -28,8 +28,8 @@
     "maximum-levels-for-furan-in-baby-and-infant-cereal-based-foods",
     "criteria-defining-when-waste-legislation-stops-applying-to-plastic-waste",
     "maximum-residue-levels-for-acequinocyl",
-    "maximum-residue-levels-for-deltamethrin",
     "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
+    "maximum-residue-levels-for-deltamethrin",
     "maximum-residue-levels-for-dodine"
   ],
   "publications": [
@@ -62,5 +62,5 @@
     "impacts_regulatory_change_asia_2024_pdf",
     "impacts_regulatory_change_africa_2024_pdf"
   ],
-  "fetched_at": "2026-09-10T10:34:13.328388+00:00"
+  "fetched_at": "2026-09-11T10:36:35.302579+00:00"
 }

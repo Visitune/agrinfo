@@ -10,7 +10,7 @@
     "Tariffs & quotas",
     "Trade"
   ],
-  "fetched_at": "2026-09-10T10:32:14.970308+00:00",
+  "fetched_at": "2026-09-11T10:33:02.923585+00:00",
   "update": "From 7 September 2026, the European Union (EU) import tariff for husked (brown) rice, excluding basmati rice, is €42.50 per tonne.",
   "impacted_products": "Husked (brown) non-basmati rice",
   "what_changing": "The European Union (EU) has raised the import tariff for husked rice (CN code 1006 20) from €30.00 to €42.50 per tonne. This does not apply to husked basmati rice – for specific eligible varieties of basmati – for which the import tariff is always zero.",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32005D0476"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2029/oj",
-  "detail_fetched_at": "2026-09-10T10:32:17.971862+00:00",
+  "detail_fetched_at": "2026-09-11T10:33:06.014512+00:00",
   "title_fr": "Tarifs d'importation du riz décortiqué",
   "summary_fr": "L'UE augmente les droits d'importation du riz décortiqué à 42,50 € la tonne",
   "impacted_products_fr": "Riz décortiqué (brun) non basmati",
-  "translated_at": "2026-09-10T10:32:21.226027+00:00"
+  "translated_at": "2026-09-11T10:33:11.174682+00:00"
 }

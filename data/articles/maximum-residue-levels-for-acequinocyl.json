@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-10T10:32:17.130550+00:00",
+  "fetched_at": "2026-09-11T10:33:04.390318+00:00",
   "update": "The European Union (EU) proposes to increase the maximum residue levels (MRLs) for acequinocyl on blueberries, cranberries, currants, and gooseberries. This follows an increase in the MRL for strawberries in February 2026.",
   "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries",
   "what_changing": "The EU proposes to increase the MRLs for acequinocyl on blueberries, cranberries, currants (black, red, and white), and gooseberries (green, red, and yellow) from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nIn February 2026, the EU increased the MRL for acequinocyl on strawberries from 0.01 to 0.3 mg/kg.",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/140/oj/eng",
-  "detail_fetched_at": "2026-09-10T10:34:01.627552+00:00",
+  "detail_fetched_at": "2026-09-11T10:36:09.214571+00:00",
   "title_fr": "Limites maximales de résidus pour l'acétinocyle",
   "summary_fr": "L'UE propose d'augmenter les LMR pour l'acétinocyle sur les bleuets, les canneberges, les groseilles et les groseilles à maquereau",
   "impacted_products_fr": "Myrtilles, canneberges, groseilles, groseilles à maquereau, fraises",
-  "translated_at": "2026-09-10T10:34:04.708299+00:00"
+  "translated_at": "2026-09-11T10:36:13.692342+00:00"
 }
