@@ -2,8 +2,8 @@
   "total": 58,
   "articles": [
     "husked-rice-import-tariffs",
-    "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
     "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
+    "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
     "rasff-notifications-in-july-2026",
     "new-genomic-techniques-information-needed-for-verification-and-authorisation",
     "reports-on-non-compliance-with-eu-food-law-and-agri-food-fraud-july-2026",
@@ -12,24 +12,24 @@
     "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
     "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
     "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
-    "eu-livestock-strategy",
     "eu-protein-system-action-plan",
     "packaging-and-packaging-waste-consultation-minimum-recycled-plastic-content",
+    "eu-livestock-strategy",
     "organic-production-non-organic-protein-feed-for-piglets-and-young-poultry",
     "veterinary-medicinal-products-for-horse-species",
-    "hpai-eu-restrictions-on-imports-of-poultry-from-argentina",
-    "rasff-notifications-in-june-2026",
-    "maximum-levels-for-3-mcpd-and-glycidol",
     "list-of-control-bodies-and-authorities-in-non-eu-countries-with-equivalent-organic-systems",
-    "maximum-residue-levels-for-cyflumetofen",
+    "rasff-notifications-in-june-2026",
+    "hpai-eu-restrictions-on-imports-of-poultry-from-argentina",
+    "maximum-levels-for-3-mcpd-and-glycidol",
     "animal-health-rules-for-non-eu-countries-2026-update",
+    "maximum-residue-levels-for-cyflumetofen",
     "eu-deforestation-regulation-eudr-clarifications-may-2026",
     "maximum-levels-of-delta-9-tetrahydrocannabinol-_ce_b49-thc-in-hemp-seeds",
     "maximum-levels-for-furan-in-baby-and-infant-cereal-based-foods",
     "criteria-defining-when-waste-legislation-stops-applying-to-plastic-waste",
-    "maximum-residue-levels-for-acequinocyl",
     "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
     "maximum-residue-levels-for-deltamethrin",
+    "maximum-residue-levels-for-acequinocyl",
     "maximum-residue-levels-for-dodine"
   ],
   "publications": [
@@ -62,5 +62,5 @@
     "impacts_regulatory_change_asia_2024_pdf",
     "impacts_regulatory_change_africa_2024_pdf"
   ],
-  "fetched_at": "2026-09-11T10:36:35.302579+00:00"
+  "fetched_at": "2026-09-12T10:02:54.358551+00:00"
 }

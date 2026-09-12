@@ -11,7 +11,7 @@
     "Animal welfare",
     "Veterinary residues"
   ],
-  "fetched_at": "2026-09-11T10:33:03.661443+00:00",
+  "fetched_at": "2026-09-12T10:01:19.364921+00:00",
   "update": "The European Union (EU) amends the list of substances that are essential for the treatment of horse species.\n\nThis Regulation adds ketoconazole (topical use only), midazolam, and sevoflurane to the list of substances. It also discontinues the use of digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), phenytoin, and ticarcillin.",
   "impacted_products": "Horse species",
   "what_changing": "Regulation 2025/901 establishes a list of substances that are essential for the treatment of horses, or which are clinically better than comparative treatments.\n\nThe new Regulation 2026/1810 adds the following substances to the list in the Annex to Regulation 2025/901):\n\nketoconazole (only topical use), only as an antifungal for topical treatment of guttural pouch mycosis midazolam as a short-term anti-convulsant for treatment of seizures in nervous system disorders sevoflurane as an anaesthetic by inhalation.\n\nThe new Regulation also removes the following substances from the Annex to an earlier Regulation ( 1950/2006 ): digoxin, dorzolamide, imipramine, griseofulvin, ketoconazole (oral administration), phenytoin, and ticarcillin.\n\nThe remaining substances listed in Regulation 1950/2006 can still be used until 21 May 2027 , to allow authorities, veterinarians and animal keepers time to adjust their practices. After that date, the list in Regulation 2025/901 replaces the list in Regulation 1950/2006).",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2025/901/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2025/901/oj/eng",
-  "detail_fetched_at": "2026-09-11T10:34:44.418104+00:00",
+  "detail_fetched_at": "2026-09-12T10:02:10.211509+00:00",
   "title_fr": "Médicaments vétérinaires pour les espèces de chevaux",
   "summary_fr": "L'UE modifie la liste des médicaments vétérinaires essentiels pour le traitement des chevaux",
   "impacted_products_fr": "Espèce chevaline",
-  "translated_at": "2026-09-11T10:34:57.552401+00:00"
+  "translated_at": "2026-09-12T10:02:12.593424+00:00"
 }
