@@ -1,0 +1,32 @@
+{
+  "id": "maximum-residue-levels-for-milbemectin",
+  "title": "Maximum residue levels for milbemectin",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-milbemectin/",
+  "pub_date": "2026-08-18",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU discusses increasing MRL for milbemectin on cherries",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-09-21T11:54:37.146982+00:00",
+  "update": "The European Union (EU) is discussing an increase in the maximum residue level (MRL) for milbemectin on sweet cherries.",
+  "impacted_products": "Cherries (sweet)",
+  "what_changing": "The EU is discussing an increase in the MRL for milbemectin on sweet cherries from the limit of determination (LOD) of 0.02 to 0.2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "why": "Following an application for a change of this MRL by the producer of milbemectin, the European Food Safety Authority ( EFSA 2023 ) concluded that the proposed increase is unlikely to pose a risk to consumers’ health.",
+  "timeline": "The new MRL is expected to apply from early 2027.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
+  "resources": "EFSA (2023) Peer review of the pesticide risk assessment of the active substance milbemectin . EFSA Journal, 21 (7): e08126.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-09-21T11:56:02.266503+00:00",
+  "title_fr": "Limites maximales de résidus pour la milbémectine",
+  "summary_fr": "L'UE discute de l'augmentation de la LMR pour la milbémectine sur les cerises",
+  "impacted_products_fr": "Cerisiers - Doux",
+  "translated_at": "2026-09-21T11:56:07.225718+00:00"
+}

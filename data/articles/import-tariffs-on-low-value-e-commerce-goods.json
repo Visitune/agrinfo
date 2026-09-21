@@ -1,0 +1,32 @@
+{
+  "id": "import-tariffs-on-low-value-e-commerce-goods",
+  "title": "Import tariffs on low value e-commerce goods",
+  "url": "https://agrinfo.eu/book-of-reports/import-tariffs-on-low-value-e-commerce-goods/",
+  "pub_date": "2023-06-05",
+  "revised_date": "Aug. 14, 2026",
+  "regulation": "2026/382",
+  "summary": "EU introduces €3 import tariff on consignments of e-commerce goods with value up to €150",
+  "tags": [
+    "Tariffs & quotas",
+    "Trade"
+  ],
+  "fetched_at": "2026-09-21T11:54:37.151487+00:00",
+  "update": "Previously, consignments of goods exported to the European Union (EU) through business-to-consumer (B2C) distance sales (including e-commerce), and valued at less than €150, did not pay import tariffs (duties). For consignments with a value of up to €150, this Regulation introduces a €3 import tariff on each item in the consignment.",
+  "impacted_products": "",
+  "what_changing": "Previously, for consignments with a value under €150, EU import tariffs did not apply to goods (including agri-food products) sold through B2C distance sales. These are sales from a non-EU supplier directly to a consumer in the EU, including e-commerce.\n\nThe EU has now removed this exception. A new centralised EU IT infrastructure is under development that will be able to calculate standard import tariffs specific to individual products imported in low-value consignments. However, until this system is operational, the EU is applying the following temporary measure.\n\nFrom 1 July 2026 until 1 July 2028, a flat-rate customs tariff of €3 must be paid on each item in a consignment, where the value of the whole consignment does not exceed €150, if the goods are:\n\nfrom operators who use the Import One-Stop Shop (IOSS) scheme in a postal consignment, that is, goods sold through B2C distance sales by a supplier in a non-EU country to a consumer in the EU.\n\nThe tariff applies per item (based on tariff classification category), not on the quantities of that item. For example, three packets of coffee would be considered as one item; one packet of coffee and one packet of tea would be considered as two items.\n\nWhere operators are not registered to the IOSS scheme, standard import tariffs specific to the individual product will apply.",
+  "why": "The exemption from import tariffs on e-commerce goods valued at less than €150 was difficult for customs authorities to check. E-commerce consignments were reported to be regularly undervalued to avoid paying import duties. The tariff exemption was viewed as creating unfair competition for traditional retailers in the EU.",
+  "timeline": "The transitional rule introducing a flat rate €3 customs tariff on e-commerce goods applies from 1 July 2028 .",
+  "actions": "",
+  "background": "The IOSS scheme was created in 2021 to simplify the declaration and payment of value-added tax when importing goods to the EU, avoiding customs delay (see VAT One-Stop Shop ).",
+  "resources": "European Commission (2026) Guidance and legal text on temporary flat fee on low-value imports which will apply until 1 July 2028 . News article, 8 June. Communication from the Commission: Customs Reform: Taking the Customs Union to the Next Level .",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52023DC0257&qid=1684913179617"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/382/oj/eng",
+  "detail_fetched_at": "2026-09-21T11:56:34.609711+00:00",
+  "title_fr": "Droits de douane à l'importation sur les produits de commerce électronique de faible",
+  "summary_fr": "L'UE introduit un tarif d'importation de 3 € sur les envois de marchandises de commerce électronique d'une valeur maximale de 150 €",
+  "translated_at": "2026-09-21T11:56:36.918993+00:00"
+}

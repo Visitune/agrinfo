@@ -1,0 +1,32 @@
+{
+  "id": "maximum-residue-levels-for-ametoctradin",
+  "title": "Maximum residue levels for ametoctradin",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-ametoctradin/",
+  "pub_date": "2026-08-19",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU discusses increases in MRLs for ametoctradin on certain animal products",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-09-21T11:54:36.468366+00:00",
+  "update": "The European Union (EU) is discussing an increase in the maximum residue levels (MRLs) for ametoctradin on certain animal products.",
+  "impacted_products": "Products of animal origin (swine, cattle, sheep, goat, horse)",
+  "what_changing": "The EU is discussing an increase in the MRLs for ametoctradin on certain animal products as summarised in Table 1.",
+  "why": "The European Food Safety Authority carried out a periodic review of the MRLs for ametoctradin (under Regulation 396/2005 , Art. 12), and reviewed additional data from an applicant requesting modification of the existing MRLs ( EFSA 2020 ; EFSA 2026 ). The request for an increase in MRLs on certain livestock products was supported by the data, and the existing MRLs were considered to be safe for consumers.",
+  "timeline": "The new MRLs are expected to apply from early 2027.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
+  "resources": "EFSA (2020) Review of the existing maximum residue levels for ametoctradin according to Article 12 of Regulation (EC) No 396/2005 . EFSA Journal, 18(1): 5990. EFSA (2026) Evaluation of confirmatory data following the Article 12 MRL review for ametoctradin . EFSA Journal, 24(1): e9829.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-09-21T11:55:49.902861+00:00",
+  "title_fr": "Limites maximales de résidus pour l'amétoctradine",
+  "summary_fr": "L'UE discute de l'augmentation des LMR pour l'amétoctradine sur certains produits d'origine animale",
+  "impacted_products_fr": "Produits d'origine animale (porcins, bovins, ovins, caprins, équins)",
+  "translated_at": "2026-09-21T11:55:53.512100+00:00"
+}

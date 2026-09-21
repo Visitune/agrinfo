@@ -1,0 +1,33 @@
+{
+  "id": "review-of-eu-deforestation-regulation-simplification",
+  "title": "Review of EU Deforestation Regulation: simplification",
+  "url": "https://agrinfo.eu/book-of-reports/review-of-eu-deforestation-regulation-simplification/",
+  "pub_date": "2024-10-10",
+  "revised_date": "Sept. 7, 2026",
+  "regulation": "2025/2650",
+  "summary": "EU postpones application of EU Deforestation Regulation until 30 December 2026",
+  "tags": [
+    "Deforestation"
+  ],
+  "fetched_at": "2026-09-21T11:54:35.658206+00:00",
+  "update": "The European Union (EU) has postponed the application of the EU Deforestation Regulation (EUDR, Regulation 2023/1115 ) by a further 12 months until 30 December 2026 . This is due to concerns about the burden on companies, as well as technical concerns about the EUDR information system . In July 2026, the European Commission published an EUDR Information System User Guide that provides step-by-step information on how to create and manage due diligence statements, and includes brief descriptions of program functions, capabilities, and procedures.\n\nThe following simplifications to the EUDR have also been introduced.\n\nOnly the operators first placing relevant agri-food products (cattle, cocoa, coffee, palm oil, soya) on the EU market must assess the compliance of products with the EUDR, and submit due diligence statements to the EUDR information system. “Downstream operators” – companies that subsequently sell or process these products, but are not the first to place them on the EU market – no longer have to submit their own due diligence statements. The first downstream operator must still be registered in the EUDR information system, and must still ensure full traceability by passing on the reference numbers of all the “deforestation commodities” they use, for use in the due diligence statement. However, this information does not have to be passed further down the supply chain. “Micro and small primary operators” who put their own products on the EU market are required to make a one-time simplified declaration of EUDR conformity, rather than a full due diligence statement.",
+  "impacted_products": "Cattle, cocoa, coffee, palm oil, soya, and derived products",
+  "what_changing": "",
+  "why": "The 12-month delay aims to ensure that the EUDR Information System enabling operators to submit due diligence statements will be fully operational; and to allow further time for businesses to prepare for compliance with EUDR requirements.",
+  "timeline": "The Regulation applies from 26 December 2025.\n\nHowever, the application of EUDR requirements is postponed until 30 December 2026 . For micro and small operators, the application date is 30 June 2027 .",
+  "actions": "",
+  "background": "The EUDR sets out obligations regarding imports into the EU of products related to cattle, cocoa, coffee, palm oil, rubber, soya, and wood. It requires EU importers to ensure there is no or negligible risk that the production of these commodities contributed to deforestation, or that products were illegally produced according to national law. For a summary of these requirements and implications for suppliers, see The EU Deforestation Regulation: Requirements for Stakeholders outside the European Union .\n\nThe EUDR was originally intended to apply from 30 December 2024, but was previously postponed to 30 December 2025.\n\nThe definitions of micro and small operators are based on Regulation 2013/34/EU (Art. 3) as follows.\n\nA micro-undertaking is one that does not exceed two of the three following criteria:\n\nbalance sheet total: €450,000 net turnover: €900,000 average number of employees during the financial year: 10.\n\nA small undertaking is one that does not exceed two of the three following criteria:\n\nbalance sheet total: €5,000,000 net turnover: €10,000,000 average number of employees during the financial year: 50.\n\nOperators that place their own products on the EU market are included in the category “ micro and small primary operators ”, even if they exceed two of the criteria listed above for micro and small undertakings, if they can demonstrate that their activities specifically in relation to deforestation commodities (excluding other commodities they might trade) do not exceed two of the three criteria.",
+  "resources": "Council of the EU (2025) EU deforestation law: Council and Parliament reach a deal on targeted revision . Press release, 4 December. European Commission (2025) Commission proposes targeted measures to ensure the timely implementation of EU Deforestation Regulation . Press Release, 21 October. Regulation (EU) 2023/1115 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation Directive 2013/34/EU on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2650",
+    "https://eur-lex.europa.eu/eli/dir/2013/34/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
+  "detail_fetched_at": "2026-09-21T11:54:47.056608+00:00",
+  "title_fr": "Révision du règlement de l'UE sur la déforestation : simplification",
+  "summary_fr": "L'UE reporte l'application du règlement de l'UE sur la déforestation au 30 décembre 2026",
+  "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
+  "translated_at": "2026-09-21T11:54:50.653115+00:00"
+}
