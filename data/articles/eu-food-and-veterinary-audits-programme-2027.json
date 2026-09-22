@@ -1,0 +1,39 @@
+{
+  "id": "eu-food-and-veterinary-audits-programme-2027",
+  "title": "EU Food and Veterinary Audits Programme 2027",
+  "url": "https://agrinfo.eu/book-of-reports/eu-food-and-veterinary-audits-programme-2027/",
+  "pub_date": "Sept. 11, 2026",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU presents 2027 audit programme for food safety and plant/animal health",
+  "tags": [
+    "Additional/emergency controls",
+    "Animal health controls",
+    "Fisheries controls",
+    "Food safety controls",
+    "Official controls",
+    "Plant health controls"
+  ],
+  "fetched_at": "2026-09-22T10:54:44.545174+00:00",
+  "update": "The European Commission conducts regular audits and remote assessments of European Union (EU) Member States and non-EU countries to ensure the highest standards of food safety and regulatory compliance of goods put on the EU market.\n\nThis AGRINFO report highlights audits planned for 2027 in non-EU countries: Albania, Argentina, Bolivia, Brazil, China, Ecuador, Fiji, Guatemala, Honduras, India, Indonesia, Moldova, Montenegro, Morocco, Namibia, Nicaragua, North Macedonia, Paraguay, Peru, South Africa, Suriname, Tanzania, Thailand, Türkiye, Uganda, Ukraine, Venezuela, Viet Nam, and Zambia.\n\nA few additional countries may be added due to changing circumstances such as emerging risks or crises, new political priorities, or security issues.\n\nNote that audits for non-EU countries not covered by the scope of the AGRINFO programme are not covered in this report.",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "Control systems in EU Member States, and in non-EU countries, are continually monitored to guarantee effective enforcement of EU food safety and plant and animal health requirements.",
+  "timeline": "This AGRINFO report highlights the audits and remote assessments planned for 2027.",
+  "actions": "EU audits are greatly facilitated when exporting countries provide comprehensive responses to questionnaires (including for remote assessments), and when they prepare for an audit with detailed and organised records. This involves documenting all procedures, controls, and corrective actions that are taken to align with EU requirements. EU auditors require accessible evidence of system improvements, training logs, health and safety checks, and traceability systems. Conducting regular internal reviews and updating compliance strategies helps to demonstrate ongoing adherence to EU requirements.",
+  "background": "The Official Controls Regulation ( 2017/625 , Art. 120) allows the European Commission to perform audits and remote assessments in non-EU countries. These audits and assessments allow the EU to check the systems in place in non-EU countries that are exporting food, feed, animals, and plants to the EU. They are also central to deciding if a non-EU country can be included in the list of countries permitted to export animals and animal products to the EU. The Commission targets countries according to the level of risk associated with their exports, taking into consideration the volume of exports, non-compliant consignments identified at EU points of entry, and higher levels of risk associated with particular types of food, feed, animals, or plants.\n\nThese audits are also opportunities to foster international cooperation, share best practices, and encourage continuous improvement in global food safety standards.",
+  "resources": "European Commission (2025) Commission announces reinforcement of controls on products imported into the EU . Press release, 9 December. Online resources from the European Commission: Regulation (EU) 2017/625 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products […] (Official Controls Regulation) Regulation (EU) 2016/2031 on protective measures against pests of plants (Plant Health Law) Regulation (EU) 2016/429 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (Animal Health Law) Regulation (EC) No 178/2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (General Food Law)",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0625&qid=1660291144361",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02017R0625-20220128",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R2031",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R0429-20210421&qid=1660823654919",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A32002R0178"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0625&qid=1660291144361",
+  "detail_fetched_at": "2026-09-22T10:54:55.466273+00:00",
+  "title_fr": "Programme d'audits alimentaires et vétérinaires de l'UE 2027",
+  "summary_fr": "L'UE présente son programme d'audit 2027 pour la sécurité alimentaire et la santé végétale/animale",
+  "translated_at": "2026-09-22T10:54:57.739585+00:00"
+}

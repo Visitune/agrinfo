@@ -1,0 +1,33 @@
+{
+  "id": "tariff-quotas-for-certain-fishery-products",
+  "title": "Tariff quotas for certain fishery products",
+  "url": "https://agrinfo.eu/book-of-reports/tariff-quotas-for-certain-fishery-products/",
+  "pub_date": "2022-11-29",
+  "revised_date": "Sept. 16, 2026",
+  "regulation": "2023/2720",
+  "summary": "EU proposes 1-year extension of current (2024–2026 period) autonomous tariff quotas for certain fishery products for processing",
+  "tags": [
+    "Tariffs & quotas"
+  ],
+  "fetched_at": "2026-09-22T10:54:44.544742+00:00",
+  "update": "The European Commission is proposing a 1-year extension to the autonomous tariff quotas (ATQs) for certain fishery products, which were set for the 2024–2026 period. This will give the European Union (EU) additional time to complete its review of the ATQ regime and consider how to introduce sustainability criteria.\n\nATQs are established to ensure an adequate supply of raw materials for the EU fish processing industry where they are not sufficiently available in the EU, by reducing or suspending import duties.",
+  "impacted_products": "Certain fish and fishery products destined for processing in the EU",
+  "what_changing": "The European Commission is proposing a 1-year extension to the current ATQs for certain fishery products. These ATQs suspend or reduce import duties for certain fishery products to allow the EU fish processing industry adequate access to raw materials.\n\nATQs are set for the period 2024–2026 for the fishery products listed in Table 1. These tariff quotas are only for certain fishery products that are intended for further processing (e.g. dicing, filleting, production of flaps, cutting of frozen blocks). For full details of the individual quotas (detailed descriptions, TARIC customs codes), see the Annex of Regulation 2023/2720 .\n\nUnlike quotas agreed through tariff negotiations, ATQs are unilaterally established by the EU in response to the needs of the EU fish processing industry, to avoid a shortfall in supplies of raw materials for processing.",
+  "why": "The EU is currently reviewing how to incorporate sustainability criteria as a condition for accessing ATQs for products where there is insufficient EU supply (see EU autonomous tariff quota for imported fisheries products ). Extending the existing ATQs will allow time for this review process to be completed.",
+  "timeline": "The adoption of a revised ATQ regime that includes sustainability criteria is expected in the first quarter of 2027. This proposal extends the existing ATQ regime to 31 December 2027 .",
+  "actions": "Exporters should check if their products are covered by the ATQs and meet the relevant product, origin, and processing requirements in Regulation 2023/2720 .\n\nThey should also monitor quota availability, as access is limited to specified volumes and is managed on a first-come, first-served basis. To find out how much quota has already been used for a specific product, visit the European Commission’s Tariff quota consultation webpage and enter the Order number (shown on the left of Table 1 below) without the decimal point: e.g. 09.2503 should be entered as 092503.",
+  "background": "In recent decades, the EU has become increasingly dependent on imports of fish and fish products to meet demand. The EU’s fisheries and aquaculture production currently meets only about 38% of its needs ( EUMOFA 2025 ). The Union has concluded several agreements with non-EU countries or territories to permit the suspension or partial waiver of normal duties applicable to certain fishery products to ensure an adequate supply to its processing industry.\n\nThese autonomous trade measures for fishery and aquaculture products enable the EU fish processing industry to import raw materials from non-EU countries’ for further processing at reduced rates or duty-free, and allow EU Member States to draw from the tariff quota the quantities that correspond to their actual import needs. Tariff quota entitlement is based on the supply of an appropriate volume until the tariff quotas have been used up, and requires a minimum capacity of treatment or operation. Imports are subject to end-use customs supervision in accordance with Regulation 952/2013 (Art. 254).\n\nRegulation 2023/2720 establishes ATQs for the period 2024–2026, including Alaska pollock, cod, hake, shrimp and prawns, squid, surimi, tilapia, and tuna loins. The quotas are established autonomously by the EU. Once the quota is exhausted, the normal customs duty generally applies.",
+  "resources": "Council Regulation 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period EUMOFA (2025) The EU Fish Market: 2025 edition . European Market Observatory for Fisheries and Aquaculture Products.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026PC0447&qid=1788940131614",
+    "https://eur-lex.europa.eu/eli/reg/2023/2720/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0952"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026PC0447&qid=1788940131614",
+  "detail_fetched_at": "2026-09-22T10:54:51.561174+00:00",
+  "title_fr": "CONTINGENTS TARIFAIRES POUR CERTAINS PRODUITS DE LA PECHE",
+  "summary_fr": "L'UE propose une prolongation d'un an des contingents tarifaires autonomes actuels (période 2024–2026) pour certains produits de la pêche destinés à la transformation",
+  "impacted_products_fr": "Certains poissons et produits de la pêche destinés à la transformation dans l'UE",
+  "translated_at": "2026-09-22T10:54:54.903935+00:00"
+}

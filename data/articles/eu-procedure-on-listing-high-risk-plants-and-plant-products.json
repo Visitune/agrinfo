@@ -1,0 +1,35 @@
+{
+  "id": "eu-procedure-on-listing-high-risk-plants-and-plant-products",
+  "title": "EU procedure on listing high-risk plants and plant products",
+  "url": "https://agrinfo.eu/book-of-reports/eu-procedure-on-listing-high-risk-plants-and-plant-products/",
+  "pub_date": "2026-02-19",
+  "revised_date": "Aug. 27, 2026",
+  "regulation": "2026/1195",
+  "summary": "European Commission standardises how it decides which imported plants and plant products are classified as high-risk for …",
+  "tags": [
+    "High-risk plants",
+    "Plant health"
+  ],
+  "fetched_at": "2026-09-22T10:54:45.465390+00:00",
+  "update": "The European Commission has defined a standardised procedure for deciding which plants, plant products, and other objects are classified as “high-risk” for plant health when imported into the European Union (EU). This Regulation does not itself designate any new products as high-risk, but explains how the EU will decide whether a product is classified as high-risk.",
+  "impacted_products": "Plants and plant products",
+  "what_changing": "The EU has formalised and standardised how plants and plant products for import into the EU are classified as “high-risk”. Previously the decision-making process for this classification did not have a single, clear and transparent procedure.\n\nWith this Regulation, the EU is establishing a structured, evidence-based, and faster process for identifying products that may present an unacceptable phytosanitary risk. EU Member States can propose commodities for listing, and decisions will be based on documented evidence including interception data, pest presence in exporting countries, trade patterns, and the effectiveness of existing risk-mitigation measures. A dedicated expert group involving EU Member States, the European Food Safety Authority (EFSA), and the European Commission will carry out a preliminary risk assessment before any decision is taken on listing.",
+  "why": "These changes will ensure that decisions on high-risk plants and plant products are more consistent and more transparent, and that procedures are based on documented scientific and technical evidence.",
+  "timeline": "The Regulation applies from 3 September 2026 .",
+  "actions": "",
+  "background": "Under the EU Plant Health Law (Regulation 2016/2031 , Art. 42(3)), plants, plant products, and other objects identified as high-risk are provisionally listed in the Annex to Regulation 2018/2019 , and their introduction into the EU is prohibited pending a risk assessment (see Provisional list of high risk plants explained ). Regulation 2016/2031 (Art. 42(1a)) provides the legal basis for establishing clear, timely, and transparent rules for how high-risk products are identified and listed.\n\nA review of the first five years of application of the EU Plant Health Law identified the need to clarify, simplify, and harmonise several plant health-related import procedures ( Council of the EU 2024 ). Differences in implementation between EU Member States, administrative burdens, and the absence of clear procedures for issues such as high-risk listings, temporary derogations, and equivalence created uncertainty for both EU authorities and non-EU trading partners. (See Revision of EU Plant Health Law .)\n\nEFSA et al. (2018) have published the information required for dossiers to support demands for import of high-risk plants.",
+  "resources": "Council of the EU (2024) Plant health law: Council and Parliament strike deal to simplify and strengthen current rules . Press release, 5 March. EFSA, et al. (2018) Information required for dossiers to support demands for import of high risk plants, plant products and other objects . EFSA supporting publication, EN-1492. IPPC (2023) Glossary of phytosanitary terms . ISPM 5: International Standards for Phytosanitary Measures. Rome: International Plant Protection Convention. Regulation (EU) 2016/2031 on protective measures against pests of plants (the Plant Health Law).",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601195",
+    "https://eur-lex.europa.eu/eli/reg/2016/2031/oj?eliuri=eli%3Areg%3A2016%3A2031%3Aoj&locale=en",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02018R2019-20251120",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R2031"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601195",
+  "detail_fetched_at": "2026-09-22T10:55:38.583344+00:00",
+  "title_fr": "Procédure de l'UE sur l'inscription des végétaux et produits végétaux à haut risque",
+  "summary_fr": "La Commission européenne standardise la façon dont elle décide quels végétaux et produits végétaux importés sont classés comme à haut risque pour …",
+  "impacted_products_fr": "Végétaux et produits végétaux",
+  "translated_at": "2026-09-22T10:55:41.934527+00:00"
+}
