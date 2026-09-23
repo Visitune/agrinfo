@@ -10,7 +10,7 @@
     "Tariffs & quotas",
     "Trade"
   ],
-  "fetched_at": "2026-09-22T10:54:45.466193+00:00",
+  "fetched_at": "2026-09-23T10:42:50.304301+00:00",
   "update": "The EU–Mercosur Interim Trade Agreement (ITA), which provisionally applies from 1 May 2026, establishes tariff rate quotas (TRQs) for certain agri-food products.\n\nRegulation 2026/996 sets out the rules that allow these quotas to be opened and managed.\n\nNotice 2026/874 provides the certificate that must be used to accompany products imported under TRQ arrangements.\n\nRegulation 2026/1727 , published in July 2026, corrects certain errors and omissions in Regulation 2026/996",
   "impacted_products": "Beef, eggs, egg albumen, garlic, honey, maize, pigmeat, poultry, rice, sorghum, starch derivatives, sugar, sweetcorn",
   "what_changing": "The ITA between the European Union and the Mercosur States (Argentina, Brazil, Paraguay, Uruguay) provisionally applies from 1 May 2026.\n\nThe Agreement establishes the agri-food quotas for which import licences are required, set out in Table 1. Details of each quota, including quota period, quantity, and import licence requirements, are given in Regulation 2026/996 , Annex I.\n\nThe ITA also establishes the agri-food quotas which are managed according to the principle of “first-come, first-served” (Table 2). Regulation 2026/996 , Annex II sets out details of each quota.\n\nProducts imported under all these quotas must be accompanied by the certificate in Notice 2026/874 .",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600996",
-  "detail_fetched_at": "2026-09-22T10:55:46.602481+00:00",
+  "detail_fetched_at": "2026-09-23T10:44:02.033306+00:00",
   "title_fr": "Accord commercial intérimaire UE-Mercosur : gestion des contingents tarifaires",
   "summary_fr": "L'UE établit des règles pour la mise en œuvre des contingents tarifaires du Mercosur",
   "impacted_products_fr": "Bœuf, œufs, albumine d'œuf, ail, miel, maïs, viande de porc, volaille, riz, sorgho, dérivés d'amidon, sucre, maïs doux",
-  "translated_at": "2026-09-22T10:55:50.208625+00:00"
+  "translated_at": "2026-09-23T10:44:04.868519+00:00"
 }

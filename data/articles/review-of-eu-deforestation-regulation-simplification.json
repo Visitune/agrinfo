@@ -9,7 +9,7 @@
   "tags": [
     "Deforestation"
   ],
-  "fetched_at": "2026-09-22T10:54:44.546066+00:00",
+  "fetched_at": "2026-09-23T10:42:49.622242+00:00",
   "update": "The European Union (EU) has postponed the application of the EU Deforestation Regulation (EUDR, Regulation 2023/1115 ) by a further 12 months until 30 December 2026 . This is due to concerns about the burden on companies, as well as technical concerns about the EUDR information system . In July 2026, the European Commission published an EUDR Information System User Guide that provides step-by-step information on how to create and manage due diligence statements, and includes brief descriptions of program functions, capabilities, and procedures.\n\nThe following simplifications to the EUDR have also been introduced.\n\nOnly the operators first placing relevant agri-food products (cattle, cocoa, coffee, palm oil, soya) on the EU market must assess the compliance of products with the EUDR, and submit due diligence statements to the EUDR information system. “Downstream operators” – companies that subsequently sell or process these products, but are not the first to place them on the EU market – no longer have to submit their own due diligence statements. The first downstream operator must still be registered in the EUDR information system, and must still ensure full traceability by passing on the reference numbers of all the “deforestation commodities” they use, for use in the due diligence statement. However, this information does not have to be passed further down the supply chain. “Micro and small primary operators” who put their own products on the EU market are required to make a one-time simplified declaration of EUDR conformity, rather than a full due diligence statement.",
   "impacted_products": "Cattle, cocoa, coffee, palm oil, soya, and derived products",
   "what_changing": "",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/eli/dir/2013/34/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
-  "detail_fetched_at": "2026-09-22T10:55:02.191513+00:00",
+  "detail_fetched_at": "2026-09-23T10:43:20.299780+00:00",
   "title_fr": "Révision du règlement de l'UE sur la déforestation : simplification",
   "summary_fr": "L'UE reporte l'application du règlement de l'UE sur la déforestation au 30 décembre 2026",
   "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
-  "translated_at": "2026-09-22T10:55:05.595688+00:00"
+  "translated_at": "2026-09-23T10:43:24.563356+00:00"
 }
