@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-23T10:42:50.895042+00:00",
+  "fetched_at": "2026-09-24T11:03:27.934569+00:00",
   "update": "The European Union (EU) is discussing an increase in the maximum residue level (MRL) for milbemectin on sweet cherries.",
   "impacted_products": "Cherries (sweet)",
   "what_changing": "The EU is discussing an increase in the MRL for milbemectin on sweet cherries from the limit of determination (LOD) of 0.02 to 0.2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-23T10:44:31.237191+00:00",
+  "detail_fetched_at": "2026-09-24T11:05:18.203230+00:00",
   "title_fr": "Limites maximales de résidus pour la milbémectine",
   "summary_fr": "L'UE discute de l'augmentation de la LMR pour la milbémectine sur les cerises",
   "impacted_products_fr": "Cerisiers - Doux",
-  "translated_at": "2026-09-23T10:44:33.960990+00:00"
+  "translated_at": "2026-09-24T11:05:21.107222+00:00"
 }

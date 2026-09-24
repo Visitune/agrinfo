@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-23T10:42:50.894515+00:00",
+  "fetched_at": "2026-09-24T11:03:27.933181+00:00",
   "update": "The European Union (EU) is discussing an increase in the maximum residue levels (MRLs) for ametoctradin on certain animal products.",
   "impacted_products": "Products of animal origin (swine, cattle, sheep, goat, horse)",
   "what_changing": "The EU is discussing an increase in the MRLs for ametoctradin on certain animal products as summarised in Table 1.",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-23T10:44:27.191603+00:00",
+  "detail_fetched_at": "2026-09-24T11:05:06.122105+00:00",
   "title_fr": "Limites maximales de résidus pour l'amétoctradine",
   "summary_fr": "L'UE discute de l'augmentation des LMR pour l'amétoctradine sur certains produits d'origine animale",
   "impacted_products_fr": "Produits d'origine animale (porcins, bovins, ovins, caprins, équins)",
-  "translated_at": "2026-09-23T10:44:30.555451+00:00"
+  "translated_at": "2026-09-24T11:05:10.003024+00:00"
 }

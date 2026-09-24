@@ -10,7 +10,7 @@
     "Deforestation",
     "Sustainability/Due diligence"
   ],
-  "fetched_at": "2026-09-23T10:42:49.618726+00:00",
+  "fetched_at": "2026-09-24T11:03:26.525171+00:00",
   "update": "In September 2026 the European Commission published Regulation 2026/2102 clarifying which products must meet the requirements of the EU Deforestation Regulation (EUDR).\n\nIn the case of agri-food, these are products derived from cattle, cocoa, coffee, palm oil, and soyabeans. The Commission has added some products, including soluble coffee and frozen cattle tongues, to the existing list of products set out in the EUDR (Regulation 2023/1115 , Annex I). The EUDR requirements will only apply to these additional products from 30 December 2027 .\n\nThe new Regulation also clarifies that where products can potentially be derived from palm oil or other similar commodities, only those produced from palm oil have to meet EUDR requirements. The Regulation also explicitly excludes certain products from the scope of the EUDR: soyabeans used for sowing; packaging derived from wood that is used to protect agri-food products in transport; marketing materials and correspondence accompanying consignments; and product samples exported to the EU for quality testing.\n\nIn May 2026, the Commission has also published updated Guidance and revised Frequently Asked Questions providing further explanations, in particular on the EUDR simplifications adopted in 2025 (see Review of EU Deforestation Regulation: simplification ).",
   "impacted_products": "Cattle, cocoa, coffee, palm oil, soya, and derived products",
   "what_changing": "",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602102",
-  "detail_fetched_at": "2026-09-23T10:42:57.883602+00:00",
+  "detail_fetched_at": "2026-09-24T11:03:29.266563+00:00",
   "title_fr": "Règlement de l'UE sur la déforestation (EUDR) : clarifications des produits de base et des produits",
   "summary_fr": "L'UE clarifie quels produits doivent répondre aux exigences de l'EUDR",
   "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
-  "translated_at": "2026-09-23T10:43:01.401624+00:00"
+  "translated_at": "2026-09-24T11:03:32.804879+00:00"
 }
