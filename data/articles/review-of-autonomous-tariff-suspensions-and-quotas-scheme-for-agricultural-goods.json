@@ -11,7 +11,7 @@
     "Trade",
     "Trade policy"
   ],
-  "fetched_at": "2026-09-24T11:03:26.526179+00:00",
+  "fetched_at": "2026-09-25T11:03:47.075108+00:00",
   "update": "The European Commission has launched a call for evidence from stakeholders as part of a review of its autonomous tariff suspensions and quotas scheme (ATSQ) for agricultural and industrial goods. This scheme reduces or suspends import tariffs on a set quantity of products (quota) for certain strategic raw materials that are not produced, or insufficiently produced, in the European Union (EU).\n\nThe Commission’s evaluation will assess whether the scheme is effective and responsive to current EU needs. It aims to simplify administrative arrangements and reduce costs of compliance.\n\nInterested stakeholders can provide feedback until 8 October 2026 .",
   "impacted_products": "Agricultural products identified by the EU as critical raw materials",
   "what_changing": "The European Commission has launched a call for evidence inviting stakeholders to provide information and views on the current impact of the autonomous tariff suspensions and quotas (ATSQ) scheme.\n\nThe ATSQ scheme allows the EU to reduce or suspend import tariffs for a given quantity of products (raw materials, semi-finished products, or components) that are considered to be strategically important for European production chains. The targeted products must be unavailable in the EU, or not produced there in sufficient quantities, and they must be used to manufacture goods in the EU with high EU added value.",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/eli/reg/2021/2283/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52011XC1213%2801%29&qid=1779798239341",
-  "detail_fetched_at": "2026-09-24T11:03:33.349402+00:00",
+  "detail_fetched_at": "2026-09-25T11:03:49.891147+00:00",
   "title_fr": "Examen des suspensions tarifaires autonomes et du système de quotas pour les produits agricoles",
   "summary_fr": "Consultation publique de l'UE sur la révision du système autonome de suspensions tarifaires et de quotas",
   "impacted_products_fr": "Produits agricoles identifiés par l'UE comme des matières premières critiques",
-  "translated_at": "2026-09-24T11:03:37.911834+00:00"
+  "translated_at": "2026-09-25T11:03:53.339801+00:00"
 }

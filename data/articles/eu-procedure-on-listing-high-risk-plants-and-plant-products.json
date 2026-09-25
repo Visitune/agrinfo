@@ -10,7 +10,7 @@
     "High-risk plants",
     "Plant health"
   ],
-  "fetched_at": "2026-09-24T11:03:27.306955+00:00",
+  "fetched_at": "2026-09-25T11:03:47.879572+00:00",
   "update": "The European Commission has defined a standardised procedure for deciding which plants, plant products, and other objects are classified as “high-risk” for plant health when imported into the European Union (EU). This Regulation does not itself designate any new products as high-risk, but explains how the EU will decide whether a product is classified as high-risk.",
   "impacted_products": "Plants and plant products",
   "what_changing": "The EU has formalised and standardised how plants and plant products for import into the EU are classified as “high-risk”. Previously the decision-making process for this classification did not have a single, clear and transparent procedure.\n\nWith this Regulation, the EU is establishing a structured, evidence-based, and faster process for identifying products that may present an unacceptable phytosanitary risk. EU Member States can propose commodities for listing, and decisions will be based on documented evidence including interception data, pest presence in exporting countries, trade patterns, and the effectiveness of existing risk-mitigation measures. A dedicated expert group involving EU Member States, the European Food Safety Authority (EFSA), and the European Commission will carry out a preliminary risk assessment before any decision is taken on listing.",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R2031"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601195",
-  "detail_fetched_at": "2026-09-24T11:04:36.988729+00:00",
+  "detail_fetched_at": "2026-09-25T11:04:50.175726+00:00",
   "title_fr": "Procédure de l'UE sur l'inscription des végétaux et produits végétaux à haut risque",
   "summary_fr": "La Commission européenne standardise la façon dont elle décide quels végétaux et produits végétaux importés sont classés comme à haut risque pour …",
   "impacted_products_fr": "Végétaux et produits végétaux",
-  "translated_at": "2026-09-24T11:04:39.890556+00:00"
+  "translated_at": "2026-09-25T11:04:53.202139+00:00"
 }
