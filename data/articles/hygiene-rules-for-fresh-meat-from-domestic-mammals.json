@@ -10,7 +10,7 @@
     "Food safety",
     "Hygiene"
   ],
-  "fetched_at": "2026-09-25T11:03:47.076046+00:00",
+  "fetched_at": "2026-09-26T10:45:37.508811+00:00",
   "update": "The European Union (EU) has notified the World Trade Organization Sanitary and Phytosanitary Measures (WTO SPS) Committee of new proposed hygiene rules on the storage conditions for fresh meat from domestic (non-wild) mammals (including cows, pigs, sheep, goats, and horses) ( G/SPS/N/EU/965 ).\n\nCurrent rules require meat intended for freezing to be frozen without undue delay. The European Commission now proposes more specific rules regarding the number of days after slaughter and the temperatures for freezing fresh meat from domestic mammals. (The rules for farmed game meat will remain unchanged.)",
   "impacted_products": "Fresh meat of domestic ungulates intended to be frozen",
   "what_changing": "Under the current EU hygiene rules (Regulation 853/2004 ), fresh meat that is intended to be frozen from domestic (non-wild) mammals (including cows, pigs, sheep, goats, and horses) must be frozen “without undue delay”, taking into account the time needed to stabilise the pH and core temperature prior to freezing (Annex III, Section I, Chapter VII, point 4).\n\nThe European Commission now proposes to set more specific requirements for meat from domestic mammals. Meat must be frozen after slaughter within:\n\n6 days if it is stored/transported at a maximum of 7°C 14 days if it is stored/transported at a maximum of 3°C.\n\nMeat may also be frozen after storage and transport under other time/temperature conditions if the operator can demonstrate to competent authorities the safety of those conditions. Operators must provide scientific evidence, including an evaluation of the presence and growth of pathogens and spoilage bacteria before freezing and after defrosting.\n\nException : meat from farmed game mammals will continue to be subject to current rules: meat must be frozen “without undue delay”, taking into account any stabilisation period before freezing.",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
-  "detail_fetched_at": "2026-09-25T11:03:57.704123+00:00",
+  "detail_fetched_at": "2026-09-26T10:45:47.459776+00:00",
   "title_fr": "Règles d'hygiène pour la viande fraîche de mammifères domestiques",
   "summary_fr": "L'UE fixera des exigences plus spécifiques pour la congélation de la viande fraîche de mammifères domestiques (ongulés)",
   "impacted_products_fr": "Viande fraîche d'ongulés domestiques destinée à être congelée",
-  "translated_at": "2026-09-25T11:04:01.065117+00:00"
+  "translated_at": "2026-09-26T10:45:50.495921+00:00"
 }

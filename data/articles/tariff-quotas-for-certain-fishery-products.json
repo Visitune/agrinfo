@@ -9,7 +9,7 @@
   "tags": [
     "Tariffs & quotas"
   ],
-  "fetched_at": "2026-09-25T11:03:47.076861+00:00",
+  "fetched_at": "2026-09-26T10:45:37.509802+00:00",
   "update": "The European Commission is proposing a 1-year extension to the autonomous tariff quotas (ATQs) for certain fishery products, which were set for the 2024–2026 period. This will give the European Union (EU) additional time to complete its review of the ATQ regime and consider how to introduce sustainability criteria.\n\nATQs are established to ensure an adequate supply of raw materials for the EU fish processing industry where they are not sufficiently available in the EU, by reducing or suspending import duties.",
   "impacted_products": "Certain fish and fishery products destined for processing in the EU",
   "what_changing": "The European Commission is proposing a 1-year extension to the current ATQs for certain fishery products. These ATQs suspend or reduce import duties for certain fishery products to allow the EU fish processing industry adequate access to raw materials.\n\nATQs are set for the period 2024–2026 for the fishery products listed in Table 1. These tariff quotas are only for certain fishery products that are intended for further processing (e.g. dicing, filleting, production of flaps, cutting of frozen blocks). For full details of the individual quotas (detailed descriptions, TARIC customs codes), see the Annex of Regulation 2023/2720 .\n\nUnlike quotas agreed through tariff negotiations, ATQs are unilaterally established by the EU in response to the needs of the EU fish processing industry, to avoid a shortfall in supplies of raw materials for processing.",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0952"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026PC0447&qid=1788940131614",
-  "detail_fetched_at": "2026-09-25T11:04:05.287719+00:00",
+  "detail_fetched_at": "2026-09-26T10:45:54.793144+00:00",
   "title_fr": "CONTINGENTS TARIFAIRES POUR CERTAINS PRODUITS DE LA PECHE",
   "summary_fr": "L'UE propose une prolongation d'un an des contingents tarifaires autonomes actuels (période 2024–2026) pour certains produits de la pêche destinés à la transformation",
   "impacted_products_fr": "Certains poissons et produits de la pêche destinés à la transformation dans l'UE",
-  "translated_at": "2026-09-25T11:04:08.470863+00:00"
+  "translated_at": "2026-09-26T10:45:57.811316+00:00"
 }
