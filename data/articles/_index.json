@@ -1,6 +1,7 @@
 {
   "total": 58,
   "articles": [
+    "european-sustainability-reporting-standards",
     "eu-deforestation-regulation-eudr-clarifications-of-commodities-and-products",
     "review-of-autonomous-tariff-suspensions-and-quotas-scheme-for-agricultural-goods",
     "feed-additives-juneaugust-2026-authorisations-and-reauthorisations",
@@ -8,27 +9,26 @@
     "tariff-quotas-for-certain-fishery-products",
     "guidelines-on-the-eu-forced-labour-regulation",
     "eu-food-and-veterinary-audits-programme-2027",
+    "husked-rice-import-tariffs",
     "eu-deforestation-regulation-publications-and-resources",
     "review-of-eu-deforestation-regulation-simplification",
-    "husked-rice-import-tariffs",
-    "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
     "eu-import-requirements-for-certain-dairy-products-and-fishery-products",
-    "new-genomic-techniques-information-needed-for-verification-and-authorisation",
+    "maximum-levels-of-cereulide-toxin-in-foods-for-infants",
     "rasff-notifications-in-july-2026",
     "reports-on-non-compliance-with-eu-food-law-and-agri-food-fraud-july-2026",
-    "new-generalised-scheme-of-tariff-preferences",
+    "new-genomic-techniques-information-needed-for-verification-and-authorisation",
     "maximum-residue-level-for-recombinant-equine-chorionic-gonadotropin-recg",
+    "new-generalised-scheme-of-tariff-preferences",
     "eu-procedure-on-listing-high-risk-plants-and-plant-products",
     "eu-list-of-high-risk-organic-and-in-conversion-products-from-non-eu-countries",
     "eumercosur-interim-trade-agreement-management-of-tariff-rate-quotas",
     "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
     "european-commission-economic-impact-study-on-proposed-changes-to-eu-pesticide-mrl-rules",
     "packaging-and-packaging-waste-consultation-eu-national-registers-of-producers",
-    "eu-protein-system-action-plan",
     "packaging-and-packaging-waste-consultation-minimum-recycled-plastic-content",
-    "maximum-residue-levels-for-ametoctradin",
+    "eu-protein-system-action-plan",
     "eu-livestock-strategy",
-    "organic-production-non-organic-protein-feed-for-piglets-and-young-poultry",
+    "maximum-residue-levels-for-ametoctradin",
     "maximum-residue-levels-for-milbemectin",
     "veterinary-medicinal-products-for-horse-species"
   ],
@@ -62,5 +62,5 @@
     "impacts_regulatory_change_europe_middle_east_2024_pdf",
     "impacts_regulatory_change_asia_2024_pdf"
   ],
-  "fetched_at": "2026-09-29T12:06:02.030345+00:00"
+  "fetched_at": "2026-09-30T11:54:06.858006+00:00"
 }
