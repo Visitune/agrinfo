@@ -1,0 +1,35 @@
+{
+  "id": "prohibition-of-products-made-with-forced-labour",
+  "title": "Prohibition of products made with forced labour",
+  "url": "https://agrinfo.eu/book-of-reports/prohibition-of-products-made-with-forced-labour/",
+  "pub_date": "2023-02-07",
+  "revised_date": "Sept. 11, 2026",
+  "regulation": "2024/3015, 2026/903",
+  "summary": "EU prohibits sales of products made using forced labour on the EU market",
+  "tags": [
+    "Forced labour",
+    "Sustainability/Due diligence"
+  ],
+  "fetched_at": "2026-10-05T13:30:55.108974+00:00",
+  "update": "The sale of products made with forced labour, including agricultural products, within the European Union (EU) will be prohibited from 14 December 2027 . The EU is establishing information, investigation, and enforcement systems to prevent these products entering the EU market.\n\nIn September 2026, the EU published Guidelines on the application of Regulation 2024/3015 to help competent authorities, businesses, and stakeholders apply the rules in a practical and effective way. These Guidelines are not legally binding (only the Regulation itself is legally binding).",
+  "impacted_products": "",
+  "what_changing": "Within the EU, the Forced Labour Regulation ( 2024/3015 ) prohibits imports and sales (including online sales) of products made with forced labour, including forced child labour. This includes agri-food products, and covers all stages including harvest, production, and processing of agricultural products (Arts. 2.6 to 8). The Forced Labour Regulation establishes information systems and structures to investigate suspected cases of forced labour, and sets out the steps the EU may take to prohibit and remove from the EU market products associated with forced labour.\n\nThe EU’s definition of forced labour is from the International Labour Organization’s Convention on Forced Labour: “all work or service which is exacted from any person under the menace of any penalty and for which the said person has not offered himself voluntarily” ( United Nations 1930 ).",
+  "why": "The EU aims to ensure that EU consumers do not contribute to forced labour.\n\nForced labour is an ongoing problem, including in the agricultural sector, both inside and outside the EU ( Euractiv 2024 ). It is estimated that 27.6 million people are subject to forced labour, of whom 3.3 million are children ( ILO et al. 2022 ). Forced labour is still found in many sectors, including agriculture.",
+  "timeline": "The Forced Labour Regulation ( 2024/3015 ) will apply from 14 December 2027 .\n\nRegulation 2026/903 , which will be used in implementing the Forced Labour Regulation, applies from 17 May 2026 .",
+  "actions": "Non-EU suppliers and importers are advised to put in place monitoring and reporting systems that will reduce the risk of investigations by their EU buyers on the use of forced labour.",
+  "background": "EU Member States have developed different regulatory responses to the problem of forced labour. A coordinated and harmonised approach within the EU will provide a stronger response in the fight against forced labour and facilitate the free trade of goods within the EU.\n\nThe Corporate Sustainability Due Diligence Directive establishes stricter due diligence obligations for large companies active in the European Union (EU). However, only the largest operators have to comply with these due diligence obligations, and the rules do not prohibit outright the import or sale of products that have been made with forced labour. Other EU legislation aims to prevent human trafficking (Directive 2011/36/EU ) and to prohibit the employment of victims of trafficking (Directive 2009/52/EEC ). The Forced Labour Regulation aims to fill the gaps in the EU’s existing legal framework.",
+  "resources": "ECCJ (2021) Key considerations for an EU instrument to control the importation of forced labour products into the EU . European Coalition for Corporate Justice. ETUC (2022) Unions back EU ban on forced labour goods . European Trade Union Confederation. Euractiv (2024) New EU forced labour rules to crack down on exploitation in agri-food supply chains . Euractiv, 5 March. European Commission (2021) New EU guidance helps companies to combat forced labour in supply chains . Press release, 13 July. European Commission (2022) Questions and Answers: Prohibition of products made by forced labour in the Union Market . European Commission (2026) Commission Notice – Guidelines on the application of Regulation (EU) 2024/3015 on prohibiting products made with forced labour on the Union market . Fair Trade Advocacy Office (2022) EU instrument to prohibit products made with forced labour released: Human rights, really not for sale? Statement, 14 September. FRUCOM (2022) Feedback on a proposed regulation effectively banning products produced, extracted, or harvested with forced labour (download). ILO et al. (2022) Global estimates of modern slavery: Forced labour and forced marriage . International Labour Organization, Walk Free, and International Organization for Migration. United Nations (1930) Forced Labour Convention, 1930 (No. 29) . Office of the High Commissioner for Human Rights.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202604637",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600903",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R3015&qid=1735891286996",
+    "https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32011L0036",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32009L0052"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202604637",
+  "detail_fetched_at": "2026-10-05T13:31:43.379720+00:00",
+  "title_fr": "Interdiction des produits issus du travail forcé",
+  "summary_fr": "L'UE interdit la vente de produits fabriqués par le travail forcé sur le marché de l'UE",
+  "translated_at": "2026-10-05T13:31:45.515421+00:00"
+}
