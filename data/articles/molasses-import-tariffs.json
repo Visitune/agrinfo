@@ -1,0 +1,35 @@
+{
+  "id": "molasses-import-tariffs",
+  "title": "Molasses import tariffs",
+  "url": "https://agrinfo.eu/book-of-reports/molasses-import-tariffs/",
+  "pub_date": "2025-10-07",
+  "revised_date": "Oct. 1, 2026",
+  "regulation": "2026/120, 2026/1003, 2026/118…",
+  "summary": "EU amends sugar molasses representative prices, with no changes to import duties",
+  "tags": [
+    "Tariffs & quotas"
+  ],
+  "fetched_at": "2026-10-06T12:42:03.416030+00:00",
+  "update": "The European Union (EU) has amended the cost, insurance, and freight (CIF) representative prices for sugar beet and sugar cane molasses for the 2026 marketing year (which runs from 1 October 2026 to 30 September 2027). Import duties remain at zero for both beet and sugar cane molasses.",
+  "impacted_products": "Molasses",
+  "what_changing": "The European Commission has amended the representative prices (the CIF import prices) for molasses for the 2026 marketing year that ends on 30 September 2027. These changes do not have an impact on the import duties for sugar cane and sugar beet molasses, which both remain at zero duty. The revised representative prices are set out in Table 1.",
+  "why": "",
+  "timeline": "The revised representative prices apply from 1 October 2026 .",
+  "actions": "",
+  "background": "Regulation 2023/2834 sets a “representative price” for imported molasses covered by CN codes 1703 10 00 (sugar cane molasses) and 1703 90 00 (sugar beet molasses). This is the cost, insurance, and freight (CIF) price based on world market prices (Art. 25). These are fixed for each marketing year (from 1 October to 30 September of the following year) and can be amended by the European Commission.\n\nImport duties for molasses are set on the basis of representative prices (Regulation 2023/2835 , Art. 8). Where there is a difference between the trigger price for the product concerned and the CIF representative price, additional import duties are set (Regulation 2023/2834 , Art. 33).\n\nRegulation 2026/2212 replaces Regulation 2026/1187 .",
+  "resources": "Commission Implementing Regulation (EU) 2026/1187 of 26 May 2026 fixing the representative prices, import duties and additional import duties applicable to molasses in the sugar sector from 1 June 2026 Commission Implementing Regulation (EU) 2023/2834 as regards imports in the sectors of rice, cereals, sugar and hops Commission Delegated Regulation (EU) 2023/2835 as regards rules on import in the sectors of rice, cereals, sugar and hops Regulation (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602212",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2834&qid=1759762641171",
+    "https://eur-lex.europa.eu/eli/reg_del/2023/2835/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R1187&qid=1790842012690",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R1308&qid=1759762712725"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602212",
+  "detail_fetched_at": "2026-10-06T12:42:09.338982+00:00",
+  "title_fr": "Tarifs à l'importation de mélasse",
+  "summary_fr": "L'UE modifie les prix représentatifs de la mélasse de sucre, sans modification des droits à l'importation",
+  "impacted_products_fr": "Mélasses",
+  "translated_at": "2026-10-06T12:42:25.822692+00:00"
+}

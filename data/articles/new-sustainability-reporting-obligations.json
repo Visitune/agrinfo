@@ -1,0 +1,34 @@
+{
+  "id": "new-sustainability-reporting-obligations",
+  "title": "Corporate Sustainability Reporting Directive (CSRD)",
+  "url": "https://agrinfo.eu/book-of-reports/new-sustainability-reporting-obligations/",
+  "pub_date": "2023-01-04",
+  "revised_date": "Sept. 25, 2026",
+  "regulation": "2022/2464, 2026/470",
+  "summary": "EU amends obligations on companies to report sustainability information",
+  "tags": [
+    "Due diligence"
+  ],
+  "fetched_at": "2026-10-06T12:42:03.420144+00:00",
+  "update": "The Corporate Sustainability Reporting Directive (CSRD) sets out rules to improve the quality, clarity, and comparability of companies’ sustainability reporting (Directive 2022/2464 ). This helps investors, civil society organisations, consumers, and other stakeholders to evaluate the sustainability performance of companies.\n\nSince it was first adopted, the CSRD has been subject to a series of changes (see Background). The latest revision in February 2026 introduced the following key changes.\n\nThe obligation to report is limited to the largest companies, those exceeding a net turnover of €450 million and an average number of 1,000 employees during the financial year (with different conditions for EU-based and non-EU-based companies). Restrictions are placed on the information that reporting companies may request from smaller suppliers (below 1,000 employees). Smaller suppliers are not obliged to provide information that goes beyond what is set out in the voluntary sustainability reporting standards (Regulation 2026/1560 ). EU companies that are in scope must submit reports in 2028 on the impact of their activities in 2027. Non-EU companies will have to publish their first report in 2029, covering the 2028 financial year.",
+  "impacted_products": "",
+  "what_changing": "The CSRD requires certain companies to prepare and publish reports on the sustainability of their business. Following changes to the CSRD made in February 2026, the key requirements are now as given below.",
+  "why": "The CSRD establishes principles for larger companies to report sustainability information on an annual basis. Improved information on sustainability is important for investors who need to understand the risks and opportunities related to sustainability, and also to enable civil society organisations to hold companies accountable for their behaviour. Harmonised reporting is intended to make comparisons between companies easier.\n\nHowever, in 2025 the EU decided that the regulatory burden created by these rules could potentially have negative economic impacts on companies and on EU competitiveness. The revised CSRD reduces the number of companies that need to report on sustainability by around 80% compared to the 2022 rules (see Questions and answers on simplification omnibus I and II ).",
+  "timeline": "Most EU-based companies that are required to report on corporate sustainability must do so from 2028 (with regard to the 2027 financial year). For non-EU companies required to report on corporate sustainability, this obligation applies from 2029 (with regard to the 2028 financial year).",
+  "actions": "",
+  "background": "The CSRD sets out rules to improve the quality, clarity, and comparability of companies’ sustainability reporting. Companies must include a dedicated section on sustainability in their management reports, setting out the impact of the company’s operations on its development, performance, and position. The associated ESRS aim to ensure that all companies provide reliable and consistent data that allows stakeholders to compare their sustainability performance. Improved information on sustainability is important for investors, who need to understand the risks and opportunities related to sustainability, and for civil society organisations looking to hold companies to account for their actions.\n\nPrior to the latest changes introduced in February 2026, the CSRD had been subject to a series of changes and additions:\n\nIn July 2023 the Commission adopted European Sustainability Reporting Standards to help companies to manage and communicate their sustainability performance. These standards were published in Regulation 2023/2772 . In August 2024, the Commission published a Frequently Asked Questions document to clarify aspects of the rules. In February 2025, the European Commission published a proposal to change certain parts of the Corporate Sustainability Reporting Directive, reducing the number of companies that must report under the CSRD, limiting the information that large companies may request from smaller companies, and delaying by 2 years the implementation of certain reporting requirements. In April 2025, the EU agreed to the 2-year implementation delay proposed by the European Commission (Directive 2025/794 ).",
+  "resources": "Online resources from the European Commission: Draft Commission Notice on the interpretation of certain legal provisions […] as regards sustainability reporting ( Frequently Asked Questions ). Questions and answers on simplification omnibus I and II . Commission Delegated Regulation (EU) 2026/1563 amending Delegated Regulation (EU) 2023/2772 as regards the simplification of certain sustainability reporting standards. Commission Delegated Regulation (EU) 2026/1560 supplementing Directive 2013/34/EU of the European Parliament and of the Council by establishing sustainability reporting standards for voluntary use by undertakings protected by the value chain cap. Commission Recommendation (EU) 2025/1710 on a voluntary sustainability reporting standard for small and medium-sized undertakings. Commission Delegated Regulation (EU) 2023/2772 as regards sustainability reporting standards. Regulation (EU) 2021/1119 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’). Regulation (EU) No 537/2014 on specific requirements regarding statutory audit of public-interest entities (Audit Regulation).",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2464-20260318",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601560",
+    "https://eur-lex.europa.eu/eli/dir/2026/470/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02013L0034-20260318",
+    "https://eur-lex.europa.eu/eli/reg/2021/1119/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2464-20260318",
+  "detail_fetched_at": "2026-10-06T12:43:01.734112+00:00",
+  "title_fr": "Corporate Sustainability Reporting Directive",
+  "summary_fr": "L'UE modifie les obligations des entreprises de communiquer des informations sur le développement durable",
+  "translated_at": "2026-10-06T12:43:07.403071+00:00"
+}
