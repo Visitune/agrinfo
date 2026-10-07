@@ -1,0 +1,36 @@
+{
+  "id": "eu-rules-on-environmental-claims-for-products",
+  "title": "EU rules on environmental claims for products",
+  "url": "https://agrinfo.eu/book-of-reports/eu-rules-on-environmental-claims-for-products/",
+  "pub_date": "2026-07-13",
+  "revised_date": "Oct. 5, 2026",
+  "regulation": "2024/825, 2025/40",
+  "summary": "EU sets rules to prevent misleading environmental claims",
+  "tags": [
+    "Green claims",
+    "Labelling",
+    "Sustainability"
+  ],
+  "fetched_at": "2026-10-07T12:35:38.395736+00:00",
+  "update": "The European Union (EU) has set rules to prevent environmental or social claims on products that are unsubstantiated or could mislead consumers. It has identified several categories of claims that are not permitted. By eliminating unfair claims, the EU aims to help consumers take better-informed decisions about products that will support the transition to a more sustainable and circular economy.\n\nIn September 2026, the European Commission published answers to frequently asked questions raised by stakeholders on the Directive on Empowering Consumers for the Green Transition (EmpCo Directive 2024/825 ).",
+  "impacted_products": "All packaged products",
+  "what_changing": "To protect European consumers from misleading and unsubstantiated claims about the environmental or social characteristics of products (e.g. durability, recyclability), the EU has prohibited the following types of claims.",
+  "why": "The EU aims to protect consumers from misleading claims. If environmental claims are not carefully regulated, consumers will not be able to make informed choices in favour of products that could boost the transition towards a more sustainable and circular economy.",
+  "timeline": "Directive 2024/825 was adopted on 28 February 2024 and Member States had until 27 March 2026 to transpose it into their national legislation.\n\nThe Directive applies from 27 September 2026.",
+  "actions": "In June 2026, a “ Common understanding ” was published regarding the management of “old stock” – products or packaging that display non-compliant environmental claims or sustainability labels because they were manufactured, ordered, distributed, or placed on retailers’ shelves before the new rules apply on 27 September 2026. The national competent authorities of the Consumer Protection Cooperation (CPC) Network prepared this guidance to support a coherent approach to old stock products.",
+  "background": "These rules were introduced in the context of the European Green Deal , the EU’s ambition to transition towards a green society. The rules were proposed in 2020 with the New Consumer Agenda and the Circular Economy Action Plan to promote a more sustainable, resource-efficient, and circular economy.\n\nDirective 2024/825 amends Directive 2005/29/EC on unfair business-to-consumer commercial practices in the internal market.",
+  "resources": "Online resources from the European Commission: Sustainable consumption Questions & Answers [relating to the new Directive on Empowering Consumers for the Green Transition] Common understanding on old stock situations under Directive (EU) 2024/825 on Empowering Consumers for the Green Transition (Consumer Protection Cooperation Network)",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/dir/2024/825/oj",
+    "https://eur-lex.europa.eu/eli/reg/2025/40/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02011R1169-20250401",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0029"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj",
+  "detail_fetched_at": "2026-10-07T12:35:41.061741+00:00",
+  "title_fr": "Règles de l'UE sur les allégations environnementales pour les produits",
+  "summary_fr": "L'UE établit des règles pour prévenir les allégations environnementales trompeuses",
+  "impacted_products_fr": "Produits CONDITIONNÉS",
+  "translated_at": "2026-10-07T12:35:45.664878+00:00"
+}
