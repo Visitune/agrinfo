@@ -9,7 +9,7 @@
   "tags": [
     "Biotechnologies"
   ],
-  "fetched_at": "2026-10-07T12:35:38.398165+00:00",
+  "fetched_at": "2026-10-08T12:45:18.650674+00:00",
   "update": "The European Union (EU) has approved the import of foods, food ingredients, feed, and products containing genetically modified (GM) soyabeans GMB151 × DAS-44406 and MON 94313-8, and has renewed the authorisation of those containing maize MON 87460-4. The authorisation does not permit the cultivation of these soyabeans and maize in the EU.",
   "impacted_products": "Soyabean, maize",
   "what_changing": "Non-EU countries are now allowed to export to the EU food, food ingredients, feed, and products containing, consisting of, or produced from GM soyabeans GMB151 × DAS-44406-6 and MON 94313-8. The authorisation to export to the EU products containing, consisting of, or produced from GM maize MON 87460-4 has been renewed.\n\nThese GM soyabeans and maize can not be grown in the EU. When exported to the EU, any products obtained from them must be clearly labelled as “not for cultivation”. No additional specific labelling requirements are necessary.\n\nThe authorisation holders are:\n\nBASF Agricultural Solutions US LLC for soyabean GMB151 × DAS-44406-6 Bayer CropScience LLC for soyabean MON 94313-8 and maize MON 87460-4.",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602121"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/2112/oj",
-  "detail_fetched_at": "2026-10-07T12:35:58.071093+00:00",
+  "detail_fetched_at": "2026-10-08T12:45:36.521805+00:00",
   "title_fr": "Autorisations OGM : soja GMB151 x DAS-44406 et MON 94313-8, et maïs MON 87460-4",
   "summary_fr": "L'UE autorise les importations de soja génétiquement modifié GMB151 × DAS-44406 et MON 94313-8, et renouvelle l'autorisation …",
   "impacted_products_fr": "Soja, maïs",
-  "translated_at": "2026-10-07T12:36:06.664220+00:00"
+  "translated_at": "2026-10-08T12:45:39.664487+00:00"
 }
