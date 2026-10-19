@@ -9,7 +9,7 @@
   "tags": [
     "Food safety"
   ],
-  "fetched_at": "2026-10-18T10:20:05.265846+00:00",
+  "fetched_at": "2026-10-19T12:01:23.221866+00:00",
   "update": "Multiple manufacturers have recently detected cereulide toxin in infant foods. European Union (EU) Member States have reported cases of infants experiencing severe gastrointestinal symptoms after consuming such products. The European Commission therefore proposes to set maximum limits for cereulide in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants.",
   "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
   "what_changing": "The European Commission proposes to set maximum levels for cereulide – a toxin produced by strains of Bacillus cereus – in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants. The proposed limit for infant formulae, follow-on formulae and foods for special medical purposes intended for infants is set at 0.1 µg/kg. This relates to products placed on the market during their shelf-life.\n\nThese limits will be included in Regulation 2073/2005 , which sets microbiological criteria for foodstuffs. Information on sampling is included in Annex I.",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng",
-  "detail_fetched_at": "2026-10-18T10:21:15.072914+00:00",
+  "detail_fetched_at": "2026-10-19T12:02:33.767480+00:00",
   "title_fr": "Teneurs maximales en toxine céréulide dans les aliments pour nourrissons",
   "summary_fr": "L'UE fixera des teneurs maximales en toxine céréulide dans les préparations pour nourrissons, les préparations de suite et les aliments pour …",
   "impacted_products_fr": "Préparations pour nourrissons, préparations de suite et aliments à usage médical spécial destinés aux nourrissons",
-  "translated_at": "2026-10-18T10:21:18.242342+00:00"
+  "translated_at": "2026-10-19T12:02:37.416837+00:00"
 }
