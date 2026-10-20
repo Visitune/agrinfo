@@ -9,7 +9,7 @@
    "regulation": "2026/2112, 2026/2117, 2026/21…",
    "summary": "EU authorises imports of genetically modified soyabeans GMB151 × DAS-44406 and MON 94313-8, and renews the authorisation …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.724049+00:00",
+   "fetched_at": "2026-10-20T10:53:32.378694+00:00",
    "impacted_products": "Soyabean, maize",
    "what_changing": "Non-EU countries are now allowed to export to the EU food, food ingredients, feed, and products containing, consisting of, or produced from GM soyabeans GMB151 × DAS-44406-6 and MON 94313-8. The authorisation to export to the EU products containing, consisting of, or produced from GM maize MON 87460-4 has been renewed.\n\nThese GM soyabeans and maize can not be grown in the EU. When exported to the EU, any products obtained from them must be clearly labelled as “not for cultivation”. No additional specific labelling requirements are necessary.\n\nThe authorisation holders are:\n\nBASF Agricultural Solutions US LLC for soyabean GMB151 × DAS-44406-6 Bayer CropScience LLC for soyabean MON 94313-8 and maize MON 87460-4.",
    "why": "The approvals are based on favourable opinions by the European Food Safety Authority that GM soyabeans GMB151 × DAS-44406-6 and MON 94313-8, and maize MON 87460-4, are safe for human and animal health, and for the environment (EFSA 2025 , 2026a , 2026b ). There are no nutritional concerns associated with consuming these soyabeans and maize.",
@@ -18,13 +18,13 @@
    "background": "A list of all authorised GM products can be found on the EU’s GMO Register .\n\nThe authorisation of GM crops remains an extremely sensitive political issue in the EU. The authorisation process normally requires EU Member States to authorise or reject applications. In recent years, there has generally not been enough political support (a “ qualified majority ” of Member States) to reach a decision to either authorise or reject applications. In such cases, as here for GM soyabean GMB151 × DAS-44406-6, the European Commission is permitted to authorise the product in the light of a positive EFSA risk assessment.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/dec_impl/2026/2112/oj",
-   "detail_fetched_at": "2026-10-19T12:01:38.475342+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:04.056955+00:00",
    "title_fr": "Autorisations OGM : soja GMB151 x DAS-44406 et MON 94313-8, et maïs MON 87460-4",
    "summary_fr": "L'UE autorise les importations de soja génétiquement modifié GMB151 × DAS-44406 et MON 94313-8, et renouvelle l'autorisation …",
    "impacted_products_fr": "Soja, maïs",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:41.894894+00:00",
+   "translated_at": "2026-10-20T10:54:07.705623+00:00",
    "tags": [
     "Biotechnologies"
    ]
@@ -38,7 +38,7 @@
    "regulation": "",
    "summary": "EU to set maximum levels for cereulide toxin in infant formulae, follow-on formulae, and foods for special …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.221866+00:00",
+   "fetched_at": "2026-10-20T10:53:34.066738+00:00",
    "impacted_products": "Infant formulae, follow-on formulae, and foods for special medical purposes intended for infants",
    "what_changing": "The European Commission proposes to set maximum levels for cereulide – a toxin produced by strains of Bacillus cereus – in infant formulae, follow-on formulae, and foods for special medical purposes intended for infants. The proposed limit for infant formulae, follow-on formulae and foods for special medical purposes intended for infants is set at 0.1 µg/kg. This relates to products placed on the market during their shelf-life.\n\nThese limits will be included in Regulation 2073/2005 , which sets microbiological criteria for foodstuffs. Information on sampling is included in Annex I.",
    "why": "Between December 2025 and May 2026, multiple manufacturers detected cereulide toxin in infant foods. Several EU Member States reported cases of infants experiencing severe gastrointestinal symptoms after consuming products that were later recalled from the market. Following a rapid risk assessment in February 2026, the European Food Safety Authority established an acute reference dose (ARfD) and acceptable cereulide concentrations in foods intended for infants ( EFSA 2026 ).",
@@ -47,13 +47,13 @@
    "background": "Cereulide is an emetic toxin produced by certain strains of Bacillus cereus . Infants are particularly vulnerable to the effects of cereulide due to their low body weight and limited ability to metabolise and eliminate toxins. Their exposure to even low levels of this toxin can lead to severe illness, including persistent vomiting, dehydration, and electrolyte imbalances. In some cases, it may be fatal.\n\nRegulation 2073/2005 sets microbiological criteria (food safety and process hygiene) for foodstuffs, as well as rules for sampling and preparing test samples.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2005/2073/oj/eng",
-   "detail_fetched_at": "2026-10-19T12:02:33.767480+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:04.438508+00:00",
    "title_fr": "Teneurs maximales en toxine céréulide dans les aliments pour nourrissons",
    "summary_fr": "L'UE fixera des teneurs maximales en toxine céréulide dans les préparations pour nourrissons, les préparations de suite et les aliments pour …",
    "impacted_products_fr": "Préparations pour nourrissons, préparations de suite et aliments à usage médical spécial destinés aux nourrissons",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:37.416837+00:00",
+   "translated_at": "2026-10-20T10:55:08.159676+00:00",
    "tags": [
     "Food safety"
    ]
@@ -67,7 +67,7 @@
    "regulation": "2026/1304",
    "summary": "EU clarifies requirements for farmed bivalve molluscs, echinoderms, tunicates and marine gastropods, and food preparations based on …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.222377+00:00",
+   "fetched_at": "2026-10-20T10:53:34.067221+00:00",
    "impacted_products": "Food preparations based on dairy products and fishery products; live, chilled, frozen and processed bivalve molluscs, echinoderms, tunicates, and marine gastropods",
    "what_changing": "",
    "why": "",
@@ -76,13 +76,13 @@
    "background": "Regulation 2017/625 lays down rules for official controls to verify that animals and goods entering the EU comply with EU food and food safety requirements.\n\nRegulation 2022/2292 supplements those rules for the entry into the EU of food-producing animals and certain goods intended for human consumption. It sets out the obligations for exporting countries to be listed in the Annexes to Regulation 2021/405 and to approve the operators exporting to the EU, and to lay down a control plan for pesticides, contaminants, and pharmacological substances. It also identifies the relevant products by CN or HS codes.\n\nRegulation 853/2004 lays down specific hygiene rules for products of animal origin. It requires food business operators importing products of animal origin from non-EU countries to ensure that the country is listed for the product concerned, and that the establishment from which the product was dispatched, obtained, or prepared is also listed.\n\nIn September 2023, Regulation 2023/2652 amended and corrected Regulation 2022/2292 for honey, meat products, highly refined products, gelatine capsules, fishery products, and private attestations.\n\nIn January 2025, Regulation 2025/637 added certain dairy products, food additives derived from animals, and collagen casings with CN/HS customs codes 1301, 1806, 3203, 3204, 3823, 3824, 2202 99, and 3917 10 10 to the list of products that can only be imported from authorised non-EU countries. It introduced certain dairy products and collagen casings with customs codes 1806, 2202 99, and 3917 10 10 in the list of products that can only be exported from listed establishments.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj/eng",
-   "detail_fetched_at": "2026-10-19T12:02:37.936137+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:08.679626+00:00",
    "title_fr": "Exigences d'importation de l'UE pour certains produits laitiers et produits de la pêche",
    "summary_fr": "L'UE clarifie les exigences pour les mollusques bivalves d'élevage, les échinodermes, les tuniciers et les gastéropodes marins, et les préparations alimentaires basées sur …",
    "impacted_products_fr": "Préparations alimentaires à base de produits laitiers et de produits de la pêche ; mollusques bivalves, échinodermes, tuniciers et gastéropodes marins vivants, réfrigérés, congelés et transformés",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:41.285531+00:00",
+   "translated_at": "2026-10-20T10:55:12.844443+00:00",
    "tags": [
     "Fish",
     "Food safety",
@@ -101,7 +101,7 @@
    "regulation": "2023/1115",
    "summary": "Publications and resources relevant to application of the EU Deforestation Regulation",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.504560+00:00",
+   "fetched_at": "2026-10-20T10:53:34.066348+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -110,13 +110,13 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "",
-   "detail_fetched_at": "2026-10-19T12:02:23.116287+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:01.704232+00:00",
    "title_fr": "Règlement de l'UE sur la déforestation : publications et ressources",
    "summary_fr": "Publications et ressources relatives à l'application du règlement de l'UE sur la déforestation",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:25.153746+00:00",
+   "translated_at": "2026-10-20T10:55:03.924227+00:00",
    "tags": [
     "Deforestation",
     "Sustainability/Due diligence"
@@ -131,7 +131,7 @@
    "regulation": "",
    "summary": "EU public consultation on review of autonomous tariff suspensions and quotas scheme",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.501271+00:00",
+   "fetched_at": "2026-10-20T10:53:33.094780+00:00",
    "impacted_products": "Agricultural products identified by the EU as critical raw materials",
    "what_changing": "The European Commission has launched a call for evidence inviting stakeholders to provide information and views on the current impact of the autonomous tariff suspensions and quotas (ATSQ) scheme.\n\nThe ATSQ scheme allows the EU to reduce or suspend import tariffs for a given quantity of products (raw materials, semi-finished products, or components) that are considered to be strategically important for European production chains. The targeted products must be unavailable in the EU, or not produced there in sufficient quantities, and they must be used to manufacture goods in the EU with high EU added value.",
    "why": "As there have been changes in the EU’s policy priorities and market patterns, and in the economic, industrial, trade, and geopolitical context, the Commission is evaluating the ATSQ scheme to determine whether it is still effective and fit for purpose. It will assess whether the scheme continues to meet its core objectives as set out in the 2011 Communication concerning autonomous tariff suspensions and quotas. The findings will inform the revision of the scheme.",
@@ -140,13 +140,13 @@
    "background": "The ATSQ scheme allows for import tariffs to be reduced or suspended for a set quantity of imports, taking into account the needs of the market and ensuring that these imports do not undermine the development of EU production. The targeted products are generally reviewed on an annual basis.\n\nATSQs have been operating on the same principles since 1971. The most recent reform was in 2011, and the most recent evaluation was in 2013. As set out in the 2011 Communication concerning autonomous tariff suspensions and quotas, the core objectives of the ATSQ scheme are to:\n\nstimulate economic activity within the EU improve the competitive capacity of businesses in particular, enable businesses to maintain and create employment and modernise their structures.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52011XC1213%2801%29&qid=1779798239341",
-   "detail_fetched_at": "2026-10-19T12:01:58.032327+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:24.496428+00:00",
    "title_fr": "Examen des suspensions tarifaires autonomes et du système de quotas pour les produits agricoles",
    "summary_fr": "Consultation publique de l'UE sur la révision du système autonome de suspensions tarifaires et de quotas",
    "impacted_products_fr": "Produits agricoles identifiés par l'UE comme des matières premières critiques",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:01.365607+00:00",
+   "translated_at": "2026-10-20T10:54:29.461600+00:00",
    "tags": [
     "Tariffs & quotas",
     "Trade",
@@ -162,7 +162,7 @@
    "regulation": "",
    "summary": "36 AGRINFO partner countries received RASFF notifications in July 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.223215+00:00",
+   "fetched_at": "2026-10-20T10:53:34.068428+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -171,13 +171,13 @@
    "background": "The Rapid Alert System for Food and Feed ( RASFF ) was set up to allow EU food safety authorities to rapidly exchange information on health risks from food or feed, enabling them to take immediate action to avert the risk. RASFF provides a round-the-clock service to ensure that urgent notifications are sent, received, and responded to collectively and efficiently. Information exchanged through RASFF can lead to products being recalled from the EU market, averting risks before they can cause harm, from farm to fork.\n\nThe European Commission must inform non-EU countries if an exported product is subject to a notification, so that the country’s authorities and exporters can take corrective measures.\n\nThe legal basis for RASFF is set out in Art. 50 of the EU General Food Law (Regulation 178/2002 ).\n\nFor further information see Official Controls Regulation – explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-   "detail_fetched_at": "2026-10-19T12:02:46.346933+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:22.383766+00:00",
    "title_fr": "Notifications RASFF en juillet 2026",
    "summary_fr": "36 pays partenaires d'AGRINFO ont reçu des notifications RASFF en juillet 2026",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:48.418452+00:00",
+   "translated_at": "2026-10-20T10:55:24.539636+00:00",
    "tags": [
     "Official controls"
    ]
@@ -191,7 +191,7 @@
    "regulation": "",
    "summary": "Latest EU overview of food found not to comply with EU law",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.222813+00:00",
+   "fetched_at": "2026-10-20T10:53:34.067647+00:00",
    "impacted_products": "Apricots, apple-pomegranate, bakery products, banana leaf extract, bananas, buckwheat, cake mix, cardamom (organic), catfish (Arius proops), chocolate, duck eggs, food supplements, frog legs, ginger, honey, miso paste, muscimol powder, noodles, olive oil, palm cream, palm oil, passion fruit pulp, dragon fruit pulp, prekese (Tetrapleura tetraptera), rice flour, S-adenosyl-L-methionine disulfate tosylate, sauces (adobo and chilli), sheep casings, shrimps (Litopenaeus vannamei), soyabean hull pellets, spice mix, sweets, tea, green tea, tilapia (Oreochromis niloticus)",
    "what_changing": "",
    "why": "",
@@ -200,13 +200,13 @@
    "background": "These monthly reports compile information notified to the EU’s Rapid Alert System for Food and Feed Network ( RASFF ), Administrative Assistance and Cooperation Network ( AAC ), and Agri-Food Fraud Network ( FFN ). The reports also include non-compliances with EU rules that do not present a risk but have triggered investigations by the competent authorities of individual importing EU Member States.",
    "detail_summary": "",
    "eurlex_url": "",
-   "detail_fetched_at": "2026-10-19T12:02:42.042098+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:13.614423+00:00",
    "title_fr": "Rapports sur le non-respect de la législation alimentaire de l'UE et la fraude agroalimentaire : juillet 2026",
    "summary_fr": "Dernier aperçu de l'UE des aliments jugés non conformes à la législation de l'UE",
    "impacted_products_fr": "Abricots, pomme-grenade, produits de boulangerie, extrait de feuille de banane, bananes, sarrasin, mélange à gâteau, cardamome (biologique), poisson-chat (Arius proops), chocolat, œufs de canard, compléments alimentaires, cuisses de grenouille, gingembre,",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:45.446273+00:00",
+   "translated_at": "2026-10-20T10:55:17.423371+00:00",
    "tags": [
     "Feed safety",
     "Food safety",
@@ -224,7 +224,7 @@
    "regulation": "",
    "summary": "Two opportunities to comment on future EU rules setting information requirements for the verification and authorisation of …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.223622+00:00",
+   "fetched_at": "2026-10-20T10:53:34.068023+00:00",
    "impacted_products": "NGT plants and products",
    "what_changing": "New EU rules on the marketing of crops produced using certain NGTs that change genetic material in plants – without inserting genes from other plants – will apply from 17 July 2028 (see New EU rules on plant genomic techniques ). The new rules classify NGTs in two categories:\n\nCategory 1 NGT plants – that could occur naturally or by conventional breeding – will not be considered as genetically modified organisms and therefore do not have to comply with EU rules on GMOs. They will have to undergo a verification procedure prior to being put on the EU market, but will not need to be risk assessed and authorised. Category 2 NGT plants – where changes to the plant could not occur naturally or through conventional breeding – will have to comply with EU GMO rules, including risk assessment and authorisation; however, as NGTs have specific characteristics, special rules apply.\n\nThe EU will publish a Regulation on the information that operators will need to submit to allow the EU to verify Category 1 NGT plants and products, and to authorise Category 2 ones. This information will include:\n\nFor Category 1 NGT plants and products – the information needed to demonstrate that a plant or product has Category 1 status, information on patents (published or applications), and the willingness of the patent holder to license their patents. For Category 2 NGT plants and products – the methodology and information needed to carry out relevant food and feed safety, and environmental risk assessments the requirements for preparing and submitting notifications and applications for NGT plants and products, and the conditions in which post-market environmental monitoring is not required performance requirements for analytical methods.",
    "why": "The new NGT rules aim to incentivise and facilitate the development and marketing of safe plants and products obtained using NGTs by lowering market access costs, providing legal clarity, and simplifying rules, with the overall objective of benefiting farmers, consumers, and the environment.\n\nThe EU will set harmonised requirements and procedures to ensure a consistent verification process for Category 1 NGT plants, as verifications will initially be carried out by individual EU Member States.\n\nSince the risk assessment required for Category 2 NGT plants provides flexibility according to the characteristics of the product, clear information requirements will help EU Member States to assess applications consistently and reduce the risk of delays in authorisation.",
@@ -233,13 +233,13 @@
    "background": "The EU’s rules on GMOs were adopted in 2001 (Directive 2001/18/EC ). Since then, a variety of NGTs have been developed. A 2021 review of GMO legislation concluded that the current rules did not reflect scientific and technological progress, and prevented the development and marketing of NGT products that could be beneficial to farmers, consumers, and the environment ( European Commission 2021 ).\n\nIn conventional genetic engineering, certain traits related to one organism can be transferred into a second organism by inserting entire genes into the genome of another (third) organism. These genes are not targeted, but are inserted randomly into the genome.\n\nBy contrast, certain NGTs involve targeting individual parts of the DNA (nucleotides) to obtain certain effects, similar to natural mutations that occur in living cells. New genomic techniques include:\n\nmutagenesis: modification of the DNA sequence at precise locations in the genome of an organism cisgenesis: insertion in the genome of genetic material already present in the breeder’s gene pool.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601388",
-   "detail_fetched_at": "2026-10-19T12:02:48.964735+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:17.943806+00:00",
    "title_fr": "Nouvelles techniques génomiques : informations nécessaires à la vérification et à l'autorisation",
    "summary_fr": "Deux occasions de commenter les futures règles de l'UE fixant les exigences en matière d'information pour la vérification et l'autorisation de …",
    "impacted_products_fr": "Usines et produits NGT",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:52.428834+00:00",
+   "translated_at": "2026-10-20T10:55:21.476114+00:00",
    "tags": [
     "Biotechnologies"
    ]
@@ -253,7 +253,7 @@
    "regulation": "",
    "summary": "EU to set more specific requirements for freezing of fresh meat from domestic mammals (ungulates)",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.501706+00:00",
+   "fetched_at": "2026-10-20T10:53:33.095629+00:00",
    "impacted_products": "Fresh meat of domestic ungulates intended to be frozen",
    "what_changing": "Under the current EU hygiene rules (Regulation 853/2004 ), fresh meat that is intended to be frozen from domestic (non-wild) mammals (including cows, pigs, sheep, goats, and horses) must be frozen “without undue delay”, taking into account the time needed to stabilise the pH and core temperature prior to freezing (Annex III, Section I, Chapter VII, point 4).\n\nThe European Commission now proposes to set more specific requirements for meat from domestic mammals. Meat must be frozen after slaughter within:\n\n6 days if it is stored/transported at a maximum of 7°C 14 days if it is stored/transported at a maximum of 3°C.\n\nMeat may also be frozen after storage and transport under other time/temperature conditions if the operator can demonstrate to competent authorities the safety of those conditions. Operators must provide scientific evidence, including an evaluation of the presence and growth of pathogens and spoilage bacteria before freezing and after defrosting.\n\nException : meat from farmed game mammals will continue to be subject to current rules: meat must be frozen “without undue delay”, taking into account any stabilisation period before freezing.",
    "why": "To ensure the microbiological safety of meat from ungulates, the European Food Safety authority carried out research into microbial growth related to the chilling, storage, and defrosting of beef, sheep meat, and pork ( EFSA 2026 ). This Scientific Opinion allowed the European Commission to set more specific hygiene requirements for freezing fresh meat. There was a lack of data to set specific conditions for farmed game mammals.",
@@ -262,13 +262,13 @@
    "background": "Regulation 853/2004 lays down specific rules on the hygiene of food of animal origin for food business operators. Specific requirements for certain animal products are given in Annex III: Meat of domestic ungulates (Section 1) and Meat of farmed game (Section III).\n\nThe notion of freezing the meat “without undue delay” could be subject to different interpretations. It was feared that in certain cases this could lead to meat being frozen too close to its use-by date.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
-   "detail_fetched_at": "2026-10-19T12:02:01.864059+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:36.095676+00:00",
    "title_fr": "Règles d'hygiène pour la viande fraîche de mammifères domestiques",
    "summary_fr": "L'UE fixera des exigences plus spécifiques pour la congélation de la viande fraîche de mammifères domestiques (ongulés)",
    "impacted_products_fr": "Viande fraîche d'ongulés domestiques destinée à être congelée",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:05.382084+00:00",
+   "translated_at": "2026-10-20T10:54:39.665212+00:00",
    "tags": [
     "Food safety",
     "Hygiene"
@@ -283,7 +283,7 @@
    "regulation": "2026/1234, 2026/1712, 2026/17…",
    "summary": "EU authorises and reauthorises certain feed additives, and makes changes to some existing authorisations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.502151+00:00",
+   "fetched_at": "2026-10-20T10:53:33.095237+00:00",
    "impacted_products": "Feed additives, prepared fodder",
    "what_changing": "",
    "why": "Applications for the above authorisations and reauthorisations were submitted and considered by the Reference Laboratory established by the Feed Additives Regulation ( 1831/2003 ).",
@@ -292,13 +292,13 @@
    "background": "The procedure for authorising the marketing and use of feed additives is set out in Regulation (EC) 1831/2003 . For the latest updates on feed additives, see the EU Feed Additives register.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2003/1831/2021-03-27",
-   "detail_fetched_at": "2026-10-19T12:02:06.116001+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:30.359344+00:00",
    "title_fr": "Additifs pour l'alimentation animale : autorisations et réautorisations de juin à août 2026",
    "summary_fr": "L'UE autorise et ré-autorise certains additifs pour l'alimentation animale, et apporte des modifications à certaines autorisations existantes",
    "impacted_products_fr": "Additifs alimentaires, fourrage préparé",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:09.119624+00:00",
+   "translated_at": "2026-10-20T10:54:35.576105+00:00",
    "tags": [
     "Feed additives",
     "Feed safety"
@@ -313,7 +313,7 @@
    "regulation": "",
    "summary": "EU presents 2027 audit programme for food safety and plant/animal health",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.503101+00:00",
+   "fetched_at": "2026-10-20T10:53:34.064861+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "Control systems in EU Member States, and in non-EU countries, are continually monitored to guarantee effective enforcement of EU food safety and plant and animal health requirements.",
@@ -322,13 +322,13 @@
    "background": "The Official Controls Regulation ( 2017/625 , Art. 120) allows the European Commission to perform audits and remote assessments in non-EU countries. These audits and assessments allow the EU to check the systems in place in non-EU countries that are exporting food, feed, animals, and plants to the EU. They are also central to deciding if a non-EU country can be included in the list of countries permitted to export animals and animal products to the EU. The Commission targets countries according to the level of risk associated with their exports, taking into consideration the volume of exports, non-compliant consignments identified at EU points of entry, and higher levels of risk associated with particular types of food, feed, animals, or plants.\n\nThese audits are also opportunities to foster international cooperation, share best practices, and encourage continuous improvement in global food safety standards.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0625&qid=1660291144361",
-   "detail_fetched_at": "2026-10-19T12:02:13.888603+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:50.210941+00:00",
    "title_fr": "Programme d'audits alimentaires et vétérinaires de l'UE 2027",
    "summary_fr": "L'UE présente son programme d'audit 2027 pour la sécurité alimentaire et la santé végétale/animale",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:16.021665+00:00",
+   "translated_at": "2026-10-20T10:54:52.886649+00:00",
    "tags": [
     "Additional/emergency controls",
     "Animal health controls",
@@ -347,7 +347,7 @@
    "regulation": "2026/2029",
    "summary": "EU raises husked rice import tariff to €42.50 per tonne",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.505027+00:00",
+   "fetched_at": "2026-10-20T10:53:34.065370+00:00",
    "impacted_products": "Husked (brown) non-basmati rice",
    "what_changing": "The European Union (EU) has raised the import tariff for husked rice (CN code 1006 20) from €30.00 to €42.50 per tonne. This does not apply to husked basmati rice – for specific eligible varieties of basmati – for which the import tariff is always zero.",
    "why": "The import tariff for husked rice (excluding basmati rice) is set in September based on imports in the previous marketing year (September–August).",
@@ -356,13 +356,13 @@
    "background": "The procedure for establishing import tariffs for husked rice other than basmati rice – the result of negotiations with the USA – is set out in Council Decision 2005/476/EC . Zero duty applies to certain varieties of basmati rice that are listed in Regulation 2023/2835 .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2029/oj",
-   "detail_fetched_at": "2026-10-19T12:02:25.633123+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:53.342014+00:00",
    "title_fr": "Tarifs d'importation du riz décortiqué",
    "summary_fr": "L'UE augmente les droits d'importation du riz décortiqué à 42,50 € la tonne",
    "impacted_products_fr": "Riz décortiqué (brun) non basmati",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:28.589343+00:00",
+   "translated_at": "2026-10-20T10:54:56.941197+00:00",
    "tags": [
     "Tariffs & quotas",
     "Trade"
@@ -377,7 +377,7 @@
    "regulation": "",
    "summary": "35 AGRINFO partner countries received RASFF notifications in August 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.723111+00:00",
+   "fetched_at": "2026-10-20T10:53:32.377298+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -386,13 +386,13 @@
    "background": "The Rapid Alert System for Food and Feed ( RASFF ) was set up to allow EU food safety authorities to rapidly exchange information on health risks from food or feed, enabling them to take immediate action to avert the risk. RASFF provides a round-the-clock service to ensure that urgent notifications are sent, received, and responded to collectively and efficiently. Information exchanged through RASFF can lead to products being recalled from the EU market, averting risks before they can cause harm, from farm to fork.\n\nThe European Commission must inform non-EU countries if an exported product is subject to a notification, so that the country’s authorities and exporters can take corrective measures.\n\nThe legal basis for RASFF is set out in Art. 50 of the EU General Food Law (Regulation 178/2002 ).\n\nFor further information see Official Controls Regulation – explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-   "detail_fetched_at": "2026-10-19T12:01:35.706394+00:00",
+   "detail_fetched_at": "2026-10-20T10:53:57.922690+00:00",
    "title_fr": "Notifications RASFF en août 2026",
    "summary_fr": "35 pays partenaires d'AGRINFO ont reçu des notifications RASFF en août 2026",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:37.803650+00:00",
+   "translated_at": "2026-10-20T10:53:59.979172+00:00",
    "tags": [
     "Official controls"
    ]
@@ -406,7 +406,7 @@
    "regulation": "",
    "summary": "Recent developments in EU trade policy",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.722181+00:00",
+   "fetched_at": "2026-10-20T10:53:32.376883+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -415,13 +415,13 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/1395/oj/eng",
-   "detail_fetched_at": "2026-10-19T12:01:28.711167+00:00",
+   "detail_fetched_at": "2026-10-20T10:53:54.618931+00:00",
    "title_fr": "Résumé de la politique commerciale de l'UE juillet-septembre 2026",
    "summary_fr": "Évolution récente de la politique commerciale de l'UE",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:30.766338+00:00",
+   "translated_at": "2026-10-20T10:53:56.999228+00:00",
    "tags": [
     "Tariffs & quotas",
     "Trade",
@@ -925,7 +925,7 @@
    "regulation": "2024/825, 2025/40",
    "summary": "EU sets rules to prevent misleading environmental claims",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.721681+00:00",
+   "fetched_at": "2026-10-20T10:53:32.376457+00:00",
    "impacted_products": "All packaged products",
    "what_changing": "To protect European consumers from misleading and unsubstantiated claims about the environmental or social characteristics of products (e.g. durability, recyclability), the EU has prohibited the following types of claims.",
    "why": "The EU aims to protect consumers from misleading claims. If environmental claims are not carefully regulated, consumers will not be able to make informed choices in favour of products that could boost the transition towards a more sustainable and circular economy.",
@@ -934,13 +934,13 @@
    "background": "These rules were introduced in the context of the European Green Deal , the EU’s ambition to transition towards a green society. The rules were proposed in 2020 with the New Consumer Agenda and the Circular Economy Action Plan to promote a more sustainable, resource-efficient, and circular economy.\n\nDirective 2024/825 amends Directive 2005/29/EC on unfair business-to-consumer commercial practices in the internal market.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj",
-   "detail_fetched_at": "2026-10-19T12:01:24.640247+00:00",
+   "detail_fetched_at": "2026-10-20T10:53:50.829707+00:00",
    "title_fr": "Règles de l'UE sur les allégations environnementales pour les produits",
    "summary_fr": "L'UE établit des règles pour prévenir les allégations environnementales trompeuses",
    "impacted_products_fr": "Produits CONDITIONNÉS",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:27.916619+00:00",
+   "translated_at": "2026-10-20T10:53:54.068255+00:00",
    "tags": [
     "Green claims",
     "Labelling",
@@ -1012,26 +1012,26 @@
    "title": "Maximum residue levels for dodine",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-dodine/",
    "pub_date": "2026-06-24",
-   "revised_date": "Aug. 3, 2026",
-   "regulation": "",
-   "summary": "EU proposes increase in MRL for dodine on grapes",
+   "revised_date": "Oct. 17, 2026",
+   "regulation": "2026/2289",
+   "summary": "MRL for dodine on grapes will increase from 5 November 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-20T10:34:03.443827+00:00",
+   "fetched_at": "2026-10-20T10:53:32.375437+00:00",
    "impacted_products": "Wine grapes, table grapes",
-   "what_changing": "The EU is proposing to increase the MRL for dodine on table grapes and wine grapes from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
-   "why": "Following an application for a change of MRL by the producer of dodine, the European Food Safety Authority evaluated the request and concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2025 ).",
-   "timeline": "The Regulation is expected to be published in October 2026, and will apply 6 months after publication.",
+   "what_changing": "The EU has increased the MRL for dodine on table grapes and wine grapes from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+   "why": "An application for a change of MRL by the producer of dodine was evaluated by the European Food Safety Authority, and the requested change was found to be safe for consumers ( EFSA 2025 ).",
+   "timeline": "The new MRL applies from 5 November 2026 .",
    "actions": "",
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
    "detail_summary": "",
-   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-09-20T10:35:55.380345+00:00",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
+   "detail_fetched_at": "2026-10-20T10:53:43.066106+00:00",
    "title_fr": "Teneurs maximales en résidus pour la dodine",
-   "summary_fr": "L'UE propose une augmentation de la LMR pour la dodine sur les raisins",
+   "summary_fr": "La LMR pour la dodine sur les raisins augmentera à partir du 5 novembre 2026",
    "impacted_products_fr": "En ce qui concerne les variétés à raisins de cuve et à raisins de table",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-20T10:35:58.187651+00:00",
+   "translated_at": "2026-10-20T10:53:46.223475+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -1046,7 +1046,7 @@
    "regulation": "2026/1563",
    "summary": "EU adopts simplified European Sustainability Reporting Standards (ESRS)",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.726092+00:00",
+   "fetched_at": "2026-10-20T10:53:33.093868+00:00",
    "impacted_products": "",
    "what_changing": "Large companies operating within the EU – including non-EU companies – must publish reports on the impacts and risks of their activities for the environment and human rights (see Corporate Sustainability Reporting Directive (CSRD) ). This information must be based on the ESRS which were initially set in Regulation 2023/2772 and have now been amended by Regulation 2026/1563 .\n\nThe changes to the ESRS aim to:\n\nprovide clarification simplify the structure and presentation of the standards address the potential difficulties that reporting companies might face when collecting information from their value chain, especially from companies that are not subject to the sustainability reporting obligations.\n\nThese changes are expected to reduce the volume of sustainability information that companies concerned must report, including quantitative, qualitative, and contextual information. This information is shared using data points – individual items that provide distinctive and specific information. The revised ESRS intend to reduce mandatory reporting points by over 60%, the total number of data points by over 70%, and company reporting costs by more than 30%.\n\nThe revised standards are largely based on stakeholders’ inputs collected in 2025 by the European Financial Reporting Advisory Group and a series of technical reports for a “draft simplified ESRS” ( EFRAG 2025 ).",
    "why": "The European Commission aims to reduce the administrative burden and potential negative economic impacts of the CSRD for companies, while ensuring sustainability reporting can be easily compared across the EU, and increasing transparency regarding companies’ sustainability impacts and risks. This revision is part of a series of proposed simplifications of existing EU rules that are considered to limit EU growth and competitiveness.",
@@ -1055,13 +1055,13 @@
    "background": "Directive 2013/34/EU (the “Accounting Directive”) sets the EU reporting obligations for large companies. It initially required only financial reporting, but the CSRD has now added non-financial reporting requirements on sustainability to this Directive (Arts. 19a and 29a).\n\nThe following types of large companies operating in the EU must publish reports on the sustainability impacts of their businesses (Directive 2013/34/EU ):\n\nEU companies with a net turnover of €450 million and an average number of 1,000 employees during the ongoing fiscal year (Art. 29a) non-EU companies with a net turnover in the EU of more than €450 million in each of the last two consecutive financial years (Art. 40a) non-EU companies that have a branch or subsidiary in the EU with a net turnover of more than €200 million in the preceding financial year (Art. 40a).\n\nThe companies concerned must report on their impacts on people and the environment (external), and on how these impacts create financial risks and opportunities for the company (internal). This is known as “double materiality” reporting. Reporting must be based on the ESRS (Regulation 2023/2772 amended by Regulation 2026/1563 ), which ensure that companies provide reliable and consistent data that allows stakeholders to compare their sustainability performance.\n\nIn 2025, certain reporting requirements were delayed (Directive 2025/794 ). In 2026, the EU made significant changes to the CSRD, reducing the number of companies that must report, and limiting the information that large companies may request from smaller companies (Directive 2026/470 ; see Corporate Sustainability Reporting Directive ). These changes aimed to reduce the administrative burden and potential negative economic impacts of the CSRD for companies. This is one of a series of changes ( Simplification Omnibus Packages ) aimed at stimulating EU growth and competitiveness while reducing administrative burdens.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2464-20260318",
-   "detail_fetched_at": "2026-10-19T12:01:51.953572+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:18.273920+00:00",
    "title_fr": "Normes européennes d'établissement de rapports sur le développement durable",
    "summary_fr": "L'UE adopte des normes européennes simplifiées en matière de rapports sur le développement durable (ESRS)",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:53.805174+00:00",
+   "translated_at": "2026-10-20T10:54:20.191030+00:00",
    "tags": [
     "Sustainability/Due diligence"
    ]
@@ -1075,7 +1075,7 @@
    "regulation": "2026/1560",
    "summary": "EU adopts voluntary sustainability reporting standards for companies not required to report on corporate sustainability",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.725110+00:00",
+   "fetched_at": "2026-10-20T10:53:33.092839+00:00",
    "impacted_products": "",
    "what_changing": "In September 2026, the European Commission adopted Regulation 2026/1560 which sets voluntary sustainability reporting standards for companies that are not required to report under the Corporate Sustainability Reporting Directive (CSRD) . The CSRD requires only the largest companies operating in the European Union (EU) – including some non-EU companies – to publish reports on the sustainability of their business. This reporting obligation does not apply to EU companies with fewer than 1,000 employees, or to non-EU companies below certain turnover thresholds in the EU (see Background).\n\nThese voluntary sustainability reporting standards provide a simple reporting framework that smaller companies can use if they choose to share information about the sustainability of their business.\n\nThese standards also support the “value chain cap” under the CSRD which means that smaller companies with an average of fewer than 1,000 employees (“protected undertakings”) are not obliged to provide information requested by large buying companies beyond that set out in the voluntary sustainability reporting standards.",
    "why": "The voluntary sustainability reporting standards aim to provide smaller companies with a simple reporting framework to support information sharing on the sustainability of their business. By voluntarily sharing this information, companies are expected to be able to better monitor their sustainability performance, and to improve their management practices and reputation.\n\nIn addition to this, under the CSRD itself, the value chain cap was introduced in response to concerns that information demands on smaller companies, particularly small and medium-sized enterprises, could be disproportionate to the CSRD objectives. Reporting companies must clearly identify when requests for information exceed those set in the voluntary sustainability reporting standards. “Protected undertakings” can refuse to provide that information (Accounting Directive 2013/34/EU , Art. 19a(3)(i)(c)).",
@@ -1084,13 +1084,13 @@
    "background": "Directive 2013/34/EU (the “Accounting Directive”) sets reporting obligations for large companies. It initially required only financial reporting, but the Corporate Sustainability Reporting Directive 2022/2464 (CSRD) introduced non-financial reporting requirements on sustainability (Directive 2013/34/EU , Arts. 19a and 29a).\n\nThe following types of large companies operating in the EU must publish reports on the sustainability impacts of their business (Accounting Directive 2013/34/EU ):\n\nEU companies with a net turnover of €450 million and an average number of 1,000 employees during the ongoing fiscal year (Art. 29a) non-EU companies with a net turnover in the EU of more than €450 million in each of the last two consecutive financial years (Art. 40a) non-EU companies that have a branch or subsidiary in the EU with a net turnover of more than €200 million in the preceding financial year (Art. 40a).\n\nThe companies concerned must report on their impacts on people and the environment (external), and how these impacts create financial risks and opportunities for the company (internal). This is known as “double materiality” reporting. Reporting must be based on the European Sustainability Reporting Standards (ESRS, Regulation 2023/2772 amended by Regulation 2026/1563 ), which ensure that companies provide reliable and consistent data that allows stakeholders to compare their sustainability performance.\n\nIn 2025, certain reporting requirements were delayed (Directive 2025/794 ). In 2026, significant changes were made to the CSRD, reducing the number of companies that must report, and limiting the information that large companies may request from smaller companies (Directive 2026/470 ). These changes aim to reduce the administrative burden and potential negative economic impacts of the CSRD for companies. This is one of a series of changes ( Simplification Omnibus Packages ) aimed at stimulating EU growth and competitiveness while reducing administrative burdens.\n\nThese voluntary sustainability reporting standards are based on the Voluntary Sustainability Reporting Standard for non-listed SMEs (VSME) ( EFRAG 2024 ) which was endorsed by the European Commission in 2025 (Commission Recommendation 2025/1710 ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2464-20260318",
-   "detail_fetched_at": "2026-10-19T12:01:46.380048+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:12.246593+00:00",
    "title_fr": "Normes volontaires de reporting de durabilité à l'usage des petites entreprises",
    "summary_fr": "L'UE adopte des normes volontaires de déclaration de durabilité pour les entreprises qui ne sont pas tenues de rendre compte de la durabilité de l'entreprise",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:48.674920+00:00",
+   "translated_at": "2026-10-20T10:54:14.991317+00:00",
    "tags": [
     "Sustainability/Due diligence"
    ]
@@ -1164,7 +1164,7 @@
    "regulation": "2026/2102",
    "summary": "EU clarifies which products must meet EUDR requirements",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.726595+00:00",
+   "fetched_at": "2026-10-20T10:53:33.094372+00:00",
    "impacted_products": "Cattle, cocoa, coffee, palm oil, soya, and derived products",
    "what_changing": "",
    "why": "Following the feedback received to consultations, this new Regulation clarifies which products are included within the scope of the EUDR, particularly regarding derived products. Because the quantity of soyabeans that is imported into the EU for sowing is negligible, and they are subject to their own certification and traceability systems, they are excluded from the scope of the EUDR. Samples of products exported to the EU for analysis or testing are also extremely low volume, and are generally destroyed during testing processes, so they are also excluded from the EUDR requirements.",
@@ -1173,13 +1173,13 @@
    "background": "The EUDR sets out obligations regarding products related to cattle, cocoa, coffee, palm oil, rubber, soya, and wood. It requires EU importers to ensure there is no risk (or negligible risk) that the production of these commodities has contributed to deforestation, or that products were illegally produced according to national law. For a summary of these requirements and implications for suppliers, see the AGRINFO Guidance The EU Deforestation Regulation: Requirements for Stakeholders outside the European Union .\n\nThe EUDR was originally intended to apply from 30 December 2024, but was postponed first to 30 December 2025, and subsequently to 30 December 2026 (see Review of EU Deforestation Regulation: simplification ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602102",
-   "detail_fetched_at": "2026-10-19T12:01:54.348481+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:20.712210+00:00",
    "title_fr": "Règlement de l'UE sur la déforestation (EUDR) : clarifications des produits de base et des produits",
    "summary_fr": "L'UE clarifie quels produits doivent répondre aux exigences de l'EUDR",
    "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:57.454708+00:00",
+   "translated_at": "2026-10-20T10:54:23.976858+00:00",
    "tags": [
     "Deforestation",
     "Sustainability/Due diligence"
@@ -1194,7 +1194,7 @@
    "regulation": "2026/559",
    "summary": "Geographical indications for non-EU products – 2026 applications",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.724614+00:00",
+   "fetched_at": "2026-10-20T10:53:32.379203+00:00",
    "impacted_products": "Confectionery, honey, olives, rum, salt, sugar, yoghurt, spirits, quince, chickpeas, coffee beans, tea, cream, cocoa, madd (fruit), pepper",
    "what_changing": "In 2026, the following applications for registration as PDO, PGI, and TSG from non-EU countries have been received by the EU and are being assessed. (For those already approved, see Approved geographical indications for non-EU products in 2026 ).",
    "why": "Applications for PDOs and PGIs are made public so that stakeholders whose economic interests may be adversely affected by the registration have the opportunity to present their statement of opposition and substantiated concerns to the European Commission (Regulation 2024/1143 , Art. 17).",
@@ -1203,13 +1203,13 @@
    "background": "Applications for registration of PDOs and PGIs received by the European Commission are published in the Official Journal of the European Union .\n\nIf no statement of opposition has been received by the European Commission within the permitted period, the GI is registered as a geographical indication in the EU register ( eAmbrosia ) and granted protection in the EU (Regulations 2024/1143 and 2025/26 ).\n\nFor further information on the EU’s system for protecting GIs, see Geographical indications for agricultural products and foodstuffs explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202600374",
-   "detail_fetched_at": "2026-10-19T12:01:42.660352+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:08.369286+00:00",
    "title_fr": "Demandes d'indications géographiques pour les produits hors UE en 2026",
    "summary_fr": "Indications géographiques pour les produits hors UE – 2026 demandes",
    "impacted_products_fr": "Confiseries, miel, olives, rhum, sel, sucre, yaourt, spiritueux, coing, pois chiches, grains de café, thé, crème, cacao, salade (fruit), poivre",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:45.876337+00:00",
+   "translated_at": "2026-10-20T10:54:11.731162+00:00",
    "tags": [
     "Geographical indications",
     "Labelling"
@@ -1282,7 +1282,7 @@
    "regulation": "2024/3015",
    "summary": "EU publishes guidelines on new Forced Labour Regulation",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.504070+00:00",
+   "fetched_at": "2026-10-20T10:53:33.096590+00:00",
    "impacted_products": "All products",
    "what_changing": "The European Commission has published Guidelines for implementing the Forced Labour Regulation 2024/3015 . The new Guidelines aim to help stakeholders apply the new rules, including:\n\ncompetent authorities – on the practical implementation of the Regulation businesses – on due diligence related to forced labour (e.g. monitoring, auditing, and documentation of labour practices along the supply chain) civil society organisations, victims, and other stakeholders – on how to submit information regarding potential violations of the ban.\n\nThese Guidelines are not legally binding (only the Regulation itself is legally binding). They aim to clarify the requirements of the Forced Labour Regulation, including the following:\n\nScope of the Regulation (Chapter 3 of the Guidelines). The ban applies to: all products made with forced labour, irrespective of the type of product and where it was produced, and even if only part of the product was made using forced labour forced labour at any stage of extraction, harvesting, production, or manufacturing, including different parts of the supply chain both products placed on the EU market and products exported from the EU. Definition and types of forced labour (Chapter 3). Risk indicators that authorities and companies can use to identify potential forced labour (Chapter 3). Investigation process (Chapter 4): authorities are recommended to follow a staged, evidence-based process: (1) identify risk; (2) carry out preliminary assessment; (3) assess if there is a substantiated concern; (4) launch formal investigation; (5) make decision on violations; (6) consider any request for review or appeal if suspected forced labour takes place outside the EU, investigations and decisions should be made by the European Commission. Enforcement and penalties (Chapter 5): if a product is banned, competent authorities can require businesses to withdraw or dispose of affected products, restrict access to them, and remove online listings (perishable products should be donated) customs authorities can identify and stop affected products at the border once they have been notified of a prohibition decision penalties can be allocated based on the nature, gravity, and duration of non-compliance. Applying due diligence to avoid products made using forced labour (Chapter 6): the Regulation does not prescribe one mandatory compliance system the Guidance sets out a due diligence process for companies: (1) integrate forced labour due diligence into internal procedures, risk management systems, and training, (2) identify and assess forced labour risks in their own operations and supply chains, (3) prevent or at least mitigate forced labour, (4) monitor implementation and results in their own and suppliers’ operations, (5) provide appropriate remediation to people who have been adversely affected and cooperate in remediation processes. Third parties can report concerns and provide information about possible forced labour violations (Chapter 7).\n\nFor further information on the Regulation, see Prohibition of products made with forced labour .",
    "why": "The Forced Labour Regulation ( 2024/3015 , Art. 11) requires the European Commission to publish implementation guidelines to help competent authorities, businesses, and stakeholders apply the Regulation in a practical and effective way, while also reducing the burden on administrations and companies.",
@@ -1291,13 +1291,13 @@
    "background": "Forced labour is a global issue that violates human dignity and fundamental rights, and perpetuates poverty, obstructing the Sustainable Development Goal of decent work for all. The International Labour Organization estimates that 27.6 million people are subject to forced labour ( ILO et al. 2022 ). Recognised by the ILO as a fundamental rights principle, its elimination requires international cooperation across interconnected global supply chains.\n\nThe EU Forced Labour Regulation has been in force since 13 December 2024, and will apply from 14 December 2027. It prohibits businesses from placing on the EU market, or exporting, products made with forced labour. To ensure effective implementation, the European Commission will cooperate and exchange information with non-EU authorities, international organisations, civil society, trade unions, and business groups. Cooperation will be structured through existing frameworks including human rights and political dialogues, trade and sustainable development dialogues, the Generalised Scheme of Preferences, and EU development initiatives.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C_202604637",
-   "detail_fetched_at": "2026-10-19T12:02:19.339593+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:43.894848+00:00",
    "title_fr": "Lignes directrices sur le règlement de l'UE sur le travail forcé",
    "summary_fr": "L'UE publie des lignes directrices sur le nouveau règlement sur le travail forcé",
    "impacted_products_fr": "Tous les niveaux scolaires",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:22.622941+00:00",
+   "translated_at": "2026-10-20T10:54:46.898842+00:00",
    "tags": [
     "Forced labour",
     "Trade policy"
@@ -1370,26 +1370,26 @@
    "title": "Maximum residue levels for acequinocyl",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-acequinocyl/",
    "pub_date": "2026-02-04",
-   "revised_date": "Aug. 3, 2026",
-   "regulation": "2026/140",
-   "summary": "EU proposes to increase MRLs for acequinocyl on blueberries, cranberries, currants, and gooseberries",
+   "revised_date": "Oct. 17, 2026",
+   "regulation": "2026/140, 2026/2289",
+   "summary": "Acequinocyl MRLs for blueberries, cranberries, currants, and gooseberries will increase from 5 November 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-20T10:34:03.443143+00:00",
+   "fetched_at": "2026-10-20T10:53:32.373800+00:00",
    "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries",
-   "what_changing": "The EU proposes to increase the MRLs for acequinocyl on blueberries, cranberries, currants (black, red, and white), and gooseberries (green, red, and yellow) from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nIn February 2026, the EU increased the MRL for acequinocyl on strawberries from 0.01 to 0.3 mg/kg.",
-   "why": "Following an application for a change of MRLs by the producer of acequinocyl, the European Food Safety Authority evaluated the requested changes and concluded that they do not pose a risk for consumers ( EFSA 2025b ).",
-   "timeline": "For blueberries, cranberries, currants, and gooseberries, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL on strawberries applies from 11 February 2026 .",
+   "what_changing": "The EU has increased the MRLs for acequinocyl on blueberries, cranberries, currants (black, red, and white), and gooseberries (green, red, and yellow) from the limit of determination (LOD) of 0.01 mg/kg to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nIn February 2026, the EU increased the MRL for acequinocyl on strawberries from 0.01 to 0.3 mg/kg.",
+   "why": "An application for a change of MRLs by the producer of acequinocyl was evaluated by the European Food Safety Authority, and the requested changes were found to be safe for consumers ( EFSA 2025a ).",
+   "timeline": "The new MRLs on blueberries, cranberries, currants, and gooseberries apply from 5 November 2026 .\n\nThe new MRL on strawberries applies from 11 February 2026.",
    "actions": "",
-   "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .\n\nThe change to the MRL on strawberries in February 2026 followed a review by EFSA (2025a ).",
+   "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .\n\nThe MRL on strawberries was increased in February 2026 following a review by EFSA (2025b ).",
    "detail_summary": "",
-   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/140/oj/eng",
-   "detail_fetched_at": "2026-09-20T10:35:48.528780+00:00",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
+   "detail_fetched_at": "2026-10-20T10:53:35.324675+00:00",
    "title_fr": "Limites maximales de résidus pour l'acétinocyle",
-   "summary_fr": "L'UE propose d'augmenter les LMR pour l'acétinocyle sur les bleuets, les canneberges, les groseilles et les groseilles à maquereau",
+   "summary_fr": "Les LMR d'acétinocyle pour les myrtilles, les canneberges, les groseilles à maquereau et les groseilles à maquereau augmenteront à partir du 5 novembre 2026",
    "impacted_products_fr": "Myrtilles, canneberges, groseilles, groseilles à maquereau, fraises",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-20T10:35:51.530589+00:00",
+   "translated_at": "2026-10-20T10:53:38.779357+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -1464,7 +1464,7 @@
    "regulation": "2026/120, 2026/1003, 2026/118…",
    "summary": "EU amends sugar molasses representative prices, with no changes to import duties",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.722700+00:00",
+   "fetched_at": "2026-10-20T10:53:32.377769+00:00",
    "impacted_products": "Molasses",
    "what_changing": "The European Commission has amended the representative prices (the CIF import prices) for molasses for the 2026 marketing year that ends on 30 September 2027. These changes do not have an impact on the import duties for sugar cane and sugar beet molasses, which both remain at zero duty. The revised representative prices are set out in Table 1.",
    "why": "",
@@ -1473,13 +1473,13 @@
    "background": "Regulation 2023/2834 sets a “representative price” for imported molasses covered by CN codes 1703 10 00 (sugar cane molasses) and 1703 90 00 (sugar beet molasses). This is the cost, insurance, and freight (CIF) price based on world market prices (Art. 25). These are fixed for each marketing year (from 1 October to 30 September of the following year) and can be amended by the European Commission.\n\nImport duties for molasses are set on the basis of representative prices (Regulation 2023/2835 , Art. 8). Where there is a difference between the trigger price for the product concerned and the CIF representative price, additional import duties are set (Regulation 2023/2834 , Art. 33).\n\nRegulation 2026/2212 replaces Regulation 2026/1187 .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602212",
-   "detail_fetched_at": "2026-10-19T12:01:31.609441+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:00.480063+00:00",
    "title_fr": "Tarifs à l'importation de mélasse",
    "summary_fr": "L'UE modifie les prix représentatifs de la mélasse de sucre, sans modification des droits à l'importation",
    "impacted_products_fr": "Mélasses",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:34.613907+00:00",
+   "translated_at": "2026-10-20T10:54:03.545247+00:00",
    "tags": [
     "Tariffs & quotas"
    ]
@@ -1524,7 +1524,7 @@
    "regulation": "2025/2650",
    "summary": "EU postpones application of EU Deforestation Regulation until 30 December 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.505504+00:00",
+   "fetched_at": "2026-10-20T10:53:34.065845+00:00",
    "impacted_products": "Cattle, cocoa, coffee, palm oil, soya, and derived products",
    "what_changing": "",
    "why": "The 12-month delay aims to ensure that the EUDR Information System enabling operators to submit due diligence statements will be fully operational; and to allow further time for businesses to prepare for compliance with EUDR requirements.",
@@ -1533,13 +1533,13 @@
    "background": "The EUDR sets out obligations regarding imports into the EU of products related to cattle, cocoa, coffee, palm oil, rubber, soya, and wood. It requires EU importers to ensure there is no or negligible risk that the production of these commodities contributed to deforestation, or that products were illegally produced according to national law. For a summary of these requirements and implications for suppliers, see The EU Deforestation Regulation: Requirements for Stakeholders outside the European Union .\n\nThe EUDR was originally intended to apply from 30 December 2024, but was previously postponed to 30 December 2025.\n\nThe definitions of micro and small operators are based on Regulation 2013/34/EU (Art. 3) as follows.\n\nA micro-undertaking is one that does not exceed two of the three following criteria:\n\nbalance sheet total: €450,000 net turnover: €900,000 average number of employees during the financial year: 10.\n\nA small undertaking is one that does not exceed two of the three following criteria:\n\nbalance sheet total: €5,000,000 net turnover: €10,000,000 average number of employees during the financial year: 50.\n\nOperators that place their own products on the EU market are included in the category “ micro and small primary operators ”, even if they exceed two of the criteria listed above for micro and small undertakings, if they can demonstrate that their activities specifically in relation to deforestation commodities (excluding other commodities they might trade) do not exceed two of the three criteria.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2023/1115/oj/eng",
-   "detail_fetched_at": "2026-10-19T12:02:29.667578+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:57.510057+00:00",
    "title_fr": "Révision du règlement de l'UE sur la déforestation : simplification",
    "summary_fr": "L'UE reporte l'application du règlement de l'UE sur la déforestation au 30 décembre 2026",
    "impacted_products_fr": "Bovins, cacao, café, huile de palme, soja et produits dérivés",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:33.271964+00:00",
+   "translated_at": "2026-10-20T10:55:01.007898+00:00",
    "tags": [
     "Deforestation"
    ]
@@ -1579,26 +1579,26 @@
    "title": "Maximum residue levels for prothioconazole",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-prothioconazole/",
    "pub_date": "2024-05-17",
-   "revised_date": "July 31, 2026",
-   "regulation": "2024/1318",
-   "summary": "EU proposes to increase MRLs for prothioconazole on certain fruits and vegetables, rapeseeds, and rice",
+   "revised_date": "Oct. 17, 2026",
+   "regulation": "2024/1318, 2026/2289",
+   "summary": "Prothioconazole MRLs on some fruits and vegetables, rapeseeds, and rice will increase from 5 November 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-08T10:31:39.781981+00:00",
+   "fetched_at": "2026-10-20T10:53:32.375941+00:00",
    "impacted_products": "Apples, pears, quinces, medlars, loquats/Japanese medlars, apricots, cherries (sweet), plums, celeriac/turnip rooted celeries, garlic, cucumbers, gherkins, courgettes, other curcurbits (edible peel), melons, pumpkins, watermelons, other curcurbits (inedible peel), rapeseeds/canola seeds, rice",
-   "what_changing": "The EU is proposing to increase the MRLs for prothioconazole as shown in Table 1.",
-   "why": "Following an application for a change of MRLs by the producer of prothioconazole, the European Food Safety Authority (EFSA 2020 , 2023 , 2026 ) concluded that the proposed amendments are acceptable for consumer safety.",
-   "timeline": "The Regulation is expected to be published in October 2026, and will apply 6 months after publication.",
+   "what_changing": "The EU has increased the MRLs for prothioconazole as shown in Table 1.",
+   "why": "An application for a change of MRLs by the producer of prothioconazole was evaluated by the European Food Safety Authority, and the requested changes were found to be safe for consumers (EFSA 2020 , 2023 , 2026 ).",
+   "timeline": "The new MRLs apply from 5 November 2026 .",
    "actions": "",
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
-   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-09-08T10:33:19.618950+00:00",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
+   "detail_fetched_at": "2026-10-20T10:53:46.865721+00:00",
    "title_fr": "Limites maximales de résidus pour le prothioconazole",
-   "summary_fr": "L'UE propose d'augmenter les LMR pour le prothioconazole sur certains fruits et légumes, les graines de colza et le riz",
+   "summary_fr": "Les LMR de prothioconazole sur certains fruits et légumes, colza et riz augmenteront à partir du 5 novembre 2026",
    "impacted_products_fr": "Pommes, poires, coings, medlars, loquats/medlars japonais, abricots, cerises (douces), prunes, céleris-raves/navets, ail, concombres, cornichons, courgettes, autres courgettes (écorces comestibles),",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-08T10:33:22.328066+00:00",
+   "translated_at": "2026-10-20T10:53:50.300112+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs"
@@ -1689,26 +1689,26 @@
    "title": "Maximum residue levels for deltamethrin",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-deltamethrin/",
    "pub_date": "2023-11-30",
-   "revised_date": "Aug. 3, 2026",
-   "regulation": "2024/1342, 2025/1164, 2026/876",
-   "summary": "EU proposes to increase MRLs for deltamethrin on kiwi fruits, melons, and watermelons",
+   "revised_date": "Oct. 17, 2026",
+   "regulation": "2024/1342, 2025/1164, 2026/87…",
+   "summary": "Deltamethrin MRLs for kiwis, melons, and watermelons will increase from 5 November 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-20T10:34:03.443500+00:00",
+   "fetched_at": "2026-10-20T10:53:32.374388+00:00",
    "impacted_products": "Kiwi fruits, melons, watermelons",
-   "what_changing": "The EU is proposing to change the MRLs for deltamethrin as listed in Table 1.",
-   "why": "The European Food Safety Authority analysed an application by the producer of deltamethrin to increase the MRLs on kiwis, melons, and watermelons, and concluded that this change poses no risks to consumers ( EFSA 2026 ).",
-   "timeline": "For kiwis, melons, and watermelons, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL for cherries applies from 12 May 2026 .",
+   "what_changing": "The EU has increased the MRLs for deltamethrin as listed in Table 1.",
+   "why": "The European Food Safety Authority analysed an application from the producer of deltamethrin to increase the MRLs on kiwis, melons, and watermelons, and concluded that this change poses no risks to consumers ( EFSA 2026 ).",
+   "timeline": "The new MRLs for kiwis, melons, and watermelons apply from 5 November 2026 .\n\nThe new MRL for cherries applies from 12 May 2026 .",
    "actions": "",
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe increased MRL for cherries in May 2026 followed an evaluation by EFSA (2025 ). In June 2025, the EU raised the MRL for deltamethrin on papayas from 0.1 to 0.2 mg/kg in line with the Codex MRL (CXL) adopted in 2024.",
    "detail_summary": "",
-   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
-   "detail_fetched_at": "2026-09-20T10:35:52.040965+00:00",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
+   "detail_fetched_at": "2026-10-20T10:53:39.351522+00:00",
    "title_fr": "Teneurs maximales en résidus de deltaméthrine",
-   "summary_fr": "L'UE propose d'augmenter les LMR pour la deltaméthrine sur les kiwis, les melons et les pastèques",
+   "summary_fr": "Les LMR de deltaméthrine pour les kiwis, les melons et les pastèques augmenteront à partir du 5 novembre 2026",
    "impacted_products_fr": "Kiwis, melons, pastèques",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-09-20T10:35:54.931322+00:00",
+   "translated_at": "2026-10-20T10:53:42.564522+00:00",
    "tags": [
     "Food safety",
     "Pesticide MRLs",
@@ -1814,7 +1814,7 @@
    "regulation": "2023/2663, 2026/1395",
    "summary": "EU revises generalised scheme of tariff preferences (GSP)",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.224547+00:00",
+   "fetched_at": "2026-10-20T10:53:34.068891+00:00",
    "impacted_products": "",
    "what_changing": "The EU has established special trade arrangements for certain lower- and middle-income countries outside the European Union (listed in Table 1).\n\nThe revised GSP includes the following key elements.",
    "why": "",
@@ -1823,13 +1823,13 @@
    "background": "The generalised scheme of tariff preferences (GSP) aims to assist lower-income countries to integrate into the world economy, reduce poverty, and support sustainable development by protecting core human rights and the environment.\n\nThe current GSP has three trading arrangements:\n\nStandard GSP: for lower- and lower-middle-income countries, providing removal or reduction of import tariffs on approximately two-thirds of EU tariff lines (listed in Annex III of Regulation 2026/1395 ). GSP+: removes import tariffs for many of the same tariff lines as the standard GSP (Annex III). This improved preferential access is granted to vulnerable lower- and lower-middle-income countries that implement international conventions related to human rights and/or labour rights. Everything But Arms (EBA): special arrangement for least-developed countries – 0% import tariffs and zero quotas for all products except arms and ammunition.\n\nThe eligible beneficiary countries are listed in Table 1.\n\nThe current GSP, which was originally intended to apply from 2014 to 2023, has been subject to lengthy negotiations and was extended until the end of 2027.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/1395/oj/eng",
-   "detail_fetched_at": "2026-10-19T12:02:56.524728+00:00",
+   "detail_fetched_at": "2026-10-20T10:55:25.061022+00:00",
    "title_fr": "Schéma de préférences tarifaires généralisées (SPG)",
    "summary_fr": "Schéma de préférences tarifaires généralisées (SPG)",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:58.426028+00:00",
+   "translated_at": "2026-10-20T10:55:27.366021+00:00",
    "tags": [
     "Trade policy"
    ]
@@ -1843,7 +1843,7 @@
    "regulation": "2022/2464, 2026/470",
    "summary": "EU amends obligations on companies to report sustainability information",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:21.725611+00:00",
+   "fetched_at": "2026-10-20T10:53:33.093338+00:00",
    "impacted_products": "",
    "what_changing": "The CSRD requires certain companies to prepare and publish reports on the sustainability of their business. Following changes to the CSRD made in February 2026, the key requirements are now as given below.",
    "why": "The CSRD establishes principles for larger companies to report sustainability information on an annual basis. Improved information on sustainability is important for investors who need to understand the risks and opportunities related to sustainability, and also to enable civil society organisations to hold companies accountable for their behaviour. Harmonised reporting is intended to make comparisons between companies easier.\n\nHowever, in 2025 the EU decided that the regulatory burden created by these rules could potentially have negative economic impacts on companies and on EU competitiveness. The revised CSRD reduces the number of companies that need to report on sustainability by around 80% compared to the 2022 rules (see Questions and answers on simplification omnibus I and II ).",
@@ -1852,13 +1852,13 @@
    "background": "The CSRD sets out rules to improve the quality, clarity, and comparability of companies’ sustainability reporting. Companies must include a dedicated section on sustainability in their management reports, setting out the impact of the company’s operations on its development, performance, and position. The associated ESRS aim to ensure that all companies provide reliable and consistent data that allows stakeholders to compare their sustainability performance. Improved information on sustainability is important for investors, who need to understand the risks and opportunities related to sustainability, and for civil society organisations looking to hold companies to account for their actions.\n\nPrior to the latest changes introduced in February 2026, the CSRD had been subject to a series of changes and additions:\n\nIn July 2023 the Commission adopted European Sustainability Reporting Standards to help companies to manage and communicate their sustainability performance. These standards were published in Regulation 2023/2772 . In August 2024, the Commission published a Frequently Asked Questions document to clarify aspects of the rules. In February 2025, the European Commission published a proposal to change certain parts of the Corporate Sustainability Reporting Directive, reducing the number of companies that must report under the CSRD, limiting the information that large companies may request from smaller companies, and delaying by 2 years the implementation of certain reporting requirements. In April 2025, the EU agreed to the 2-year implementation delay proposed by the European Commission (Directive 2025/794 ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02022L2464-20260318",
-   "detail_fetched_at": "2026-10-19T12:01:49.194069+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:15.566579+00:00",
    "title_fr": "Corporate Sustainability Reporting Directive",
    "summary_fr": "L'UE modifie les obligations des entreprises de communiquer des informations sur le développement durable",
    "impacted_products_fr": "",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:01:51.446555+00:00",
+   "translated_at": "2026-10-20T10:54:17.711376+00:00",
    "tags": [
     "Due diligence"
    ]
@@ -1931,7 +1931,7 @@
    "regulation": "2023/2720",
    "summary": "EU proposes 1-year extension of current (2024–2026 period) autonomous tariff quotas for certain fishery products for processing",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:22.502652+00:00",
+   "fetched_at": "2026-10-20T10:53:33.096092+00:00",
    "impacted_products": "Certain fish and fishery products destined for processing in the EU",
    "what_changing": "The European Commission is proposing a 1-year extension to the current ATQs for certain fishery products. These ATQs suspend or reduce import duties for certain fishery products to allow the EU fish processing industry adequate access to raw materials.\n\nATQs are set for the period 2024–2026 for the fishery products listed in Table 1. These tariff quotas are only for certain fishery products that are intended for further processing (e.g. dicing, filleting, production of flaps, cutting of frozen blocks). For full details of the individual quotas (detailed descriptions, TARIC customs codes), see the Annex of Regulation 2023/2720 .\n\nUnlike quotas agreed through tariff negotiations, ATQs are unilaterally established by the EU in response to the needs of the EU fish processing industry, to avoid a shortfall in supplies of raw materials for processing.",
    "why": "The EU is currently reviewing how to incorporate sustainability criteria as a condition for accessing ATQs for products where there is insufficient EU supply (see EU autonomous tariff quota for imported fisheries products ). Extending the existing ATQs will allow time for this review process to be completed.",
@@ -1940,13 +1940,13 @@
    "background": "In recent decades, the EU has become increasingly dependent on imports of fish and fish products to meet demand. The EU’s fisheries and aquaculture production currently meets only about 38% of its needs ( EUMOFA 2025 ). The Union has concluded several agreements with non-EU countries or territories to permit the suspension or partial waiver of normal duties applicable to certain fishery products to ensure an adequate supply to its processing industry.\n\nThese autonomous trade measures for fishery and aquaculture products enable the EU fish processing industry to import raw materials from non-EU countries’ for further processing at reduced rates or duty-free, and allow EU Member States to draw from the tariff quota the quantities that correspond to their actual import needs. Tariff quota entitlement is based on the supply of an appropriate volume until the tariff quotas have been used up, and requires a minimum capacity of treatment or operation. Imports are subject to end-use customs supervision in accordance with Regulation 952/2013 (Art. 254).\n\nRegulation 2023/2720 establishes ATQs for the period 2024–2026, including Alaska pollock, cod, hake, shrimp and prawns, squid, surimi, tilapia, and tuna loins. The quotas are established autonomously by the EU. Once the quota is exhausted, the normal customs duty generally applies.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52026PC0447&qid=1788940131614",
-   "detail_fetched_at": "2026-10-19T12:02:09.611436+00:00",
+   "detail_fetched_at": "2026-10-20T10:54:40.181786+00:00",
    "title_fr": "CONTINGENTS TARIFAIRES POUR CERTAINS PRODUITS DE LA PECHE",
    "summary_fr": "L'UE propose une prolongation d'un an des contingents tarifaires autonomes actuels (période 2024–2026) pour certains produits de la pêche destinés à la transformation",
    "impacted_products_fr": "Certains poissons et produits de la pêche destinés à la transformation dans l'UE",
    "timeline_fr": "",
    "actions_fr": "",
-   "translated_at": "2026-10-19T12:02:12.998869+00:00",
+   "translated_at": "2026-10-20T10:54:43.375951+00:00",
    "tags": [
     "Tariffs & quotas"
    ]
@@ -1961,7 +1961,7 @@
    "description": "September 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.975095+00:00"
+   "fetched_at": "2026-10-20T10:53:34.756456+00:00"
   },
   {
    "id": "eu_trade_policy_april-july-2025_pdf",
@@ -1971,7 +1971,7 @@
    "description": "September 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.978229+00:00"
+   "fetched_at": "2026-10-20T10:53:34.759550+00:00"
   },
   {
    "id": "deforestation_products_africa_2024-c_uxpx9og_pdf",
@@ -1981,7 +1981,7 @@
    "description": "September 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.981604+00:00"
+   "fetched_at": "2026-10-20T10:53:34.762835+00:00"
   },
   {
    "id": "eu_trade_policy_jul-sep_pdf",
@@ -1991,7 +1991,7 @@
    "description": "October 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.974787+00:00"
+   "fetched_at": "2026-10-20T10:53:34.756152+00:00"
   },
   {
    "id": "exporting_honey_to_eu_2024_pdf",
@@ -2001,7 +2001,7 @@
    "description": "October 2024",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.981305+00:00"
+   "fetched_at": "2026-10-20T10:53:34.762558+00:00"
   },
   {
    "id": "bpa-substances_of_concern_in_food_packaging_pdf",
@@ -2011,7 +2011,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.976541+00:00"
+   "fetched_at": "2026-10-20T10:53:34.757867+00:00"
   },
   {
    "id": "new_eu_rules_ppwr_and_bpa_ghana_pdf",
@@ -2021,7 +2021,7 @@
    "description": "May 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.976821+00:00"
+   "fetched_at": "2026-10-20T10:53:34.758160+00:00"
   },
   {
    "id": "use_of_antimicrobials_in_farmed_animals_in_the_food_supply_chain_en_pdf",
@@ -2031,7 +2031,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.977107+00:00"
+   "fetched_at": "2026-10-20T10:53:34.758436+00:00"
   },
   {
    "id": "guidance_temporary-increase-official-controls_2025_1_pdf",
@@ -2041,7 +2041,7 @@
    "description": "May 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.979367+00:00"
+   "fetched_at": "2026-10-20T10:53:34.760643+00:00"
   },
   {
    "id": "pfas-substances-of-concern-in-food-packaging_pdf",
@@ -2051,7 +2051,7 @@
    "description": "June 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.976240+00:00"
+   "fetched_at": "2026-10-20T10:53:34.757596+00:00"
   },
   {
    "id": "exporting-aquaculture-products-to-the-eu_pdf",
@@ -2061,7 +2061,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.978800+00:00"
+   "fetched_at": "2026-10-20T10:53:34.760086+00:00"
   },
   {
    "id": "agrinfo_-_mineral_oil_hydrocarbons_in_food_2024-cc-2_pdf",
@@ -2071,7 +2071,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.979075+00:00"
+   "fetched_at": "2026-10-20T10:53:34.760374+00:00"
   },
   {
    "id": "eu_trade_policy_apr-jun-2026_pdf",
@@ -2081,7 +2081,7 @@
    "description": "July 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.975397+00:00"
+   "fetched_at": "2026-10-20T10:53:34.756733+00:00"
   },
   {
    "id": "exporting_fishery_products_to_the_european_union_pdf",
@@ -2091,7 +2091,7 @@
    "description": "July 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.975687+00:00"
+   "fetched_at": "2026-10-20T10:53:34.757018+00:00"
   },
   {
    "id": "traditional-foods-implications-authorisation-process_pdf",
@@ -2101,7 +2101,7 @@
    "description": "July 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.975964+00:00"
+   "fetched_at": "2026-10-20T10:53:34.757321+00:00"
   },
   {
    "id": "the-eu-deforestation-regulation_pdf",
@@ -2111,7 +2111,7 @@
    "description": "July 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.978525+00:00"
+   "fetched_at": "2026-10-20T10:53:34.759815+00:00"
   },
   {
    "id": "guidance_for_organic_operators_and_groups_pdf",
@@ -2121,7 +2121,7 @@
    "description": "January 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.977682+00:00"
+   "fetched_at": "2026-10-20T10:53:34.758982+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec-2025_pdf",
@@ -2131,7 +2131,7 @@
    "description": "January 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.977953+00:00"
+   "fetched_at": "2026-10-20T10:53:34.759274+00:00"
   },
   {
    "id": "implications-of-organic-regulation-in-dominican-republic_2024_pdf",
@@ -2141,7 +2141,7 @@
    "description": "January 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.980764+00:00"
+   "fetched_at": "2026-10-20T10:53:34.762003+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec_2024_pdf",
@@ -2151,7 +2151,7 @@
    "description": "January 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.981036+00:00"
+   "fetched_at": "2026-10-20T10:53:34.762290+00:00"
   },
   {
    "id": "exporting_fresh_capsicum_to_eu_2025_pdf",
@@ -2161,7 +2161,7 @@
    "description": "February 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.980485+00:00"
+   "fetched_at": "2026-10-20T10:53:34.761736+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar-2026_pdf",
@@ -2171,7 +2171,7 @@
    "description": "April 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.977405+00:00"
+   "fetched_at": "2026-10-20T10:53:34.758706+00:00"
   },
   {
    "id": "temporary_increases_in_eu_official_controls-q-point-2025_pdf",
@@ -2181,7 +2181,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.979649+00:00"
+   "fetched_at": "2026-10-20T10:53:34.760911+00:00"
   },
   {
    "id": "impacts-reg-2019-1793-quantitative-ptalks-2025_pdf",
@@ -2191,7 +2191,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.979921+00:00"
+   "fetched_at": "2026-10-20T10:53:34.761199+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar_2025_pdf",
@@ -2201,7 +2201,7 @@
    "description": "April 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.980193+00:00"
+   "fetched_at": "2026-10-20T10:53:34.761467+00:00"
   },
   {
    "id": "impacts_regulatory_change_africa_2024_pdf",
@@ -2211,7 +2211,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.981881+00:00"
+   "fetched_at": "2026-10-20T10:53:34.763104+00:00"
   },
   {
    "id": "impacts_regulatory_change_latin_america_caribbean_2024_pdf",
@@ -2221,7 +2221,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.982158+00:00"
+   "fetched_at": "2026-10-20T10:53:34.763395+00:00"
   },
   {
    "id": "impacts_regulatory_change_europe_middle_east_2024_pdf",
@@ -2231,7 +2231,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.982452+00:00"
+   "fetched_at": "2026-10-20T10:53:34.763665+00:00"
   },
   {
    "id": "impacts_regulatory_change_asia_2024_pdf",
@@ -2241,7 +2241,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-10-19T12:01:23.982728+00:00"
+   "fetched_at": "2026-10-20T10:53:34.763939+00:00"
   }
  ],
  "tags": [
@@ -2444,15 +2444,6 @@
    "impacted_products": "Confectionery, honey, olives, rum, salt, sugar, yoghurt, spirits, quince, chickpeas, coffee beans, tea, cream, cocoa, madd (fruit), pepper"
   },
   {
-   "id": "maximum-residue-levels-for-acequinocyl",
-   "title": "Maximum residue levels for acequinocyl",
-   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-acequinocyl/",
-   "timeline_date": "2026-02-11",
-   "timeline": "For blueberries, cranberries, currants, and gooseberries, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL on strawberries applies from 11 February 2026 .",
-   "regulation": "2026/140",
-   "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries"
-  },
-  {
    "id": "hpai-eu-restrictions-on-imports-of-poultry-from-moldova",
    "title": "HPAI: EU restrictions on imports of poultry from Moldova",
    "url": "https://agrinfo.eu/book-of-reports/hpai-eu-restrictions-on-imports-of-poultry-from-moldova/",
@@ -2469,15 +2460,6 @@
    "timeline": "The quotas and the system for managing them apply from 1 May 2026 .",
    "regulation": "2026/996, 2026/1727",
    "impacted_products": "Beef, eggs, egg albumen, garlic, honey, maize, pigmeat, poultry, rice, sorghum, starch derivatives, sugar, sweetcorn"
-  },
-  {
-   "id": "maximum-residue-levels-for-deltamethrin",
-   "title": "Maximum residue levels for deltamethrin",
-   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-deltamethrin/",
-   "timeline_date": "2026-05-12",
-   "timeline": "For kiwis, melons, and watermelons, the Regulation is expected to be published in October 2026, and will apply 6 months after publication.\n\nThe new MRL for cherries applies from 12 May 2026 .",
-   "regulation": "2024/1342, 2025/1164, 2026/876",
-   "impacted_products": "Kiwi fruits, melons, watermelons"
   },
   {
    "id": "calculation-of-recycled-plastic-content-in-pet-bottles",
@@ -2642,6 +2624,42 @@
    "impacted_products": "Molasses"
   },
   {
+   "id": "maximum-residue-levels-for-acequinocyl",
+   "title": "Maximum residue levels for acequinocyl",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-acequinocyl/",
+   "timeline_date": "2026-11-05",
+   "timeline": "The new MRLs on blueberries, cranberries, currants, and gooseberries apply from 5 November 2026 .\n\nThe new MRL on strawberries applies from 11 February 2026.",
+   "regulation": "2026/140, 2026/2289",
+   "impacted_products": "Blueberries, cranberries, currants, gooseberries, strawberries"
+  },
+  {
+   "id": "maximum-residue-levels-for-deltamethrin",
+   "title": "Maximum residue levels for deltamethrin",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-deltamethrin/",
+   "timeline_date": "2026-11-05",
+   "timeline": "The new MRLs for kiwis, melons, and watermelons apply from 5 November 2026 .\n\nThe new MRL for cherries applies from 12 May 2026 .",
+   "regulation": "2024/1342, 2025/1164, 2026/87…",
+   "impacted_products": "Kiwi fruits, melons, watermelons"
+  },
+  {
+   "id": "maximum-residue-levels-for-prothioconazole",
+   "title": "Maximum residue levels for prothioconazole",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-prothioconazole/",
+   "timeline_date": "2026-11-05",
+   "timeline": "The new MRLs apply from 5 November 2026 .",
+   "regulation": "2024/1318, 2026/2289",
+   "impacted_products": "Apples, pears, quinces, medlars, loquats/Japanese medlars, apricots, cherries (sweet), plums, celeriac/turnip rooted celeries, garlic, cucumbers, gher"
+  },
+  {
+   "id": "maximum-residue-levels-for-dodine",
+   "title": "Maximum residue levels for dodine",
+   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-dodine/",
+   "timeline_date": "2026-11-05",
+   "timeline": "The new MRL applies from 5 November 2026 .",
+   "regulation": "2026/2289",
+   "impacted_products": "Wine grapes, table grapes"
+  },
+  {
    "id": "european-sustainability-reporting-standards",
    "title": "European Sustainability Reporting Standards",
    "url": "https://agrinfo.eu/book-of-reports/european-sustainability-reporting-standards/",
@@ -2777,5 +2795,5 @@
    "impacted_products": "NGT plants and products"
   }
  ],
- "exported_at": "2026-10-19T12:03:09.150723+00:00"
+ "exported_at": "2026-10-20T10:55:27.458836+00:00"
 }

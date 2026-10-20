@@ -3,30 +3,31 @@
   "title": "Maximum residue levels for prothioconazole",
   "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-prothioconazole/",
   "pub_date": "2024-05-17",
-  "revised_date": "July 31, 2026",
-  "regulation": "2024/1318",
-  "summary": "EU proposes to increase MRLs for prothioconazole on certain fruits and vegetables, rapeseeds, and rice",
+  "revised_date": "Oct. 17, 2026",
+  "regulation": "2024/1318, 2026/2289",
+  "summary": "Prothioconazole MRLs on some fruits and vegetables, rapeseeds, and rice will increase from 5 November 2026",
   "tags": [
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-09-08T10:31:39.781981+00:00",
-  "update": "The European Union (EU) is proposing to increase the maximum residue levels (MRLs) for prothioconazole on certain fruits and vegetables, rapeseeds, and rice.",
+  "fetched_at": "2026-10-20T10:53:32.375941+00:00",
+  "update": "The European Union (EU) has increased the maximum residue levels (MRLs) for prothioconazole on some fruits and vegetables, rapeseeds, and rice.",
   "impacted_products": "Apples, pears, quinces, medlars, loquats/Japanese medlars, apricots, cherries (sweet), plums, celeriac/turnip rooted celeries, garlic, cucumbers, gherkins, courgettes, other curcurbits (edible peel), melons, pumpkins, watermelons, other curcurbits (inedible peel), rapeseeds/canola seeds, rice",
-  "what_changing": "The EU is proposing to increase the MRLs for prothioconazole as shown in Table 1.",
-  "why": "Following an application for a change of MRLs by the producer of prothioconazole, the European Food Safety Authority (EFSA 2020 , 2023 , 2026 ) concluded that the proposed amendments are acceptable for consumer safety.",
-  "timeline": "The Regulation is expected to be published in October 2026, and will apply 6 months after publication.",
+  "what_changing": "The EU has increased the MRLs for prothioconazole as shown in Table 1.",
+  "why": "An application for a change of MRLs by the producer of prothioconazole was evaluated by the European Food Safety Authority, and the requested changes were found to be safe for consumers (EFSA 2020 , 2023 , 2026 ).",
+  "timeline": "The new MRLs apply from 5 November 2026 .",
   "actions": "",
   "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
   "resources": "EFSA (2020) Evaluation of confirmatory data following the Article 12MRL review and modification of the existing maximum residue levels for prothioconazole in celeriacs and rapeseeds . EFSA Journal, 18(2): e05999. EFSA (2023) Modification of the existing maximum residue levels for prothioconazole in garlic, onions and shallots . EFSA Journal, 21(1): e07717. EFSA (2026) Modification of the existing maximum residue levels for prothioconazole in various crops . EFSA Journal, 24(1): e9817.",
   "detail_summary": "",
   "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
-  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-09-08T10:33:19.618950+00:00",
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
+  "detail_fetched_at": "2026-10-20T10:53:46.865721+00:00",
   "title_fr": "Limites maximales de résidus pour le prothioconazole",
-  "summary_fr": "L'UE propose d'augmenter les LMR pour le prothioconazole sur certains fruits et légumes, les graines de colza et le riz",
+  "summary_fr": "Les LMR de prothioconazole sur certains fruits et légumes, colza et riz augmenteront à partir du 5 novembre 2026",
   "impacted_products_fr": "Pommes, poires, coings, medlars, loquats/medlars japonais, abricots, cerises (douces), prunes, céleris-raves/navets, ail, concombres, cornichons, courgettes, autres courgettes (écorces comestibles),",
-  "translated_at": "2026-09-08T10:33:22.328066+00:00"
+  "translated_at": "2026-10-20T10:53:50.300112+00:00"
 }
