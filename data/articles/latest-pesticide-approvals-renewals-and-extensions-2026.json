@@ -1,0 +1,35 @@
+{
+  "id": "latest-pesticide-approvals-renewals-and-extensions-2026",
+  "title": "Latest pesticide approvals, renewals, and extensions 2026",
+  "url": "https://agrinfo.eu/book-of-reports/latest-pesticide-approvals-renewals-and-extensions-2026/",
+  "pub_date": "2026-03-05",
+  "revised_date": "Oct. 8, 2026",
+  "regulation": "2026/312, 2026/321, 2026/351,…",
+  "summary": "EU pesticide approvals, renewals, and extensions in 2026",
+  "tags": [
+    "Food safety",
+    "Pesticides"
+  ],
+  "fetched_at": "2026-10-21T11:06:14.335908+00:00",
+  "update": "This report summarises new and renewed approvals to date in 2026. It also lists extensions of European Union (EU) approval periods in 2026 (Table 1), and changes in conditions of use.",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "",
+  "timeline": "A comprehensive list of active substances, their legal status, and expiry dates can be found in the European Commission’s Active substances, safeners and synergists database.",
+  "actions": "Suppliers to the EU market should monitor developments in EU approvals when considering longer-term strategies on agricultural practices.",
+  "background": "",
+  "resources": "Online resources from the European Commission: Renewal of approval Approval of active substances, safeners and synergists Active Ingredient Renewal Programme 6 (AIR 6)",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg_impl/2026/312/oj",
+    "https://eur-lex.europa.eu/eli/reg_impl/2026/321/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R0351&qid=1772634116961",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600355",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600372"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/312/oj",
+  "detail_fetched_at": "2026-10-21T11:06:52.073407+00:00",
+  "title_fr": "Dernières approbations, renouvellements et extensions de pesticides 2026",
+  "summary_fr": "Approbations, renouvellements et extensions de pesticides de l'UE en 2026",
+  "translated_at": "2026-10-21T11:06:53.945469+00:00"
+}

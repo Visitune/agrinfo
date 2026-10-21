@@ -1,0 +1,34 @@
+{
+  "id": "maximum-residue-level-for-difenoconazole",
+  "title": "Maximum residue level for difenoconazole",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-level-for-difenoconazole/",
+  "pub_date": "2025-03-17",
+  "revised_date": "Oct. 16, 2026",
+  "regulation": "2026/2299",
+  "summary": "Updated EU MRLs for difenoconazole will apply from 5 May 2027 with a particular impact on watercresses …",
+  "tags": [
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-10-21T11:06:14.335349+00:00",
+  "update": "The European Union (EU) has updated the maximum residue levels (MRLs) for difenoconazole. For some products where there is not enough data available to rule out risks to consumers, the MRLs have been lowered to the limit of determination (LOD). (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nFor other products, MRLs based on Codex Amimentarius MRLs have been set following an evaluation that raised no consumer safety concerns.",
+  "impacted_products": "Almonds, Brazil nuts, cashew nuts, chestnuts, coconuts, hazelnuts/cobnuts, macadamias, pecans, pine kernels, pistachios, walnuts, apples, pears, quinces, medlars, loquats/Japanese medlars, cherries (sweet), plums, cranberries, azaroles/Mediterranean medlars, currants, dewberries, elderberries, gooseberries, rose hips, mulberries, American persimmons/Virginia kaki, carambolas, dates, figs, jambuls/jambolans, litchis/lychees, star apples/cainitos, kaki/Japanese persimmons, mangoes, papayas, breadfruits, cherimoyas, durians, granate apples/pomegranates, pineapples, soursops/guanabanas, guavas, passionfruits/maracujas, potatoes, sweet potatoes, cassava roots/manioc, yams, arrowroots, garlic, onions, shallots, aubergines/eggplants, sweetcorn, broccoli, cauliflowers, Chinese cabbages/pe-tsai, kales, kohlrabies, Roman rocket/rucola, spinaches, purslanes, chards/beet leaves, grape leaves, watercresses, witloofs/Belgian endives, celery leaves, chervil, parsley, basil and edible flowers, beans and peas, lentils, asparagus, cardoons, celeries, bamboo shoots, palm hearts, fungi, mosses and lichens, algae and prokaryotes, lentils, lupins/lupini beans, linseeds, mustard seeds, castor beans, hemp seeds, peanuts/groundnuts, pumpkin seeds, sesame seeds, soyabeans, cotton seeds, borage seeds, oil palm kernels, oil palm fruits, kapok, buckwheat and other pseudocereals, common millet/proso millet, maize/corn, sorghum, rye, wheat, oats, teas, valerian, ginseng, anise/aniseed, black caraway/black cumin, celery, coriander, cumin, dill, fennel, fenugreek, nutmeg, allspice/pimento, Sichuan pepper, caraway, cardamom, juniper berry, peppercorn, vanilla, tamarind, capers, cinnamon, cloves, mace, saffron, liquorice, turmeric/curcuma, sugar canes, beetroots, carrots, horseradishes, Jerusalem artichokes, parsnips, parsley roots/Hamburg root parsley, radishes, salsifies, swedes/rutabagas, turnips, other roots/tubers, celeriac/turnip rooted celeries",
+  "what_changing": "The EU has updated the MRLs for difenoconazole as summarised in Table 1.\n\nFor many of the products listed in Table 1 with MRLs above the LOD, the EU plans a further review within 2 years, as the available data on these products is currently limited.",
+  "why": "A series of assessments of difenoconazole residues were undertaken by the European Food Safety Authority ( EFSA 2024 , 2025 ).\n\nMRLs were amended for the following reasons:\n\nMRLs were maintained or lowered where there was sufficient supporting data on good agricultural practices and no risk for consumers was identified MRLs were set on the basis of Codex Alimentarius MRLs (CXLs) where no risk for consumers was identified when no information was available to allow risk assessment, MRLs were reduced to the LOD.",
+  "timeline": "The new MRLs apply from 5 May 2027 .",
+  "actions": "Exporters of all products should review their current use of difenoconazole to see whether agricultural practices need to be adjusted to comply with the updated MRLs. Where MRLs have been reduced to the LOD, exporters need to look for alternative solutions.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
+  "resources": "EFSA (2024) Review of the existing maximum residue levels for difenoconazole according to Article 12 of Regulation (EC) No396/2005 . EFSA Journal, 22(8): e8987. EFSA (2025) Setting of import tolerances for difenoconazole in various crops . EFSA Journal, 23:(6) e9472. Regulation (EU) 2024/2612 as regards maximum residue levels for chitosan, clopyralid, difenoconazole, fat distillation residues, flonicamid, hydrolysed proteins, and lavandulyl senecioate in or on certain products, and Corrigendum .",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602299",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+    "https://eur-lex.europa.eu/eli/reg/2024/2612/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202590154"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602299",
+  "detail_fetched_at": "2026-10-21T11:06:48.110561+00:00",
+  "title_fr": "Limite maximale de résidus pour le difénoconazole",
+  "summary_fr": "Les LMR actualisées de l'UE pour le difénoconazole s'appliqueront à partir du 5 mai 2027 avec un impact particulier sur le cresson …",
+  "impacted_products_fr": "Amandes, noix du Brésil, noix de cajou, châtaignes, noix de coco, noisettes/cobnuts, macadamias, noix de pécan, pignons, pistaches, noix, pommes, poires, coings, medlars, loquats/medlars japonais, cerises (s",
+  "translated_at": "2026-10-21T11:06:51.335440+00:00"
+}
