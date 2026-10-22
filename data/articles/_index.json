@@ -1,12 +1,13 @@
 {
-  "total": 59,
+  "total": 60,
   "articles": [
+    "agrinfo-guide-exporting-honey-to-the-european-union",
     "foot-and-mouth-suspension-of-fresh-meat-and-biltongjerky-from-namibia",
     "triclopyr-non-renewal-of-eu-approval",
-    "maximum-residue-levels-for-prothioconazole",
+    "maximum-residue-levels-for-dodine",
     "maximum-residue-levels-for-deltamethrin",
     "maximum-residue-levels-for-acequinocyl",
-    "maximum-residue-levels-for-dodine",
+    "maximum-residue-levels-for-prothioconazole",
     "reports-on-non-compliance-with-eu-food-law-and-agri-food-fraud-august-2026",
     "maximum-residue-level-for-difenoconazole",
     "latest-pesticide-approvals-renewals-and-extensions-2026",
@@ -17,22 +18,22 @@
     "deforestation-free-commodities-and-products",
     "gm-authorisations-soyabeans-gmb151-x-das-44406-and-mon-94313-8-and-maize-mon-87460-4",
     "applications-for-geographical-indications-for-non-eu-products-in-2026",
-    "european-sustainability-reporting-standards",
     "voluntary-sustainability-reporting-standards-for-use-by-smaller-companies",
     "new-sustainability-reporting-obligations",
+    "european-sustainability-reporting-standards",
     "review-of-autonomous-tariff-suspensions-and-quotas-scheme-for-agricultural-goods",
-    "review-of-autonomous-tariff-suspensions-and-quotas-scheme-for-agricultural-goods",
-    "hygiene-rules-for-fresh-meat-from-domestic-mammals",
+    "eu-deforestation-regulation-eudr-clarifications-of-commodities-and-products",
     "feed-additives-juneaugust-2026-authorisations-and-reauthorisations",
+    "hygiene-rules-for-fresh-meat-from-domestic-mammals",
     "tariff-quotas-for-certain-fishery-products",
-    "guidelines-on-the-eu-forced-labour-regulation",
     "prohibition-of-products-made-with-forced-labour",
     "eu-food-and-veterinary-audits-programme-2027",
+    "guidelines-on-the-eu-forced-labour-regulation",
     "eu-deforestation-regulation-publications-and-resources",
-    "review-of-eu-deforestation-regulation-simplification",
     "husked-rice-import-tariffs"
   ],
   "publications": [
+    "exporting_honey_to_eu_v2_pdf",
     "eu_trade_policy_jul-sep_pdf",
     "control_of_organic_plant_products_exported_to_eu-for_cbs_and_authorities_pdf",
     "eu_trade_policy_apr-jun-2026_pdf",
@@ -63,5 +64,5 @@
     "impacts_regulatory_change_europe_middle_east_2024_pdf",
     "impacts_regulatory_change_asia_2024_pdf"
   ],
-  "fetched_at": "2026-10-21T11:07:57.947697+00:00"
+  "fetched_at": "2026-10-22T11:08:08.639992+00:00"
 }

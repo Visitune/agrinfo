@@ -9,7 +9,7 @@
   "tags": [
     "Third country lists"
   ],
-  "fetched_at": "2026-10-21T11:06:14.330940+00:00",
+  "fetched_at": "2026-10-22T11:06:19.650967+00:00",
   "update": "Following a new outbreak of foot and mouth disease (FMD) in Namibia, the European Union (EU) has suspended imports of fresh meat of beef, sheep and game ungulates and biltong/jerky type processed products , from the zone of the country authorised to export to the EU (zone NA-1, from Palgrave Point in the west to Gam). Other processed meat products from beef and sheep that have received an appropriate treatment to mitigate risks of FMD may still be exported to the EU.",
   "impacted_products": "Beef, sheep, game ungulates, biltong/jerky type",
   "what_changing": "Meat can only be exported from countries, or in some cases specific zones within a country, that have been authorised and listed by the EU (Regulation 2021/404 , Annex XIII for fresh meat and Annex XV for processed meat).\n\nOne zone in Namibia (zone NA-1, from Palgrave Point in the west to Gam) is authorised by the EU for the export of matured and de-boned beef, sheep and game ungulates.\n\nHowever, due to an outbreak of FMD confirmed on 23 September 2026 in the region of ǁKharas, part of zone NA-1, the EU has suspended imports of fresh meat and biltong/jerky type processed meat from this zone (Regulation 2021/404 , Annexes XIII and Annex XV (Section B)).\n\nNamibia may continue to export to the EU processed meat from beef, sheep, and wild game (Regulation 2021/404 , Annex XV (Section B)) provided it has undergone risk-mitigating treatment B: treatment in a hermetically sealed container to a F o value of three or more (Regulation 2020/692 , Annex XXVI).",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32020R0692"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602238",
-  "detail_fetched_at": "2026-10-21T11:06:17.850356+00:00",
+  "detail_fetched_at": "2026-10-22T11:06:26.801918+00:00",
   "title_fr": "Pied et bouche : suspension de viande fraîche et de biltong/saccadé de Namibie",
   "summary_fr": "L'UE suspend les importations de viande fraîche et de biltong/saccadé en provenance de Namibie",
   "impacted_products_fr": "Bœuf, mouton, ongulés de gibier, type biltong/saccadé",
-  "translated_at": "2026-10-21T11:06:21.049618+00:00"
+  "translated_at": "2026-10-22T11:06:30.169762+00:00"
 }
