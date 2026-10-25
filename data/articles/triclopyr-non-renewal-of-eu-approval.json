@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticides"
   ],
-  "fetched_at": "2026-10-24T10:14:00.900177+00:00",
+  "fetched_at": "2026-10-25T10:38:54.435386+00:00",
   "update": "The European Commission has informed the World Trade Organization Technical Barriers to Trade (WTO TBT) Committee that it does not intend to renew approval of the active substance triclopyr ( G/TBT/N/EU/1247 ). This is due to concerns about risks to “residential children” (children who live near agricultural areas where plant protection products are applied), mammals, and non-target arthropods. EU Member States will have to withdraw authorisations for products containing triclopyr. It is likely that the maximum residue levels (MRLs) for triclopyr will be reduced to the limit of determination (LOD, the lowest level that can be detected using the most modern and reliable analytical methods) in 2027. There will be potential impacts on exporters of citrus fruits, apples, pears, apricots and peaches, kiwi fruits, rice, and products of animal origin.",
   "impacted_products": "Oranges, lemons, mandarins, apples, pears, apricots and peaches, kiwi fruits, rice, and products of animal origin.",
   "what_changing": "The European Commission does not intend to renew its approval for the active substance triclopyr. European farmers will no longer be able to use products containing this substance.",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2011/540/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2011/540/oj/eng",
-  "detail_fetched_at": "2026-10-24T10:14:11.274414+00:00",
+  "detail_fetched_at": "2026-10-25T10:39:06.446382+00:00",
   "title_fr": "Triclopyr : non-renouvellement de l'approbation de l'UE",
   "summary_fr": "L'UE propose de ne pas renouveler l'approbation du triclopyr, ce qui aura un impact sur les exportateurs de certains fruits, riz et produits d'origine animale…",
   "impacted_products_fr": "Oranges, citrons, mandarines, pommes, poires, abricots et pêches, kiwis, riz et produits d'origine animale.",
-  "translated_at": "2026-10-24T10:14:14.654039+00:00"
+  "translated_at": "2026-10-25T10:39:10.069467+00:00"
 }
