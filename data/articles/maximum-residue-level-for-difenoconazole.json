@@ -9,7 +9,7 @@
   "tags": [
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-10-27T11:33:10.395754+00:00",
+  "fetched_at": "2026-10-28T12:03:18.443345+00:00",
   "update": "The European Union (EU) has updated the maximum residue levels (MRLs) for difenoconazole. For some products where there is not enough data available to rule out risks to consumers, the MRLs have been lowered to the limit of determination (LOD). (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)\n\nFor other products, MRLs based on Codex Amimentarius MRLs have been set following an evaluation that raised no consumer safety concerns.",
   "impacted_products": "Almonds, Brazil nuts, cashew nuts, chestnuts, coconuts, hazelnuts/cobnuts, macadamias, pecans, pine kernels, pistachios, walnuts, apples, pears, quinces, medlars, loquats/Japanese medlars, cherries (sweet), plums, cranberries, azaroles/Mediterranean medlars, currants, dewberries, elderberries, gooseberries, rose hips, mulberries, American persimmons/Virginia kaki, carambolas, dates, figs, jambuls/jambolans, litchis/lychees, star apples/cainitos, kaki/Japanese persimmons, mangoes, papayas, breadfruits, cherimoyas, durians, granate apples/pomegranates, pineapples, soursops/guanabanas, guavas, passionfruits/maracujas, potatoes, sweet potatoes, cassava roots/manioc, yams, arrowroots, garlic, onions, shallots, aubergines/eggplants, sweetcorn, broccoli, cauliflowers, Chinese cabbages/pe-tsai, kales, kohlrabies, Roman rocket/rucola, spinaches, purslanes, chards/beet leaves, grape leaves, watercresses, witloofs/Belgian endives, celery leaves, chervil, parsley, basil and edible flowers, beans and peas, lentils, asparagus, cardoons, celeries, bamboo shoots, palm hearts, fungi, mosses and lichens, algae and prokaryotes, lentils, lupins/lupini beans, linseeds, mustard seeds, castor beans, hemp seeds, peanuts/groundnuts, pumpkin seeds, sesame seeds, soyabeans, cotton seeds, borage seeds, oil palm kernels, oil palm fruits, kapok, buckwheat and other pseudocereals, common millet/proso millet, maize/corn, sorghum, rye, wheat, oats, teas, valerian, ginseng, anise/aniseed, black caraway/black cumin, celery, coriander, cumin, dill, fennel, fenugreek, nutmeg, allspice/pimento, Sichuan pepper, caraway, cardamom, juniper berry, peppercorn, vanilla, tamarind, capers, cinnamon, cloves, mace, saffron, liquorice, turmeric/curcuma, sugar canes, beetroots, carrots, horseradishes, Jerusalem artichokes, parsnips, parsley roots/Hamburg root parsley, radishes, salsifies, swedes/rutabagas, turnips, other roots/tubers, celeriac/turnip rooted celeries",
   "what_changing": "The EU has updated the MRLs for difenoconazole as summarised in Table 1.\n\nFor many of the products listed in Table 1 with MRLs above the LOD, the EU plans a further review within 2 years, as the available data on these products is currently limited.",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202590154"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602299",
-  "detail_fetched_at": "2026-10-27T11:33:51.561346+00:00",
+  "detail_fetched_at": "2026-10-28T12:04:02.223257+00:00",
   "title_fr": "Limite maximale de résidus pour le difénoconazole",
   "summary_fr": "Les LMR actualisées de l'UE pour le difénoconazole s'appliqueront à partir du 5 mai 2027 avec un impact particulier sur le cresson …",
   "impacted_products_fr": "Amandes, noix du Brésil, noix de cajou, châtaignes, noix de coco, noisettes/cobnuts, macadamias, noix de pécan, pignons, pistaches, noix, pommes, poires, coings, medlars, loquats/medlars japonais, cerises (s",
-  "translated_at": "2026-10-27T11:33:55.454852+00:00"
+  "translated_at": "2026-10-28T12:04:06.190452+00:00"
 }
