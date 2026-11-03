@@ -3,7 +3,7 @@
   "title": "Upcoming EU regulatory changes and opportunities for feedback: Quarterly report",
   "url": "https://agrinfo.eu/book-of-reports/upcoming-eu-regulatory-changes-and-opportunities-for-feedback/",
   "pub_date": "2023-12-15",
-  "revised_date": "July 24, 2026",
+  "revised_date": "Oct. 29, 2026",
   "regulation": "",
   "summary": "Overview of EU policies and regulations under development where opportunities to provide feedback are expected soon",
   "tags": [
@@ -30,5 +30,26 @@
     "Trade",
     "Trade policy"
   ],
-  "fetched_at": "2026-09-05T12:47:22.240316+00:00"
+  "fetched_at": "2026-11-03T13:34:12.938969+00:00",
+  "update": "For some new policies and laws, the European Union (EU) gives the opportunity to all stakeholders (including those from non-EU countries) to provide their input and feedback. For more information on the EU consultation process, see How to provide feedback on upcoming EU policies and regulations – explained . Upcoming (expected) consultations so far announced in 2026 and 2027 are listed here. For live consultations, see AGRINFO’s Ongoing Consultations webpage.",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "",
+  "timeline": "",
+  "actions": "Keep track of the “Have your say” timelines listed in this record, which the EU updates on a regular basis. Also monitor the AGRINFO list of Ongoing Consultations , which gives an up-to-date list of live consultations relevant to the agri-food sector.\n\nThese consultations are particularly important where rules may affect access to the EU market. Feedback can be more effective if it is accompanied by relevant supporting information and data; when a consultation is highlighted here as upcoming, this is the opportunity to start collecting any information that may be needed.",
+  "background": "The European Commission will be collecting feedback on the new agri-food policies and regulations listed here.\n\nOnce consultations are launched, all stakeholders (competent authorities, trade associations, individual exporters) may provide direct feedback via the EU’s Have your say webpages specific to each proposed law.\n\nParticipating in this process is important, and helps to ensure that the interests of low- and middle-income countries are taken into account when new policies or regulations are developed by the EU.\n\nThese consultations are part of the Commission’s commitment to greater regulatory transparency and are carried out in line with its Better Regulation Guidelines – guidance for preparing new initiatives and proposals, or for managing and evaluating existing legislation.",
+  "resources": "Council of the European Union (2026) Council approves set of measures to support the EU wine sector . Press release, 23 February.\n\nEFSA (2024) Re-evaluation of certain aspects of the EFSA Scientific Opinion of April 2010 on risk assessment of parasites in fishery products, based on new scientific data . Part 1: ToRs1–3. EFSA Journal, 22(4): e8719.\n\nEFSA (2026) Microbiological safety of ungulates meat intended to be frozen and defrosting of frozen ungulates meat . EFSA Journal, 24(1): e9825.\n\nEuropean Commission: Better Regulation",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0492&qid=1718877100298",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02012R0528-20240611",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R1062&qid=1718877351738",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32012R0528&qid=1718877134414",
+    "https://eur-lex.europa.eu/eli/reg_impl/2013/414/oj/eng"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0492&qid=1718877100298",
+  "detail_fetched_at": "2026-11-03T13:34:37.848462+00:00",
+  "title_fr": "Changements réglementaires à venir dans l'UE et possibilités de commentaires : rapport trimestriel",
+  "summary_fr": "Aperçu des politiques et réglementations de l'UE en cours d'élaboration où des opportunités de fournir des commentaires sont attendues bientôt",
+  "translated_at": "2026-11-03T13:34:42.304951+00:00"
 }

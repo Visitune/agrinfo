@@ -1,0 +1,37 @@
+{
+  "id": "public-health-lists-of-countries-that-can-export-animal-products-to-the-eu-mid-2026-update",
+  "title": "Public health lists of countries that can export animal products to the EU – …",
+  "url": "https://agrinfo.eu/book-of-reports/public-health-lists-of-countries-that-can-export-animal-products-to-the-eu-mid-2026-update/",
+  "pub_date": "2026-04-30",
+  "revised_date": "Oct. 29, 2026",
+  "regulation": "2026/2228",
+  "summary": "EU updates its public health list of countries that can export specified animal products to the EU …",
+  "tags": [
+    "Food safety",
+    "Third country lists",
+    "Food safety controls",
+    "Official controls"
+  ],
+  "fetched_at": "2026-11-03T13:34:12.940468+00:00",
+  "update": "The European Union (EU) has updated the list of countries with authorisation to export animal products under the EU public health requirements.\n\nThe following list of key changes focuses on AGRINFO partner countries .",
+  "impacted_products": "Aquaculture, crustaceans, finfish, fish, roes, caviar, eggs",
+  "what_changing": "Countries exporting animal products to the EU must generally be authorised under more than one item of legislation (see Background).\n\nThe European Union has updated the lists of countries that meet its public health requirements for authorisation to export to the EU (Regulation 2021/405 ). The Annexes referenced below all refer to that Regulation.",
+  "why": "The EU updates its list of authorised non-EU countries once or twice a year. For pesticides, contaminants, and veterinary medicines, authorised countries must have food safety systems and residue control plans that are at least equivalent to, and as strict as, those within the EU.\n\nTo remain approved in Annex -I, non-EU countries must send their updated residue control plan for each animal product category every year by 31 March .",
+  "timeline": "The Regulation applies from 4 November 2026 .",
+  "actions": "For an overview of products and the listings required, and a list of actions that competent authorities and exporters should take, see Lists of non-EU countries for public health and animal health – explained .\n\nRegarding the residue control plan, in order to remain listed, each year, by 31 March , non-EU countries exporting animal products to the EU must submit an updated control plan demonstrating that animal products comply with the EU rules on residues of veterinary drugs, contaminants, and pesticides.\n\nThey also must ensure compliance is maintained in order to remain listed in relation to public health, antimicrobials and, when relevant, animal health.",
+  "background": "The European Union has strict rules on the public health requirements for products of animal origin entering the EU.\n\nThe Official Controls Regulation 2017/625 lays down the framework for the official controls that competent authorities have to perform at any stage of production, processing, and distribution.\n\nRegulation 2022/2292 supplements the Official Controls Regulation regarding the public health requirements for exports to the EU. Countries wishing to export animal products to the EU must comply with the EU public health requirements.\n\nNon-EU exporting countries must be authorised to export in the relevant lists, depending on the species (see Lists of non-EU countries for public health and animal health – explained ).",
+  "resources": "Online resources from the European Commission: EU entry conditions Guidelines on EU requirements for entry of animals and products of animal origin Establishment Lists Products of animal origin for human consumption Welcome to Access2Markets to Trade Helpdesk users The procedure for non-EU countries to apply for listing is described at the end of the following factsheets: European Union import conditions for poultry and poultry products EU import conditions for fresh meat and meat products EU import conditions for seafood and other fishery products",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602228",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02021R0405-20261104",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32017R0625",
+    "https://eur-lex.europa.eu/eli/reg_del/2022/2292/oj"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602228",
+  "detail_fetched_at": "2026-11-03T13:35:00.130002+00:00",
+  "title_fr": "Listes de santé publique des pays pouvant exporter des produits d'origine animale vers l'UE – …",
+  "summary_fr": "L'UE met à jour sa liste de santé publique des pays qui peuvent exporter des produits animaux spécifiés vers l'UE …",
+  "impacted_products_fr": "Aquaculture, crustacés, poissons, poissons, œufs, caviar, œufs",
+  "translated_at": "2026-11-03T13:35:06.605182+00:00"
+}

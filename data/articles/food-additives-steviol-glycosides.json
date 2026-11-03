@@ -1,0 +1,36 @@
+{
+  "id": "food-additives-steviol-glycosides",
+  "title": "Food additives: Steviol glycosides",
+  "url": "https://agrinfo.eu/book-of-reports/food-additives-steviol-glycosides/",
+  "pub_date": "2025-04-04",
+  "revised_date": "Oct. 30, 2026",
+  "regulation": "2025/652, 2026/2309",
+  "summary": "EU updates its production specification for the steviol glycoside sweetener rebaudioside M, allowing the use of specific …",
+  "tags": [
+    "Food additives",
+    "Food safety"
+  ],
+  "fetched_at": "2026-11-03T13:34:12.937210+00:00",
+  "update": "The European Union (EU) has updated the specifications for rebaudioside M (E 960c(ii)), a sweetener, to allow its production using enzymes produced by the genetically modified (GM) yeast strain K. phaffii CGMCC 7539.",
+  "impacted_products": "Sweeteners (steviol)",
+  "what_changing": "",
+  "why": "The European Food Safety Authority has concluded that there is no safety concern related to rebaudioside M produced using enzymes from the genetically modified yeast strain K. phaffii CGMCC 7539 ( EFSA 2025 ).",
+  "timeline": "This authorisation of rebaudioside M produced using enzymes from the GM yeast strain K. phaffii CGMCC 7539 applies from 8 November 2026 .",
+  "actions": "",
+  "background": "The EU approves food additives and sets out their conditions of use. The list of approved food additives can be updated on request by the EU, or following an application.\n\nSteviol glycosides obtained by four different manufacturing processes are regulated in combination as food additives (Regulation 1333/2008 , Annex II, Part C) with maximum limits expressed as steviol equivalents. The other authorised steviol glycosides are:\n\nsteviol glycosides from Stevia (E 960a) steviol glycosides from fermentation (E 960b) enzymatically produced steviol glycosides (E 960c) glucosylated steviol glycosides (E 960d).\n\nFor the most recently updated list of approved food additives and conditions of use, see Regulation 1333/2008 : click on the date that follows “Current consolidated version”.",
+  "resources": "EFSA (2023) Safety evaluation of the food additive steviol glycosides, predominantly Rebaudioside M, produced by fermentation using Yarrowia lipolytica VRM . EFSA Journal, 21: e8387. EFSA (2025) Safety of the proposed amendment of the specifications of the food additive E960c(i) or E960c(ii) . EFSA Journal, 23(5): 9396. Regulation 1331/2008 establishing a common authorisation procedure for food additives, food enzymes and food flavourings Regulation 1333/2008 on food additives",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602309",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500652",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R0447&qid=1686553698278",
+    "https://eur-lex.europa.eu/eli/reg/2008/1333/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32008R1333&qid=1717058865832"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602309",
+  "detail_fetched_at": "2026-11-03T13:34:16.285059+00:00",
+  "title_fr": "Additifs alimentaires : glycosides de stéviol",
+  "summary_fr": "L'UE met à jour sa spécification de production pour l'édulcorant stéviol glycoside rebaudioside M, permettant l'utilisation de …",
+  "impacted_products_fr": "Édulcorants (stéviol)",
+  "translated_at": "2026-11-03T13:34:22.526889+00:00"
+}
