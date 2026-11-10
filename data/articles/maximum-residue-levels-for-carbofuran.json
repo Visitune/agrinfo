@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-carbofuran",
+  "title": "Maximum residue levels for carbofuran",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-carbofuran/",
+  "pub_date": "2026-03-09",
+  "revised_date": "Oct. 28, 2026",
+  "regulation": "",
+  "summary": "EU to lower MRL for carbofuran in cotton seeds to limit of determination",
+  "tags": [
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-10T14:16:11.183157+00:00",
+  "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for carbofuran on cotton seeds to the limit of determination (LOD). (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "impacted_products": "Cotton seeds",
+  "what_changing": "The EU will lower the MRL for carbofuran on cotton seeds from 0.1 mg/kg to the LOD (0.02 mg/kg).",
+  "why": "Where pesticides are no longer approved in the EU, MRLs are reduced to the LOD unless there are MRLs set by Codex Alimentarius (CXLs) or requests for import tolerances that have been evaluated to be safe by the European Food Safety Authority ( EFSA 2025 ). Carbofuran is not approved in the EU and the existing CXL for cotton seeds was revoked in 2024.",
+  "timeline": "The new MRL is expected to apply from July 2027 .",
+  "actions": "Suppliers to the EU market of cotton seeds should look for alternative chemical and non-chemical solutions to the use of carbofuran.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe EU takes into account Codex MRLs (CXLs) established by Codex Alimentarius. In November 2024, the Codex Alimentarius Commission revoked some CXLs for the active substance carbofuran ( EFSA 2025 ).",
+  "resources": "EFSA (2025) Assessment of fall-back MRLs for revoked CXLs previously implemented in the EU legislation . EFSA Journal, 23(3): e9299.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-10T14:16:55.062015+00:00",
+  "title_fr": "Teneurs maximales en résidus pour le carbofurane",
+  "summary_fr": "L'UE abaisse la LMR pour le carbofurane dans les graines de coton à la limite de détermination",
+  "impacted_products_fr": "Graines de coton",
+  "translated_at": "2026-11-10T14:16:58.627217+00:00"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "maximum-residue-levels-for-imazalil",
+  "title": "Maximum residue levels for imazalil",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-imazalil/",
+  "pub_date": "2026-02-20",
+  "revised_date": "Oct. 28, 2026",
+  "regulation": "",
+  "summary": "EU to increase MRLs for imazalil on bananas and citrus fruits; and decrease MRLs on courgettes, cucumbers, …",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-10T14:16:11.183499+00:00",
+  "update": "The European Union (EU) will increase the maximum residue levels (MRLs) for imazalil on bananas and citrus fruits. It will also reduce the MRL for imazalil on melons to the limit of determination (LOD, the lowest level that can be detected using the most modern and reliable analytical methods), with more minor reductions to the MRLs on courgettes, cucumbers, and gherkins.",
+  "impacted_products": "Bananas, grapefruits, oranges, lemons, limes, mandarins, other citrus fruits, courgettes, cucumbers, gherkins, melons",
+  "what_changing": "The EU will amend the MRLs for imazalil as summarised in Table 1.",
+  "why": "The European Food Safety Authority (EFSA) has recommended increasing the MRL for imazalil on citrus fruits to 7 mg/kg, as it did not identify any risk for consumers ( EFSA 2025 ). In this evaluation, EFSA also recommended increasing the MRL on bananas to 3 mg/kg in line with the Codex MRL (CXL) adopted in July 2019. A good agricultural practice (GAP) for melons submitted for review was not sufficiently supported by data, and no import tolerance has been assessed for this product.\n\nFollowing a request to modify the MRLs for cucumbers, courgettes, and gherkins, EFSA (2023) proposed MRLs that are safe for consumers.",
+  "timeline": "The proposed new MRLs are expected to apply from July 2027 .",
+  "actions": "Suppliers of melons to the EU market should explore alternative chemical and non-chemical solutions to the use of imazalil. Suppliers of cucumbers, courgettes, and gherkins should review their use of imazalil and assess whether any changes will be needed to existing GAPs to ensure compliance with the new MRLs.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe EU takes into account CXLs established by Codex Alimentarius, but will set different MRLs where it considers that a CXL will not give adequate protection to consumers.",
+  "resources": "Draft Commission Regulation amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for carbofuran, imazalil, mandipropamid, propaquizafop, quizalofop-P-ethyl and quizalofop-P-tefuryl in or on certain products Draft Annex (PLAN/2025/2832)",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-10T14:16:59.451485+00:00",
+  "title_fr": "Limites maximales de résidus pour l'imazalil",
+  "summary_fr": "L'UE augmentera les LMR pour l'imazalil sur les bananes et les agrumes ; et diminuera les LMR sur les courgettes, les concombres, …",
+  "impacted_products_fr": "Bananes, pamplemousses, oranges, citrons, citrons verts, mandarines, autres agrumes, courgettes, concombres, cornichons, melons",
+  "translated_at": "2026-11-10T14:17:03.026403+00:00"
+}

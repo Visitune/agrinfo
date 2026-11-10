@@ -1,0 +1,33 @@
+{
+  "id": "maximum-residue-levels-for-mandipropamid",
+  "title": "Maximum residue levels for mandipropamid",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-mandipropamid/",
+  "pub_date": "2023-06-29",
+  "revised_date": "Oct. 28, 2026",
+  "regulation": "2023/1069, 2024/344, 2024/2633",
+  "summary": "EU to lower MRLs for mandipropamid on sweet peppers and melons in line with Codex standards",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-10T14:16:11.183844+00:00",
+  "update": "The European Union (EU) will lower the maximum residue levels (MRLs) for mandipropamid on sweet peppers and melons.",
+  "impacted_products": "Sweet peppers, melons",
+  "what_changing": "The EU will lower the MRLs for mandipropamid on sweet peppers from 1 to 0.7 mg/kg, and on melons from 0.5 to 0.4 mg/kg.\n\nThis follows MRL increases for mandipropamid on gherkins, pumpkins, watermelons and radish leaves in October 2024, as summarised in Table 1.",
+  "why": "The MRLs for sweet peppers and melons are aligned with Codex Alimentarius Commission maximum residue limits (CXLs) for mandipropamid on these products, and with a view to setting MRLs at levels as low as reasonably achievable. The European Food Safety Authority ( EFSA 2023a ) did not identify risks to consumers at these levels.",
+  "timeline": "The new MRLs for sweet peppers and melons are expected to apply from July 2027 .\n\nThe MRLs on gherkins, pumpkins, watermelons, and radish leaves have applied since 29 October 2024.",
+  "actions": "To ensure compliance with the new MRLs, suppliers of sweet peppers and melons should review their use of mandipropamid and assess where changes will be needed to existing good agricultural practices (GAPs).",
+  "background": "In October 2024, the EU raised the MRL on gherkins from 0.01 to 0.2 mg/kg; and on pumpkins and watermelons from 0.3 to 0.4 mg/kg, based on new CXLs. The MRL on radish leaves was raised from 25 to 50 mg/kg after a request for modification of the MRL and after EFSA ( 2023b ) concluded that the modification was acceptable for consumer safety.\n\nMRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nFor further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
+  "resources": "Commission Regulation (EU) 2024/2633 as regards maximum residue levels for azoxystrobin, famoxadone, flutriafol, mandipropamid and mefentrifluconazole in or on certain products EFSA (2023a) Scientific support for preparing an EU position in the 54th Session of the Codex Committee on Pesticide Residues (CCPR) . EFSA Journal, 21(8): e08111. EFSA (2023b) Modification of the existing maximum residue level for mandipropamid in radish leaves . EFSA Journal, 21(12): e8421.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2633"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-10T14:17:03.683865+00:00",
+  "title_fr": "Limites maximales de résidus pour le mandipropamide",
+  "summary_fr": "L'UE abaisse les LMR pour le mandipropamide sur les poivrons doux et les melons conformément aux normes du Codex",
+  "impacted_products_fr": "Poivrons doux, melons",
+  "translated_at": "2026-11-10T14:17:06.871285+00:00"
+}
