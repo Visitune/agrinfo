@@ -10,7 +10,7 @@
     "Animal byproducts",
     "Contaminants"
   ],
-  "fetched_at": "2026-11-11T13:29:44.334210+00:00",
+  "fetched_at": "2026-11-12T14:33:55.195192+00:00",
   "update": "The European Commission recommends that European Union (EU) Member States should work with farmers and feed business operators to monitor nitrate and nitrite levels in animal feed.\n\nConcerns have been raised that these substances, which may be present in forage, roughage, and products or by-products from sugar beet, sugarcane, starch, and alcoholic drink production, could cause health problems in animals. More data are needed to understand these risks better.\n\nThe Commission’s Recommendation does not introduce new legal maximum levels for nitrate and nitrite in animal feed. Instead, it proposes good practices and guidance that includes the following.\n\nNitrate in water: limit nitrate levels to 200 mg/l in water used for animals to drink or for feed production. Nitrate in feed: avoid giving pregnant animals feed containing more than 4,000 mg/kg of nitrates. For other animals, limit the amount of this feed. These levels are based on feed containing 12% moisture. Nitrite in feed: limit nitrite levels to 200 mg/kg, expressed as sodium nitrite (NaNO 2 ). This level is based on feed containing 12% moisture.",
   "impacted_products": "Feed for farmed animals",
   "what_changing": "This Commission Recommendation aims to encourage EU authorities, farmers, and the feed industry to collect information about the presence of nitrate and nitrite in feed (from forages and roughages, sugar beet/sugarcane products and by-products, starch and alcoholic drink production).\n\nThe data collected will support the European Food Safety Authority (EFSA) in future risk assessments and possible future regulations.\n\nThe Recommendation does not introduce new maximum levels for nitrate and nitrite in feed. It does recommend good practices and principles, set out in the Annex, to reduce nitrate and nitrite in feed and animal exposure to these substances. These include:\n\nharvesting plants close to maturity and raising the cutter head (to reduce the presence of nitrates that are found in the bottom part of the stalks) feeding animals with silage limiting the level of nitrates in water used for drinking by animals or manufacturing feed to 200 mg/l avoiding giving pregnant animals feed that contains more than 4,000 mg/kg nitrates (where the feed has a 12% moisture content), and limiting the amount of this feed given to other animals not using feed containing more than 200 mg/kg nitrite as sodium nitrite (NaNO 2) (relative to a feed with a moisture content of 12%).",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02002L0032-20191128"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reco/2026/2297/oj/eng",
-  "detail_fetched_at": "2026-11-11T13:30:24.572174+00:00",
+  "detail_fetched_at": "2026-11-12T14:35:05.509897+00:00",
   "title_fr": "Nitrates et nitrites dans les aliments pour animaux",
   "summary_fr": "La Commission européenne recommande la surveillance des nitrates et des nitrites dans les aliments pour animaux",
-  "impacted_products_fr": "Aliments pour animaux d'élevage",
-  "translated_at": "2026-11-11T13:30:27.665714+00:00"
+  "impacted_products_fr": "Aliments pour animaux d’élevage",
+  "translated_at": "2026-11-12T14:35:09.443182+00:00"
 }

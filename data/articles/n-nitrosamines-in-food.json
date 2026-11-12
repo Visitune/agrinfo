@@ -9,7 +9,7 @@
   "tags": [
     "Contaminants"
   ],
-  "fetched_at": "2026-11-11T13:29:43.573458+00:00",
+  "fetched_at": "2026-11-12T14:33:54.320317+00:00",
   "update": "The European Commission has published a Recommendation that European Union (EU) authorities and food business operators should monitor N-nitrosamines in food. The European Food Safety Authority has identified the presence of these substances in foods as a potential health concern. However, more data is needed, particularly on the presence of N-nitrosamines in processed meats, alcoholic beverages, processed vegetables and cereals, milk and dairy products, and fermented, pickled, and spiced foods. This data will help the EU to identify measures that can reduce this risk.",
   "impacted_products": "Cured meats, processed fish, alcoholic beverages. processed vegetables, processed cereals, milk and dairy products, fermented foods, pickled foods, spiced foods",
   "what_changing": "The European Commission is calling on EU Member States, in cooperation with the food industry, to monitor the presence of N-nitrosamines in food (Recommendation 2026/2329 ).\n\nMonitoring of N-nitrosamines, or at least the 10 carcinogenic N-nitrosamines identified by EFSA, is recommended for the following food categories:\n\ncured meat products and processed fish alcoholic beverages processed vegetables and cereals milk and dairy products fermented, pickled, and spiced foods.\n\nDetails on the analysis of N-nitrosamines can be found in the Background section below.\n\nFactors that contribute to high N-nitrosamine levels should also be identified, with a view to developing measures that prevent or reduce contamination.\n\nMonitoring results should be submitted to the European Food Safety Authority (EFSA) by Member State authorities and the food industry. This should include information on whether nitrates (E251–E252) or nitrites (E249–E250) were used as additives in processed meats and other processed foods.\n\nThis Recommendation does not establish new legal maximum levels for N-nitrosamines in food.",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602329"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602329",
-  "detail_fetched_at": "2026-11-11T13:29:59.234438+00:00",
+  "detail_fetched_at": "2026-11-12T14:34:45.481858+00:00",
   "title_fr": "N-nitrosamines dans les aliments",
-  "summary_fr": "La Commission européenne recommande que les entreprises alimentaires et les autorités compétentes des pays exportateurs surveillent régulièrement la présence …",
-  "impacted_products_fr": "Viandes salées, poissons transformés, boissons alcoolisées. légumes transformés, céréales transformées, lait et produits laitiers, aliments fermentés, aliments marinés, aliments épicés",
-  "translated_at": "2026-11-11T13:30:02.555048+00:00"
+  "summary_fr": "La Commission européenne recommande aux entreprises du secteur alimentaire et aux autorités compétentes des pays exportateurs de surveiller régulièrement la présence…",
+  "impacted_products_fr": "Viandes séchées, poissons transformés, boissons alcoolisées, légumes transformés, céréales transformées, lait et produits laitiers, aliments fermentés, aliments marinés, aliments épicés",
+  "translated_at": "2026-11-12T14:34:50.134066+00:00"
 }
