@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-11T13:29:44.335099+00:00",
+  "fetched_at": "2026-11-13T13:52:30.188233+00:00",
   "update": "The European Union (EU) will lower the maximum residue levels (MRLs) for mandipropamid on sweet peppers and melons.",
   "impacted_products": "Sweet peppers, melons",
   "what_changing": "The EU will lower the MRLs for mandipropamid on sweet peppers from 1 to 0.7 mg/kg, and on melons from 0.5 to 0.4 mg/kg.\n\nThis follows MRL increases for mandipropamid on gherkins, pumpkins, watermelons and radish leaves in October 2024, as summarised in Table 1.",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2633"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-11T13:30:32.216287+00:00",
+  "detail_fetched_at": "2026-11-13T13:53:16.427703+00:00",
   "title_fr": "Limites maximales de résidus pour le mandipropamide",
-  "summary_fr": "L'UE abaisse les LMR pour le mandipropamide sur les poivrons doux et les melons conformément aux normes du Codex",
+  "summary_fr": "L'UE va abaisser les LMR pour le mandipropamide sur les poivrons doux et les melons, conformément aux normes du Codex",
   "impacted_products_fr": "Poivrons doux, melons",
-  "translated_at": "2026-11-11T13:30:35.260628+00:00"
+  "translated_at": "2026-11-13T13:53:20.065866+00:00"
 }

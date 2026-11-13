@@ -9,7 +9,7 @@
   "tags": [
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-12T14:33:55.195509+00:00",
+  "fetched_at": "2026-11-13T13:52:30.188757+00:00",
   "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for carbofuran on cotton seeds to the limit of determination (LOD). (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
   "impacted_products": "Cotton seeds",
   "what_changing": "The EU will lower the MRL for carbofuran on cotton seeds from 0.1 mg/kg to the LOD (0.02 mg/kg).",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-12T14:35:09.979436+00:00",
+  "detail_fetched_at": "2026-11-13T13:53:20.457900+00:00",
   "title_fr": "Limites maximales de résidus pour le carbofurane",
   "summary_fr": "L'UE va abaisser la LMR du carbofurane dans les graines de coton au seuil de détermination",
   "impacted_products_fr": "Graines de coton",
-  "translated_at": "2026-11-12T14:35:13.381743+00:00"
+  "translated_at": "2026-11-13T13:53:23.452368+00:00"
 }
