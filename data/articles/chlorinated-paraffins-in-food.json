@@ -9,7 +9,7 @@
   "tags": [
     "Contaminants"
   ],
-  "fetched_at": "2026-11-13T13:52:29.587672+00:00",
+  "fetched_at": "2026-11-14T12:55:50.314371+00:00",
   "update": "The European Commission recommends that European Union (EU) Member State authorities and the food industry should monitor chlorinated paraffins in food from 2026 to 2029.\n\nThe monitoring will cover six food categories: fish, dairy products, oils and fats, meat and eggs, processed foods, and baby food. Testing will first measure short- and medium-chain chlorinated paraffins. More detailed testing will be required if their levels exceed the thresholds set out in Table 1.\n\nThese thresholds are not legal limits, so food containing levels above them will not automatically be considered unsafe or removed from the market. The aim is to collect data to help the European Food Safety Authority (EFSA) to assess the risks of chlorinated paraffins.",
   "impacted_products": "Fish, milk and dairy products, vegetable and animal oils and fats, other products of animal origin (e.g. meat, eggs), processed foods (whole meals), baby food",
   "what_changing": "The European Commission has published a Recommendation to EU Member States and the food industry to monitor the presence of chlorinated paraffins in food during 2026–2029.\n\nThe monitoring covers six food categories: fish; milk and dairy products; vegetable and animal oils and fats; other products of animal origin (including meat and eggs); processed foods (whole meals); and baby food.\n\nMonitoring will initially focus on the sum of short- and medium-chain chlorinated paraffins (C10–C17). Where the chlorinated paraffin content exceeds the thresholds set out in Table 1, detailed testing should be carried out to measure all chlorinated paraffins, including long-chain compounds (C18–C30).\n\nThese thresholds are not legal maximum levels. Food found to exceed these thresholds will not be considered non-compliant and will not be removed from the EU market. The aim is to gather data that will support EFSA’s risk assessment of chlorinated paraffins.",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602335"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602335",
-  "detail_fetched_at": "2026-11-13T13:52:54.133718+00:00",
+  "detail_fetched_at": "2026-11-14T12:56:18.572815+00:00",
   "title_fr": "Paraffines chlorées dans les aliments",
   "summary_fr": "La Commission européenne recommande aux autorités des États membres de l'UE et à l'industrie alimentaire de surveiller la présence de…",
   "impacted_products_fr": "Poisson, lait et produits laitiers, huiles et graisses végétales et animales, autres produits d'origine animale (par exemple, viande, œufs), aliments transformés (repas complets), aliments pour bébés",
-  "translated_at": "2026-11-13T13:52:57.835497+00:00"
+  "translated_at": "2026-11-14T12:56:21.983701+00:00"
 }
