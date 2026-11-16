@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-level-for-ethofumesate",
+  "title": "Maximum residue level for ethofumesate",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-level-for-ethofumesate/",
+  "pub_date": "2026-11-06",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU to increase ethofumesate MRL on carrots",
+  "tags": [
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-16T14:40:12.812118+00:00",
+  "update": "The European Union (EU) will raise the maximum residue level (MRL) for ethofumesate on carrots from 0.03 to 0.1 mg/kg. This follows a positive evaluation of safety for consumers by the European Food Safety Authority.",
+  "impacted_products": "carrots",
+  "what_changing": "The EU will increase the MRL for ethofumesate on carrots from 0.03 (the limit of determination, LOD) to 0.1 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "why": "Following an application for a change of MRLs by the producer of ethofumesate, the European Food Safety Authority has concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2026 ).",
+  "timeline": "The new MRL is expected to apply from early 2027.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
+  "resources": "EFSA (2026) Modification of the existing maximum residue level for ethofumesate in carrots . EFSA Journal, 24(7): e10188.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-16T14:40:27.028744+00:00",
+  "title_fr": "Limite maximale de résidus pour l’éthofumesate",
+  "summary_fr": "L'UE va augmenter la LMR d'éthofumesate sur les carottes",
+  "impacted_products_fr": "carottes",
+  "translated_at": "2026-11-16T14:40:30.810678+00:00"
+}

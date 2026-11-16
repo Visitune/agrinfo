@@ -1,0 +1,33 @@
+{
+  "id": "maximum-residue-levels-for-cycloxydim",
+  "title": "Maximum residue levels for cycloxydim",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-cycloxydim/",
+  "pub_date": "2022-11-30",
+  "revised_date": "Nov. 5, 2026",
+  "regulation": "2025/581",
+  "summary": "EU to increase MRL for cycloxydim in honey from early 2027",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-16T14:40:12.812452+00:00",
+  "update": "The European Union (EU) will increase the maximum residue level (MRL) for cycloxydim in honey from 0.05 to 0.6 mg/kg. This follows a positive evaluation of its safety for consumers by the European Food Safety Authority.",
+  "impacted_products": "Honey and other apiculture products",
+  "what_changing": "The EU will increase the MRL for cycloxydim in honey from 0.05 (the limit of determination, LOD) to 0.6 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "why": "Following an application for a change of MRL by the producer of cycloxydim, the European Food Safety Authority concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2026 ).",
+  "timeline": "The new MRL in honey is expected to apply from early 2027 .\n\nThe MRLs in Table 1 apply from 17 April 2025.",
+  "actions": "",
+  "background": "In April 2025, the EU increased the MRLs for cycloxydim on pome fruits, peas, maize, and sugar beet roots as shown in Table 1, following a positive evaluation of their safety for consumers ( EFSA 2024 ).\n\nMRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
+  "resources": "EFSA (2024) Modification of the existing maximum residue levels for cycloxydim in various crops . EFSA Journal, 22(9): e8996 EFSA (2026) Modification of the existing maximum residue level for cycloxydim in honey . EFSA Journal, 24(5): e10093 Commission Regulation (EU) 2025/581 as regards maximum residue levels for cycloxydim, dichlorprop-P, flupyradifurone, methyl nonyl ketone, plant oils/citronella oil, potassium sorbate and potassium phosphonate in or on certain products",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+    "https://eur-lex.europa.eu/eli/reg/2025/581/oj"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-16T14:40:31.599132+00:00",
+  "title_fr": "Limites maximales de résidus pour le cycloxydime",
+  "summary_fr": "L'UE va augmenter la LMR du cycloxydime dans le miel à partir du début de 2027",
+  "impacted_products_fr": "MIEL ET AUTRES PRODUITS DE L' APICULTURE",
+  "translated_at": "2026-11-16T14:40:35.465335+00:00"
+}
