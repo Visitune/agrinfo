@@ -1,0 +1,34 @@
+{
+  "id": "maximum-residue-levels-for-acetamiprid",
+  "title": "Maximum residue levels for acetamiprid",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-acetamiprid/",
+  "pub_date": "2024-07-22",
+  "revised_date": "Oct. 30, 2026",
+  "regulation": "2025/158, 2025/1212, 2026/876",
+  "summary": "EU to increase acetamiprid MRLs for plums, soyabeans, parsley, rosemary, basil and edible flowers from early 2027",
+  "tags": [
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-17T15:27:26.240737+00:00",
+  "update": "The European Union (EU) will increase the maximum residue levels (MRLs) for acetamiprid on plums, soyabeans, parsley, rosemary, basil and edible flowers.",
+  "impacted_products": "Apples, pears, quinces, medlars, apricots, cherries, peaches, plums, table grapes, wine grapes, blackberries, raspberries (red, yellow), blueberries, cranberries, gooseberries (green, red, yellow), currants (black, red, white), elderberries, table olives, bananas, tomatoes, sweet peppers/bell peppers, cucumbers, courgettes, melons, pumpkins, watermelons, broccoli, cauliflowers, head cabbages, lamb’s lettuces/corn salads, Roman rocket/ rucola, lettuces, escaroles/broad-leaved endives, red mustards, spinaches, chards/beet leaves, asparagus, poppy seeds, mustard seeds, gold of pleasure seeds, soyabeans, bovine liver, bovine edible offals (other than liver and kidney), honey, plums, soyabeans, parsley, rosemary, basil and edible flowers",
+  "what_changing": "The European Union (EU) will increase the maximum residue level (MRL) for acetamiprid on plums, soyabeans, parsley, rosemary, basil and edible flowers as summarised in Table 1.\n\nThis follows previous MRL changes made in January 2025 (Regulation 2025/158 ), June 2025 (Regulation 2025/1212 ), and April 2026 (Regulation (EU) 2026/876 ). These changes are summarised in Table 2.",
+  "why": "Following an application to modify the existing MRLs for these six food commodities, the European Food Safety Authority concluded the MRLs proposed for plums, soyabeans, parsley, rosemary, basil and edible flowers would not pose a risk for consumers ( EFSA 2025 ).",
+  "timeline": "The new MRLs in Table 1 are expected to apply from early 2027 .\n\nThe application dates for previous MRL changes are shown in Table 2.",
+  "actions": "",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
+  "resources": "EFSA (2025) Modification of the existing maximum residue level for acetamiprid in various crops and honey . EFSA Journal, 23(12): e9774. Commission Regulation (EU) 2026/876 as regards maximum residue levels for acetamiprid, aclonifen, deltamethrin, oxathiapiprolin and potassium phosphonates in or on certain products Commission Regulation (EU) 2025/1212 as regards maximum residue levels for acetamiprid in or on certain products Commission Regulation (EU) 2025/158 as regards maximum residue levels for acetamiprid in or on certain products",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500158",
+    "https://eur-lex.europa.eu/eli/reg/2025/1212/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600876",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500158",
+  "detail_fetched_at": "2026-11-17T15:27:55.254738+00:00",
+  "title_fr": "Limites maximales de résidus pour l’acétamipride",
+  "summary_fr": "L’UE va augmenter les LMR d’acétamipride pour les prunes, le soja, le persil, le romarin, le basilic et les fleurs comestibles à partir du début de 2027",
+  "impacted_products_fr": "Pommes, poires, coings, néflier, abricots, cerises, pêches, prunes, raisins de table, raisins de cuve, mûres, framboises (rouges, jaunes), myrtilles, canneberges, groseilles à maquereau (vertes, rouges, jaunes),",
+  "translated_at": "2026-11-17T15:28:00.313460+00:00"
+}
