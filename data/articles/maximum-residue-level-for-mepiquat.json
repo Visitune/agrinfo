@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-17T15:27:26.238187+00:00",
+  "fetched_at": "2026-11-18T15:01:54.520965+00:00",
   "update": "The European Union (EU) will increase the maximum residue level (MRL) for mepiquat in honey from 0.05 to 1.5 mg/kg.",
   "impacted_products": "Honey and other apiculture products",
   "what_changing": "The EU will increase the maximum residue level (MRL) for mepiquat in honey from 0.05 (the limit of determination, LOD) to 1.5 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1164&qid=1759228094951",
-  "detail_fetched_at": "2026-11-17T15:27:29.543187+00:00",
+  "detail_fetched_at": "2026-11-18T15:01:58.179434+00:00",
   "title_fr": "Limite maximale de résidus pour le mépiquat",
-  "summary_fr": "L'UE va augmenter la LMR de mépiquat dans le miel à partir du début de 2027",
+  "summary_fr": "L'UE va augmenter la LMR du mépiquat dans le miel à partir de début 2027",
   "impacted_products_fr": "MIEL ET AUTRES PRODUITS DE L' APICULTURE",
-  "translated_at": "2026-11-17T15:27:33.414669+00:00"
+  "translated_at": "2026-11-18T15:02:03.810981+00:00"
 }
