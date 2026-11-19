@@ -1,0 +1,30 @@
+{
+  "id": "food-contact-materials-authorised-substances",
+  "title": "Food contact materials: authorised substances",
+  "url": "https://agrinfo.eu/book-of-reports/food-contact-materials-authorised-substances/",
+  "pub_date": "2023-02-16",
+  "revised_date": "Nov. 10, 2026",
+  "regulation": "2023/1442, 2025/2240, 2026/24…",
+  "summary": "EU authorises the use of multiple substances in plastic food contact materials from 18 November 2026",
+  "tags": [
+    "Food contact materials"
+  ],
+  "fetched_at": "2026-11-19T15:12:00.117153+00:00",
+  "update": "The European Union (EU) has authorised the use of the following substances in the manufacture of plastic food contact materials (FCM):\n\nchopped carbon fibres from carbonised polyacrylonitrile nano precipitated calcium carbonate, uncoated poly(2-hydroxypropanoic acid), n-octyl/n-decyl esters mixture of 1,9-nonanediamine (NMDA) and 2-methyl-1,8-octanediamine (MODA).\n\nThe authorisations include specifications on how and when these substances may be used.",
+  "impacted_products": "",
+  "what_changing": "",
+  "why": "The authorisation of substances for the manufacture of plastic FCM under Regulation 2026/2412 follows safety evaluations by the European Food Safety Authority (EFSA 2022a , 2022b , 2023 , 2024 ).",
+  "timeline": "The substances newly authorised in Regulation 2026/2412 can be used from 18 November 2026 .",
+  "actions": "Suppliers of packaged food to the EU market should inform packaging suppliers about upcoming changes in the authorised substances listed in Regulation 10/2011 , Annex I.",
+  "background": "Regulation 10/2011 specifies which substances may be used in plastic FCM, and establishes specific migration limits (SML) that limit their presence in food. For substances with no SML or other restrictions in Annex I, a generic SML of 60 mg/kg applies.\n\nThe Regulation also requires that materials and articles comply with specified quality and safety standards, and that they are labelled appropriately. The Regulation applies to all plastic materials and articles intended to come into contact with food, including packaging, containers, and utensils.",
+  "resources": "EFSA (2022a) Scientific Opinion on the safety assessment of the substance chopped carbon fibres, from carbonised polyacrylonitrile, for use in food contact materials . EFSA Journal, 20(1): 7003. EFSA (2022b) Scientific Opinion on the safety assessment of the substance nano precipitated calcium carbonate for use in plastic food contact materials . EFSA Journal, 20(2): 7135. EFSA (2023) Scientific Opinion on the safety assessment of the substance poly(2-hydroxypropanoic acid), n-octyl/n-decyl esters, for use in food contact materials . EFSA Journal, 21(7): 8100. EFSA (2024) Safety assessment of mixtures of 1,9-nonanediamine (NMDA) and 2-methyl-1,8-octanediamine (MODA), for use in food contact materials . EFSA Journal, 22(4): e8703. For scientific opinions on substances that may be used in food contact materials, use the search tool on the EFSA Journal webpage (top right). Regulation (EU) 2025/2240 as regards the transitional measures for plastic materials and articles manufactured with salicylic acid or untreated wood flour or fibres Regulation (EU) 2023/1442 on plastic materials and articles intended to come into contact with food, as regards changes to substance authorisations and addition of new substances Regulation (EC) No 1935/2004 on materials and articles intended to come into contact with food",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/eli/reg/2026/2412/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202600245",
+    "https://eur-lex.europa.eu/eli/reg/2011/10/oj",
+    "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=celex%3A32004R1935"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/2412/oj/eng",
+  "detail_fetched_at": "2026-11-19T15:12:14.822940+00:00"
+}

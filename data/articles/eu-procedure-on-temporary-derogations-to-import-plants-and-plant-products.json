@@ -1,0 +1,32 @@
+{
+  "id": "eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products",
+  "title": "EU procedure on temporary derogations to import plants and plant products",
+  "url": "https://agrinfo.eu/book-of-reports/eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products/",
+  "pub_date": "2026-02-19",
+  "revised_date": "Nov. 16, 2026",
+  "regulation": "2026/1830",
+  "summary": "European Commission sets out procedure for requesting temporary derogations (authorised exemptions) from plant health import bans or …",
+  "tags": [
+    "Exempted plants",
+    "Plant health",
+    "Plant health certification"
+  ],
+  "fetched_at": "2026-11-19T15:12:00.115167+00:00",
+  "update": "The European Union (EU) has standardised the way temporary derogations (authorised exemptions) from plant health import bans or specific import requirements are requested and assessed. Any request for a temporary derogation will have to follow a clearly defined legal and scientific procedure.\n\nAccording to this new procedure, only the National Plant Protection Organisation (NPPO) of the exporting country can submit a request, and it must be supported by a complete technical dossier prepared according to the methodology used by the European Food Safety Authority (EFSA). Informal or simplified requests will no longer be sufficient.\n\nRequests will be assessed using a structured, science-based process. The European Commission will verify the dossier and, where needed, request a scientific risk assessment. A derogation will only be granted if the phytosanitary risk can be reduced to an acceptable level through appropriate measures.\n\nThis change provides more clarity and predictability, but also makes higher technical demands. It will require more preparatory efforts and resources from non-EU exporting countries seeking temporary access to the EU market.\n\nWhen requesting the renewal of a temporary derogation, the Regulation also clarifies that the NPPO only needs to provide information that has changed since the previous assessment, or that was not previously assessed.",
+  "impacted_products": "Plants and plant products",
+  "what_changing": "To maintain plant health, the EU can prohibit plants or plant products from entering the EU market, or impose special requirements on those products. Non-EU countries can request a temporary derogation (authorised exemption) from import prohibitions or special requirements (Regulation 2016/2031 , Arts. 40(1), 40(2), 42a(2)).\n\nThe new Regulation sets out a standardised procedure for requesting and assessing temporary derogations.",
+  "why": "By formalising how requests are submitted and assessed, the EU aims to guarantee that all derogations are based on consistent scientific evidence and comparable risk assessments.",
+  "timeline": "The Regulation applies from 30 November 2026 .",
+  "actions": "Exporters seeking temporary derogations from EU phytosanitary import prohibitions or specific import requirements should coordinate with their NPPO to prepare and submit requests to the EU according to the new procedure.\n\nNPPOs should ensure that requests are supported by reliable pest surveillance data, evidence of effective phytosanitary risk mitigation measures, and a technical dossier prepared in accordance with EFSA guidance. Close cooperation between NPPOs, producers, and exporters will be essential to collect the information needed.",
+  "background": "Under the EU Plant Health Law (Regulation 2016/2031 ), certain plants and plant products are prohibited from entering the EU because they present an unacceptable phytosanitary risk (Art. 40). Other plants and products may be imported, but only if they comply with specific pest-related requirements defined by the EU (Art. 41).\n\nThe Plant Health Law recognises that, in exceptional and justified situations, these prohibitions or requirements may be temporarily lifted. Article 42a allows the EU to grant temporary derogations, provided that the phytosanitary risk is properly assessed and can be effectively managed through appropriate measures.\n\nA review of the first 5 years of the EU Plant Health Law identified the need to clarify, simplify, and harmonise several plant health-related import procedures ( Council of the EU 2024 ). Differences in implementation between EU Member States, administrative burdens, and the absence of clear procedures for issues such as high-risk listings, temporary derogations, and equivalence created uncertainty for both EU authorities and non-EU trading partners. (See Revision of EU Plant Health Law .)",
+  "resources": "Council of the EU (2024) Plant health law: Council and Parliament strike deal to simplify and strengthen current rules . Press release, 5 March. EFSA (2018) Information required for dossiers to support demands for import of high risk plants, plant products and other objects . EFSA supporting publication, EN-1492. EFSA (2019) Guidance on commodity risk assessment for the evaluation of high risk plants dossiers . EFSA Journal, 17(4): e05668. IPPC (2023) Glossary of phytosanitary terms . ISPM 5. International Standards for Phytosanitary Measures. Rome: International Plant Protection Convention. Regulation (EU) 2016/2031 on protective measures against pests of plants (the Plant Health Law).",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601830",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02016R2031-20260706",
+    "https://eur-lex.europa.eu/eli/reg/2016/2031/oj?eliuri=eli%3Areg%3A2016%3A2031%3Aoj&locale=en",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R2031"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601830",
+  "detail_fetched_at": "2026-11-19T15:12:03.828261+00:00"
+}

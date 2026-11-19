@@ -1,0 +1,31 @@
+{
+  "id": "bivalve-molluscs-hygiene-requirements",
+  "title": "Bivalve molluscs: hygiene requirements",
+  "url": "https://agrinfo.eu/book-of-reports/bivalve-molluscs-hygiene-requirements/",
+  "pub_date": "2026-11-09",
+  "revised_date": "",
+  "regulation": "2026/1829",
+  "summary": "EU clarifies hygiene rules for bivalve molluscs, updates its registration document, and sets a mandatory date of …",
+  "tags": [
+    "Food safety",
+    "Hygiene"
+  ],
+  "fetched_at": "2026-11-19T15:12:00.117717+00:00",
+  "update": "The European Union (EU) has introduced the following changes to the hygiene requirements for live bivalve molluscs (Regulation 853/2004 ).\n\nOnly molluscs that are ready to be sold to consumers must have an identification mark; unpurified molluscs sent for purification should not have this identification mark. The registration document required when exporting live molluscs to the EU has been updated, including the information needed and its official format. From 19 November 2028, businesses must use the EU’s online Trade Control and Expert System (TRACES) to issue registration documents. Exporters of molluscs and competent authorities in non-EU countries must take steps to ensure that issuing the registration document through TRACES is possible by that date, after which paper documents will no longer be accepted. The EU has introduced a clear definition of “re-immersion”, which means keeping live molluscs in clean seawater tanks to maintain their condition.",
+  "impacted_products": "Live bivalve molluscs",
+  "what_changing": "The EU has introduced the following changes relating to hygiene requirements for live bivalve molluscs, amending Regulation (EC) No 853/2004 .",
+  "why": "The EU has amended the rules on identification marks to ensure that only molluscs fit for human consumption are put on the market. To improve the efficiency of official controls, the EU is gradually increasing the use of the electronic TRACES system for issuing documentation. As preparing to submit registration documents via TRACES may be complex, its use will only be mandatory from 19 November 2028.",
+  "timeline": "The amended hygiene requirements and registration document apply from 19 November 2026 .\n\nThe requirement to issue registration documents through TRACES applies from 19 November 2028 .",
+  "actions": "Exporters of live bivalve molluscs should:\n\nensure that unpurified live bivalve molluscs exported to the EU do not bear identification marks use the updated registration document for each consignment from 19 November 2026 engage with national competent authorities to prepare for the issuing of registration documents in TRACES by November 2028 .",
+  "background": "The natural purification of live bivalve molluscs (such as mussels, oysters, and clams) is carried out in “relaying areas”, which are clearly marked sea, estuarine, or lagoon areas only used for the natural purification of molluscs. The production and relaying areas for live bivalve molluscs are classified by the EU competent authorities responsible for official controls (Regulation 2019/627 , Art. 52). The areas are classified as Class A, B, or C according to the level of faecal contamination:\n\nClass A: live bivalve molluscs may be collected for direct human consumption Class B: live bivalve molluscs must be purified to meet the EU requirements Class C: live bivalve molluscs can only meet EU requirements after relaying for a long period.\n\nAll live bivalve molluscs put on the EU market must meet the requirements in Regulation 853/2004 (Annex III, Section VII, Chapter V).",
+  "resources": "Regulation (EC) No 853/2004 laying down specific hygiene rules for food of animal origin Commission Implementing Regulation (EU) 2019/627 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
+    "https://eur-lex.europa.eu/eli/reg_del/2026/1829/oj/eng",
+    "https://eur-lex.europa.eu/eli/reg_impl/2019/627/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0627-20260719"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
+  "detail_fetched_at": "2026-11-19T15:12:19.009037+00:00"
+}

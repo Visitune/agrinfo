@@ -377,7 +377,7 @@
    "regulation": "",
    "summary": "European Commission publishes instructions for the ELAN1L-TCDOC data model, which will be mandatory from 17 January 2028",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.521476+00:00",
+   "fetched_at": "2026-11-19T15:12:01.427047+00:00",
    "impacted_products": "",
    "what_changing": "The European Commission’s new Electronic Agricultural Non-customs formalities system (ELAN) will support the management and storage of the following non-customs documents required in the trade of agri-food products (Regulation 2025/1272 ):\n\ndocuments supporting imports into the EU under tariff rate quotas (Regulations 2020/761 , Annexes II–XII and 2020/1988 , Annex II) documents required for exports under sheepmeat and goatmeat tariff quotas (Regulation 2020/1988 , Art. 31) authenticity certificates for Basmati rice exports (Regulation 2023/2834 ).\n\nFrom January 2028 , authorities in the non-EU exporting country must either produce these documents directly in ELAN, or transmit them to ELAN from their own national electronic systems. See ELAN: Electronic system for Agricultural Non-customs formalities .\n\nThese documents must be issued by the relevant competent authorities using the ELAN1L-TCDOC data model (Regulation 2020/761 , Annex XIV.8).\n\nTo guide competent authorities, the European Commission has published instructions on how to use the ELAN1L-TCDOC data model. The instructions explain the type and format of information required in each column in the model, and clarify which information is mandatory or optional.",
    "why": "The EU is moving towards an electronic information exchange system linking all customs authorities and other relevant bodies within and outside the European Union. The new ELAN system will be connected with the EU Single Window Environment for Customs .",
@@ -386,7 +386,7 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026XC05558",
-   "detail_fetched_at": "2026-11-18T15:02:10.140723+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:27.333072+00:00",
    "title_fr": "Le modèle de données",
    "summary_fr": "La Commission européenne publie des instructions concernant le modèle de données ELAN1L-TCDOC, qui sera obligatoire à partir du 17 janvier 2028",
    "impacted_products_fr": "",
@@ -399,6 +399,96 @@
    ]
   },
   {
+   "id": "bivalve-molluscs-hygiene-requirements",
+   "title": "Bivalve molluscs: hygiene requirements",
+   "url": "https://agrinfo.eu/book-of-reports/bivalve-molluscs-hygiene-requirements/",
+   "pub_date": "2026-11-09",
+   "revised_date": "",
+   "regulation": "2026/1829",
+   "summary": "EU clarifies hygiene rules for bivalve molluscs, updates its registration document, and sets a mandatory date of …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.117717+00:00",
+   "impacted_products": "Live bivalve molluscs",
+   "what_changing": "The EU has introduced the following changes relating to hygiene requirements for live bivalve molluscs, amending Regulation (EC) No 853/2004 .",
+   "why": "The EU has amended the rules on identification marks to ensure that only molluscs fit for human consumption are put on the market. To improve the efficiency of official controls, the EU is gradually increasing the use of the electronic TRACES system for issuing documentation. As preparing to submit registration documents via TRACES may be complex, its use will only be mandatory from 19 November 2028.",
+   "timeline": "The amended hygiene requirements and registration document apply from 19 November 2026 .\n\nThe requirement to issue registration documents through TRACES applies from 19 November 2028 .",
+   "actions": "Exporters of live bivalve molluscs should:\n\nensure that unpurified live bivalve molluscs exported to the EU do not bear identification marks use the updated registration document for each consignment from 19 November 2026 engage with national competent authorities to prepare for the issuing of registration documents in TRACES by November 2028 .",
+   "background": "The natural purification of live bivalve molluscs (such as mussels, oysters, and clams) is carried out in “relaying areas”, which are clearly marked sea, estuarine, or lagoon areas only used for the natural purification of molluscs. The production and relaying areas for live bivalve molluscs are classified by the EU competent authorities responsible for official controls (Regulation 2019/627 , Art. 52). The areas are classified as Class A, B, or C according to the level of faecal contamination:\n\nClass A: live bivalve molluscs may be collected for direct human consumption Class B: live bivalve molluscs must be purified to meet the EU requirements Class C: live bivalve molluscs can only meet EU requirements after relaying for a long period.\n\nAll live bivalve molluscs put on the EU market must meet the requirements in Regulation 853/2004 (Annex III, Section VII, Chapter V).",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
+   "detail_fetched_at": "2026-11-19T15:12:19.009037+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Food safety",
+    "Hygiene"
+   ]
+  },
+  {
+   "id": "list-of-union-quarantine-pests-and-plant-health-import-requirements",
+   "title": "List of Union quarantine pests and plant health import requirements",
+   "url": "https://agrinfo.eu/book-of-reports/list-of-union-quarantine-pests-and-plant-health-import-requirements/",
+   "pub_date": "2026-11-09",
+   "revised_date": "",
+   "regulation": "",
+   "summary": "Give feedback until 29 December 2026 on the EU’s updated list of Union quarantine pests and proposed …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.117975+00:00",
+   "impacted_products": "Peppers (Capsicum spp.), peaches, nectarines, pomegranates, citrus fruits (excluding lemons and limes), sweet oranges, grapevines, cut roses",
+   "what_changing": "The EU has notified the World Trade Organization Sanitary and Phytosanitary Measures (WTO SPS) Committee of a new draft proposal updating the EU list of Union quarantine pests and plant health import requirements ( G/SPS/N/EU/987 ). The proposal includes amendments to Regulation 2019/2072 , which establishes the EU’s phytosanitary requirements for plants and plant products.\n\nThe main proposed changes relevant to agri-food products are as follows:",
+   "why": "The EU regularly reviews its plant health rules to prevent harmful pests from entering and spreading in its territory. Scientific risk assessments, notably by the European Food Safety Authority (EFSA), and pest risk analyses developed by the European and Mediterranean Plant Protection Organization (EPPO), inform these decisions. The European Commission, together with the EU Member States, decide which pests are listed as Union quarantine pests in Regulation 2019/2072 and adjusts the import requirements accordingly, taking into account interceptions at EU borders.",
+   "timeline": "The proposed Regulation is expected to be published in the first quarter of 2027.\n\nThe new package labelling requirements relating to FCM will apply 3 months after publication.\n\nThe revised list of quarantine pests will apply 6 months after publication.",
+   "actions": "Competent authorities of countries that are members of the WTO can submit comments on the EU’s proposal by emailing the EU SPS Enquiry Point until 29 December 2026 ( G/SPS/N/EU/987 ).",
+   "background": "The EU has specific phytosanitary rules to prevent the introduction of FCM ( Thaumatotibia leucotreta ) into the EU (Regulation 2019/2072 , Annex VII, 62). These requirements apply to peppers ( Capsicum spp.), peaches and nectarines ( Prunus persica ), pomegranates ( Punica granatum ), certain citrus fruits, and cut roses ( Rosa spp.) originating from countries of the African continent, the islands of Cabo Verde, Madagascar, Mauritius, Réunion, and Saint Helena, and Israel. Sweet oranges ( Citrus sinensis ) are subject to separate requirements, including cold treatment (Annex VII, 62.1).\n\nExporters must comply with one of several phytosanitary options, including production in pest free places or sites of production, or the application of an approved systems approach or post-harvest treatment.\n\nFor further information see Exporting fresh Capsicum to the EU , which includes measures against FCM, using fresh peppers as an example.",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
+   "detail_fetched_at": "2026-11-19T15:12:21.181789+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Plant health",
+    "Plant health certification"
+   ]
+  },
+  {
+   "id": "customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements",
+   "title": "Customs codes for plant products that must meet EU phytosanitary requirements",
+   "url": "https://agrinfo.eu/book-of-reports/customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements/",
+   "pub_date": "2026-11-09",
+   "revised_date": "",
+   "regulation": "",
+   "summary": "EU proposes updated CN codes for certain plant products that have additional EU phytosanitary requirements including some …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:01.426784+00:00",
+   "impacted_products": "Tomatoes, bananas, peaches, nectarines, Brussels sprouts, Solanum spp., melon pears, tree tomatoes",
+   "what_changing": "Regulation 2019/2072 (Annexes VI to XIV) lists the plants and plant products whose introduction or movement within the European Union is prohibited (EU) or subject to special phytosanitary requirements. These are identified by specific customs codes – Combined Nomenclature (CN) codes – according to Regulation 2658/87.\n\nThe European Commission proposes to clarify that the special requirements in place to prevent the entry into the EU of the fruit fly Bactrocera latifrons apply to all Solanum fruits, including those exported under CN code 0810 90 75, such as melon pear ( S. muricatum ) and tree tomato ( S. betaceum ) .\n\nProposed updates to the CN codes also reflect recent changes in the customs classification of some products (including tomatoes, bananas, peaches and nectarines, and Brussels sprouts). The clarifications do not change the phytosanitary requirements for these products.\n\nTable 1 summarises the CN code changes relevant to agri-food products.",
+   "why": "The EU aims to align the CN codes used in its plant health legislation with the latest updates to its customs nomenclature, to provide consistency across all EU laws. Clarifications regarding Solanum fruits aim to ensure that all such fruits meet the necessary phytosanitary import requirements.",
+   "timeline": "The Regulation is expected to be published in the first quarter of 2027, and will enter into force 20 days after the date of publication.",
+   "actions": "Exporters of Solanum fruits under CN code 0810 90 75 should first check whether their country of origin is listed in Regulation 2019/2072 (Annex VII, 72.1, column 3). If it is, they must select which of the options in column 4 they will use to demonstrate that the consignment is free from B. latifrons . The option used must be stated as an additional declaration on the phytosanitary certificate.\n\nCompetent authorities of countries that are members of the World Trade Organization can submit comments on the EU’s proposal by emailing the EU SPS Enquiry Point until 27 December 2026 ( G/SPS/N/EU/986 ).",
+   "background": "In order to enter the EU, all living plant material (including entire plants, parts of plants, fruits, cut flowers, seeds, etc.) must be accompanied by a phytosanitary certificate issued by the exporting country’s competent authority. Only five fruits are exempt: pineapples, coconuts, durians, bananas, and dates (Regulation 2019/2072 , Annex XI, Part C).",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
+   "detail_fetched_at": "2026-11-19T15:12:25.202874+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Plant health",
+    "Plant health certification"
+   ]
+  },
+  {
    "id": "maximum-residue-level-for-ethofumesate",
    "title": "Maximum residue level for ethofumesate",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-level-for-ethofumesate/",
@@ -407,7 +497,7 @@
    "regulation": "",
    "summary": "EU to increase ethofumesate MRL on carrots",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.521888+00:00",
+   "fetched_at": "2026-11-19T15:12:01.427286+00:00",
    "impacted_products": "carrots",
    "what_changing": "The EU will increase the MRL for ethofumesate on carrots from 0.03 (the limit of determination, LOD) to 0.1 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRLs by the producer of ethofumesate, the European Food Safety Authority has concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2026 ).",
@@ -416,7 +506,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-11-18T15:02:19.836256+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:28.922385+00:00",
    "title_fr": "Limite maximale de résidus pour l’éthofumesate",
    "summary_fr": "L'UE va augmenter la LMR d'éthofumesate sur les carottes",
    "impacted_products_fr": "carottes",
@@ -436,7 +526,7 @@
    "regulation": "",
    "summary": "44 AGRINFO partner countries received RASFF notifications in September 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.330038+00:00",
+   "fetched_at": "2026-11-19T15:12:02.372285+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -445,7 +535,7 @@
    "background": "The Rapid Alert System for Food and Feed ( RASFF ) was set up to allow EU food safety authorities to rapidly exchange information on health risks from food or feed, enabling them to take immediate action to avert the risk. RASFF provides a round-the-clock service to ensure that urgent notifications are sent, received, and responded to collectively and efficiently. Information exchanged through RASFF can lead to products being recalled from the EU market, averting risks before they can cause harm, from farm to fork.\n\nThe European Commission must inform non-EU countries if an exported product is subject to a notification, so that the country’s authorities and exporters can take corrective measures.\n\nThe legal basis for RASFF is set out in Art. 50 of the EU General Food Law (Regulation 178/2002 ).\n\nFor further information see Official Controls Regulation – explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2002/178/2022-07-01",
-   "detail_fetched_at": "2026-11-18T15:02:57.211529+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:48.619586+00:00",
    "title_fr": "Notifications RASFF en septembre 2026",
    "summary_fr": "44 pays partenaires d’AGRINFO ont reçu des notifications RASFF en septembre 2026",
    "impacted_products_fr": "",
@@ -465,7 +555,7 @@
    "regulation": "2026/2329",
    "summary": "European Commission recommends that food businesses and competent authorities in exporting countries should regularly monitor the presence …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.330788+00:00",
+   "fetched_at": "2026-11-19T15:12:02.373336+00:00",
    "impacted_products": "Cured meats, processed fish, alcoholic beverages. processed vegetables, processed cereals, milk and dairy products, fermented foods, pickled foods, spiced foods",
    "what_changing": "The European Commission is calling on EU Member States, in cooperation with the food industry, to monitor the presence of N-nitrosamines in food (Recommendation 2026/2329 ).\n\nMonitoring of N-nitrosamines, or at least the 10 carcinogenic N-nitrosamines identified by EFSA, is recommended for the following food categories:\n\ncured meat products and processed fish alcoholic beverages processed vegetables and cereals milk and dairy products fermented, pickled, and spiced foods.\n\nDetails on the analysis of N-nitrosamines can be found in the Background section below.\n\nFactors that contribute to high N-nitrosamine levels should also be identified, with a view to developing measures that prevent or reduce contamination.\n\nMonitoring results should be submitted to the European Food Safety Authority (EFSA) by Member State authorities and the food industry. This should include information on whether nitrates (E251–E252) or nitrites (E249–E250) were used as additives in processed meats and other processed foods.\n\nThis Recommendation does not establish new legal maximum levels for N-nitrosamines in food.",
    "why": "N-nitrosamines are chemical contaminants that can form during food processing and preparation. EFSA (2023) assessed the risks associated with ten carcinogenic N-nitrosamines (TCNAs) known to occur in food, and concluded that dietary exposure to these substances raises health concerns.",
@@ -474,7 +564,7 @@
    "background": "The ten carcinogenic N-nitrosamines (TCNAs) identified by EFSA that are known to occur in food are: nitrosodimethylamine (NDMA), N-nitrosomethylethylamine (NMEA), N-nitrosodiethylamine (NDEA), N-nitrosodipropylamine (NDPA), N-nitrosodibutylamine (NDBA), N-nitrosomethylaniline (NMA), N-nitrososarcosine (NSAR), N-nitrosomorpholine (NMOR), N-nitrosopiperidine (NPIP) and N-nitrosopyrrolidine (NPYR).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602329",
-   "detail_fetched_at": "2026-11-18T15:03:15.975569+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:56.918684+00:00",
    "title_fr": "N-nitrosamines dans les aliments",
    "summary_fr": "La Commission européenne recommande aux entreprises du secteur alimentaire et aux autorités compétentes des pays exportateurs de surveiller régulièrement la présence…",
    "impacted_products_fr": "Viandes séchées, poissons transformés, boissons alcoolisées, légumes transformés, céréales transformées, lait et produits laitiers, aliments fermentés, aliments marinés, aliments épicés",
@@ -494,7 +584,7 @@
    "regulation": "2026/2335",
    "summary": "European Commission recommends that EU Member State authorities and the food industry should monitor the presence of …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-17T15:27:27.093905+00:00",
+   "fetched_at": "2026-11-19T15:12:02.372546+00:00",
    "impacted_products": "Fish, milk and dairy products, vegetable and animal oils and fats, other products of animal origin (e.g. meat, eggs), processed foods (whole meals), baby food",
    "what_changing": "The European Commission has published a Recommendation to EU Member States and the food industry to monitor the presence of chlorinated paraffins in food during 2026–2029.\n\nThe monitoring covers six food categories: fish; milk and dairy products; vegetable and animal oils and fats; other products of animal origin (including meat and eggs); processed foods (whole meals); and baby food.\n\nMonitoring will initially focus on the sum of short- and medium-chain chlorinated paraffins (C10–C17). Where the chlorinated paraffin content exceeds the thresholds set out in Table 1, detailed testing should be carried out to measure all chlorinated paraffins, including long-chain compounds (C18–C30).\n\nThese thresholds are not legal maximum levels. Food found to exceed these thresholds will not be considered non-compliant and will not be removed from the EU market. The aim is to gather data that will support EFSA’s risk assessment of chlorinated paraffins.",
    "why": "Chlorinated paraffins are chemical contaminants for which EFSA (2020) has identified significant data gaps, preventing a comprehensive assessment of dietary exposure and potential health risks.",
@@ -503,7 +593,7 @@
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602335",
-   "detail_fetched_at": "2026-11-17T15:28:27.197326+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:50.569990+00:00",
    "title_fr": "Paraffines chlorées dans les aliments",
    "summary_fr": "La Commission européenne recommande aux autorités des États membres de l'UE et à l'industrie alimentaire de surveiller la présence de…",
    "impacted_products_fr": "Poisson, lait et produits laitiers, huiles et graisses végétales et animales, autres produits d'origine animale (par exemple, viande, œufs), aliments transformés (repas complets), aliments pour bébés",
@@ -556,7 +646,7 @@
    "regulation": "",
    "summary": "Share feedback with the European Commission on using bio-based feedstock to produce plastic packaging for food – …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.330604+00:00",
+   "fetched_at": "2026-11-19T15:12:02.373078+00:00",
    "impacted_products": "Agri-food and fisheries products in plastic packaging",
    "what_changing": "The European Commission has opened a consultation to evaluate the way in which (food) plastic packaging is made from bio-based plastics. These are plastics made from biological resources (biomass feedstock, organic waste or by-products, etc.) and can be either biodegradable or non-biodegradable (PPWR 2025/40 , Art. 3(1) (53)).\n\nThe Commission is assessing how advanced the technology for bio-based plastic packaging is, as well as its environmental impact. It is collecting information on the following aspects of bio-based feedstock:\n\nsustainability of sourcing and production environmental impacts how to boost market uptake relationship with recycled content and whether they can be recycled potential implications of applying obligatory requirements for bio-based plastic (food) packaging.\n\nInterested stakeholders, including those based outside the European Union (EU), are invited to provide evidence and practical experience on bio-based plastics in (food) packaging, as well as their views on potential EU policy measures.\n\nThe following stakeholders are invited to comment: citizens, consumer organisations, environmental NGOs, public authorities, packaging manufacturers and converters, raw-material suppliers, bio-based plastics producers, recyclers, food contact packaging businesses, brand owners, retailers, and research organisations.",
    "why": "The Commission is required to review technological developments and the environmental performance of bio-based plastic packaging (PPWR, Art. 8; see New EU packaging rules explained ). This public consultation will gather evidence and stakeholder views to inform that review and assess whether further EU action is necessary.\n\nBased on the results of this evaluation, the Commission may decide to:\n\nset sustainability requirements for bio-based feedstock set targets for plastic packaging made from bio-based feedstock accept the use of bio-based plastic in order to meet the minimum targets for recycled content in plastic packaging by 2030 and 2040 (PPWR, Art. 7); this would be applied only if not enough processes have been authorised for the production of recycled plastic food packaging that is compliant with EU rules (Regulation 2022/1616 ); see Packaging and packaging waste consultation: minimum recycled plastic content .",
@@ -565,7 +655,7 @@
    "background": "The EU aims to boost the use of sustainable alternatives to reduce its dependence on imported fossil fuel and reduce carbon dioxide (CO 2 ) emissions (carbon footprint). These objectives are set in the European Commission’s Strategic Framework for a Competitive and Sustainable EU Bioeconomy , which aims to replace fossil fuel-based materials and products with renewable biological resources.\n\nThe Strategic Framework, launched in November 2025, focuses on four priorities:\n\nscaling up innovation and investment in biotechnology and biomanufacturing creating lead markets for bio-based products such as plastics, chemicals, textiles, and construction materials ensuring a sustainable biomass supply through resource efficiency, recycling, and the use of agricultural residues and organic waste strengthening global competitiveness through international partnerships and trade.\n\nPlastic (packaging) can be produced from three main types of materials: virgin fossil fuel-based materials, recycled plastics, and biomass. The EU aims to reduce packaging waste, improve recyclability of packaging in the EU, and promote more circular use of resources, including using recycled and bio-based plastics.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500040",
-   "detail_fetched_at": "2026-11-18T15:03:10.347459+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:54.730040+00:00",
    "title_fr": "Emballages en plastique biosourcé",
    "summary_fr": "Faites part de vos commentaires à la Commission européenne concernant l'utilisation de matières premières biosourcées pour produire des emballages alimentaires en plastique – …",
    "impacted_products_fr": "Produits agroalimentaires et de la pêche dans des emballages en plastique",
@@ -585,7 +675,7 @@
    "regulation": "2026/2298",
    "summary": "EU approves the use of curdlan (E 424) as a food additive in a wide range of …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.330241+00:00",
+   "fetched_at": "2026-11-19T15:12:02.372837+00:00",
    "impacted_products": "",
    "what_changing": "The EU has authorised the use use of curdlan (E 424) as a food additive in the European Union. Curdlan can be used as a gelling agent, firming agent, stabiliser, and thickener in the food products listed in Table 1.\n\nThe technical specifications for curdlan (including description, purity, and microbiological criteria) are given in Regulation 2026/2298 , Annex II.\n\nThe new Regulation updates two existing Regulations: 1333/2008 which adds curdlan to the EU list of authorised food additives and establishes its permitted uses and maximum levels; and 231/2012 which introduces technical specifications and purity requirements for curdlan.",
    "why": "This authorisation follows a safety assessment by the European Food Safety Authority, which concluded that curdlan does not raise safety concerns at the proposed uses and levels ( EFSA 2024 ).",
@@ -594,7 +684,7 @@
    "background": "Curdlan is a polysaccharide produced by bacterial fermentation using Rhizobium radiobacter biovar 1 strain NTK-u. It can be used as a gelling agent, firming agent, stabiliser, and thickener to improve the texture, water retention, and heat stability of food.\n\nThis new Regulation updates Regulation 1333/2008 which:\n\noutlines the rules for assessment and approval of food additives within the EU – list of approved food additives specifying which food additives may be used in various categories of food products under certain conditions (Annex II) list of specific applications detailing which food additives can be used in the manufacture of other food additives, enzymes, and flavourings (Annex III). specifies the maximum amounts that can be used in food products, based on two main principles: minimal necessary quantity: additives should be used in the smallest quantity needed to achieve their intended function, such as food preservation or flavour enhancement safety considerations: the quantities used must ensure safety for all consumer groups and reflect the acceptable daily intake (ADI) levels, particularly for populations with potentially higher consumption.\n\nFor the most recently updated list of approved food additives and conditions of use, see Regulation 1333/2008 : click on the most recent date under “All consolidated versions”.\n\nFor further information on the food categories in Regulation 1333/2008, Annex II, Part E, see European Union (2025) .\n\nThe new Regulation also updates Regulation 231/2012 which gives the technical specifications and purity requirements for each food additive.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602298",
-   "detail_fetched_at": "2026-11-18T15:03:01.046134+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:52.740632+00:00",
    "title_fr": "Additifs alimentaires : curdlan (E 424)",
    "summary_fr": "L'UE approuve l'utilisation du curdlane (E 424) comme additif alimentaire dans un large éventail de…",
    "impacted_products_fr": "",
@@ -615,7 +705,7 @@
    "regulation": "2026/2297",
    "summary": "European Commission recommends the monitoring of nitrate and nitrite in feed",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.331393+00:00",
+   "fetched_at": "2026-11-19T15:12:02.373604+00:00",
    "impacted_products": "Feed for farmed animals",
    "what_changing": "This Commission Recommendation aims to encourage EU authorities, farmers, and the feed industry to collect information about the presence of nitrate and nitrite in feed (from forages and roughages, sugar beet/sugarcane products and by-products, starch and alcoholic drink production).\n\nThe data collected will support the European Food Safety Authority (EFSA) in future risk assessments and possible future regulations.\n\nThe Recommendation does not introduce new maximum levels for nitrate and nitrite in feed. It does recommend good practices and principles, set out in the Annex, to reduce nitrate and nitrite in feed and animal exposure to these substances. These include:\n\nharvesting plants close to maturity and raising the cutter head (to reduce the presence of nitrates that are found in the bottom part of the stalks) feeding animals with silage limiting the level of nitrates in water used for drinking by animals or manufacturing feed to 200 mg/l avoiding giving pregnant animals feed that contains more than 4,000 mg/kg nitrates (where the feed has a 12% moisture content), and limiting the amount of this feed given to other animals not using feed containing more than 200 mg/kg nitrite as sodium nitrite (NaNO 2) (relative to a feed with a moisture content of 12%).",
    "why": "EFSA (2020) identified a possible health concern for ruminants relating to the presence of nitrates in forages and roughage. It could not assess the health risk from exposure to nitrite in farmed animals due to a lack of data. EFSA needs more information on both elements to do a full risk assessment.",
@@ -624,7 +714,7 @@
    "background": "Directive 2002/32/EC establishes maximum levels for nitrite in feed materials, with the exception of silage, products and by-products from sugar beet, sugarcane, starch, and alcoholic drink production. Today there is no maximum limit for nitrate in feed. However, farmers are encouraged to apply good practices to prevent high levels of nitrites and nitrates.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reco/2026/2297/oj/eng",
-   "detail_fetched_at": "2026-11-18T15:03:30.930569+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:59.319656+00:00",
    "title_fr": "Nitrates et nitrites dans les aliments pour animaux",
    "summary_fr": "La Commission européenne recommande de surveiller les nitrates et les nitrites dans les aliments pour animaux",
    "impacted_products_fr": "Aliments pour animaux d’élevage",
@@ -1189,20 +1279,20 @@
    "title": "Voluntary use by non-EU countries of the Electronic system for Agricultural Non-customs formalities (ELAN)",
    "url": "https://agrinfo.eu/book-of-reports/voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan/",
    "pub_date": "2026-08-03",
-   "revised_date": "",
-   "regulation": "",
-   "summary": "Documents submitted to ELAN on a voluntary basis to have legal value during the transitional period",
+   "revised_date": "Nov. 13, 2026",
+   "regulation": "2026/2389",
+   "summary": "Documents submitted to ELAN on a voluntary basis will have legal value during the transitional period",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-20T10:34:03.442776+00:00",
+   "fetched_at": "2026-11-19T15:12:00.116527+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "As a number of non-EU countries have been successfully using ELAN on a voluntary basis, giving legal value to the documents generated will improve the efficiency of completing customs procedures.\n\nThe EU is moving towards an electronic information exchange system linking all customs authorities and other relevant bodies within and outside the EU. The new ELAN system will be connected with the EU Single Window Environment for Customs. See ELAN: Electronic system for Agricultural Non-customs formalities .",
-   "timeline": "The Regulation is expected to be published in September 2026.",
-   "actions": "The consultation via the European Commission’s Have your say platform closed on 20 August 2026.",
-   "background": "For further information see ELAN: Electronic system for Agricultural Non-customs formalities and the European Commission’s ELAN webpage .",
+   "timeline": "The Regulation enters into force on 5 November 2026 .",
+   "actions": "Exporting countries should familiarise their competent authorities with the ELAN1L-TCDOC template, and upgrade or adapt their national electronic systems to ensure compatibility with ELAN for collecting relevant data and issuing certificates of origin ahead of the 17 January 2028 deadline. For further information on how to complete the template, see The ELAN data model .",
+   "background": "For further information see AGRINFO’s October 2026 webinar: Introducing the EU’s new Electronic system for Agricultural Non-customs formalities (ELAN) (videos and presentation).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
-   "detail_fetched_at": "2026-09-20T10:35:45.187900+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:10.403522+00:00",
    "title_fr": "Utilisation volontaire par les pays tiers du système électronique pour les formalités agricoles non douanières (ELAN)",
    "summary_fr": "Documents soumis à ELAN sur une base volontaire pour avoir une valeur juridique pendant la période de transition",
    "impacted_products_fr": "",
@@ -1346,7 +1436,7 @@
    "regulation": "2026/2289",
    "summary": "EU increases MRLs for maleic hydrazide on animal products from 5 November 2026",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.521272+00:00",
+   "fetched_at": "2026-11-19T15:12:00.117452+00:00",
    "impacted_products": "Products of animal origin (swine, cattle, sheep, goat, horse, and poultry), milk, birds’ eggs",
    "what_changing": "The EU has increased the MRLs for maleic hydrazide on most animal products (see Table 1).",
    "why": "Following an application for a change of MRLs by the producer of maleic hydrazide, the European Food Safety Authority concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2025 ).",
@@ -1355,7 +1445,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database . For further information on the setting of import tolerances, see Pesticide residue import tolerance MRLs explained .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602289",
-   "detail_fetched_at": "2026-11-18T15:02:04.605417+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:16.642542+00:00",
    "title_fr": "Limites maximales de résidus pour l’hydrazide maléique",
    "summary_fr": "L’UE augmente les LMR pour l’hydrazide maléique sur les produits animaux à compter du 5 novembre 2026",
    "impacted_products_fr": "Produits d'origine animale (porcins, bovins, ovins, caprins, équidés et volailles), lait, œufs d'oiseaux",
@@ -1395,6 +1485,37 @@
    "tags": [
     "Food safety",
     "Pesticide MRLs"
+   ]
+  },
+  {
+   "id": "latest-pesticide-non-renewals-withdrawals-restrictions-and-non-approvals-2026",
+   "title": "Latest pesticide non-renewals, withdrawals, restrictions, and non-approvals (2026)",
+   "url": "https://agrinfo.eu/book-of-reports/latest-pesticide-non-renewals-withdrawals-restrictions-and-non-approvals-2026/",
+   "pub_date": "2026-06-22",
+   "revised_date": "Oct. 30, 2026",
+   "regulation": "2026/1154; 2026/1209",
+   "summary": "Non-renewals, withdrawals, restrictions, and non-approvals of pesticides for use in the European Union: decisions in 2026",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:01.428749+00:00",
+   "impacted_products": "",
+   "what_changing": "The EU systematically reviews the status of all pesticide active substances that are approved for use within the European Union. Recent non-renewals and withdrawals of approval are summarised in Table 1. To check the expiry or review dates of other pesticide active substances, see the EU Pesticides Database .\n\nIn addition to the non-renewals in Table 1, the EU has recently decided not to approve Capsicum oleoresin as a basic substance.",
+   "why": "The European Commission does not intend to renew its approval for the active substance triclopyr because the European Food Safety Authority has identified concerns about high acute and long-term risk to mammals, high risk to non-target arthropods, and a risk to “residential children” (children who live near agricultural areas where plant protection products are applied; EFSA 2024 ).\n\nNo requests for renewal were submitted regarding methoxyfenozide, penthiopyrad, and terpenoid blend QRD 460, therefore no review took place and these approvals expired. Regulation 2026/1154 deletes them from the list of approved active substances (under Regulation (EC) No 1107/2009 ).\n\nCapsicum oleoresin was not approved as a basic substance because EFSA identified concerns regarding its composition and potential risks to human health ( EFSA 2025 ). The applicant subsequently withdrew the application. The European Commission (2023) describes basic substances as “certain substances which are not predominantly used as plant protection products [that] may be of value for plant protection, but the economic interest of applying for approval may be limited”.",
+   "timeline": "Expiry dates for the substances affected are listed in Table 1. After these dates, the pesticides can no longer be used in the EU.\n\nThe European Commission is expected to follow up with proposals to reduce or remove the MRLs for these substances, which will affect their use on crops for export to the EU. Any changes to MRLs are notified to the World Trade Organization Sanitary and Phytosanitary (WTO SPS) Committee, and details will be provided on the AGRINFO website. For an overview of all upcoming and recent MRL changes, visit the AGRINFO Pesticide MRL Tracker .",
+   "actions": "Export sectors affected should start looking for alternative crop protection solutions to methoxyfenozide and penthiopyrad, or should assess possible adaptations of good agricultural practices (GAP).",
+   "background": "See AGRINFO reports on decisions on pesticide non-renewals, withdrawals, and restrictions in 2023 , 2024 , and 2025 .\n\nPesticide active substances are approved for a maximum period of 15 years. Manufacturers may apply for reapproval of a substance for a period not more than 15 years. The EU systematically reviews all active substances.\n\nSubstances may be:\n\nnot reapproved : if there is insufficient data to permit reapproval, or because the manufacturer does not seek reapproval withdrawn : where specific consumer health or environmental issues are identified, sometimes before the normal expiry date restricted : where data supports renewal, but only under new specific conditions of use.\n\nWhere an authorisation for an active substance is withdrawn, or expires due to withdrawal of approval or non-renewal, the European Commission will prepare a draft measure to delete the relevant existing MRLs. In practice, the Commission starts this procedure once all existing authorisations for that active substance have been revoked. MRLs are set either to a default value of 0.01 mg/kg, or to the lowest limit technically possible using current analytical methods. MRLs based on the Codex MRLs (CXLs) are not deleted where there is no risk to EU consumers, or no global environmental concern. Changes to MRLs that impact trade are always notified to the WTO SPS Committee.\n\nIn 2026 the European Commission proposed to remove the standard requirement to re-evaluate pesticides every 10 years: see Simplification of rules on pesticide MRLs and approvals .\n\nThe precise timing of changes to MRLs resulting from the withdrawal or non-renewal of active substances is difficult to predict. In its review of pesticide policy, the Commission committed to “enhance communication efforts on the impacts of the PPP [plant protection product] Regulation on MRLs as well as the timing of the various procedures to make the EU system more predictable for non-EU countries, including for the cut-off criteria” ( European Commission 2020 ).\n\nImport tolerances can be requested in anticipation of potential changes to MRLs (see Overview table 2009–2026 ), but applicants must demonstrate the existence of relevant good agricultural practices (GAP) in the country of origin, and the safety of the proposed MRLs. Guidelines are available on the requirements and process for establishing MRLs and import tolerances ( European Commission 2021 ). However, the possibility to apply for import tolerances for pesticides that are not approved in the EU is currently under review; see Simplification of rules on pesticide MRLs and approvals .",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601209",
+   "detail_fetched_at": "2026-11-19T15:12:40.280616+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Food safety",
+    "Pesticide MRLs",
+    "Pesticides"
    ]
   },
   {
@@ -1453,6 +1574,37 @@
    "translated_at": "2026-11-09T15:05:50.338067+00:00",
    "tags": [
     "Sustainability/Due diligence"
+   ]
+  },
+  {
+   "id": "eu-rules-on-recycled-plastic-used-in-food-packaging-updates-and-clarifications",
+   "title": "EU rules on recycled plastic used in food packaging: updates and clarifications",
+   "url": "https://agrinfo.eu/book-of-reports/eu-rules-on-recycled-plastic-used-in-food-packaging-updates-and-clarifications/",
+   "pub_date": "2026-05-17",
+   "revised_date": "Nov. 11, 2026",
+   "regulation": "2026/2376",
+   "summary": "EU updates rules on recycled plastic production and traceability of food packaging from 18 November 2026",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.116856+00:00",
+   "impacted_products": "Materials intended to come into contact with food",
+   "what_changing": "The EU rules on food contact materials containing plastic originating from waste (Regulation 2022/1616 ) cover recycling technologies and processes, manufacturing, marketing, and use of plastic. These rules also apply to non-EU exporters of prepacked food products using recycled plastics that are sold in the EU. For more information, see Plastic food contact materials: basic rules .\n\nRegulation 2026/2376 introduces some changes to these rules, as follows. (Article numbers given below relate to Regulation 2022/1616 , which is amended by the new Regulation.)",
+   "why": "The proposals aim to improve clarity, ensure better documentation and traceability of recycled plastic content, and simplify controls for businesses and authorities, in response to some needs that were identified during the first years of application of Regulation 2022/1616 .",
+   "timeline": "The new rules apply from 18 November 2026 .\n\nFor traceability of recycled plastic, the following dates apply:\n\nproducts already compliant with Regulation 2022/1616 and accompanied by Declaration A or B may continue to be placed on the EU market until 18 February 2027 products that will require the new Declaration C or P may be placed on the EU market without those declarations until 18 May 2027.\n\nAny recycled plastic materials and articles made from products placed on the market during these transition periods may continue to be sold until stocks are exhausted.",
+   "actions": "",
+   "background": "Regulation 2022/1616 sets rules for the entire plastic recycling process to be used in food contact materials. Materials and articles intended to come into contact with foods (including packaging) that are made from recycled plastic, and used for products sold in the EU, must comply with these rules. The rules cover the decontamination of recycled plastic, the development and operation of plastic recycling processes, and how these recycled food contact materials are used. They also apply to installations, facilities, and companies based outside the EU. For more information see Plastic food contact materials: basic rules .\n\nCurrently, non-EU countries must appoint a national contact point that will contribute to ensuring compliance with the EU rules. These are listed at: Contact points for the competent authorities outside the EU . The European Commission does not provide guidance regarding the designation of competent authorities; each country must establish its own rules and procedures for auditing and controlling recycled plastic recovering installations and facilities. Questions can be emailed to SANTE-FCM-RECYCLING-REGISTER@ec.europa.eu .",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/2376/oj/eng",
+   "detail_fetched_at": "2026-11-19T15:12:12.397326+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Food contact materials",
+    "Packaging",
+    "Plastics"
    ]
   },
   {
@@ -1554,7 +1706,7 @@
    "regulation": "2026/2228",
    "summary": "EU updates its public health list of countries that can export specified animal products to the EU …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.329841+00:00",
+   "fetched_at": "2026-11-19T15:12:01.429348+00:00",
    "impacted_products": "Aquaculture, crustaceans, finfish, fish, roes, caviar, eggs",
    "what_changing": "Countries exporting animal products to the EU must generally be authorised under more than one item of legislation (see Background).\n\nThe European Union has updated the lists of countries that meet its public health requirements for authorisation to export to the EU (Regulation 2021/405 ). The Annexes referenced below all refer to that Regulation.",
    "why": "The EU updates its list of authorised non-EU countries once or twice a year. For pesticides, contaminants, and veterinary medicines, authorised countries must have food safety systems and residue control plans that are at least equivalent to, and as strict as, those within the EU.\n\nTo remain approved in Annex -I, non-EU countries must send their updated residue control plan for each animal product category every year by 31 March .",
@@ -1563,7 +1715,7 @@
    "background": "The European Union has strict rules on the public health requirements for products of animal origin entering the EU.\n\nThe Official Controls Regulation 2017/625 lays down the framework for the official controls that competent authorities have to perform at any stage of production, processing, and distribution.\n\nRegulation 2022/2292 supplements the Official Controls Regulation regarding the public health requirements for exports to the EU. Countries wishing to export animal products to the EU must comply with the EU public health requirements.\n\nNon-EU exporting countries must be authorised to export in the relevant lists, depending on the species (see Lists of non-EU countries for public health and animal health – explained ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602228",
-   "detail_fetched_at": "2026-11-18T15:02:51.166680+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:44.104425+00:00",
    "title_fr": "Listes de santé publique des pays autorisés à exporter des produits animaux vers l'UE – …",
    "summary_fr": "L'UE met à jour sa liste de santé publique des pays autorisés à exporter certains produits animaux vers l'UE…",
    "impacted_products_fr": "Aquaculture, crustacés, poissons à nageoires, poissons, œufs de poisson, caviar, œufs",
@@ -1645,7 +1797,7 @@
    "regulation": "",
    "summary": "EU to lower MRL for carbofuran in cotton seeds to limit of determination",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.331587+00:00",
+   "fetched_at": "2026-11-19T15:12:02.374156+00:00",
    "impacted_products": "Cotton seeds",
    "what_changing": "The EU will lower the MRL for carbofuran on cotton seeds from 0.1 mg/kg to the LOD (0.02 mg/kg).",
    "why": "Where pesticides are no longer approved in the EU, MRLs are reduced to the LOD unless there are MRLs set by Codex Alimentarius (CXLs), or requests for import tolerances that have been evaluated to be safe by the European Food Safety Authority ( EFSA 2025 ). Carbofuran is not approved in the EU, and the existing CXL for cotton seeds was revoked in 2024.",
@@ -1654,7 +1806,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe EU takes into account Codex MRLs (CXLs) established by Codex Alimentarius. In November 2024, the Codex Alimentarius Commission revoked some CXLs for the active substance carbofuran ( EFSA 2025 ).",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-11-18T15:03:35.572212+00:00",
+   "detail_fetched_at": "2026-11-19T15:13:03.686637+00:00",
    "title_fr": "Limites maximales de résidus pour le carbofurane",
    "summary_fr": "L'UE va abaisser la LMR du carbofurane dans les graines de coton au seuil de détermination",
    "impacted_products_fr": "Graines de coton",
@@ -1725,6 +1877,35 @@
    ]
   },
   {
+   "id": "eu-vision-2040-for-fisheries-and-aquaculture",
+   "title": "EU Vision 2040 for fisheries and aquaculture",
+   "url": "https://agrinfo.eu/book-of-reports/eu-vision-2040-for-fisheries-and-aquaculture/",
+   "pub_date": "2026-03-05",
+   "revised_date": "Nov. 13, 2026",
+   "regulation": "",
+   "summary": "EU publishes its Vision 2040 for fisheries and aquaculture",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.116227+00:00",
+   "impacted_products": "Fisheries and aquaculture",
+   "what_changing": "The Vision provides an overarching strategic direction for all EU action in the area of fisheries and aquaculture. It aims to:\n\naccelerate the transition to a more sustainable fisheries sector through healthy fish stocks, protecting the environment and workers, and fair competition ensure European Union (EU) food security by diversifying supply and consumption and by increasing EU aquaculture production establish digital traceability of all products throughout the supply chain by 2029 meet consumer demand for transparent information. Mandatory consumer information will be extended to prepared and preserved fishery and aquaculture products introduce a new simplified regulatory and administrative framework for EU aquaculture production by the end of 2027.\n\nThe EU will look to achieve this through:\n\ndiversification and sustainable imports . By 2029, digital traceability will be required for all products – including processed products – along the supply chain. Mandatory consumer information will be extended to prepared and preserved fishery and aquaculture products increasing EU aquaculture production while meeting EU consumers' expectations, including requirements on animal welfare. The EU will pay attention to fair competition for its producers in comparison with imports. By the end of 2027, the Commission will propose a simplified regulatory and administrative framework for aquaculture diversifying fish consumption. Currently, just five species (tuna, salmon, cod, Alaska pollock and shrimp) account for 42% of EU consumption.\n\nThe Vision includes (in Annex I ) the EU strategy on fishing outside the EU (see EU strategy on fisheries external action ). This aims to:\n\nbuild more sustainable supply chains through effective trade rules and sustainable global fisheries management enforce a zero-tolerance approach to illegal fishing with the full implementation of the digital catch certificate (CATCH) – it will continue to engage in structured dialogues with non-EU countries and provide capacity building, but the EU will close its market to countries that do not make significant improvements tackle global overcapacity and unfair competition strengthen social responsibility in fisheries management frameworks, including promoting the ratification and effective implementation of the ILO's international labour standards engage at regional level to ensure stable access to fishing grounds for the EU fleet in international waters – in the Northeast Atlantic, the Mediterranean and the Black Sea, as well as in West Africa, the Indian Ocean, and the Pacific regions – through a new generation of SFPAs.",
+   "why": "Agriculture and fisheries face similar systemic challenges in ensuring sustainability and long-term competitiveness, food security, and preserving resources. Over 60% of aquatic food consumed in the EU today is imported. The EU aims to strengthen the sustainability of imports while improving the competitiveness and resilience of its fisheries and aquaculture sectors, including processing.",
+   "timeline": "The European Commission published its Vision 2040 on 20 October 2026.",
+   "actions": "",
+   "background": "The EU regularly re-evaluates its objectives and adapts its rules to the changing global context. Analysis of current EU rules for aquaculture and fisheries found them to be inadequate to meet the challenges of:\n\ninadequate fish stocks – stocks have improved for certain species but are insufficient to meet increased global demand global competition – the socio-economic performance of the EU fishery and aquaculture sectors has not improved under the current Common Fisheries Policy; EU aquaculture production is stagnating, and returns on investment in the fisheries sector remain low climate change – the energy transition, increasing spatial competition, and geopolitical developments reinforce the need for the fisheries and aquaculture sectors to adapt and transform.\n\nThe Vision 2040 complements the EU’s Vision for Agriculture and Food and builds on the Fishers of the Future foresight study , the European Ocean Pact , and the evaluation of the Common Fisheries Policy Regulation . It also fits within the European Commission’s current agenda for simplification , the proposed EU budget for 2028–2034 , the Competitiveness Compass , the Union of Skills , the 2030 Consumer Agenda , the Bioeconomy Strategy , and the Nature Restoration Regulation .",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/resource.html?uri=cellar:accbd77b-cd4a-11f1-8b4c-01aa75ed71a1.0001.02/DOC_1&format=PDF",
+   "detail_fetched_at": "2026-11-19T15:12:07.996928+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Common Fisheries Policy"
+   ]
+  },
+  {
    "id": "maximum-residue-levels-quizalofop",
    "title": "Maximum residue levels for quizalofop",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-quizalofop/",
@@ -1733,7 +1914,7 @@
    "regulation": "",
    "summary": "EU to lower quizalofop MRLs on salads and herbal infusions, and to increase MRLs on sunflower seeds …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:55.330986+00:00",
+   "fetched_at": "2026-11-19T15:12:02.373890+00:00",
    "impacted_products": "Lamb’s lettuces/corn salads, lettuces, escaroles/broad-leaved endives, cresses and other sprouts and shoots, land cresses, Roman rocket/rucola, red mustards, baby leaf crops, other lettuces, spinaches, chards/beet leaves, sunflower seeds, soyabeans, herbal infusions: chamomile, hibiscus/roselle, rose, jasmine, lime/linden, other flower infusions, strawberry, rooibos, mate/maté, other leaves/herb infusions, valerian, ginseng, other root infusions",
    "what_changing": "The EU will change the MRLs for quizalofop as summarised in Table 1.",
    "why": "The European Food Safety Authority concluded that there was insufficient information for various products to maintain the current MRLs ( EFSA 2017 ). Following a review of data submitted to address those data gaps, and a request to modify certain products, EFSA (2024) supported new MRLs for sunflower seeds and soyabeans. Missing data for lettuces, salads, and spinaches was not addressed, so revised MRLs are proposed on the basis of good agricultural practices (GAPs). For chards/beet leaves and herbal infusions, missing data concerning storage stability and analytical methods was not addressed, so MRLs at the LOD are recommended.",
@@ -1742,7 +1923,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-11-18T15:03:20.892892+00:00",
+   "detail_fetched_at": "2026-11-19T15:13:01.572065+00:00",
    "title_fr": "Limites maximales de résidus pour le quizalofop",
    "summary_fr": "L'UE va abaisser les LMR de quizalofop sur les salades et les infusions de plantes, et augmenter les LMR sur les graines de tournesol…",
    "impacted_products_fr": "Mâche/salade de blé, laitues, scaroles/endives à larges feuilles, cressons et autres germes et pousses, cresson de terre, roquette/rucola, moutardes rouges, jeunes pousses, autres laitues, épinards",
@@ -1793,7 +1974,7 @@
    "regulation": "",
    "summary": "EU to increase MRLs for imazalil on bananas and citrus fruits; and decrease MRLs on courgettes, cucumbers, …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-17T15:27:27.094945+00:00",
+   "fetched_at": "2026-11-19T15:12:02.374420+00:00",
    "impacted_products": "Bananas, grapefruits, oranges, lemons, limes, mandarins, other citrus fruits, courgettes, cucumbers, gherkins, melons",
    "what_changing": "The EU will amend the MRLs for imazalil as summarised in Table 1.",
    "why": "The European Food Safety Authority (EFSA) has recommended increasing the MRL for imazalil on citrus fruits to 7 mg/kg, as it did not identify any risk for consumers ( EFSA 2025 ).\n\nIn this evaluation, EFSA also recommended increasing the MRL on bananas to 3 mg/kg in line with the Codex MRL (CXL) adopted in July 2019. A good agricultural practice (GAP) for melons submitted for review was not sufficiently supported by data, and no import tolerance has been assessed for this product.\n\nFollowing a request to modify the MRLs for cucumbers, courgettes, and gherkins, EFSA (2023) proposed MRLs that are safe for consumers.",
@@ -1802,7 +1983,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nThe EU takes into account CXLs established by Codex Alimentarius, but will set different MRLs where it considers that a CXL will not give adequate protection to consumers.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-11-17T15:28:40.128950+00:00",
+   "detail_fetched_at": "2026-11-19T15:13:05.991786+00:00",
    "title_fr": "Limites maximales de résidus pour l'imazalil",
    "summary_fr": "L'UE va augmenter les LMR pour l'imazalil sur les bananes et les agrumes ; et diminuer les LMR sur les courgettes, les concombres…",
    "impacted_products_fr": "Bananes, pamplemousses, oranges, citrons, citrons verts, mandarines, autres agrumes, courgettes, concombres, cornichons, melons",
@@ -1842,6 +2023,37 @@
    "tags": [
     "High-risk plants",
     "Plant health"
+   ]
+  },
+  {
+   "id": "eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products",
+   "title": "EU procedure on temporary derogations to import plants and plant products",
+   "url": "https://agrinfo.eu/book-of-reports/eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products/",
+   "pub_date": "2026-02-19",
+   "revised_date": "Nov. 16, 2026",
+   "regulation": "2026/1830",
+   "summary": "European Commission sets out procedure for requesting temporary derogations (authorised exemptions) from plant health import bans or …",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.115167+00:00",
+   "impacted_products": "Plants and plant products",
+   "what_changing": "To maintain plant health, the EU can prohibit plants or plant products from entering the EU market, or impose special requirements on those products. Non-EU countries can request a temporary derogation (authorised exemption) from import prohibitions or special requirements (Regulation 2016/2031 , Arts. 40(1), 40(2), 42a(2)).\n\nThe new Regulation sets out a standardised procedure for requesting and assessing temporary derogations.",
+   "why": "By formalising how requests are submitted and assessed, the EU aims to guarantee that all derogations are based on consistent scientific evidence and comparable risk assessments.",
+   "timeline": "The Regulation applies from 30 November 2026 .",
+   "actions": "Exporters seeking temporary derogations from EU phytosanitary import prohibitions or specific import requirements should coordinate with their NPPO to prepare and submit requests to the EU according to the new procedure.\n\nNPPOs should ensure that requests are supported by reliable pest surveillance data, evidence of effective phytosanitary risk mitigation measures, and a technical dossier prepared in accordance with EFSA guidance. Close cooperation between NPPOs, producers, and exporters will be essential to collect the information needed.",
+   "background": "Under the EU Plant Health Law (Regulation 2016/2031 ), certain plants and plant products are prohibited from entering the EU because they present an unacceptable phytosanitary risk (Art. 40). Other plants and products may be imported, but only if they comply with specific pest-related requirements defined by the EU (Art. 41).\n\nThe Plant Health Law recognises that, in exceptional and justified situations, these prohibitions or requirements may be temporarily lifted. Article 42a allows the EU to grant temporary derogations, provided that the phytosanitary risk is properly assessed and can be effectively managed through appropriate measures.\n\nA review of the first 5 years of the EU Plant Health Law identified the need to clarify, simplify, and harmonise several plant health-related import procedures ( Council of the EU 2024 ). Differences in implementation between EU Member States, administrative burdens, and the absence of clear procedures for issues such as high-risk listings, temporary derogations, and equivalence created uncertainty for both EU authorities and non-EU trading partners. (See Revision of EU Plant Health Law .)",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601830",
+   "detail_fetched_at": "2026-11-19T15:12:03.828261+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Exempted plants",
+    "Plant health",
+    "Plant health certification"
    ]
   },
   {
@@ -2035,7 +2247,7 @@
    "regulation": "2025/652, 2026/2309",
    "summary": "EU updates its production specification for the steviol glycoside sweetener rebaudioside M, allowing the use of specific …",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.522563+00:00",
+   "fetched_at": "2026-11-19T15:12:01.428169+00:00",
    "impacted_products": "Sweeteners (steviol)",
    "what_changing": "",
    "why": "The European Food Safety Authority has concluded that there is no safety concern related to rebaudioside M produced using enzymes from the genetically modified yeast strain K. phaffii CGMCC 7539 ( EFSA 2025 ).",
@@ -2044,7 +2256,7 @@
    "background": "The EU approves food additives and sets out their conditions of use. The list of approved food additives can be updated on request by the EU, or following an application.\n\nSteviol glycosides obtained by four different manufacturing processes are regulated in combination as food additives (Regulation 1333/2008 , Annex II, Part C) with maximum limits expressed as steviol equivalents. The other authorised steviol glycosides are:\n\nsteviol glycosides from Stevia (E 960a) steviol glycosides from fermentation (E 960b) enzymatically produced steviol glycosides (E 960c) glucosylated steviol glycosides (E 960d).\n\nFor the most recently updated list of approved food additives and conditions of use, see Regulation 1333/2008 : click on the date that follows “Current consolidated version”.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602309",
-   "detail_fetched_at": "2026-11-18T15:02:35.588385+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:35.636368+00:00",
    "title_fr": "Additifs alimentaires : glycosides de stéviol",
    "summary_fr": "L'UE met à jour son cahier des charges de production pour l'édulcorant glycoside de stéviol rébaudioside M, autorisant l'utilisation de… spécifiques.",
    "impacted_products_fr": "Édulcorants (stéviol)",
@@ -2194,7 +2406,7 @@
    "regulation": "2025/158, 2025/1212, 2026/876",
    "summary": "EU to increase acetamiprid MRLs for plums, soyabeans, parsley, rosemary, basil and edible flowers from early 2027",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.522334+00:00",
+   "fetched_at": "2026-11-19T15:12:01.428453+00:00",
    "impacted_products": "plums, plums, parsley, rosemary, basil and edible flowers, beans, peas, lentils, lupins/lupini beans, barley, soyabeans",
    "what_changing": "The European Union (EU) will increase the maximum residue level (MRL) for acetamiprid on plums, soyabeans, parsley, rosemary, basil and edible flowers as summarised in Table 1.\n\nThis follows previous MRL changes made in January 2025 (Regulation 2025/158 ), June 2025 (Regulation 2025/1212 ), and April 2026 (Regulation (EU) 2026/876 ). These changes are summarised in Table 2.",
    "why": "Following an application to modify the existing MRLs for these six food commodities, the European Food Safety Authority concluded the MRLs proposed for plums, soyabeans, parsley, rosemary, basil and edible flowers would not pose a risk for consumers ( EFSA 2025 ).",
@@ -2203,7 +2415,7 @@
    "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500158",
-   "detail_fetched_at": "2026-11-18T15:02:30.122062+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:38.050845+00:00",
    "title_fr": "Limites maximales de résidus pour l'acétamipride",
    "summary_fr": "L’UE va augmenter les LMR d’acétamipride pour les prunes, le soja, le persil, le romarin, le basilic et les fleurs comestibles à partir du début de 2027",
    "impacted_products_fr": "prunes, prunes, persil, romarin, basilic et fleurs comestibles, haricots, pois, lentilles, lupins/fèves de lupin, orge, graines de soja",
@@ -2223,7 +2435,7 @@
    "regulation": "2024/1439; 2025/1164",
    "summary": "EU to increase mepiquat MRL in honey from early 2027",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.520965+00:00",
+   "fetched_at": "2026-11-19T15:12:00.115918+00:00",
    "impacted_products": "Honey and other apiculture products",
    "what_changing": "The EU will increase the maximum residue level (MRL) for mepiquat in honey from 0.05 (the limit of determination, LOD) to 1.5 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRL by the producer of mepiquat, the European Food Safety Authority evaluated the requested change and concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2026 ).",
@@ -2232,7 +2444,7 @@
    "background": "In June 2025 the EU raised the MRL for mepiquat on grapes from 0.02 mg/kg (LOD) to 5 mg/kg (Regulation 2025/1164 ), in line with the Codex Alimentarius MRL (CXL), as it was not considered to be a concern for human safety.\n\nMRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32025R1164&qid=1759228094951",
-   "detail_fetched_at": "2026-11-18T15:01:58.179434+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:05.967562+00:00",
    "title_fr": "Limite maximale de résidus pour le mépiquat",
    "summary_fr": "L'UE va augmenter la LMR du mépiquat dans le miel à partir de début 2027",
    "impacted_products_fr": "MIEL ET AUTRES PRODUITS DE L' APICULTURE",
@@ -2313,7 +2525,7 @@
    "regulation": "",
    "summary": "Overview of EU policies and regulations under development where opportunities to provide feedback are expected soon",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.523051+00:00",
+   "fetched_at": "2026-11-19T15:12:02.372028+00:00",
    "impacted_products": "",
    "what_changing": "",
    "why": "",
@@ -2322,7 +2534,7 @@
    "background": "The European Commission will be collecting feedback on the new agri-food policies and regulations listed here.\n\nOnce consultations are launched, all stakeholders (competent authorities, trade associations, individual exporters) may provide direct feedback via the EU’s Have your say webpages specific to each proposed law.\n\nParticipating in this process is important, and helps to ensure that the interests of low- and middle-income countries are taken into account when new policies or regulations are developed by the EU.\n\nThese consultations are part of the Commission’s commitment to greater regulatory transparency and are carried out in line with its Better Regulation Guidelines – guidance for preparing new initiatives and proposals, or for managing and evaluating existing legislation.",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014R0492&qid=1718877100298",
-   "detail_fetched_at": "2026-11-18T15:02:47.173281+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:46.429003+00:00",
    "title_fr": "Prochaines modifications de la réglementation de l’UE et possibilités de faire part de ses commentaires : rapport trimestriel",
    "summary_fr": "Aperçu des politiques et réglementations de l’UE en cours d’élaboration pour lesquelles des possibilités de fournir des commentaires sont attendues prochainement",
    "impacted_products_fr": "",
@@ -2506,6 +2718,35 @@
    ]
   },
   {
+   "id": "food-contact-materials-authorised-substances",
+   "title": "Food contact materials: authorised substances",
+   "url": "https://agrinfo.eu/book-of-reports/food-contact-materials-authorised-substances/",
+   "pub_date": "2023-02-16",
+   "revised_date": "Nov. 10, 2026",
+   "regulation": "2023/1442, 2025/2240, 2026/24…",
+   "summary": "EU authorises the use of multiple substances in plastic food contact materials from 18 November 2026",
+   "source": "agrinfo.eu",
+   "fetched_at": "2026-11-19T15:12:00.117153+00:00",
+   "impacted_products": "",
+   "what_changing": "",
+   "why": "The authorisation of substances for the manufacture of plastic FCM under Regulation 2026/2412 follows safety evaluations by the European Food Safety Authority (EFSA 2022a , 2022b , 2023 , 2024 ).",
+   "timeline": "The substances newly authorised in Regulation 2026/2412 can be used from 18 November 2026 .",
+   "actions": "Suppliers of packaged food to the EU market should inform packaging suppliers about upcoming changes in the authorised substances listed in Regulation 10/2011 , Annex I.",
+   "background": "Regulation 10/2011 specifies which substances may be used in plastic FCM, and establishes specific migration limits (SML) that limit their presence in food. For substances with no SML or other restrictions in Annex I, a generic SML of 60 mg/kg applies.\n\nThe Regulation also requires that materials and articles comply with specified quality and safety standards, and that they are labelled appropriately. The Regulation applies to all plastic materials and articles intended to come into contact with food, including packaging, containers, and utensils.",
+   "detail_summary": "",
+   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/2412/oj/eng",
+   "detail_fetched_at": "2026-11-19T15:12:14.822940+00:00",
+   "title_fr": "",
+   "summary_fr": "",
+   "impacted_products_fr": "",
+   "timeline_fr": "",
+   "actions_fr": "",
+   "translated_at": "",
+   "tags": [
+    "Food contact materials"
+   ]
+  },
+  {
    "id": "prohibition-of-products-made-with-forced-labour",
    "title": "Prohibition of products made with forced labour",
    "url": "https://agrinfo.eu/book-of-reports/prohibition-of-products-made-with-forced-labour/",
@@ -2628,20 +2869,20 @@
    "title": "Maximum residue levels for cyflumetofen",
    "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-cyflumetofen/",
    "pub_date": "2022-11-30",
-   "revised_date": "Aug. 14, 2026",
+   "revised_date": "Nov. 5, 2026",
    "regulation": "2023/173; 2024/342; 2025/1164",
-   "summary": "EU discusses increasing cyflumetofen MRL on sweet peppers/bell peppers",
+   "summary": "EU to increase MRL for cyflumetofen on sweet peppers/bell peppers from early 2027",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-09-21T11:54:37.150155+00:00",
+   "fetched_at": "2026-11-19T15:12:01.427573+00:00",
    "impacted_products": "Sweet peppers/bell peppers",
-   "what_changing": "The EU is discussing an increase in the MRL for cyflumetofen on sweet peppers/bell peppers from the limit of determination (LOD) of 0.01 to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+   "what_changing": "The EU will increase the MRL for cyflumetofen on sweet peppers/bell peppers from the limit of determination (LOD) of 0.01 to 2 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRLs by the producer of cyflumetofen, the European Food Safety Authority ( EFSA 2026 ) concluded that the proposed increase is unlikely to pose a risk to consumer health.",
-   "timeline": "The new MRL for peppers is expected to apply from early 2027.",
+   "timeline": "The new MRL for peppers is expected to apply from early 2027 .",
    "actions": "",
    "background": "",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-09-21T11:56:24.805369+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:31.319472+00:00",
    "title_fr": "Concentrations maximales de résidus de cyflumétofène",
    "summary_fr": "L'UE discute de l'augmentation de la LMR de cyflumétofène sur les poivrons doux/poivrons",
    "impacted_products_fr": "Poivrons doux/poivrons",
@@ -2662,7 +2903,7 @@
    "regulation": "2025/581",
    "summary": "EU to increase MRL for cycloxydim in honey from early 2027",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:54.522106+00:00",
+   "fetched_at": "2026-11-19T15:12:01.427867+00:00",
    "impacted_products": "Honey and other apiculture products",
    "what_changing": "The EU will increase the MRL for cycloxydim in honey from 0.05 (the limit of determination, LOD) to 0.6 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
    "why": "Following an application for a change of MRL by the producer of cycloxydim, the European Food Safety Authority concluded that increasing the MRL would not pose a risk for consumers ( EFSA 2026 ).",
@@ -2671,7 +2912,7 @@
    "background": "In April 2025, the EU increased the MRLs for cycloxydim on pome fruits, peas, maize, and sugar beet roots as shown in Table 1, following a positive evaluation of their safety for consumers ( EFSA 2024 ).\n\nMRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .",
    "detail_summary": "",
    "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-   "detail_fetched_at": "2026-11-18T15:02:24.595389+00:00",
+   "detail_fetched_at": "2026-11-19T15:12:33.484212+00:00",
    "title_fr": "Limites maximales de résidus pour le cycloxydime",
    "summary_fr": "L'UE va augmenter la LMR pour le cycloxydime dans le miel à partir du début de 2027",
    "impacted_products_fr": "MIEL ET AUTRES PRODUITS DE L' APICULTURE",
@@ -2751,7 +2992,7 @@
    "description": "September 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.400821+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084214+00:00"
   },
   {
    "id": "eu_trade_policy_april-july-2025_pdf",
@@ -2761,7 +3002,7 @@
    "description": "September 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402081+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086014+00:00"
   },
   {
    "id": "deforestation_products_africa_2024-c_uxpx9og_pdf",
@@ -2771,7 +3012,7 @@
    "description": "September 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403444+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087930+00:00"
   },
   {
    "id": "eu_trade_policy_jul-sep_pdf",
@@ -2781,7 +3022,7 @@
    "description": "October 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.400700+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084044+00:00"
   },
   {
    "id": "exporting_honey_to_eu_v2_pdf",
@@ -2791,7 +3032,7 @@
    "description": "October 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.400560+00:00"
+   "fetched_at": "2026-11-19T15:12:03.083862+00:00"
   },
   {
    "id": "exporting_honey_to_eu_2024_pdf",
@@ -2801,7 +3042,7 @@
    "description": "October 2024",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403333+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087769+00:00"
   },
   {
    "id": "bpa-substances_of_concern_in_food_packaging_pdf",
@@ -2811,7 +3052,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401411+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085051+00:00"
   },
   {
    "id": "new_eu_rules_ppwr_and_bpa_ghana_pdf",
@@ -2821,7 +3062,7 @@
    "description": "May 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401525+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085211+00:00"
   },
   {
    "id": "use_of_antimicrobials_in_farmed_animals_in_the_food_supply_chain_en_pdf",
@@ -2831,7 +3072,7 @@
    "description": "May 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401639+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085369+00:00"
   },
   {
    "id": "guidance_temporary-increase-official-controls_2025_1_pdf",
@@ -2841,7 +3082,7 @@
    "description": "May 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402530+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086644+00:00"
   },
   {
    "id": "pfas-substances-of-concern-in-food-packaging_pdf",
@@ -2851,7 +3092,7 @@
    "description": "June 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401298+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084888+00:00"
   },
   {
    "id": "exporting-aquaculture-products-to-the-eu_pdf",
@@ -2861,7 +3102,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402309+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086330+00:00"
   },
   {
    "id": "agrinfo_-_mineral_oil_hydrocarbons_in_food_2024-cc-2_pdf",
@@ -2871,7 +3112,7 @@
    "description": "June 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402420+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086490+00:00"
   },
   {
    "id": "eu_trade_policy_apr-jun-2026_pdf",
@@ -2881,7 +3122,7 @@
    "description": "July 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.400941+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084380+00:00"
   },
   {
    "id": "exporting_fishery_products_to_the_european_union_pdf",
@@ -2891,7 +3132,7 @@
    "description": "July 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401059+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084538+00:00"
   },
   {
    "id": "traditional-foods-implications-authorisation-process_pdf",
@@ -2901,7 +3142,7 @@
    "description": "July 2026",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401175+00:00"
+   "fetched_at": "2026-11-19T15:12:03.084702+00:00"
   },
   {
    "id": "the-eu-deforestation-regulation_pdf",
@@ -2911,7 +3152,7 @@
    "description": "July 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402190+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086172+00:00"
   },
   {
    "id": "guidance_for_organic_operators_and_groups_pdf",
@@ -2921,7 +3162,7 @@
    "description": "January 2026",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401860+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085682+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec-2025_pdf",
@@ -2931,7 +3172,7 @@
    "description": "January 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401970+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085853+00:00"
   },
   {
    "id": "implications-of-organic-regulation-in-dominican-republic_2024_pdf",
@@ -2941,7 +3182,7 @@
    "description": "January 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403098+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087443+00:00"
   },
   {
    "id": "eu_trade_policy_sep-dec_2024_pdf",
@@ -2951,7 +3192,7 @@
    "description": "January 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403208+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087602+00:00"
   },
   {
    "id": "exporting_fresh_capsicum_to_eu_2025_pdf",
@@ -2961,7 +3202,7 @@
    "description": "February 2025",
    "category": "Guides on new regulations",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402987+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087285+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar-2026_pdf",
@@ -2971,7 +3212,7 @@
    "description": "April 2026",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.401750+00:00"
+   "fetched_at": "2026-11-19T15:12:03.085525+00:00"
   },
   {
    "id": "temporary_increases_in_eu_official_controls-q-point-2025_pdf",
@@ -2981,7 +3222,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402641+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086813+00:00"
   },
   {
    "id": "impacts-reg-2019-1793-quantitative-ptalks-2025_pdf",
@@ -2991,7 +3232,7 @@
    "description": "April 2025",
    "category": "Regulatory impacts",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402754+00:00"
+   "fetched_at": "2026-11-19T15:12:03.086971+00:00"
   },
   {
    "id": "eu_trade_policy_jan-mar_2025_pdf",
@@ -3001,7 +3242,7 @@
    "description": "April 2025",
    "category": "Trade digests",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.402863+00:00"
+   "fetched_at": "2026-11-19T15:12:03.087127+00:00"
   },
   {
    "id": "impacts_regulatory_change_africa_2024_pdf",
@@ -3011,7 +3252,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403551+00:00"
+   "fetched_at": "2026-11-19T15:12:03.088089+00:00"
   },
   {
    "id": "impacts_regulatory_change_latin_america_caribbean_2024_pdf",
@@ -3021,7 +3262,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403661+00:00"
+   "fetched_at": "2026-11-19T15:12:03.088245+00:00"
   },
   {
    "id": "impacts_regulatory_change_europe_middle_east_2024_pdf",
@@ -3031,7 +3272,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403777+00:00"
+   "fetched_at": "2026-11-19T15:12:03.088401+00:00"
   },
   {
    "id": "impacts_regulatory_change_asia_2024_pdf",
@@ -3041,7 +3282,7 @@
    "description": "April 2024",
    "category": "Regional vulnerability assessments",
    "source": "agrinfo.eu",
-   "fetched_at": "2026-11-18T15:01:57.403889+00:00"
+   "fetched_at": "2026-11-19T15:12:03.088562+00:00"
   }
  ],
  "tags": [
@@ -3063,6 +3304,7 @@
   "Contaminants",
   "Deforestation",
   "Due diligence",
+  "Exempted plants",
   "Feed additives",
   "Feed safety",
   "Fish",
@@ -3087,6 +3329,7 @@
   "Pesticide MRLs",
   "Pesticides",
   "Plant health",
+  "Plant health certification",
   "Plant health controls",
   "Plastics",
   "Priority pests",
@@ -3119,15 +3362,6 @@
    "open": false,
    "impacted_products": "",
    "timeline": "The voluntary sustainability reporting standards enter into force on 24 September 2026 and will apply from the financial year beginning on or after 1 January 2027."
-  },
-  {
-   "id": "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
-   "title": "Voluntary use by non-EU countries of the Electronic system for Agricultural Non-customs formalities (ELAN)",
-   "url": "https://agrinfo.eu/book-of-reports/voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan/",
-   "deadline": "2026-08-20",
-   "open": false,
-   "impacted_products": "",
-   "timeline": "The Regulation is expected to be published in September 2026."
   },
   {
    "id": "packaging-and-packaging-waste-consultation-eu-national-registers-of-producers",
@@ -3465,6 +3699,15 @@
    "impacted_products": "Molasses"
   },
   {
+   "id": "eu-vision-2040-for-fisheries-and-aquaculture",
+   "title": "EU Vision 2040 for fisheries and aquaculture",
+   "url": "https://agrinfo.eu/book-of-reports/eu-vision-2040-for-fisheries-and-aquaculture/",
+   "timeline_date": "2026-10-20",
+   "timeline": "The European Commission published its Vision 2040 on 20 October 2026.",
+   "regulation": "",
+   "impacted_products": "Fisheries and aquaculture"
+  },
+  {
    "id": "public-health-lists-of-countries-that-can-export-animal-products-to-the-eu-mid-2026-update",
    "title": "Public health lists of countries that can export animal products to the EU – …",
    "url": "https://agrinfo.eu/book-of-reports/public-health-lists-of-countries-that-can-export-animal-products-to-the-eu-mid-2026-update/",
@@ -3472,6 +3715,15 @@
    "timeline": "The Regulation applies from 4 November 2026 .",
    "regulation": "2026/2228",
    "impacted_products": "Aquaculture, crustaceans, finfish, fish, roes, caviar, eggs"
+  },
+  {
+   "id": "voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan",
+   "title": "Voluntary use by non-EU countries of the Electronic system for Agricultural Non-customs formalities (ELAN)",
+   "url": "https://agrinfo.eu/book-of-reports/voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan/",
+   "timeline_date": "2026-11-05",
+   "timeline": "The Regulation enters into force on 5 November 2026 .",
+   "regulation": "2026/2389",
+   "impacted_products": ""
   },
   {
    "id": "maximum-residue-levels-for-acequinocyl",
@@ -3546,6 +3798,42 @@
    "impacted_products": ""
   },
   {
+   "id": "eu-rules-on-recycled-plastic-used-in-food-packaging-updates-and-clarifications",
+   "title": "EU rules on recycled plastic used in food packaging: updates and clarifications",
+   "url": "https://agrinfo.eu/book-of-reports/eu-rules-on-recycled-plastic-used-in-food-packaging-updates-and-clarifications/",
+   "timeline_date": "2026-11-18",
+   "timeline": "The new rules apply from 18 November 2026 .\n\nFor traceability of recycled plastic, the following dates apply:\n\nproducts already compliant with Regulation 2022/1616 and accompanied by Declaration A or B may continue to be placed on the EU market until 18 February 2027 products that will require the n",
+   "regulation": "2026/2376",
+   "impacted_products": "Materials intended to come into contact with food"
+  },
+  {
+   "id": "food-contact-materials-authorised-substances",
+   "title": "Food contact materials: authorised substances",
+   "url": "https://agrinfo.eu/book-of-reports/food-contact-materials-authorised-substances/",
+   "timeline_date": "2026-11-18",
+   "timeline": "The substances newly authorised in Regulation 2026/2412 can be used from 18 November 2026 .",
+   "regulation": "2023/1442, 2025/2240, 2026/24…",
+   "impacted_products": ""
+  },
+  {
+   "id": "bivalve-molluscs-hygiene-requirements",
+   "title": "Bivalve molluscs: hygiene requirements",
+   "url": "https://agrinfo.eu/book-of-reports/bivalve-molluscs-hygiene-requirements/",
+   "timeline_date": "2026-11-19",
+   "timeline": "The amended hygiene requirements and registration document apply from 19 November 2026 .\n\nThe requirement to issue registration documents through TRACES applies from 19 November 2028 .",
+   "regulation": "2026/1829",
+   "impacted_products": "Live bivalve molluscs"
+  },
+  {
+   "id": "eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products",
+   "title": "EU procedure on temporary derogations to import plants and plant products",
+   "url": "https://agrinfo.eu/book-of-reports/eu-procedure-on-temporary-derogations-to-import-plants-and-plant-products/",
+   "timeline_date": "2026-11-30",
+   "timeline": "The Regulation applies from 30 November 2026 .",
+   "regulation": "2026/1830",
+   "impacted_products": "Plants and plant products"
+  },
+  {
    "id": "eu-deforestation-regulation-eudr-clarifications-may-2026",
    "title": "EU Deforestation Regulation (EUDR): Clarifications May 2026",
    "url": "https://agrinfo.eu/book-of-reports/eu-deforestation-regulation-eudr-clarifications-may-2026/",
@@ -3616,6 +3904,24 @@
    "timeline": "The withdrawal of approval for triclopyr is likely to be in the first quarter of 2027. EU Member States will have to withdraw authorisation of products containing triclopyr within the following 6 months.\n\nEU producers will be allowed to use existing stocks of products containing triclopyr until the ",
    "regulation": "",
    "impacted_products": "Oranges, lemons, mandarins, apples, pears, apricots and peaches, kiwi fruits, rice, and products of animal origin."
+  },
+  {
+   "id": "list-of-union-quarantine-pests-and-plant-health-import-requirements",
+   "title": "List of Union quarantine pests and plant health import requirements",
+   "url": "https://agrinfo.eu/book-of-reports/list-of-union-quarantine-pests-and-plant-health-import-requirements/",
+   "timeline_date": "2027-01-01",
+   "timeline": "The proposed Regulation is expected to be published in the first quarter of 2027.\n\nThe new package labelling requirements relating to FCM will apply 3 months after publication.\n\nThe revised list of quarantine pests will apply 6 months after publication.",
+   "regulation": "",
+   "impacted_products": "Peppers (Capsicum spp.), peaches, nectarines, pomegranates, citrus fruits (excluding lemons and limes), sweet oranges, grapevines, cut roses"
+  },
+  {
+   "id": "customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements",
+   "title": "Customs codes for plant products that must meet EU phytosanitary requirements",
+   "url": "https://agrinfo.eu/book-of-reports/customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements/",
+   "timeline_date": "2027-01-01",
+   "timeline": "The Regulation is expected to be published in the first quarter of 2027, and will enter into force 20 days after the date of publication.",
+   "regulation": "",
+   "impacted_products": "Tomatoes, bananas, peaches, nectarines, Brussels sprouts, Solanum spp., melon pears, tree tomatoes"
   },
   {
    "id": "bio-based-plastic-packaging",
@@ -3717,5 +4023,5 @@
    "impacted_products": "NGT plants and products"
   }
  ],
- "exported_at": "2026-11-18T15:04:30.591281+00:00"
+ "exported_at": "2026-11-19T15:13:07.386213+00:00"
 }

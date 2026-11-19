@@ -3,33 +3,30 @@
   "title": "Voluntary use by non-EU countries of the Electronic system for Agricultural Non-customs formalities (ELAN)",
   "url": "https://agrinfo.eu/book-of-reports/voluntary-use-by-non-eu-countries-of-the-electronic-system-for-agricultural-non-customs-formalities-elan/",
   "pub_date": "2026-08-03",
-  "revised_date": "",
-  "regulation": "",
-  "summary": "Documents submitted to ELAN on a voluntary basis to have legal value during the transitional period",
+  "revised_date": "Nov. 13, 2026",
+  "regulation": "2026/2389",
+  "summary": "Documents submitted to ELAN on a voluntary basis will have legal value during the transitional period",
   "tags": [
     "Tariffs & quotas",
     "Trade"
   ],
-  "fetched_at": "2026-09-20T10:34:03.442776+00:00",
-  "update": "The European Commission’s new Electronic system for Agricultural Non-customs formalities (ELAN) was established in 2025. ELAN will allow authorities in European Union (EU) and non-EU countries to process and store documents relating to agri-food trade. These include documents issued by non-EU authorities to secure tariff rate quota licences. Use of ELAN for issuing these documents will be mandatory from 17 January 2028 .\n\nSince July 2025, non-EU authorities have been able to test the ELAN system, but the documents it produced during this transition period have had no legal value for the purpose of clearing goods through customs. This proposed Regulation will now allow authorities to issue documents with legal value in ELAN.\n\nThe Regulation also revises the template to be used by non-EU authorities when issuing documents.\n\nStakeholders have an opportunity to comment on the draft Regulation via the EU’s Have your say consultation until 20 August 2026 .",
+  "fetched_at": "2026-11-19T15:12:00.116527+00:00",
+  "update": "Non-EU countries will have to issue the following using the Electronic system for Agricultural Non-customs formalities (ELAN), starting 17 January 2028 :\n\ndocuments that support imports into the EU under tariff rate quotas referred to in Regulations 2020/761 (Annexes II–XII) and 2020/1988 (Annex II) documents required to export sheepmeat and goatmeat under tariff quotas in Regulation 2020/1988 (Art. 31) authenticity certificates related to the export of basmati rice referred to in Regulation 2023/2834 .\n\nAuthorities in non-EU countries have been able to issue documents through ELAN on a voluntary basis since July 2025. However, these documents have not had any legal value. This new Regulation will give these documents legal value for customs clearance during the transition period up to 17 January 2028.\n\nThis Regulation also slightly revises the ELAN1L-TCDOC template that sets out the information required to prove the origin, or the conformity to certain standards, of the product to be exported to the EU.",
   "impacted_products": "",
   "what_changing": "",
   "why": "As a number of non-EU countries have been successfully using ELAN on a voluntary basis, giving legal value to the documents generated will improve the efficiency of completing customs procedures.\n\nThe EU is moving towards an electronic information exchange system linking all customs authorities and other relevant bodies within and outside the EU. The new ELAN system will be connected with the EU Single Window Environment for Customs. See ELAN: Electronic system for Agricultural Non-customs formalities .",
-  "timeline": "The Regulation is expected to be published in September 2026.",
-  "actions": "The consultation via the European Commission’s Have your say platform closed on 20 August 2026.",
-  "background": "For further information see ELAN: Electronic system for Agricultural Non-customs formalities and the European Commission’s ELAN webpage .",
-  "resources": "European Commission (2025) Notice on the instructions on completing the ELAN1L-AGRIM and ELAN1L-AGREX data models . Regulation (EU) 1308/2013 establishing a common organisation of the markets in agricultural products Regulation (EU) 2025/1271 amending Implementing Regulations (EU) 2016/1239, (EU) 2020/761, (EU) 2020/1988 and (EU) 2023/2834 as a consequence of the establishment of the ELAN, and amending Implementing Regulation (EU) 2020/1988 as regards two new tariff quota numbers for imports of rice from Bangladesh Regulation (EU) 2025/1272 with regard to the electronic system for agricultural non-customs formalities (ELAN) Regulation (EU) 2016/1239 with regard to the system of import and export licences Regulation (EU) 2020/761 as regards the management system of tariff quotas with licences Regulation (EU) 2020/1988 as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle",
+  "timeline": "The Regulation enters into force on 5 November 2026 .",
+  "actions": "Exporting countries should familiarise their competent authorities with the ELAN1L-TCDOC template, and upgrade or adapt their national electronic systems to ensure compatibility with ELAN for collecting relevant data and issuing certificates of origin ahead of the 17 January 2028 deadline. For further information on how to complete the template, see The ELAN data model .",
+  "background": "For further information see AGRINFO’s October 2026 webinar: Introducing the EU’s new Electronic system for Agricultural Non-customs formalities (ELAN) (videos and presentation).",
+  "resources": "Online resources from the European Commission: Notice on the instructions on completing the ELAN1L-AGRIM and ELAN1L-AGREX data models ELAN Commission Implementing Regulation (EU) 2025/1272 […] with regard to the electronic system for agricultural non-customs formalities (ELAN) Commission Implementing Regulation (EU) 2025/1271 [...] as a consequence of the establishment of the ELAN, and [...] as regards two new tariff quota numbers for imports of rice from Bangladesh Commission Implementing Regulation (EU) 2020/1988 as regards the administration of import tariff quotas in accordance with the ‘first come, first served’ principle Commission Implementing Regulation (EU) 2020/761 […] as regards the management system of tariff quotas with licences Commission Implementing Regulation (EU) 2016/1239 […] with regard to the system of import and export licences Regulation (EU) 1308/2013 establishing a common organisation of the markets in agricultural products",
   "detail_summary": "",
   "eurlex_urls": [
     "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
     "https://eur-lex.europa.eu/eli/reg_impl/2020/1988/oj/eng",
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2834&qid=1754641386043",
     "https://eur-lex.europa.eu/eli/C/2025/2819/oj",
-    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013R1308&qid=1739781384474"
+    "https://eur-lex.europa.eu/eli/reg_impl/2025/1272/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
-  "detail_fetched_at": "2026-09-20T10:35:45.187900+00:00",
-  "title_fr": "Utilisation volontaire par les pays tiers du système électronique pour les formalités agricoles non douanières (ELAN)",
-  "summary_fr": "Documents soumis à ELAN sur une base volontaire pour avoir une valeur juridique pendant la période de transition",
-  "translated_at": "2026-09-20T10:35:48.033035+00:00"
+  "detail_fetched_at": "2026-11-19T15:12:10.403522+00:00"
 }

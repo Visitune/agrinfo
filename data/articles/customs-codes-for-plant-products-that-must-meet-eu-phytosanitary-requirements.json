@@ -1,0 +1,30 @@
+{
+  "id": "customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements",
+  "title": "Customs codes for plant products that must meet EU phytosanitary requirements",
+  "url": "https://agrinfo.eu/book-of-reports/customs-codes-for-plant-products-that-must-meet-eu-phytosanitary-requirements/",
+  "pub_date": "2026-11-09",
+  "revised_date": "",
+  "regulation": "",
+  "summary": "EU proposes updated CN codes for certain plant products that have additional EU phytosanitary requirements including some …",
+  "tags": [
+    "Plant health",
+    "Plant health certification"
+  ],
+  "fetched_at": "2026-11-19T15:12:01.426784+00:00",
+  "update": "Regulation 2019/2072 (Annexes VI to XIV) lists the plants and plant products whose introduction or movement within the European Union (EU) is prohibited or subject to special phytosanitary requirements. These are identified by specific customs codes – Combined Nomenclature (CN) codes.\n\nThe European Commission proposes to clarify that the special requirements in place to prevent the entry into the EU of the fruit fly Bactrocera latifrons apply to all Solanum fruits, including those exported under CN code 0810 90 75, such as melon pear ( S. muricatum ) and tree tomato ( S. betaceum ) .\n\nProposed updates to the CN codes also reflect recent changes in the customs classification of some products (including tomatoes, bananas, peaches and nectarines, and Brussels sprouts). The clarifications do not change the phytosanitary requirements for these products.\n\nCountries that are members of the World Trade Organization can comment on this proposal until 27 December 2026 .",
+  "impacted_products": "Tomatoes, bananas, peaches, nectarines, Brussels sprouts, Solanum spp., melon pears, tree tomatoes",
+  "what_changing": "Regulation 2019/2072 (Annexes VI to XIV) lists the plants and plant products whose introduction or movement within the European Union is prohibited (EU) or subject to special phytosanitary requirements. These are identified by specific customs codes – Combined Nomenclature (CN) codes – according to Regulation 2658/87.\n\nThe European Commission proposes to clarify that the special requirements in place to prevent the entry into the EU of the fruit fly Bactrocera latifrons apply to all Solanum fruits, including those exported under CN code 0810 90 75, such as melon pear ( S. muricatum ) and tree tomato ( S. betaceum ) .\n\nProposed updates to the CN codes also reflect recent changes in the customs classification of some products (including tomatoes, bananas, peaches and nectarines, and Brussels sprouts). The clarifications do not change the phytosanitary requirements for these products.\n\nTable 1 summarises the CN code changes relevant to agri-food products.",
+  "why": "The EU aims to align the CN codes used in its plant health legislation with the latest updates to its customs nomenclature, to provide consistency across all EU laws. Clarifications regarding Solanum fruits aim to ensure that all such fruits meet the necessary phytosanitary import requirements.",
+  "timeline": "The Regulation is expected to be published in the first quarter of 2027, and will enter into force 20 days after the date of publication.",
+  "actions": "Exporters of Solanum fruits under CN code 0810 90 75 should first check whether their country of origin is listed in Regulation 2019/2072 (Annex VII, 72.1, column 3). If it is, they must select which of the options in column 4 they will use to demonstrate that the consignment is free from B. latifrons . The option used must be stated as an additional declaration on the phytosanitary certificate.\n\nCompetent authorities of countries that are members of the World Trade Organization can submit comments on the EU’s proposal by emailing the EU SPS Enquiry Point until 27 December 2026 ( G/SPS/N/EU/986 ).",
+  "background": "In order to enter the EU, all living plant material (including entire plants, parts of plants, fruits, cut flowers, seeds, etc.) must be accompanied by a phytosanitary certificate issued by the exporting country’s competent authority. Only five fruits are exempt: pineapples, coconuts, durians, bananas, and dates (Regulation 2019/2072 , Annex XI, Part C).",
+  "resources": "Commission Implementing Regulation (EU) 2019/2072 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031, as regards protective measures against pests of plants",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
+    "https://eur-lex.europa.eu/eli/reg_impl/2019/2072/oj/eng",
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
+  "detail_fetched_at": "2026-11-19T15:12:25.202874+00:00"
+}
