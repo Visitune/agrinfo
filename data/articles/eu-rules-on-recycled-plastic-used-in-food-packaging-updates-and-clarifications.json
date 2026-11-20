@@ -11,7 +11,7 @@
     "Food contact materials",
     "Packaging"
   ],
-  "fetched_at": "2026-11-19T15:12:00.116856+00:00",
+  "fetched_at": "2026-11-20T14:50:37.425118+00:00",
   "update": "The European Commission has updated its rules on recycled plastic food materials and articles, including packaging, placed on the European Union (EU) market. (For example, “food materials” includes plastic wrap, and “food articles” includes plastic kitchenware.)\n\nThese changes cover recycling processes, marketing and use of plastic, and also apply to non-EU exporters of prepacked food products using recycled plastics sold in the EU. In particular, the new Regulation:\n\nReduces the administrative burden for food operators – operators who use recycled plastic to pack food but do not change the plastic composition are not required to provide a declaration of compliance to retailers or distributors. They can give relevant information on the recycled plastic content through labelling or documentation. Improves traceability by clarifying the information that must be provided by each operator in the supply chain. The Regulation introduces two new compliance documents (in addition to existing Declarations A for plastic recyclers and B for plastic converters): Declaration C, an additional declaration issued by converters and other operators using recycled plastic when they do not change the plastic composition and have either received, or had to issue, Declaration A or B. Declaration P for operators producing plastic inputs for recycled plastic. Simplifies information requirements by removing the need to include batch numbers down the supply chain where the composition of the plastic has not been changed. Initiates the creation of an electronic registration system that will allow recycled plastic operators and competent authorities to manage the status of decontamination installations. Clarifies the rules on the use of plastic offcuts and scrap . Introduces new technical specifications for pre-processed plastic input to improve the quality and consistency of recycled plastic.",
   "impacted_products": "Materials intended to come into contact with food",
   "what_changing": "The EU rules on food contact materials containing plastic originating from waste (Regulation 2022/1616 ) cover recycling technologies and processes, manufacturing, marketing, and use of plastic. These rules also apply to non-EU exporters of prepacked food products using recycled plastics that are sold in the EU. For more information, see Plastic food contact materials: basic rules .\n\nRegulation 2026/2376 introduces some changes to these rules, as follows. (Article numbers given below relate to Regulation 2022/1616 , which is amended by the new Regulation.)",
@@ -27,5 +27,9 @@
     "https://eur-lex.europa.eu/eli/reg/2011/10/oj"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg/2026/2376/oj/eng",
-  "detail_fetched_at": "2026-11-19T15:12:12.397326+00:00"
+  "detail_fetched_at": "2026-11-20T14:51:01.790121+00:00",
+  "title_fr": "Règles de l'UE relatives aux plastiques recyclés utilisés dans les emballages alimentaires : mises à jour et clarifications",
+  "summary_fr": "L’UE met à jour les règles relatives à la production de plastique recyclé et à la traçabilité des emballages alimentaires à compter du 18 novembre 2026",
+  "impacted_products_fr": "\"Denrées alimentaires/Emballages\"",
+  "translated_at": "2026-11-20T14:51:06.184174+00:00"
 }
