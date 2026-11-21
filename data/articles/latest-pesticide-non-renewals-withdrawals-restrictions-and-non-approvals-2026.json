@@ -11,7 +11,7 @@
     "Pesticide MRLs",
     "Pesticides"
   ],
-  "fetched_at": "2026-11-20T14:50:38.248380+00:00",
+  "fetched_at": "2026-11-21T14:09:37.762125+00:00",
   "update": "This report summarises recent European Union (EU) decisions not to renew, or to withdraw, existing approvals for certain pesticide active substances.\n\nWhile these decisions primarily affect EU producers, they are generally followed by legislation to reduce the maximum residue levels (MRLs) to 0.01 mg/kg or the limit of determination (LOD – the lowest level that can be detected using the most modern and reliable analytical methods). These decisions therefore provide an early indication of upcoming MRL changes, and the likely need to look for alternative solutions on crops for export to the EU.\n\nThis report also includes EU non-approval decisions. These are relevant to producers in exporting countries where these substances may be used locally. In such cases, a default MRL of 0.01 mg/kg will be maintained.",
   "impacted_products": "",
   "what_changing": "The EU systematically reviews the status of all pesticide active substances that are approved for use within the European Union. Recent non-renewals and withdrawals of approval are summarised in Table 1. To check the expiry or review dates of other pesticide active substances, see the EU Pesticides Database .\n\nIn addition to the non-renewals in Table 1, the EU has recently decided not to approve Capsicum oleoresin as a basic substance.",
@@ -29,8 +29,8 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2025/2027/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601209",
-  "detail_fetched_at": "2026-11-20T14:52:13.371034+00:00",
+  "detail_fetched_at": "2026-11-21T14:10:52.672599+00:00",
   "title_fr": "Derniers non-renouvellements, retraits, restrictions et non-approbations de pesticides (2026)",
   "summary_fr": "Non-renouvellements, retraits, restrictions et non-approbations de pesticides destinés à être utilisés dans l’Union européenne : décisions en 2026",
-  "translated_at": "2026-11-20T14:52:16.938382+00:00"
+  "translated_at": "2026-11-21T14:10:56.551915+00:00"
 }

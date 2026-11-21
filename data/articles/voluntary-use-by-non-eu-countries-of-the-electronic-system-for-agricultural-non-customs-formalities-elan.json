@@ -10,7 +10,7 @@
     "Tariffs & quotas",
     "Trade"
   ],
-  "fetched_at": "2026-11-20T14:50:37.423700+00:00",
+  "fetched_at": "2026-11-21T14:09:37.022786+00:00",
   "update": "Non-EU countries will have to issue the following using the Electronic system for Agricultural Non-customs formalities (ELAN), starting 17 January 2028 :\n\ndocuments that support imports into the EU under tariff rate quotas referred to in Regulations 2020/761 (Annexes II–XII) and 2020/1988 (Annex II) documents required to export sheepmeat and goatmeat under tariff quotas in Regulation 2020/1988 (Art. 31) authenticity certificates related to the export of basmati rice referred to in Regulation 2023/2834 .\n\nAuthorities in non-EU countries have been able to issue documents through ELAN on a voluntary basis since July 2025. However, these documents have not had any legal value. This new Regulation will give these documents legal value for customs clearance during the transition period up to 17 January 2028.\n\nThis Regulation also slightly revises the ELAN1L-TCDOC template that sets out the information required to prove the origin, or the conformity to certain standards, of the product to be exported to the EU.",
   "impacted_products": "",
   "what_changing": "",
@@ -28,8 +28,8 @@
     "https://eur-lex.europa.eu/eli/reg_impl/2025/1272/oj/eng"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/eli/reg_impl/2020/761/oj/eng",
-  "detail_fetched_at": "2026-11-20T14:50:47.970873+00:00",
+  "detail_fetched_at": "2026-11-21T14:09:44.627955+00:00",
   "title_fr": "Utilisation volontaire par les pays tiers du système électronique pour les formalités agricoles non douanières (ELAN)",
   "summary_fr": "Les documents soumis à ELAN sur une base volontaire auront une valeur juridique pendant la période de transition",
-  "translated_at": "2026-11-20T14:50:50.998341+00:00"
+  "translated_at": "2026-11-21T14:09:47.616740+00:00"
 }

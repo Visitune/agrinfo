@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-19T15:12:02.374420+00:00",
+  "fetched_at": "2026-11-21T14:09:38.501850+00:00",
   "update": "The European Union (EU) will increase the maximum residue levels (MRLs) for imazalil on bananas and citrus fruits. It will also reduce the MRL on melons to the limit of determination (LOD, the lowest level that can be detected using the most modern and reliable analytical methods), with more minor reductions to the MRLs on courgettes, cucumbers, and gherkins.",
   "impacted_products": "Bananas, grapefruits, oranges, lemons, limes, mandarins, other citrus fruits, courgettes, cucumbers, gherkins, melons",
   "what_changing": "The EU will amend the MRLs for imazalil as summarised in Table 1.",
@@ -24,5 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-19T15:13:05.991786+00:00"
+  "detail_fetched_at": "2026-11-21T14:11:36.994663+00:00",
+  "title_fr": "Limites maximales de résidus pour l'imazalil",
+  "summary_fr": "L'UE va augmenter les LMR pour l'imazalil sur les bananes et les agrumes ; et diminuer les LMR sur les courgettes, les concombres, etc.",
+  "impacted_products_fr": "Bananes, pamplemousses, oranges, citrons, citrons verts, mandarines, autres agrumes, courgettes, concombres, cornichons, melons",
+  "translated_at": "2026-11-21T14:11:41.271464+00:00"
 }
