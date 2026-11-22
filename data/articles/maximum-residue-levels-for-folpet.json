@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-21T14:09:37.760404+00:00",
+  "fetched_at": "2026-11-22T13:59:22.951362+00:00",
   "update": "The European Union (EU) will raise the maximum residue levels (MRLs) for folpet on bananas from 0.03 to 0.9 mg/kg, and in honey from 0.05 to 0.7 mg/kg. This follows a positive evaluation of their safety for consumers by the European Food Safety Authority.",
   "impacted_products": "Bananas, honey",
   "what_changing": "The EU will increase the MRL for folpet on bananas from 0.03 (the limit of determination, LOD) to 0.9 mg/kg, and in honey from 0.05 (LOD) to 0.7 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -24,9 +24,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-21T14:10:24.767622+00:00",
+  "detail_fetched_at": "2026-11-22T13:59:58.865828+00:00",
   "title_fr": "Limites maximales de résidus pour le folpet",
   "summary_fr": "L’UE va augmenter les LMR pour le folpet sur les bananes et dans le miel à partir du début de 2027",
   "impacted_products_fr": "Bananes, miel",
-  "translated_at": "2026-11-21T14:10:28.968771+00:00"
+  "translated_at": "2026-11-22T14:00:02.513873+00:00"
 }

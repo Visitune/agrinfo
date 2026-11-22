@@ -10,7 +10,7 @@
     "Tariffs & quotas",
     "Trade"
   ],
-  "fetched_at": "2026-11-20T14:50:38.246396+00:00",
+  "fetched_at": "2026-11-22T13:59:23.972013+00:00",
   "update": "From January 2028, competent authorities in countries exporting agri-food products to the European Union (EU) must issue the following documents electronically through the new Electronic Agricultural Non-customs formalities system ( ELAN ):\n\ndocuments supporting imports into the EU under tariff rate quotas documents required for exports under sheepmeat and goatmeat tariff quotas authenticity certificates for Basmati rice exports.\n\nThese documents must be issued by the relevant competent authorities in the exporting country using the ELAN1L-TCDOC data model either directly in ELAN, or via their own national electronic systems.\n\nThe European Commission has published instructions to help authorities use this model.",
   "impacted_products": "",
   "what_changing": "The European Commission’s new Electronic Agricultural Non-customs formalities system (ELAN) will support the management and storage of the following non-customs documents required in the trade of agri-food products (Regulation 2025/1272 ):\n\ndocuments supporting imports into the EU under tariff rate quotas (Regulations 2020/761 , Annexes II–XII and 2020/1988 , Annex II) documents required for exports under sheepmeat and goatmeat tariff quotas (Regulation 2020/1988 , Art. 31) authenticity certificates for Basmati rice exports (Regulation 2023/2834 ).\n\nFrom January 2028 , authorities in the non-EU exporting country must either produce these documents directly in ELAN, or transmit them to ELAN from their own national electronic systems. See ELAN: Electronic system for Agricultural Non-customs formalities .\n\nThese documents must be issued by the relevant competent authorities using the ELAN1L-TCDOC data model (Regulation 2020/761 , Annex XIV.8).\n\nTo guide competent authorities, the European Commission has published instructions on how to use the ELAN1L-TCDOC data model. The instructions explain the type and format of information required in each column in the model, and clarify which information is mandatory or optional.",
@@ -28,8 +28,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R2834&qid=1754641386043"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52026XC05558",
-  "detail_fetched_at": "2026-11-20T14:51:33.897269+00:00",
+  "detail_fetched_at": "2026-11-22T14:00:10.748195+00:00",
   "title_fr": "Le modèle de données",
   "summary_fr": "La Commission européenne publie des instructions concernant le modèle de données ELAN1L-TCDOC, qui sera obligatoire à partir du 17 janvier 2028",
-  "translated_at": "2026-11-20T14:51:37.232255+00:00"
+  "translated_at": "2026-11-22T14:00:13.331443+00:00"
 }

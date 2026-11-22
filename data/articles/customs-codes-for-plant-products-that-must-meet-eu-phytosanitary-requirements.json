@@ -10,7 +10,7 @@
     "Plant health",
     "Plant health certification"
   ],
-  "fetched_at": "2026-11-21T14:09:37.760673+00:00",
+  "fetched_at": "2026-11-22T13:59:23.971613+00:00",
   "update": "Regulation 2019/2072 (Annexes VI to XIV) lists the plants and plant products whose introduction or movement within the European Union (EU) is prohibited or subject to special phytosanitary requirements. These are identified by specific customs codes – Combined Nomenclature (CN) codes.\n\nThe European Commission proposes to clarify that the special requirements in place to prevent the entry into the EU of the fruit fly Bactrocera latifrons apply to all Solanum fruits, including those exported under CN code 0810 90 75, such as melon pear ( S. muricatum ) and tree tomato ( S. betaceum ) .\n\nProposed updates to the CN codes also reflect recent changes in the customs classification of some products (including tomatoes, bananas, peaches and nectarines, and Brussels sprouts). The clarifications do not change the phytosanitary requirements for these products.\n\nCountries that are members of the World Trade Organization can comment on this proposal until 27 December 2026 .",
   "impacted_products": "Tomatoes, bananas, peaches, nectarines, Brussels sprouts, Solanum spp., melon pears, tree tomatoes",
   "what_changing": "Regulation 2019/2072 (Annexes VI to XIV) lists the plants and plant products whose introduction or movement within the European Union is prohibited (EU) or subject to special phytosanitary requirements. These are identified by specific customs codes – Combined Nomenclature (CN) codes – according to Regulation 2658/87.\n\nThe European Commission proposes to clarify that the special requirements in place to prevent the entry into the EU of the fruit fly Bactrocera latifrons apply to all Solanum fruits, including those exported under CN code 0810 90 75, such as melon pear ( S. muricatum ) and tree tomato ( S. betaceum ) .\n\nProposed updates to the CN codes also reflect recent changes in the customs classification of some products (including tomatoes, bananas, peaches and nectarines, and Brussels sprouts). The clarifications do not change the phytosanitary requirements for these products.\n\nTable 1 summarises the CN code changes relevant to agri-food products.",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
-  "detail_fetched_at": "2026-11-21T14:10:29.693303+00:00",
+  "detail_fetched_at": "2026-11-22T14:00:06.209919+00:00",
   "title_fr": "Codes douaniers pour les produits végétaux qui doivent satisfaire aux exigences phytosanitaires de l’UE",
-  "summary_fr": "L’UE propose des codes NC mis à jour pour certains produits végétaux soumis à des exigences phytosanitaires supplémentaires de l’UE, notamment certains…",
-  "impacted_products_fr": "Tomates, bananes, pêches, nectarines, choux de Bruxelles, Solanum spp., poires-melons, tomates en arbre",
-  "translated_at": "2026-11-21T14:10:34.023700+00:00"
+  "summary_fr": "L'UE propose des codes NC mis à jour pour certains produits végétaux soumis à des exigences phytosanitaires supplémentaires de l'UE, notamment certains…",
+  "impacted_products_fr": "Tomates, bananes, pêches, nectarines, choux de Bruxelles, Solanum spp., poires-melons, tomates-arbres",
+  "translated_at": "2026-11-22T14:00:10.225932+00:00"
 }
