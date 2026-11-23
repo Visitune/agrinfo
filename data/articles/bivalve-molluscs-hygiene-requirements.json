@@ -10,7 +10,7 @@
     "Food safety",
     "Hygiene"
   ],
-  "fetched_at": "2026-11-22T13:59:22.950913+00:00",
+  "fetched_at": "2026-11-23T17:17:37.827911+00:00",
   "update": "The European Union (EU) has introduced the following changes to the hygiene requirements for live bivalve molluscs (Regulation 853/2004 ).\n\nOnly molluscs that are ready to be sold to consumers must have an identification mark; unpurified molluscs sent for purification should not have this identification mark. The registration document required when exporting live molluscs to the EU has been updated, including the information needed and its official format. From 19 November 2028, businesses must use the EU’s online Trade Control and Expert System (TRACES) to issue registration documents. Exporters of molluscs and competent authorities in non-EU countries must take steps to ensure that issuing the registration document through TRACES is possible by that date, after which paper documents will no longer be accepted. The EU has introduced a clear definition of “re-immersion”, which means keeping live molluscs in clean seawater tanks to maintain their condition.",
   "impacted_products": "Live bivalve molluscs",
   "what_changing": "The EU has introduced the following changes relating to hygiene requirements for live bivalve molluscs, amending Regulation (EC) No 853/2004 .",
@@ -27,9 +27,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R0627-20260719"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02004R0853-20260507",
-  "detail_fetched_at": "2026-11-22T13:59:55.083987+00:00",
-  "title_fr": "Mollusques bivalves : exigences en matière d’hygiène",
+  "detail_fetched_at": "2026-11-23T17:18:20.400638+00:00",
+  "title_fr": "Mollusques bivalves : exigences en matière d'hygiène",
   "summary_fr": "L'UE clarifie les règles d'hygiène applicables aux mollusques bivalves, met à jour son document d'enregistrement et fixe une date obligatoire de…",
   "impacted_products_fr": "Mollusques bivalves vivants",
-  "translated_at": "2026-11-22T13:59:58.399625+00:00"
+  "translated_at": "2026-11-23T17:18:23.421158+00:00"
 }

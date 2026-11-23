@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-chlorfenapyr",
+  "title": "Maximum residue levels for chlorfenapyr",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-chlorfenapyr/",
+  "pub_date": "2025-10-27",
+  "revised_date": "Nov. 13, 2026",
+  "regulation": "",
+  "summary": "EU to reduce MRL for chlorfenapyr on tea to 0.01 mg/kg from July 2027",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-23T17:17:37.148989+00:00",
+  "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for chlorfenapyr on several products. The most significant impacts are on tea, with a reduction from 50 mg/kg to the limit of determination (LOD) of 0.01 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.) There are also minor reductions in current LODs for some other products.",
+  "impacted_products": "",
+  "what_changing": "The EU will reduce the MRLs for chlorfenapyr as summarised in Table 1.",
+  "why": "Chlorfenapyr has never been approved for use within the EU, and the MRLs for imported produce that have been in place since the adoption of Regulation 396/2005 have never been reviewed. Following a series of evaluations and a stakeholder consultation (see EFSA invites submission of data to support review of certain MRLs ), the European Food Safety Authority has concluded that data gaps regarding the MRL for tea do not allow a complete exposure assessment ( EFSA 2023 ).",
+  "timeline": "The new MRLs are expected to apply from July 2027 .",
+  "actions": "Suppliers of tea to the EU market should review their current use of chlorfenapyr and start to look for alternative (chemical or non-chemical) solutions in anticipation of the MRL reduction.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nFor further information on the EU’s process and principles for setting MRLs, see Regulation of pesticide residues in the EU – Questions and Answers .",
+  "resources": "EFSA (2024) Outcome of the stakeholder consultation on the reasoned opinions for azocyclotin, bifenthrin, chlorfenapyr, cyhexatin, diazinon, dicofol, endosulfan, fenarimol, fenpropathrin and profenofos . EFSA Supporting Publication, 21(9): EN-9002.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-23T17:17:47.141059+00:00",
+  "title_fr": "Limites maximales de résidus pour le chlorfénapyr",
+  "summary_fr": "L’UE va réduire la LMR du chlorfénapyr sur le thé à 0,01 mg/kg à partir de juillet 2027",
+  "translated_at": "2026-11-23T17:17:49.586349+00:00"
+}
