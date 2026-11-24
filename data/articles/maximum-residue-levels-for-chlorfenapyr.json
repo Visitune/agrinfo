@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-23T17:17:37.148989+00:00",
+  "fetched_at": "2026-11-24T16:55:26.266582+00:00",
   "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for chlorfenapyr on several products. The most significant impacts are on tea, with a reduction from 50 mg/kg to the limit of determination (LOD) of 0.01 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.) There are also minor reductions in current LODs for some other products.",
   "impacted_products": "",
   "what_changing": "The EU will reduce the MRLs for chlorfenapyr as summarised in Table 1.",
@@ -24,8 +24,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-23T17:17:47.141059+00:00",
+  "detail_fetched_at": "2026-11-24T16:55:34.969137+00:00",
   "title_fr": "Limites maximales de résidus pour le chlorfénapyr",
   "summary_fr": "L’UE va réduire la LMR du chlorfénapyr sur le thé à 0,01 mg/kg à partir de juillet 2027",
-  "translated_at": "2026-11-23T17:17:49.586349+00:00"
+  "translated_at": "2026-11-24T16:55:39.093164+00:00"
 }

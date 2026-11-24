@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-endosulfan",
+  "title": "Maximum residue levels for endosulfan",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-endosulfan/",
+  "pub_date": "2025-10-27",
+  "revised_date": "Nov. 6, 2026",
+  "regulation": "",
+  "summary": "EU will reduce endosulfan MRLs on tea, soyabeans, cotton seeds, and spices from July 2027",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-24T16:55:26.908989+00:00",
+  "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for endosulfan on tea, soyabeans, cotton seeds, and certain spices to the limit of determination (LOD, the lowest level that can be detected using the most modern and reliable analytical methods). LODs on other products will also be reduced.",
+  "impacted_products": "",
+  "what_changing": "The EU will reduce the MRLs for endosulfan as summarised in Table 1.",
+  "why": "The endosulfan MRLs that have been in place since the adoption of Regulation 396/2005 have never been reviewed. Following a series of evaluations and a stakeholder consultation (see EFSA invites submission of data to support review of certain MRLs ), the European Food Safety Authority has concluded that there is insufficient toxicological data for tea, soyabeans, cotton seeds, and spices to allow a complete exposure assessment ( EFSA 2023 ).",
+  "timeline": "The new MRLs are expected to apply from July 2027 .",
+  "actions": "Suppliers to the EU market of tea, soyabeans, cotton seeds, and the spices listed in Table 1 should review their existing use of endosulfan and start to look for alternative (chemical or non-chemical) solutions in anticipation of the MRL reductions.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nFor further information on the EU’s process and principles for setting MRLs, see Regulation of pesticide residues in the EU - Questions and Answers .",
+  "resources": "EFSA (2023) Targeted review of maximum residue levels (MRLs) for endosulfan . EFSA Journal, 21(7): 8114.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-24T16:56:45.779334+00:00",
+  "title_fr": "Limites maximales de résidus pour l’endosulfan",
+  "summary_fr": "L’UE réduira les LMR d’endosulfan sur le thé, le soja, les graines de coton et les épices à partir de juillet 2027",
+  "translated_at": "2026-11-24T16:56:49.265247+00:00"
+}
