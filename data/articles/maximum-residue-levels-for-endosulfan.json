@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-24T16:55:26.908989+00:00",
+  "fetched_at": "2026-11-25T16:44:16.210774+00:00",
   "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for endosulfan on tea, soyabeans, cotton seeds, and certain spices to the limit of determination (LOD, the lowest level that can be detected using the most modern and reliable analytical methods). LODs on other products will also be reduced.",
   "impacted_products": "",
   "what_changing": "The EU will reduce the MRLs for endosulfan as summarised in Table 1.",
@@ -24,8 +24,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-24T16:56:45.779334+00:00",
+  "detail_fetched_at": "2026-11-25T16:45:19.839300+00:00",
   "title_fr": "Limites maximales de résidus pour l’endosulfan",
-  "summary_fr": "L’UE réduira les LMR d’endosulfan sur le thé, le soja, les graines de coton et les épices à partir de juillet 2027",
-  "translated_at": "2026-11-24T16:56:49.265247+00:00"
+  "summary_fr": "L’UE réduira les LMR d’endosulfan sur le thé, les graines de soja, les graines de coton et les épices à partir de juillet 2027",
+  "translated_at": "2026-11-25T16:45:22.924736+00:00"
 }

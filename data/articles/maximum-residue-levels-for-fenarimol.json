@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-fenarimol",
+  "title": "Maximum residue levels for fenarimol",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-fenarimol/",
+  "pub_date": "2025-10-27",
+  "revised_date": "Nov. 6, 2026",
+  "regulation": "",
+  "summary": "EU to reduce MRLs for fenarimol from July 2027, with particular impacts on some fruits and vegetables, …",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-25T16:44:16.211835+00:00",
+  "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for fenarimol to the limit of determination (LOD) of 0.01 mg/kg on apricots, cherries, peaches, grapes, strawberries, raspberries, currants, gooseberries, bananas, cucumbers, gherkins, courgettes, melons, watermelons, and hops . The current LODs on certain other products will also be reduced. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "impacted_products": "",
+  "what_changing": "The EU will reduce the MRLs for fenarimol as summarised in Table 1.",
+  "why": "The MRLs for fenarimol that have been in place since the adoption of Regulation 396/2005 have never been reviewed. Following a series of evaluations and a stakeholder consultation (see EFSA invites submission of data to support review of certain MRLs ), the European Food Safety Authority was not able to conclude a risk assessment due to inadequate toxicological data ( EFSA 2023 ).",
+  "timeline": "The new MRLs are expected to apply from July 2027 .",
+  "actions": "Suppliers to the EU market of apricots, cherries, peaches, grapes, strawberries, raspberries, currants, gooseberries, bananas, cucumbers, gherkins, courgettes, melons, watermelons, and hops should review their existing use of fenarimol and start to look for alternative (chemical or non-chemical) solutions in anticipation of the MRL reductions.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nFor further information on the EU’s process and principles for setting MRLs, see Regulation of pesticide residues in the EU - Questions and Answers .",
+  "resources": "EFSA (2023) Targeted review of maximum residue levels (MRLs) for fenarimol . EFSA Journal, 21(7): 8113.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-25T16:45:33.121602+00:00",
+  "title_fr": "Limites maximales de résidus pour le fénarimol",
+  "summary_fr": "L’UE va réduire les LMR pour le fénarimol à partir de juillet 2027, avec des répercussions particulières sur certains fruits et légumes…",
+  "translated_at": "2026-11-25T16:45:36.182831+00:00"
+}

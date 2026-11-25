@@ -1,0 +1,31 @@
+{
+  "id": "maximum-residue-levels-for-profenofos2",
+  "title": "Maximum residue levels for profenofos",
+  "url": "https://agrinfo.eu/book-of-reports/maximum-residue-levels-for-profenofos2/",
+  "pub_date": "2025-10-28",
+  "revised_date": "Nov. 6, 2026",
+  "regulation": "",
+  "summary": "EU to reduce MRLs for profenofos, with particular impacts on mangoes, tomatoes, cotton seeds, spices, and animal …",
+  "tags": [
+    "Food safety",
+    "Pesticide MRLs"
+  ],
+  "fetched_at": "2026-11-25T16:44:16.210406+00:00",
+  "update": "The EU will reduce the maximum residue levels (MRLs) for profenofos on mangoes, tomatoes, cotton seeds, certain spices (fruit spices, coriander, cumin, fennel, cardamom) , and animal products to the limit of determination (LOD) of 0.01–0.05 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
+  "impacted_products": "",
+  "what_changing": "The EU will reduce the MRLs for profenofos as summarised in Table 1.",
+  "why": "The MRLs for profenofos that have been in place since the adoption of Regulation 396/2005 have never been reviewed. Following a series of evaluations and stakeholder consultations (see EFSA invites submission of data to support review of certain MRLs ), the European Food Safety Authority was not able to conclude a risk assessment and establish toxicological reference values due to inadequate data ( EFSA 2023 ).",
+  "timeline": "The new MRLs are expected to apply from July 2027 .",
+  "actions": "Suppliers to the EU market of mangoes, tomatoes, cotton seeds, coriander, cumin, fennel, fruit spices, cardamom, and animal products should review their existing use of profenofos and start to look for alternative (chemical or non-chemical) solutions in anticipation of the MRL reductions.",
+  "background": "MRLs are set in accordance with the rules set out in Regulation 396/2005 . For information on current MRLs for other substances, please consult the EU Pesticide Residues database .\n\nFor further information on the EU’s process and principles for setting MRLs, see Regulation of pesticide residues in the EU - Questions and Answers .",
+  "resources": "EFSA (2023) Targeted review of maximum residue levels (MRLs) for profenofos . EFSA Journal, 21(12): e8445.",
+  "detail_summary": "",
+  "eurlex_urls": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
+  ],
+  "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
+  "detail_fetched_at": "2026-11-25T16:45:14.870094+00:00",
+  "title_fr": "Limites maximales de résidus pour le profenofos",
+  "summary_fr": "L'UE va réduire les LMR pour le profenofos, ce qui aura des répercussions particulières sur les mangues, les tomates, les graines de coton, les épices et les animaux…",
+  "translated_at": "2026-11-25T16:45:18.059051+00:00"
+}

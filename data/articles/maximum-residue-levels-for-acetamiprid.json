@@ -9,7 +9,7 @@
   "tags": [
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-24T16:55:26.910748+00:00",
+  "fetched_at": "2026-11-25T16:44:17.229581+00:00",
   "update": "The European Union (EU) will increase the maximum residue levels (MRLs) for acetamiprid on plums, soyabeans, parsley, rosemary, basil and edible flowers.",
   "impacted_products": "plums, plums, parsley, rosemary, basil and edible flowers, beans, peas, lentils, lupins/lupini beans, barley, soyabeans",
   "what_changing": "The European Union (EU) will increase the maximum residue level (MRL) for acetamiprid on plums, soyabeans, parsley, rosemary, basil and edible flowers as summarised in Table 1.\n\nThis follows previous MRL changes made in January 2025 (Regulation 2025/158 ), June 2025 (Regulation 2025/1212 ), and April 2026 (Regulation (EU) 2026/876 ). These changes are summarised in Table 2.",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202500158",
-  "detail_fetched_at": "2026-11-24T16:57:17.105100+00:00",
+  "detail_fetched_at": "2026-11-25T16:45:55.238927+00:00",
   "title_fr": "Limites maximales de résidus pour l'acétamipride",
   "summary_fr": "L’UE va augmenter les LMR d’acétamipride pour les prunes, le soja, le persil, le romarin, le basilic et les fleurs comestibles à partir du début de 2027",
-  "impacted_products_fr": "prunes, persil, romarin, basilic et fleurs comestibles, haricots, petits pois, lentilles, lupins/fèves de lupin, orge, graines de soja",
-  "translated_at": "2026-11-24T16:57:23.726869+00:00"
+  "impacted_products_fr": "prunes, prunes, persil, romarin, basilic et fleurs comestibles, haricots, pois, lentilles, lupins/fèves de lupin, orge, graines de soja",
+  "translated_at": "2026-11-25T16:45:59.477900+00:00"
 }
