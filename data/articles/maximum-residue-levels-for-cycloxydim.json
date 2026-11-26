@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-25T16:44:16.212231+00:00",
+  "fetched_at": "2026-11-26T16:19:44.515030+00:00",
   "update": "The European Union (EU) will increase the maximum residue level (MRL) for cycloxydim in honey from 0.05 to 0.6 mg/kg. This follows a positive evaluation of its safety for consumers by the European Food Safety Authority.",
   "impacted_products": "Honey and other apiculture products",
   "what_changing": "The EU will increase the MRL for cycloxydim in honey from 0.05 (the limit of determination, LOD) to 0.6 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -25,9 +25,9 @@
     "https://eur-lex.europa.eu/eli/reg/2025/581/oj"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-25T16:45:36.816044+00:00",
+  "detail_fetched_at": "2026-11-26T16:21:00.965942+00:00",
   "title_fr": "Limites maximales de résidus pour le cycloxydime",
-  "summary_fr": "L'UE va augmenter la LMR pour le cycloxydime dans le miel à partir du début de 2027",
+  "summary_fr": "L'UE va augmenter la LMR pour le cycloxydime dans le miel à partir du début de 2027",
   "impacted_products_fr": "MIEL ET AUTRES PRODUITS DE L' APICULTURE",
-  "translated_at": "2026-11-25T16:45:40.904027+00:00"
+  "translated_at": "2026-11-26T16:21:04.573439+00:00"
 }

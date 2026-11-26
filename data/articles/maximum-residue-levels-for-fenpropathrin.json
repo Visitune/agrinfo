@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-25T16:44:16.211471+00:00",
+  "fetched_at": "2026-11-26T16:19:44.514609+00:00",
   "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for fenpropathrin on citrus fruits, strawberries, melons, and tea to the limit of determination (LOD) of 0.01 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.) Current LODs on other products will also be reduced.",
   "impacted_products": "",
   "what_changing": "The EU will reduce the MRLs for fenpropathrin as summarised in Table 1.",
@@ -24,8 +24,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-25T16:45:28.567238+00:00",
+  "detail_fetched_at": "2026-11-26T16:20:53.787528+00:00",
   "title_fr": "Limites maximales de résidus pour la fenpropathrine",
-  "summary_fr": "L’UE va réduire les LMR de fenpropathrine sur les agrumes, les fraises, les melons et le thé à partir de juillet 2027",
-  "translated_at": "2026-11-25T16:45:31.377208+00:00"
+  "summary_fr": "L’UE va réduire les LMR de la fenpropathrine sur les agrumes, les fraises, les melons et le thé à partir de juillet 2027",
+  "translated_at": "2026-11-26T16:20:56.270739+00:00"
 }
