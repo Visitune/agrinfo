@@ -11,7 +11,7 @@
     "Plant health",
     "Plant health certification"
   ],
-  "fetched_at": "2026-11-26T16:19:43.671615+00:00",
+  "fetched_at": "2026-11-27T16:04:01.451445+00:00",
   "update": "The European Union (EU) has standardised the way temporary derogations (authorised exemptions) from plant health import bans or specific import requirements are requested and assessed. Any request for a temporary derogation will have to follow a clearly defined legal and scientific procedure.\n\nAccording to this new procedure, only the National Plant Protection Organisation (NPPO) of the exporting country can submit a request, and it must be supported by a complete technical dossier prepared according to the methodology used by the European Food Safety Authority (EFSA). Informal or simplified requests will no longer be sufficient.\n\nRequests will be assessed using a structured, science-based process. The European Commission will verify the dossier and, where needed, request a scientific risk assessment. A derogation will only be granted if the phytosanitary risk can be reduced to an acceptable level through appropriate measures.\n\nThis change provides more clarity and predictability, but also makes higher technical demands. It will require more preparatory efforts and resources from non-EU exporting countries seeking temporary access to the EU market.\n\nWhen requesting the renewal of a temporary derogation, the Regulation also clarifies that the NPPO only needs to provide information that has changed since the previous assessment, or that was not previously assessed.",
   "impacted_products": "Plants and plant products",
   "what_changing": "To maintain plant health, the EU can prohibit plants or plant products from entering the EU market, or impose special requirements on those products. Non-EU countries can request a temporary derogation (authorised exemption) from import prohibitions or special requirements (Regulation 2016/2031 , Arts. 40(1), 40(2), 42a(2)).\n\nThe new Regulation sets out a standardised procedure for requesting and assessing temporary derogations.",
@@ -28,9 +28,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R2031"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202601830",
-  "detail_fetched_at": "2026-11-26T16:19:46.303478+00:00",
+  "detail_fetched_at": "2026-11-27T16:04:04.786834+00:00",
   "title_fr": "Procédure de l'UE relative aux dérogations temporaires concernant l'importation de végétaux et de produits végétaux",
   "summary_fr": "La Commission européenne établit une procédure pour demander des dérogations temporaires (exemptions autorisées) aux interdictions d'importation phytosanitaires ou…",
   "impacted_products_fr": "Végétaux et produits végétaux",
-  "translated_at": "2026-11-26T16:19:51.658026+00:00"
+  "translated_at": "2026-11-27T16:04:09.049325+00:00"
 }

@@ -10,7 +10,7 @@
     "Plant health",
     "Plant health certification"
   ],
-  "fetched_at": "2026-11-24T16:55:26.908297+00:00",
+  "fetched_at": "2026-11-27T16:04:01.454266+00:00",
   "update": "The European Commission is proposing changes to the European Union (EU) rules on plant health and on importing plants and plant products. The main changes for agri-food products are as follows.\n\nFive new pests will be added to the EU quarantine pest list. These include tobacco budworm ( Chloridea virescens ) and yellow-striped armyworm ( Spodoptera ornithogalli and Spodoptera praefica ) affecting a wide range of crops, and Fusarium oxysporum f. sp. cubense Tropical Race 4 (TR4) affecting bananas. Products containing these pests will not be allowed to enter the EU. No new specific import requirements are proposed for fresh fruit and vegetables. Three pests will be removed from the quarantine list. These are the citrus spiny whitefly, raspberry leaf curl virus, and strawberry leaf curl virus. There is currently not enough reliable scientific information to enable these pests to be identified and tested. New traceability requirements will apply in relation to false codling moth ( Thaumatotibia leucotreta, FCM). These requirements will apply to some fresh fruits (peppers, peaches, nectarines, pomegranates, certain citrus fruits) and to cut roses originating in Africa. Where these products are exported in packages, in addition to the phytosanitary certificate that is already required, exporters will have to include the codes identifying production places or sites on each package .\n\nCompetent authorities of countries that are members of the World Trade Organization can comment on this proposal until 29 December 2026 .",
   "impacted_products": "Peppers (Capsicum spp.), peaches, nectarines, pomegranates, citrus fruits (excluding lemons and limes), sweet oranges, grapevines, cut roses",
   "what_changing": "The EU has notified the World Trade Organization Sanitary and Phytosanitary Measures (WTO SPS) Committee of a new draft proposal updating the EU list of Union quarantine pests and plant health import requirements ( G/SPS/N/EU/987 ). The proposal includes amendments to Regulation 2019/2072 , which establishes the EU’s phytosanitary requirements for plants and plant products.\n\nThe main proposed changes relevant to agri-food products are as follows:",
@@ -26,9 +26,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02019R2072-20261015&qid=1793712349204",
-  "detail_fetched_at": "2026-11-24T16:56:33.705893+00:00",
+  "detail_fetched_at": "2026-11-27T16:04:40.946834+00:00",
   "title_fr": "Liste des organismes de quarantaine de l’Union et exigences phytosanitaires applicables aux importations",
-  "summary_fr": "Faites part de vos commentaires jusqu'au 29 décembre 2026 sur la liste actualisée des organismes de quarantaine de l'Union européenne et sur les propositions…",
-  "impacted_products_fr": "Poivrons (Capsicum spp.), pêches, nectarines, grenades, agrumes (à l'exclusion des citrons et des citrons verts), oranges douces, vignes, roses coupées",
-  "translated_at": "2026-11-24T16:56:39.589509+00:00"
+  "summary_fr": "Faites part de vos commentaires jusqu'au 29 décembre 2026 concernant la liste actualisée des organismes de quarantaine de l'Union européenne et les propositions…",
+  "impacted_products_fr": "Poivrons (Capsicum spp.), pêches, nectarines, grenades, agrumes (à l’exclusion des citrons et des citrons verts), oranges douces, vignes, roses coupées",
+  "translated_at": "2026-11-27T16:04:45.124233+00:00"
 }
