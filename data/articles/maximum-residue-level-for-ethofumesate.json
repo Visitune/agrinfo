@@ -9,7 +9,7 @@
   "tags": [
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-27T16:04:02.274379+00:00",
+  "fetched_at": "2026-11-28T14:59:05.550502+00:00",
   "update": "The European Union (EU) will raise the maximum residue level (MRL) for ethofumesate on carrots from 0.03 to 0.1 mg/kg. This follows a positive evaluation of safety for consumers by the European Food Safety Authority.",
   "impacted_products": "carrots",
   "what_changing": "The EU will increase the MRL for ethofumesate on carrots from 0.03 (the limit of determination, LOD) to 0.1 mg/kg. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
@@ -23,9 +23,9 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-27T16:05:05.344255+00:00",
+  "detail_fetched_at": "2026-11-28T15:00:01.539679+00:00",
   "title_fr": "Limite maximale de résidus pour l’éthofumesate",
   "summary_fr": "L'UE va augmenter la LMR d'éthofumesate sur les carottes",
   "impacted_products_fr": "carottes",
-  "translated_at": "2026-11-27T16:05:08.730504+00:00"
+  "translated_at": "2026-11-28T15:00:05.108422+00:00"
 }

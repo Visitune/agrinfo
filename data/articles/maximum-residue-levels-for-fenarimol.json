@@ -10,7 +10,7 @@
     "Food safety",
     "Pesticide MRLs"
   ],
-  "fetched_at": "2026-11-27T16:04:02.274767+00:00",
+  "fetched_at": "2026-11-28T14:59:05.551118+00:00",
   "update": "The European Union (EU) will reduce the maximum residue levels (MRLs) for fenarimol to the limit of determination (LOD) of 0.01 mg/kg on apricots, cherries, peaches, grapes, strawberries, raspberries, currants, gooseberries, bananas, cucumbers, gherkins, courgettes, melons, watermelons, and hops . The current LODs on certain other products will also be reduced. (The LOD is the lowest level that can be detected using the most modern and reliable analytical methods.)",
   "impacted_products": "",
   "what_changing": "The EU will reduce the MRLs for fenarimol as summarised in Table 1.",
@@ -24,8 +24,8 @@
     "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516"
   ],
   "eurlex_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A02005R0396-20220516",
-  "detail_fetched_at": "2026-11-27T16:05:13.505780+00:00",
+  "detail_fetched_at": "2026-11-28T15:00:13.806179+00:00",
   "title_fr": "Limites maximales de résidus pour le fénarimol",
-  "summary_fr": "L’UE va réduire les LMR du fénarimol à partir de juillet 2027, avec des répercussions particulières sur certains fruits et légumes…",
-  "translated_at": "2026-11-27T16:05:16.257599+00:00"
+  "summary_fr": "L’UE va réduire les LMR pour le fénarimol à partir de juillet 2027, avec des répercussions particulières sur certains fruits et légumes…",
+  "translated_at": "2026-11-28T15:00:16.509381+00:00"
 }
